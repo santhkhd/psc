@@ -1,0 +1,122 @@
+{
+  "appSettings": {
+    "appName": "My News App",
+    "primaryColor": "blue",
+    "enableAds": true,
+    "adFrequency": 5,
+    "privacyUrl": "https://your-privacy-policy.com"
+  },
+  "ads": {
+    "bannerBottom": {
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "provider": "Google",
+      "text": "Sponsored",
+      "subText": "Ad: 400x60",
+      "actionText": "Learn More"
+    },
+    "native": {
+      "id": "ca-app-pub-3940256099942544/2247696110",
+      "provider": "Google",
+      "title": "Special Offer",
+      "desc": "Check out this amazing deal!",
+      "action": "View Deal"
+    },
+    "interstitial": {
+      "id": "ca-app-pub-3940256099942544/1033173712",
+      "provider": "Google",
+      "frequency": 3,
+      "enabled": true
+    }
+  },
+  "categories": [
+    { "id": "mynews", "title": "My News", "icon": "mynews", "color": "bg-indigo-600" },
+    { "id": "newspapers", "title": "Newspapers", "icon": "newspaper", "color": "bg-blue-500" },
+    { "id": "rss_feeds", "title": "News Feeds", "icon": "rss", "color": "bg-orange-500" },
+    { "id": "youtube", "title": "YouTube Channels", "icon": "youtube", "color": "bg-red-600" },
+    { "id": "favorites", "title": "Favorites", "icon": "star", "color": "bg-yellow-400" }
+  ],
+  "rssCategories": [
+    { "id": "regional", "title": "Regional" },
+    { "id": "national", "title": "National" },
+    { "id": "sports", "title": "Sports" },
+    { "id": "tech", "title": "Technology" },
+    { "id": "entertainment", "title": "Entertainment" },
+    { "id": "business", "title": "Business" }
+  ],
+  "rssFeeds": [
+    { "id": "r1", "categoryId": "regional", "title": "Malayala Manorama", "url": "https://www.manoramaonline.com", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "r2", "categoryId": "regional", "title": "Mathrubhumi", "url": "https://www.mathrubhumi.com", "icon": "newspaper", "color": "text-blue-600" },
+    { "id": "n1", "categoryId": "national", "title": "The Hindu", "url": "https://www.thehindu.com", "icon": "newspaper", "color": "text-black" },
+    { "id": "n2", "categoryId": "national", "title": "Times of India", "url": "https://timesofindia.indiatimes.com", "icon": "newspaper", "color": "text-red-700" },
+    { "id": "s1", "categoryId": "sports", "title": "ESPN Cricinfo", "url": "https://www.espncricinfo.com", "icon": "newspaper", "color": "text-blue-500" },
+    { "id": "t1", "categoryId": "tech", "title": "TechCrunch", "url": "https://techcrunch.com", "icon": "newspaper", "color": "text-green-500" },
+    { "id": "n3", "categoryId": "national", "title": "The Hindu National News", "url": "https://www.thehindu.com/news/national/?service=rss", "icon": "newspaper", "color": "text-gray-800" },
+    { "id": "n4", "categoryId": "national", "title": "Indian Express Political Pulse", "url": "https://indianexpress.com/section/political-pulse/feed/", "icon": "newspaper", "color": "text-black" },
+    { "id": "r3", "categoryId": "regional", "title": "Malayalam Oneindia", "url": "https://malayalam.oneindia.com/rss/feeds/malayalam-news-fb.xml", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n5", "categoryId": "national", "title": "NDTV India News", "url": "https://www.ndtv.com/rss/india.xml", "icon": "newspaper", "color": "text-blue-600" }
+  ],
+  "newspapers": [
+    { "id": "n1", "title": "Dainik Bhaskar", "url": "https://www.bhaskar.com/", "icon": "newspaper", "color": "text-orange-500" },
+    { "id": "n2", "title": "Malayala Manorama", "url": "https://www.manoramaonline.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n3", "title": "The Times of India", "url": "https://timesofindia.indiatimes.com/", "icon": "newspaper", "color": "text-red-700" },
+    { "id": "n4", "title": "Amar Ujala", "url": "https://www.amarujala.com/", "icon": "newspaper", "color": "text-black" },
+    { "id": "n5", "title": "Hindustan", "url": "https://www.livehindustan.com/", "icon": "newspaper", "color": "text-green-600" },
+    { "id": "n6", "title": "Rajasthan Patrika", "url": "https://www.patrika.com/", "icon": "newspaper", "color": "text-blue-600" },
+    { "id": "n7", "title": "Eenadu", "url": "https://www.eenadu.net/", "icon": "newspaper", "color": "text-red-500" },
+    { "id": "n8", "title": "Dainik Jagran", "url": "https://www.jagran.com/", "icon": "newspaper", "color": "text-blue-800" },
+    { "id": "n9", "title": "Dina Thanthi", "url": "https://www.dailythanthi.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n10", "title": "Mathrubhumi", "url": "https://www.mathrubhumi.com/", "icon": "newspaper", "color": "text-blue-600" },
+    { "id": "n11", "title": "Daily Sakal", "url": "https://www.esakal.com/", "icon": "newspaper", "color": "text-red-700" },
+    { "id": "n12", "title": "Sakshi", "url": "https://www.sakshi.com/", "icon": "newspaper", "color": "text-red-500" },
+    { "id": "n13", "title": "Ananda Bazar Patrika", "url": "https://www.anandabazar.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n14", "title": "The Hindu", "url": "https://www.thehindu.com/", "icon": "newspaper", "color": "text-gray-800" },
+    { "id": "n15", "title": "Hindustan Times", "url": "https://www.hindustantimes.com/", "icon": "newspaper", "color": "text-blue-600" },
+    { "id": "n16", "title": "Indian Express", "url": "https://indianexpress.com/", "icon": "newspaper", "color": "text-black" },
+    { "id": "n17", "title": "Lokmat", "url": "https://www.lokmat.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n18", "title": "Divya Bhaskar", "url": "https://www.divyabhaskar.co.in/", "icon": "newspaper", "color": "text-orange-500" },
+    { "id": "n19", "title": "Punjab Kesari", "url": "https://www.punjabkesari.in/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n20", "title": "Prabhat Khabar", "url": "https://www.prabhatkhabar.com/", "icon": "newspaper", "color": "text-red-700" },
+    { "id": "n21", "title": "Bartaman", "url": "https://bartamanpatrika.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n22", "title": "Dinakaran", "url": "https://www.dinakaran.com/", "icon": "newspaper", "color": "text-red-600" },
+    { "id": "n23", "title": "Navbharat Times", "url": "https://navbharattimes.indiatimes.com/", "icon": "newspaper", "color": "text-blue-600" },
+    { "id": "n24", "title": "Gujarat Samachar", "url": "https://www.gujaratsamachar.com/", "icon": "newspaper", "color": "text-blue-500" },
+    { "id": "n25", "title": "Kannada Prabha", "url": "https://www.kannadaprabha.com/", "icon": "newspaper", "color": "text-red-600" }
+  ],
+  "youtubeChannels": [
+    { "id": "yt1", "title": "Channel A", "channelId": "UCno6OgN7-NDmRTNBgqWevlw", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt2", "title": "NewsGlitz", "channelId": "UCiqE4DQsQ0zlwjOV04s2gEA", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt3", "title": "Tamilcinemareview", "channelId": "UCZVcQLqXTn1DN-UcDwrc1gQ", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt4", "title": "Nakkheeran Studio", "channelId": "UCd9KkPAQjmINi4IDsnDw0hA", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt5", "title": "Nakkheeran webtv", "channelId": "UCdMtj4CiqlZTgzFT5FdDd7A", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt6", "title": "Red Pix News24x7", "channelId": "UCe1Nb-N6XgLFHfGxZjIkF8A", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt7", "title": "Captain News", "channelId": "UCno6OgN7-NDmRTNBgqWevlw", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt8", "title": "Polimer News", "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt9", "title": "News7 Tamil", "channelId": "UC2f4w_ppqHplvjiNaoTAK9w", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt10", "title": "News18 Tamilnadu", "channelId": "UCat88i6_rELqI_pjspRA", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt11", "title": "Oneindia Tamil", "channelId": "UCpZBvTbjam0yTrD4HUUWTZw", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt12", "title": "Tamil The Hindu", "channelId": "UCJ36XbT02JNAlBEBgZtW7GQ", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt13", "title": "Dinamalar", "channelId": "UChcR8SrIiSON4KxmtpwfMgw", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt14", "title": "BBC News Tamil", "channelId": "UCxD03AhBg9LWQuJfijnzhhQ", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt15", "title": "Thanthi TV", "channelId": "UC-JFyL0zDFOsPMpuWu39rPA", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt16", "title": "Kalaignar TV News", "channelId": "UCcVF2Fth-qEA4T1Lhn3CgKg", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt17", "title": "Puthiyathalaimurai TV", "channelId": "UCmyKnNRH0wH-r8I-ceP-dsg", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt18", "title": "Vikatan WebTV", "channelId": "UCEhsOgK2u8GDDoynMCj78Ng", "icon": "yt", "color": "text-red-600" },
+    { "id": "yt19", "title": "Channel B", "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw", "icon": "yt", "color": "text-red-600" }
+  ],
+  "mockVideos": [
+    { "id": "v1", "title": "Big Update on Cinema!", "channelName": "Channel A", "views": "1.2M", "time": "2 hours ago", "thumbnail": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500&q=80", "duration": "10:05" },
+    { "id": "v2", "title": "Live: Breaking News", "channelName": "NewsGlitz", "views": "50K", "time": "Live", "thumbnail": "https://images.unsplash.com/photo-1495020686659-d54061c455ac?w=500&q=80", "duration": "LIVE" },
+    { "id": "v3", "title": "Tech Review 2025", "channelName": "Tamil Cinema Review", "views": "10K", "time": "1 day ago", "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80", "duration": "5:30" },
+    { "id": "v4", "title": "Cooking Masterclass", "channelName": "Channel A", "views": "5M", "time": "1 week ago", "thumbnail": "https://images.unsplash.com/photo-1556910103-1c02745a30bf?w=500&q=80", "duration": "12:45" },
+    { "id": "v5", "title": "Travel Vlog: Japan", "channelName": "NewsGlitz", "views": "200K", "time": "3 days ago", "thumbnail": "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=500&q=80", "duration": "18:20" },
+    { "id": "v6", "title": "SpaceX Launch Highlights", "channelName": "Channel A", "views": "1M", "time": "5 hours ago", "thumbnail": "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=500&q=80", "duration": "3:10" }
+  ],
+  "mockNewsFeed": [
+    { "id": "a1", "categoryId": "regional", "sourceId": "r1", "title": "Heavy Rain Predicted in Kerala for Next 3 Days", "desc": "IMD has issued an orange alert for 5 districts including Wayanad and Idukki.", "time": "30 mins ago", "url": "https://www.manoramaonline.com/news/kerala/2025/11/27/rain-alert.html", "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=200&h=200&fit=crop" },
+    { "id": "a2", "categoryId": "regional", "sourceId": "r2", "title": "New IT Park announced in Kozhikode", "desc": "Government plans to expand the Cyberpark project with a new 10-story building.", "time": "2 hours ago", "url": "https://www.mathrubhumi.com/technology/news/kozhikode-it-park.html", "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&h=200&fit=crop" },
+    { "id": "a3", "categoryId": "national", "sourceId": "n1", "title": "Parliament Session Begins Today", "desc": "Key bills regarding digital privacy are expected to be tabled.", "time": "1 hour ago", "url": "https://www.thehindu.com/news/national/parliament-session-begins.html", "image": "https://images.unsplash.com/photo-1529101091760-6149d4c46b7d?w=200&h=200&fit=crop" },
+    { "id": "a4", "categoryId": "national", "sourceId": "n2", "title": "Stock Markets Hit All-Time High", "desc": "Sensex crosses 80,000 mark driven by banking stocks.", "time": "4 hours ago", "url": "https://timesofindia.indiatimes.com/business/markets-high.html", "image": "https://images.unsplash.com/photo-1611974765270-ca1258634369?w=200&h=200&fit=crop" },
+    { "id": "a5", "categoryId": "sports", "sourceId": "s1", "title": "India vs Australia: 3rd Test Match Preview", "desc": "Team India looks to clinch the series in Sydney.", "time": "15 mins ago", "url": "https://www.espncricinfo.com/series/ind-vs-aus/preview.html", "image": "https://images.unsplash.com/photo-1531415074968-bc2363c47051?w=200&h=200&fit=crop" },
+    { "id": "a6", "categoryId": "tech", "sourceId": "t1", "title": "The Future of AI: What to Expect in 2026", "desc": "Generative AI is moving from text to full video production.", "time": "5 hours ago", "url": "https://techcrunch.com/ai-future-2026.html", "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop" }
+  ]
+}
