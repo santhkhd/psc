@@ -1,0 +1,5002 @@
+[
+  {
+    "questionNum": 99001,
+    "questionText": " Insulators used in electrical system?",
+    "answerText": " Porcelain or Glass"
+  },
+  {
+    "questionNum": 99002,
+    "questionText": " Almost every liquid expands with increase in?",
+    "answerText": " Temperature"
+  },
+  {
+    "questionNum": 99003,
+    "questionText": " When the temperature of water is increased from 0°C to 40, the volume?",
+    "answerText": " Decreases"
+  },
+  {
+    "questionNum": 99004,
+    "questionText": " If the temperature is increased above 40 the volume starts?",
+    "answerText": " Increasing"
+  },
+  {
+    "questionNum": 99005,
+    "questionText": " Temperature at which water has least volume and high density?",
+    "answerText": " 40°C"
+  },
+  {
+    "questionNum": 99006,
+    "questionText": " Water expands on?",
+    "answerText": " Freezing"
+  },
+  {
+    "questionNum": 99007,
+    "questionText": " Water pipes break in winter in cold regions due to?",
+    "answerText": " Freezing"
+  },
+  {
+    "questionNum": 99008,
+    "questionText": " Tendency of matter to change in volume in response to change in temperature is called?",
+    "answerText": " Thermal Expansion"
+  },
+  {
+    "questionNum": 99009,
+    "questionText": " All substances expand on?",
+    "answerText": " Heating"
+  },
+  {
+    "questionNum": 99010,
+    "questionText": " Mercury thermometer works on the principle of?",
+    "answerText": " Thermal Expansion"
+  },
+  {
+    "questionNum": 99011,
+    "questionText": " Matter which expand most on heating?",
+    "answerText": " Gases"
+  },
+  {
+    "questionNum": 99012,
+    "questionText": " Property of a material to conduct heat is called?",
+    "answerText": " Thermal conductivity"
+  },
+  {
+    "questionNum": 99013,
+    "questionText": " Unit of thermal conductivity?",
+    "answerText": " Watts per meter Kelvin (W/mK)"
+  },
+  {
+    "questionNum": 99014,
+    "questionText": " Co-efficient of thermal conductivity?",
+    "answerText": " K Factor"
+  },
+  {
+    "questionNum": 99015,
+    "questionText": " The rate of cooling of hot water will be faster than the?",
+    "answerText": " Tap water"
+  },
+  {
+    "questionNum": 99016,
+    "questionText": " In a refrigerator, cooling is produced by the evaporation of a?",
+    "answerText": " Volatile liquid"
+  },
+  {
+    "questionNum": 99017,
+    "questionText": " The amount of water vapour present in air is called?",
+    "answerText": " Humidity"
+  },
+  {
+    "questionNum": 99018,
+    "questionText": " When humidity occurs, perspiration is?",
+    "answerText": " Maximum"
+  },
+  {
+    "questionNum": 99019,
+    "questionText": " The process by which a substance is changed from solid state to liquid state is called?",
+    "answerText": " Melting"
+  },
+  {
+    "questionNum": 99020,
+    "questionText": " The fixed temperature at which a substance is changed from solid state to liquid state is called?",
+    "answerText": " Melting point"
+  },
+  {
+    "questionNum": 99021,
+    "questionText": " Melting point of ice can be raised by the decrease of?",
+    "answerText": " Pressure"
+  },
+  {
+    "questionNum": 99022,
+    "questionText": " Melting point of Mercury is?",
+    "answerText": " 39°C"
+  },
+  {
+    "questionNum": 99023,
+    "questionText": " Melting point of Alchohol is?",
+    "answerText": " 114°C"
+  },
+  {
+    "questionNum": 99024,
+    "questionText": " Melting point of Ice is?",
+    "answerText": " 0°C"
+  },
+  {
+    "questionNum": 99025,
+    "questionText": " When liquid boils and changes itself into vapour at standard atmospheric pressure is called?",
+    "answerText": " Boiling point"
+  },
+  {
+    "questionNum": 99026,
+    "questionText": " When pressure increases boiling point?",
+    "answerText": " Increases"
+  },
+  {
+    "questionNum": 99027,
+    "questionText": " Boiling point of water?",
+    "answerText": " 100°C"
+  },
+  {
+    "questionNum": 99028,
+    "questionText": " Water inside a pressure cooker boils at a 'temperature of?",
+    "answerText": " 120°C"
+  },
+  {
+    "questionNum": 99029,
+    "questionText": " Sublimation is the process of conversion of a solid directly into?",
+    "answerText": " Vapour eg: camphor"
+  },
+  {
+    "questionNum": 99030,
+    "questionText": " Sublimation occurs when boiling point is less than?",
+    "answerText": " Melting point"
+  },
+  {
+    "questionNum": 99031,
+    "questionText": " The process of conversion of liquid into vapour at any temperature?",
+    "answerText": " Evaporation"
+  },
+  {
+    "questionNum": 99032,
+    "questionText": " Rate of evaporation increases with increase in temperature, surface area and decrease in?",
+    "answerText": " Pressure"
+  },
+  {
+    "questionNum": 99033,
+    "questionText": " While sweating under a fan we feel cool because of?",
+    "answerText": " Evaporation"
+  },
+  {
+    "questionNum": 99034,
+    "questionText": " A perfectly black body absorbs all types of?",
+    "answerText": " Heat radiations"
+  },
+  {
+    "questionNum": 99035,
+    "questionText": " Absorption power of perfectly black body is?",
+    "answerText": 1
+  },
+  {
+    "questionNum": 99036,
+    "questionText": " Device used to measure the temperature of Sun?",
+    "answerText": " Pyroheliometer"
+  },
+  {
+    "questionNum": 99037,
+    "questionText": " Study of high temperature?",
+    "answerText": " Pyrology"
+  },
+  {
+    "questionNum": 99038,
+    "questionText": " The radiation emitted from a black body is called?",
+    "answerText": " Black body radiation"
+  },
+  {
+    "questionNum": 99039,
+    "questionText": " The rate of flow of charge through a conductor per second is called?",
+    "answerText": " Current"
+  },
+  {
+    "questionNum": 99040,
+    "questionText": " SI unit is of current?",
+    "answerText": " Ampere (A)"
+  },
+  {
+    "questionNum": 99041,
+    "questionText": " Electric charge was first observed in a substance called?",
+    "answerText": " Amber"
+  },
+  {
+    "questionNum": 99042,
+    "questionText": " Unit of electric charge?",
+    "answerText": " Coulomb"
+  },
+  {
+    "questionNum": 99043,
+    "questionText": " 1 coulomb (c) =?",
+    "answerText": " 6.24 X 1018 electrons"
+  },
+  {
+    "questionNum": 99044,
+    "questionText": " Charge of an electron =..?",
+    "answerText": " 1.6 x 10^-19C"
+  },
+  {
+    "questionNum": 99045,
+    "questionText": " The region which surrounds the electrically charged particles?",
+    "answerText": " Electric field"
+  },
+  {
+    "questionNum": 99046,
+    "questionText": " The term electricity is coined by?",
+    "answerText": " Gilbert"
+  },
+  {
+    "questionNum": 99047,
+    "questionText": " Law of electrolysis were formulated by?",
+    "answerText": " Michael Faraday"
+  },
+  {
+    "questionNum": 99048,
+    "questionText": " The process of splitting up of a chemical substance when an electric current flows through it?",
+    "answerText": " Electrolysis"
+  },
+  {
+    "questionNum": 99049,
+    "questionText": " A good conductor of electricity?",
+    "answerText": " Mercury"
+  },
+  {
+    "questionNum": 99050,
+    "questionText": " The capacity of an electric field to do work on an electric charge?",
+    "answerText": " Electric potential"
+  },
+  {
+    "questionNum": 99051,
+    "questionText": " Pure water is a bad conductor of electricity because pure water does not dissociate into?",
+    "answerText": " Ions"
+  },
+  {
+    "questionNum": 99052,
+    "questionText": " Electro magnetism was discovered by?",
+    "answerText": " Hans Christian Oersted"
+  },
+  {
+    "questionNum": 99053,
+    "questionText": " Positively charged particles lose?",
+    "answerText": " Electrons"
+  },
+  {
+    "questionNum": 99054,
+    "questionText": " Negatively charged particles gain?",
+    "answerText": " Electrons"
+  },
+  {
+    "questionNum": 99055,
+    "questionText": " Electricity is divided into two?",
+    "answerText": " (1) Static electricity (2) Dynamic electricity"
+  },
+  {
+    "questionNum": 99056,
+    "questionText": " The electric charge built upon a material as a static mode?",
+    "answerText": " Static electricity"
+  },
+  {
+    "questionNum": 99057,
+    "questionText": " The type of electric charge flows from one point to another through the conductors, cables etc?",
+    "answerText": " Dynamic electricity"
+  },
+  {
+    "questionNum": 99058,
+    "questionText": " Dynamic electricity are of two types?",
+    "answerText": " (a) Alternating current (AC) (b) Direct current (DC)"
+  },
+  {
+    "questionNum": 99059,
+    "questionText": " Electricity supplying for domestic use is?",
+    "answerText": " Alternating Current"
+  },
+  {
+    "questionNum": 99060,
+    "questionText": " Unidirectional flow of electric charge?",
+    "answerText": " Direct Current"
+  },
+  {
+    "questionNum": 99061,
+    "questionText": " DC is formerly known as?",
+    "answerText": " Galvanic current"
+  },
+  {
+    "questionNum": 99062,
+    "questionText": " Batteries, solar cells etc produce?",
+    "answerText": " DC"
+  },
+  {
+    "questionNum": 99063,
+    "questionText": " The device used to convert AC to DC?",
+    "answerText": " Rectifiers"
+  },
+  {
+    "questionNum": 99064,
+    "questionText": " The device used to convert DC to AC?",
+    "answerText": " Oscillator"
+  },
+  {
+    "questionNum": 99065,
+    "questionText": " The device which conducts DC but blocks AC is?",
+    "answerText": " Inductor"
+  },
+  {
+    "questionNum": 99066,
+    "questionText": " When one coulomb charge is carried from one place to another, the work done is called?",
+    "answerText": " Electric potential difference"
+  },
+  {
+    "questionNum": 99067,
+    "questionText": " SI unit of electrical potential difference is?",
+    "answerText": " Volt"
+  },
+  {
+    "questionNum": 99068,
+    "questionText": " The e.m.f or potential difference measured in volt is called?",
+    "answerText": " Voltage"
+  },
+  {
+    "questionNum": 99069,
+    "questionText": " Property of some crystals to develop an electromotive force when subjected to mechanical stress is called?",
+    "answerText": " Piezo Electricity"
+  },
+  {
+    "questionNum": 99070,
+    "questionText": " Quartz Crystal in watches work on the principle of?",
+    "answerText": " Piezo Electricity"
+  },
+  {
+    "questionNum": 99071,
+    "questionText": " Piezo Electricity was discovered by?",
+    "answerText": " Pierre Curie and Jacques Curie"
+  },
+  {
+    "questionNum": 99072,
+    "questionText": " The property of a material due to which it opposes the flow charge through it?",
+    "answerText": " Resistance"
+  },
+  {
+    "questionNum": 99073,
+    "questionText": " Unit of resistance is?",
+    "answerText": " Ohm (n)"
+  },
+  {
+    "questionNum": 99074,
+    "questionText": " Conductivity is inversely proportional to?",
+    "answerText": " Resistance"
+  },
+  {
+    "questionNum": 99075,
+    "questionText": " Unit of conductivity is?",
+    "answerText": " Siemens"
+  },
+  {
+    "questionNum": 99076,
+    "questionText": " The metal having lowest resistance?",
+    "answerText": " Silver"
+  },
+  {
+    "questionNum": 99077,
+    "questionText": " The instrument used to control the resistance?",
+    "answerText": " Rheostat"
+  },
+  {
+    "questionNum": 99078,
+    "questionText": " Nichrome is used as heating element in many appliances because of?",
+    "answerText": " High resistivity"
+  },
+  {
+    "questionNum": 99079,
+    "questionText": " Super conductivity was discovered by?",
+    "answerText": " Kamerlingh Onnes"
+  },
+  {
+    "questionNum": 99080,
+    "questionText": " At very low temperature, super conductivity possesses?",
+    "answerText": " Zero resistance"
+  },
+  {
+    "questionNum": 99081,
+    "questionText": " A super conductor above 100 K?",
+    "answerText": " Ceramics"
+  },
+  {
+    "questionNum": 99082,
+    "questionText": " Fuseis used to avoid?",
+    "answerText": " Overloading of current in electric circuit"
+  },
+  {
+    "questionNum": 99083,
+    "questionText": " Fuse is made from an alloy of?",
+    "answerText": " Lead and Tin"
+  },
+  {
+    "questionNum": 99084,
+    "questionText": " Fuse has?",
+    "answerText": " low melting point and high resistivity"
+  },
+  {
+    "questionNum": 99085,
+    "questionText": " When a charged body is connected to the earth it 'gets neutralised. It is called?",
+    "answerText": " Earthing"
+  },
+  {
+    "questionNum": 99086,
+    "questionText": " Colour of positive wire in domestic circuits is?",
+    "answerText": " Red/Brown"
+  },
+  {
+    "questionNum": 99087,
+    "questionText": " Colour of Neutral wire in domestic circuits is?",
+    "answerText": " Black/Blue"
+  },
+  {
+    "questionNum": 99088,
+    "questionText": " Colour of earth wire in domestic circuits is?",
+    "answerText": " Green"
+  },
+  {
+    "questionNum": 99089,
+    "questionText": " A number of cells connected together are called?",
+    "answerText": " Battery"
+  },
+  {
+    "questionNum": 99090,
+    "questionText": " A source of emf containing two or more cells is called?",
+    "answerText": " A battery"
+  },
+  {
+    "questionNum": 99091,
+    "questionText": " Rechargeable batteries like mobile phones, torches uses?",
+    "answerText": " Nickel and Cadmium"
+  },
+  {
+    "questionNum": 99092,
+    "questionText": " The negative electrode in a dry cell is?",
+    "answerText": " Cathode eg: zinc"
+  },
+  {
+    "questionNum": 99093,
+    "questionText": " The positive electrode in a dry cell is?",
+    "answerText": " Anode eg: carbon rod"
+  },
+  {
+    "questionNum": 99094,
+    "questionText": " Cell was first invented by?",
+    "answerText": " Alessandro Volta"
+  },
+  {
+    "questionNum": 99095,
+    "questionText": " Cell is otherwise known as?",
+    "answerText": " Voltaic Cell"
+  },
+  {
+    "questionNum": 99096,
+    "questionText": " Dry cell was invented by?",
+    "answerText": " Carl Gassner"
+  },
+  {
+    "questionNum": 99097,
+    "questionText": " In primary cell, chemical energy is converted into?",
+    "answerText": " Electrical energy eg : Daniel cell; Dry cell etc"
+  },
+  {
+    "questionNum": 99098,
+    "questionText": " Potential difference measured in volt is called?",
+    "answerText": " Voltage"
+  },
+  {
+    "questionNum": 99099,
+    "questionText": " The electrical potential for a source in a circuit is called?",
+    "answerText": " EMF"
+  },
+  {
+    "questionNum": 99100,
+    "questionText": " The emf of a voltaic cell?",
+    "answerText": " 1 volt"
+  },
+  {
+    "questionNum": 99101,
+    "questionText": " Emf of mercury cell?",
+    "answerText": " 1.35 volt"
+  },
+  {
+    "questionNum": 99102,
+    "questionText": " The emf of a dry cell?",
+    "answerText": " 1.5 volt"
+  },
+  {
+    "questionNum": 99103,
+    "questionText": " Voltage of a torch cell?",
+    "answerText": " 1.5 volt"
+  },
+  {
+    "questionNum": 99104,
+    "questionText": " Emf of Lithium ion battery?",
+    "answerText": " 3.6 volt"
+  },
+  {
+    "questionNum": 99105,
+    "questionText": " The rate of production of electrical energy per unit time?",
+    "answerText": " Electric power"
+  },
+  {
+    "questionNum": 99106,
+    "questionText": " Electricity supplied for domestic use is?",
+    "answerText": " Alternating Current (AC)"
+  },
+  {
+    "questionNum": 99107,
+    "questionText": " Electricity for. domestic purpose. is measured In?",
+    "answerText": " Kilowatt hour (Kwh)"
+  },
+  {
+    "questionNum": 99108,
+    "questionText": " Kilowatt hour is commonly called as?",
+    "answerText": " Units "
+  },
+  {
+    "questionNum": 99109,
+    "questionText": " The commercial unit of electrical energy is also?",
+    "answerText": " KWh"
+  },
+  {
+    "questionNum": 99110,
+    "questionText": " The technique used in the electric circuits in house hold purpose to protect appliances?",
+    "answerText": " Short Circuiting"
+  },
+  {
+    "questionNum": 99111,
+    "questionText": " Instrument used to measure the amount of electric energy used by a consumer?",
+    "answerText": " Watt hour meter"
+  },
+  {
+    "questionNum": 99112,
+    "questionText": " Electric power transmission was developed by?",
+    "answerText": " Thomas Alva Edison"
+  },
+  {
+    "questionNum": 99113,
+    "questionText": " The supply voltage produced in India?",
+    "answerText": " 11KV (Kilovolt) or 11000 volt"
+  },
+  {
+    "questionNum": 99114,
+    "questionText": " Voltage range for household purpose?",
+    "answerText": " 220-230 volt"
+  },
+  {
+    "questionNum": 99115,
+    "questionText": " Q The frequency of household electric current in India is?",
+    "answerText": " 50 Hertz"
+  },
+  {
+    "questionNum": 99116,
+    "questionText": " The study of nature, control and application of electrons?",
+    "answerText": " Electronics"
+  },
+  {
+    "questionNum": 99117,
+    "questionText": " Vacuum tubes work on the principle of?",
+    "answerText": " Thermionic emission"
+  },
+  {
+    "questionNum": 99118,
+    "questionText": " The simplest form of a vacuum tube?",
+    "answerText": " Diode"
+  },
+  {
+    "questionNum": 99119,
+    "questionText": " The device used to convert alternating current (AC) to Direct Current (DC)?",
+    "answerText": " Rectifiers"
+  },
+  {
+    "questionNum": 99120,
+    "questionText": " The device which converts DC energy into AC energy?",
+    "answerText": " Electronic oscillator"
+  },
+  {
+    "questionNum": 99121,
+    "questionText": " The process which makes the current to pass in the same direction is called?",
+    "answerText": " Rectification"
+  },
+  {
+    "questionNum": 99122,
+    "questionText": " Now thermionic valves are completely replaced by'?",
+    "answerText": " Transistors"
+  },
+  {
+    "questionNum": 99123,
+    "questionText": " Miracle child of electronics?",
+    "answerText": " Transistor"
+  },
+  {
+    "questionNum": 99124,
+    "questionText": " Triode was invented by?",
+    "answerText": " Lee De Forest"
+  },
+  {
+    "questionNum": 99125,
+    "questionText": " Element used in solar cells?",
+    "answerText": " .Silicon"
+  },
+  {
+    "questionNum": 99126,
+    "questionText": " Materials whose conductivity lies between conductors and insulators '?",
+    "answerText": " Semi conductors"
+  },
+  {
+    "questionNum": 99127,
+    "questionText": " Examples of semiconductors are?",
+    "answerText": " Germanium; Silicon"
+  },
+  {
+    "questionNum": 99128,
+    "questionText": " Semi conductor in pure state is called?",
+    "answerText": " Intrinsic Semiconductors"
+  },
+  {
+    "questionNum": 99129,
+    "questionText": " In intrinsic, number of holes is equal to' number of?",
+    "answerText": " Electrons"
+  },
+  {
+    "questionNum": 99130,
+    "questionText": " The process to improve conductivity?",
+    "answerText": " Doping"
+  },
+  {
+    "questionNum": 99131,
+    "questionText": " Process of adding controlled impurities to a pure semiconductor is known as?",
+    "answerText": " Doping"
+  },
+  {
+    "questionNum": 99132,
+    "questionText": " The substances used for doping?",
+    "answerText": " Dopants"
+  },
+  {
+    "questionNum": 99133,
+    "questionText": " An intrinsic semiconductor undergoes doping, change into?",
+    "answerText": " Extrinsic semiconductor"
+  },
+  {
+    "questionNum": 99134,
+    "questionText": " 35- ആമത് ദേശീയ ഗെയിംസിന് വേദിയായ സംസ്ഥാനം ? ",
+    "answerText": " കേരളം "
+  },
+  {
+    "questionNum": 99135,
+    "questionText": " ഇൻഡ്യാ ഗവൺമെൻറ് ആരുടെ ജന്മദിനമാണ് മാതൃ സുരക്ഷാ ദിനമായി പ്രഖ്യാപിച്ചിരിക്കുന്നത് ? ",
+    "answerText": " കസ്തുർബാ ഗാന്ധി "
+  },
+  {
+    "questionNum": 99136,
+    "questionText": " കേരളത്തിൽ ആദ്യത്തെ പേപ്പർ മിൽ സ്ഥാപിതമായത് ? ",
+    "answerText": " പുനലൂർ "
+  },
+  {
+    "questionNum": 99137,
+    "questionText": " സംഘകാലത്തിൽ  കുറുഞ്ചി  എന്നത് ഏത് പ്രദേശത്തെ പ്രതിനിധീകരിക്കുന്നു ? ",
+    "answerText": " പർവ്വത പ്രദേശം "
+  },
+  {
+    "questionNum": 99138,
+    "questionText": " 2016- ലെ ഓസ് ‌ ട്രേലിയൻ ഓപ്പൺ കിരീടം നേടിയ വനിത ? ",
+    "answerText": " അഞ്ചലിക് കെർബർ "
+  },
+  {
+    "questionNum": 99139,
+    "questionText": " രാഷ്ട്രപതിക്ക് സത്യവാചകം ചൊല്ലി കൊടുക്കുന്നത് ആരാണ് ? ",
+    "answerText": " സുപ്രീം കോടതി ചീഫ് ജസ്റ്റിസ് "
+  },
+  {
+    "questionNum": 99140,
+    "questionText": " കേരളത്തിൽ സമത്വ സമാജം സ്ഥാപിച്ചത് ? ",
+    "answerText": " വൈകുണ്ഠ സ്വാമികൾ "
+  },
+  {
+    "questionNum": 99141,
+    "questionText": " പൃഥ് ‌ വിരാജ് ചൗഹാൻറെ ആസ്ഥാന കവി ? ",
+    "answerText": " ചന്ദ്രബർദായി "
+  },
+  {
+    "questionNum": 99142,
+    "questionText": " ഇന്ത്യൻ രാസവ്യവസായത്തിൻറെ പിതാവ് ആരാണ് ? ",
+    "answerText": " ആചാര്യ പി . സി . റേ "
+  },
+  {
+    "questionNum": 99143,
+    "questionText": " നവ ജവാൻ ഭാരത് സഭ എന്ന സംഘടന സ്ഥാപിച്ചത് ? ",
+    "answerText": " ഭഗത് സിംഗ് "
+  },
+  {
+    "questionNum": 99144,
+    "questionText": " 1916- ലെ ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസിന്റെ ലക്നൗ സമ്മേളനത്തിൽ അദ്ധ്യക്ഷം വഹിച്ചത് ? ",
+    "answerText": " എം . സി . മജുൻദാർ "
+  },
+  {
+    "questionNum": 99145,
+    "questionText": " ഗുജറാത്ത് വിജയത്തിൻറെ പ്രതീകമായി അക്ബർ പണികഴിപ്പിച്ച മന്ദിരം ? ",
+    "answerText": " ബുലന്ത് ദർവാസാ "
+  },
+  {
+    "questionNum": 99146,
+    "questionText": " പ്രധാനമന്ത്രി റോസ്ഗാർ യോജന ആരംഭിച്ച പഞ്ചവത്സര പദ്ധതി ? ",
+    "answerText": " എട്ടാം പദ്ധതി "
+  },
+  {
+    "questionNum": 99147,
+    "questionText": " ഒരു രാജ്യസഭാ അംഗത്തിൻറെ കാലാവധി ? ",
+    "answerText": " 6 വർഷം "
+  },
+  {
+    "questionNum": 99148,
+    "questionText": " സ്വത്തവകാശത്തെ മൗലികാവകാശങ്ങളുടെ പട്ടികയിൽ നിന്നും നീക്കം ചെയ്ത പ്രധാനമന്ത്രി ? ",
+    "answerText": " മൊറാർജി ദേശായി "
+  },
+  {
+    "questionNum": 99149,
+    "questionText": " ഇന്ത്യൻ സൈക്കിൾ സിറ്റി എന്നറിയപ്പെടുന്ന സ്ഥലം ? ",
+    "answerText": " ലുധിയാന "
+  },
+  {
+    "questionNum": 99150,
+    "questionText": " ദേവീ ചന്ദ്ര ഗുപ്ത എന്ന ഗ്രന്ഥത്തിൻറെ കർത്താവ് ? ",
+    "answerText": " വിശാഖദത്തൻ "
+  },
+  {
+    "questionNum": 99151,
+    "questionText": " ആധുനിക തിരുവിതാംകൂർ ഏറ്റവും കൂടുതൽ കാലം ഭരിച്ച രാജാവ് ? ",
+    "answerText": " ധർമ്മ രാജാവ് "
+  },
+  {
+    "questionNum": 99152,
+    "questionText": " അജന്ത - എല്ലോറ ഗുഹകൾ ഏത് സംസ്ഥാനത്താണ് ? ",
+    "answerText": " മഹാരാഷ്ട്ര "
+  },
+  {
+    "questionNum": 99153,
+    "questionText": " അൽമാട്ടി ഡാം ഏത് നദിയുടെ കുറുകെയാണ് ? ",
+    "answerText": " കൃഷ്ണ "
+  },
+  {
+    "questionNum": 99154,
+    "questionText": " 2015- ലെ എഴുത്തച്ഛൻ പുരസ്കാരം ലഭിച്ചത് ? ",
+    "answerText": " പുതുശ്ശേരി രാമചന്ദ്രൻ "
+  },
+  {
+    "questionNum": 99155,
+    "questionText": " ഖാന പക്ഷി സങ്കേതം സ്ഥിതി ചെയ്യുന്ന സംസ്ഥാനം ? ",
+    "answerText": " രാജസ്ഥാൻ "
+  },
+  {
+    "questionNum": 99156,
+    "questionText": " ഗാന്ധിജിയുടെ ആത്മകഥ ഇംഗ്ലീഷിലേയ്ക്ക് വിവർത്തനം ചെയ്തത് ആരാണ് ? ",
+    "answerText": " മഹാദേവ് ദേശായി "
+  },
+  {
+    "questionNum": 99157,
+    "questionText": " ഒരു രൂപ ഒഴികെയുള്ള മറ്റെല്ലാ നോട്ടുകളിലും ഒപ്പിടുന്നത് ? ",
+    "answerText": " റിസർവ് ബാങ്ക് ഗവർണർ "
+  },
+  {
+    "questionNum": 99158,
+    "questionText": " സുമിത്ര മഹാജൻ എത്രാമത്തെ ലോകസഭയുടെ സ് ‌ പീക്കർ ആണ് ? ",
+    "answerText": 16
+  },
+  {
+    "questionNum": 99159,
+    "questionText": " ഒന്നാം പഞ്ചവത്സര പദ്ധതിയുടെ ആമുഖം തയ്യാറാക്കിയത് ? ",
+    "answerText": " കെ . എൻ . രാജ് "
+  },
+  {
+    "questionNum": 99160,
+    "questionText": " ബംഗാളി പത്രമായ സംവാദ് കൗമുദിയുടെ ആദ്യ പത്രാധിപർ ? ",
+    "answerText": " രാജാറാം മോഹൻ റോയ് "
+  },
+  {
+    "questionNum": 99161,
+    "questionText": " രണ്ടാം വട്ടമേശ സമ്മേളനത്തിൽ ഗാന്ധിജിയുടെ ഉപദേശകനായിരുന്നത് ? ",
+    "answerText": " മദൻ മോഹൻ മാളവ്യ "
+  },
+  {
+    "questionNum": 99162,
+    "questionText": " കേരളത്തിൽ അവിശ്വാസ പ്രമേയത്തിലൂടെ പുറത്താക്കപ്പെട്ട ആദ്യ മുഖ്യമന്ത്രി ? ",
+    "answerText": " ആർ . ശങ്കർ "
+  },
+  {
+    "questionNum": 99163,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കുറച്ചു കടൽത്തീരമുള്ള ജില്ല ? ",
+    "answerText": " കൊല്ലം "
+  },
+  {
+    "questionNum": 99164,
+    "questionText": " 1 കുതിരശക്തി എത്ര വാട്ട് ആണ് ? ",
+    "answerText": " 746 W"
+  },
+  {
+    "questionNum": 99165,
+    "questionText": " ഒരു വൈദ്യുത ജനറേറ്ററിൽ നടക്കുന്ന ഊർജ്ജ പരിവർത്തനം ഏത് ? ",
+    "answerText": " യന്ത്രികോർജ്ജം - വൈദ്യുതോർജ്ജം "
+  },
+  {
+    "questionNum": 99166,
+    "questionText": " ആവൃത്തിയുടെ യൂണിറ്റ് ഏത് ? ",
+    "answerText": " ഹേർട്സ് "
+  },
+  {
+    "questionNum": 99167,
+    "questionText": " ദ്രവ്യത്തിൻറെ അഞ്ചാമത്തെ അവസ്ഥ ഏത് ? ",
+    "answerText": " ബോസ് - ഐൻസ്റ്റീൻ കണ്ടൻസേറ്റ് "
+  },
+  {
+    "questionNum": 99168,
+    "questionText": " ആറ്റത്തിൻറെ  പ്ലംപുഡിങ് മോഡൽ  കണ്ടെത്തിയത് ആര് ? ",
+    "answerText": " ജെ . ജെ . തോംസൺ "
+  },
+  {
+    "questionNum": 99169,
+    "questionText": " മൂലകങ്ങളെ  ത്രികങ്ങൾ  എന്ന രീതിയിൽ വർഗ്ഗീകരിച്ചത് ആര് ? ",
+    "answerText": " ഡോബർഎനെർ "
+  },
+  {
+    "questionNum": 99170,
+    "questionText": " ആണവ നിലയങ്ങളിൽ ഉപയോഗിക്കുന്ന ഹൈഡ്രജൻറെ ഒരു ഐസോടോപ്പ് ഏത് ? ",
+    "answerText": " ഡ്യുട്ടീരിയം "
+  },
+  {
+    "questionNum": 99171,
+    "questionText": " ഏറ്റവും കൂടിയ വിശിഷ്ട താപധാരിതയുള്ള പദാർത്ഥം ഏത് ? ",
+    "answerText": " ജലം "
+  },
+  {
+    "questionNum": 99172,
+    "questionText": " സമന്വിത പ്രകാശം ഘടക വർണ്ണങ്ങളായി വേർതിരിക്കുന്ന പ്രതിഭാസത്തിൻറെ പേര് ? ",
+    "answerText": " പ്രകീർണ്ണനം "
+  },
+  {
+    "questionNum": 99173,
+    "questionText": " സിമെന്റിൻറെ സെറ്റിങ് സമയം നിയന്ത്രിക്കുന്നതിന് ഉപയോഗിക്കുന്ന രാസവസ്തുവായ ജിപ്സത്തിൻറെ ശരിയായ രാസ സൂത്രം ? ",
+    "answerText": " No Answer Correct Answer Is CaSo4 2H2O"
+  },
+  {
+    "questionNum": 99174,
+    "questionText": " കെരാറ്റോപ്ലാസി ശരീരത്തിൽ ഏത് അവയവവുമായി ബന്ധപ്പെട്ട ശാസ്ത്രക്രിയയാണ് ? ",
+    "answerText": " കണ്ണ് "
+  },
+  {
+    "questionNum": 99175,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കൂടുതൽ പൈനാപ്പിൾ ഉത്പാദിപ്പിക്കുന്ന ജില്ല ? ",
+    "answerText": " എറണാകുളം "
+  },
+  {
+    "questionNum": 99176,
+    "questionText": " വിശപ്പ് അനുഭവപ്പെടാൻ സഹായിക്കുന്ന ഹോർമോൺ ? ",
+    "answerText": " ഗ്രെലിൻ "
+  },
+  {
+    "questionNum": 99177,
+    "questionText": "  മാരി കൾച്ചർ  എന്തുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു ? ",
+    "answerText": " കടൽ മത്സ്യകൃഷി "
+  },
+  {
+    "questionNum": 99178,
+    "questionText": " വൈറസുകൾ കാരണമില്ലാതെ ഉണ്ടാകുന്ന രോഗം ? ",
+    "answerText": " സിഫിലിസ് "
+  },
+  {
+    "questionNum": 99179,
+    "questionText": " കേരളത്തിൽ ഇഞ്ചി ഗവേഷണ കേന്ദ്രം സ്ഥിതിചെയ്യുന്നത് ? ",
+    "answerText": " അമ്പലവയൽ "
+  },
+  {
+    "questionNum": 99180,
+    "questionText": " ആന്റിബോഡികൾ നിർമ്മിക്കാൻ സഹായിക്കുന്ന പ്ലാസ്മയിലെ പ്രോട്ടീൻ ? ",
+    "answerText": " ഗ്ലോബുലിൻ "
+  },
+  {
+    "questionNum": 99181,
+    "questionText": " കേന്ദ്ര മലിനീകരണ നിയന്ത്രണ ബോർഡിൻറെ റിപ്പോർട്ടിൻറെ അടിസ്ഥാനത്തിൽ ഇന്ത്യയിലെ ഏറ്റവും മലിനമായ നഗരം ? ",
+    "answerText": " വാരണാസി "
+  },
+  {
+    "questionNum": 99182,
+    "questionText": " വിറ്റാമിൻ ബി 3- ൻറെ അപര്യാപ്തത മൂലം ഉണ്ടാകുന്ന രോഗം ? ",
+    "answerText": " പെല്ലഗ്ര "
+  },
+  {
+    "questionNum": 99183,
+    "questionText": " രക്തസമ്മർദ്ദം , പ്രമേഹം തുടങ്ങിയ രോഗങ്ങൾ സ്വന്തം വീടുകളിൽ സമയാസമയം പരിശോധിക്കാനുള്ള സാഹചര്യമൊരുക്കുന്ന കുടുംബശ്രീയുടെ പദ്ധതി ? ",
+    "answerText": " സാന്ത്വനം "
+  },
+  {
+    "questionNum": 99184,
+    "questionText": " Extrinsic are of two types:?",
+    "answerText": " (1) N-type semiconductor (2) P-type semiconductor"
+  },
+  {
+    "questionNum": 99185,
+    "questionText": " In N-type, charge carriers are?",
+    "answerText": " Electrons"
+  },
+  {
+    "questionNum": 99186,
+    "questionText": " The electronic device which has semiconducting property that allows current to flow in one direction?",
+    "answerText": " Diode"
+  },
+  {
+    "questionNum": 99187,
+    "questionText": " Diode is mostly used to convert?",
+    "answerText": " AC to DC"
+  },
+  {
+    "questionNum": 99188,
+    "questionText": " Diode is used as a?",
+    "answerText": " Rectifier"
+  },
+  {
+    "questionNum": 99189,
+    "questionText": " Zener diode is used as?",
+    "answerText": " Voltage regulator"
+  },
+  {
+    "questionNum": 99190,
+    "questionText": " A semiconductor device used to amplify or switch electronic signals and electrical . power?",
+    "answerText": " Transistor"
+  },
+  {
+    "questionNum": 99191,
+    "questionText": " Three regions of a transistor?",
+    "answerText": " Emitter; Base; Collector"
+  },
+  {
+    "questionNum": 99192,
+    "questionText": " Transistor transfers a signal from a low resistance to?",
+    "answerText": " High resistance"
+  },
+  {
+    "questionNum": 99193,
+    "questionText": " Transistor was invented by?",
+    "answerText": " John Bardeen; W.H. Brattain and William Shockley"
+  },
+  {
+    "questionNum": 99194,
+    "questionText": " Electronic intelligence is called?",
+    "answerText": " ELINT"
+  },
+  {
+    "questionNum": 99195,
+    "questionText": " The circuits that act as transistors, diodes, resistors etc is called?",
+    "answerText": " Integrated Circuits"
+  },
+  {
+    "questionNum": 99196,
+    "questionText": " 'IC' chips are made up of?",
+    "answerText": " Silicon or Germanium"
+  },
+  {
+    "questionNum": 99197,
+    "questionText": " IC Chip was invented by?",
+    "answerText": " Jack Kilby"
+  },
+  {
+    "questionNum": 99198,
+    "questionText": " IC chip using Silicon was invented by?",
+    "answerText": " Robert Noyce"
+  },
+  {
+    "questionNum": 99199,
+    "questionText": " The electronic circuit which works only on two voltage levels (0 and 1) is called?",
+    "answerText": " Gates"
+  },
+  {
+    "questionNum": 99200,
+    "questionText": " Voltage levels in a circuit is either represented by?",
+    "answerText": " '1' or '0'"
+  },
+  {
+    "questionNum": 99201,
+    "questionText": " The level '1' represents?",
+    "answerText": " High voltage level"
+  },
+  {
+    "questionNum": 99202,
+    "questionText": " The level '0' represents?",
+    "answerText": " Zero voltage level"
+  },
+  {
+    "questionNum": 99203,
+    "questionText": " ഒരു പ്രത്യേക ഭാഷയിൽ TEACHER ൻറെ WHDFKHU കോഡ് എങ്കിൽ STUDENT ൻറെ കോഡ് എന്ത് ? ",
+    "answerText": " VWXGHQW"
+  },
+  {
+    "questionNum": 99204,
+    "questionText": " മിന്നു ഒരു സ്ഥലത്തു നിന്ന് 100 മീറ്റർ കിഴക്കോട്ട് നടന്നതിനു ശേഷം വലത്തോട്ടു തിരിഞ്ഞു 50 മീറ്റർ മുന്നോട്ട് നടന്നു . വീണ്ടും വലത്തോട്ട് തിരിഞ്ഞു 70 മീറ്റർ മുന്നോട്ട് നടന്നതിനു ശേഷം വലത്തോട്ടു തിരിഞ്ഞു 50 മീറ്റർ മുന്നോട്ട് നടന്നു . ആദ്യ സ്ഥലത്തു നിന്നും ഇപ്പോൾ എത്ര അകലത്തിലാണ് മിന്നു നിൽക്കുന്നത് ? ",
+    "answerText": " 30 മീറ്റർ "
+  },
+  {
+    "questionNum": 99205,
+    "questionText": " രണ്ടു സംഖ്യകളുടെ തുക 7 ഉം വർഗ്ഗങ്ങളുടെ വ്യത്യാസം 7 ഉം ആയാൽ സംഖ്യകൾ ഏതെല്ലാം ? ",
+    "answerText": " 3,4"
+  },
+  {
+    "questionNum": 99206,
+    "questionText": " ഒരു സ്ത്രീയെ ചൂണ്ടിക്കാട്ടി സരിത ഇങ്ങനെ പറഞ്ഞു .  ഇതു എൻറെ അച്ചന്റെ മകൻറെ അമ്മുമ്മയുടെ ഒരേ ഒരു മകളാണ്  ഒപ്പമുണ്ടായിരുന്ന സ്ത്രീ സരിതയുടെ ആരാണ് ? ",
+    "answerText": " അമ്മ "
+  },
+  {
+    "questionNum": 99207,
+    "questionText": " 5 മണി 15 മിനിട്ട് കാണിക്കുന്ന ക്ലോക്കിലെ മിനിട്ട് സൂചിയും മണിക്കൂർ സൂചിയും തമ്മിലുള്ള കോണളവ് എത്രയാണ് ? ",
+    "answerText": 52.5
+  },
+  {
+    "questionNum": 99208,
+    "questionText": " K+2, 4K-6, 3K-2 എന്നിവ ഒരു സമാന്തര ശ്രീനിയിലെ തുടർച്ചയായ മൂന്ന് പദങ്ങളാണ് , എങ്കിൽ K യുടെ വില എന്താണ് ? ",
+    "answerText": 3
+  },
+  {
+    "questionNum": 99209,
+    "questionText": " മേശയുടെ വില 800 രൂപയും കസേരയുടെ വില 200 രൂപയും ആണ് . എങ്കിൽ കസേരയുടെ വില മേശയുടെ വിലയുടെ എത്ര ശതമാനമാണ് ? ",
+    "answerText": 25
+  },
+  {
+    "questionNum": 99210,
+    "questionText": " ഒരാൾ 1200 രൂപ മുടക്കി ഒരു പശുവിനെ വാങ്ങി , ഇതിനെ 1600 രൂപയ്ക്ക് വിറ്റാൽ ലാഭ ശതമാനം എത്ര ? ",
+    "answerText": 33.5
+  },
+  {
+    "questionNum": 99211,
+    "questionText": " 3000 രൂപയ്ക്ക് 2 വർഷത്തെ സാധാരണ പലിശ 240 രൂപയാണെങ്കിൽ പലിശനിരക്ക് എത്ര ? ",
+    "answerText": 4
+  },
+  {
+    "questionNum": 99212,
+    "questionText": " A:B = 3:5 B:C = 4:7 എങ്കിൽ A;B:C എത്ര ? ",
+    "answerText": " 1970-01-01 12:20:34"
+  },
+  {
+    "questionNum": 99213,
+    "questionText": " 3 പുരുഷന്മാരും 4 ആൺകുട്ടികളും ഒരു ജോലി 8 ദിവസം കൊണ്ടു ചെയ്തു തീർക്കും അതേ ജോലി 4 പുരുഷന്മാരും 4 ആൺകുട്ടികളും 6 ദിവസം കൊണ്ടു ചെയ്തു തീർക്കും . എങ്കിൽ 2 പുരുഷന്മാരും 4 ആൺകുട്ടികളും ഇതേ ജോലി എത്ര ദിവസം കൊണ്ടു ചെയ്തു തീർക്കും ? ",
+    "answerText": " Question"
+  },
+  {
+    "questionNum": 99214,
+    "questionText": " 4 സംഖ്യകളുടെ ശരാശരി 10 ആണ് . 5, 9 എന്നീ സംഖ്യകൾ കൂടി ഉൾപ്പെടുത്തിയാൽ പുതിയ ശരാശരി എത്ര ? ",
+    "answerText": 9
+  },
+  {
+    "questionNum": 99215,
+    "questionText": " ദീർഘ ചതുരാകൃതിയിലുള്ള ഒരു മൈതാനത്തിന്റെ നീളം 30 മീറ്റർ വീതി 20 മീറ്റർ . ഇതിനു ചുറ്റും 1 മീറ്റർ വീതിയിൽ ഒരു നടപ്പാത ഉണ്ട് . എങ്കിൽ നടപ്പാതയുടെ പരപ്പളവ് എത്ര ? ",
+    "answerText": " 104 ചതുരശ്ര സെ . മി "
+  },
+  {
+    "questionNum": 99216,
+    "questionText": " 88. 50 കുട്ടികളുള്ള ഒരു ക് ‌ ളാസിൽ നന്ദുവിന്റെ റാങ്ക് 20 ആണ് . എങ്കിൽ അവസാന റാങ്കിൽ നിന്നും നന്ദുവിന്റെ സ്ഥാനം എത്ര ? ",
+    "answerText": 31
+  },
+  {
+    "questionNum": 99217,
+    "questionText": " ബലം : ന്യുട്ടൺ ; പ്രവൃത്തി : ____ ",
+    "answerText": " ജൂൾ "
+  },
+  {
+    "questionNum": 99218,
+    "questionText": " കുട്ടത്തിൽ പെടാത്തത് ഏതാണ് ? ",
+    "answerText": 97
+  },
+  {
+    "questionNum": 99219,
+    "questionText": " കോവിലൻ എന്ന തൂലികാ നാമത്തിൽ അറിയപ്പെടുന്ന എഴുത്തുകാരൻ ? ",
+    "answerText": " വി . വി . അയ്യപ്പൻ "
+  },
+  {
+    "questionNum": 99220,
+    "questionText": " കെ . ആർ . മീരയ്ക്ക് കേന്ദ്ര സാഹിത്യ അക്കാദമി അവാർഡ് നേടിക്കൊടുത്ത കൃതി ? ",
+    "answerText": " ആരാച്ചാർ "
+  },
+  {
+    "questionNum": 99221,
+    "questionText": " Wireless radio communication was developed by?",
+    "answerText": " Guglielmo Marconi"
+  },
+  {
+    "questionNum": 99222,
+    "questionText": " First telecommunication device was?",
+    "answerText": " Telegraph"
+  },
+  {
+    "questionNum": 99223,
+    "questionText": " തദ്ധിതത്തിന് ‌ ഉദാഹരണം ? ",
+    "answerText": " തിന്മ "
+  },
+  {
+    "questionNum": 99224,
+    "questionText": " താഴെ തന്നിരിക്കുന്നവയിൽ ആദേശ സന്ധിക്ക് ഉദാഹരണം ? ",
+    "answerText": " നെന്മണി "
+  },
+  {
+    "questionNum": 99225,
+    "questionText": " താഴെ തന്നിരിക്കുന്നവയിൽ ശരിയായ വാക്യം ഏത് ? ",
+    "answerText": " അയാൾക്ക് ആകാശക്കാഴ്ചകൾ സദാ അവിശ്വസനീയമായി തോന്നിയിരുന്നു . "
+  },
+  {
+    "questionNum": 99226,
+    "questionText": " ശരിയായ പദം എടുത്തെഴുതുക . ",
+    "answerText": " യശഃശരീരൻ "
+  },
+  {
+    "questionNum": 99227,
+    "questionText": " വ്രീള എന്ന പദത്തിന്റെ അർത്ഥം : ",
+    "answerText": " ലജ്ജ "
+  },
+  {
+    "questionNum": 99228,
+    "questionText": "  അപ്പുക്കിളി  എന്ന കഥാപാത്രം ഏത് കൃതിയിലെ ആണ് ? ",
+    "answerText": " ഖസാക്കിന്റെ ഇതിഹാസം "
+  },
+  {
+    "questionNum": 99229,
+    "questionText": " ഐസ് ലാൻഡ് പ്രസിഡൻറ് ? ",
+    "answerText": " ഗുഡ്നി ജോഹാനെസൺ "
+  },
+  {
+    "questionNum": 99230,
+    "questionText": " കേന്ദ്ര വിനോദസഞ്ചാര മന്ത്രാലയത്തിൻറെ Incridible India പരിപാടിയുടെ ബ്രാൻഡ് അംബാസിഡർ ? ",
+    "answerText": " നരേന്ദ്ര മോദി "
+  },
+  {
+    "questionNum": 99231,
+    "questionText": " റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യയുടെ 24- ആമത് ഗവർണറായി നിയമിതനായത് ? ",
+    "answerText": " ഊർജിത് പട്ടേൽ "
+  },
+  {
+    "questionNum": 99232,
+    "questionText": " A Life in Diplomacy എന്ന പുസ്തകത്തിൻറെ രചയിതാവ് ? ",
+    "answerText": " മഹാരാജകൃഷ്ണ രസഗോത്ര "
+  },
+  {
+    "questionNum": 99233,
+    "questionText": " ആദ്യത്തെ ഇലക്ട്രിക്ക് റോഡ് നിലവിൽവന്ന രാജ്യം ? ",
+    "answerText": " സ്വീഡൻ "
+  },
+  {
+    "questionNum": 99234,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ ഇ - കോടതി ഏത് ഹൈക്കോടതിയിലാണ് ആരംഭിച്ചത് ? ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 99235,
+    "questionText": " തമിഴ് രത്ന പുരസ്കാരത്തിന് അർഹനായത് ആര് ? ",
+    "answerText": " എ . ആർ . റഹ്മാൻ "
+  },
+  {
+    "questionNum": 99236,
+    "questionText": " ഇന്ത്യൻ പാർലമെന്റ് മന്ദിരത്തിന്റെ സുരക്ഷ വർദ്ധിപ്പിക്കുന്നതിനായി ആഭ്യന്തര മന്ത്രാലയം ആരംഭിക്കുന്ന പദ്ധതി ഏത് ? ",
+    "answerText": " ഓപ്പറേഷൻ ഗോൾഡൻ നോസ് "
+  },
+  {
+    "questionNum": 99237,
+    "questionText": " The frequencies transmitted by TV station is called?",
+    "answerText": " Channel"
+  },
+  {
+    "questionNum": 99238,
+    "questionText": " സംസ്ഥാന ബാലസാഹിത്യ ഇൻസ്റ്റിറ്റ്യൂട്ട് അധ്യക്ഷനായി നിയമിതനായത് ? ",
+    "answerText": " പള്ളിയറ ശ്രീധരൻ "
+  },
+  {
+    "questionNum": 99239,
+    "questionText": " നാഷണൽ സ്ക്വാഷ് ചാമ്പ്യൻഷിപ്പ് വനിതാ വിഭാഗം വിജയി ? ",
+    "answerText": " ദീപികാ പള്ളിക്കൽ "
+  },
+  {
+    "questionNum": 99240,
+    "questionText": " ആസ്ട്രേടാനോട്ടിക്കൽ സൊസൈറ്റി ഓഫ് ഇന്ത്യയുടെ ആര്യഭട്ട അവാർഡ് ലഭിച്ചതാർക്ക് ? ",
+    "answerText": " അവിനാശ്ചന്ദർ "
+  },
+  {
+    "questionNum": 99241,
+    "questionText": " 2016- ലെ ബർലിൻ അന്താരാഷ്ട ചലച്ചിത്ര മേളയിൽ മികച്ച കുട്ടികളുടെ ചിത്രമായി തിരഞ്ഞെടുക്ക പ്പെട്ട മലയാള സിനിമ ? ",
+    "answerText": "  ഒറ്റാൽ  ( സംവിധാനം ജയരാജ് ) "
+  },
+  {
+    "questionNum": 99242,
+    "questionText": " 2016 - ലെ അണ്ടർ 19 ലോക ക്രിക്കറ്റ് ജേതാ വ് ആരാണ് ",
+    "answerText": " വെസ്റ്റിൻഡീസ് . "
+  },
+  {
+    "questionNum": 99243,
+    "questionText": " ദേശീയ മനുഷ്യാവകാശ കമ്മിഷൻ ചെയർമാൻ ? ",
+    "answerText": " എച്ച് . എൽ . ദത്തു "
+  },
+  {
+    "questionNum": 99244,
+    "questionText": " ഈയിടെ അന്തരിച്ച എസ് . ആർ . നാഥൻ ഏത് രാജ്യത്തെ മുൻ പ്രസിഡൻറ് ആണ് ? ",
+    "answerText": " സിംഗപ്പൂർ "
+  },
+  {
+    "questionNum": 99245,
+    "questionText": " 2016 - ലെ ദക്ഷിണേഷ്യൻ ഗെയിംസ് നടന്ന നഗരങ്ങൾ ? ",
+    "answerText": " ഗുവാഹട്ടി , ഷില്ലോംഗ് "
+  },
+  {
+    "questionNum": 99246,
+    "questionText": " ഇന്ത്യയിലെ ഓസ്ട്രേലിയൻ ഹൈ ക്കമ്മീഷണറായി നിയമിക്കപ്പെട്ട ഇന്ത്യൻ വംശജ ? ",
+    "answerText": " ഹരിന്ദർ സിദ്ദ "
+  },
+  {
+    "questionNum": 99247,
+    "questionText": "  സൂര്യകിരൺ ; എന്ന പേരിൽ സംയുക്ത സൈനികാഭ്യാസം നടത്തിയത് ഏതൊക്കെ രാജ്യങ്ങൾ ചേർന്നാണ് ? [ sooryakiran ; enna peril samyuktha synikaabhyaasam nadatthiyathu ethokke raajyangal chernnaanu ?]",
+    "answerText": " ഇന്ത്യയും നേപ്പാളും . "
+  },
+  {
+    "questionNum": 99248,
+    "questionText": " നാഷണൽ പോപ്പുലേഷൻ റെജിസ്റ്റർ ആരംഭിച്ച സംസ്ഥാനം ഏത് ? ",
+    "answerText": " നാഗാലാൻഡ് "
+  },
+  {
+    "questionNum": 99249,
+    "questionText": " UNESCO Artist for Peace ആയി തിരഞ്ഞെടുക്കപ്പെട്ടത് ? ",
+    "answerText": " കുഡ്ഢിർ എർഗുനർ "
+  },
+  {
+    "questionNum": 99250,
+    "questionText": " ഫിഫയുടെ പുതിയ പ്രസിഡൻറ് ? ",
+    "answerText": " ജിയാനി ഇൻഫൻറിനോ ( സ്വിറ്റ് സർലൻഡ് ) "
+  },
+  {
+    "questionNum": 99251,
+    "questionText": " ലോകത്ത് ആദ്യമായി സൗരോർ ജത്തിൽ പ്രവർത്തിക്കുന്ന പാർല മെൻറ് മന്ദിരം ഏത് രാജ്യത്തിന്റേറതാണ് ? ",
+    "answerText": " പാകിസ്താൻ "
+  },
+  {
+    "questionNum": 99252,
+    "questionText": " 2016 - ലെ വേൾഡ് സ് ‌ പൈസ് കോൺഗ്രസ്സ് എവിടെവെച്ചായിരു ന്നു ? ",
+    "answerText": " അഹമ്മദാബാദ് "
+  },
+  {
+    "questionNum": 99253,
+    "questionText": "  ഒരു ഗ്രാമത്തിന് ഒരു വിള  (One Village Crop) എന്ന പദ്ധതി ആരംഭിച്ച സംസ്ഥാനം ? ",
+    "answerText": " സിക്കിം "
+  },
+  {
+    "questionNum": 99254,
+    "questionText": " നാഷണൽ സ്ക്വാഷ് ചാമ്പ്യൻഷിപ്പ് പുരുഷ വിഭാഗം വിജയി ? ",
+    "answerText": " സൗരവ് ഘോഷൽ "
+  },
+  {
+    "questionNum": 99255,
+    "questionText": " സെൻസർ ബോർഡ് പരിഷ്കര ണവുമായി ബന്ധപ്പെട്ട് കേന്ദ്ര സർ ക്കാർ രൂപവത്കരിച്ച കമ്മിറ്റിയുടെ അധ്യക്ഷൻ ? ",
+    "answerText": " ശ്യാം ബനഗൽ "
+  },
+  {
+    "questionNum": 99256,
+    "questionText": " ഇന്ത്യ ഏതു രാജ്യവുമായി ചേർ ന്നാണ് നസിം അൽബാഹർ നാവി കാഭ്യാസം നടത്തിയത് ? ",
+    "answerText": " ഒമാൻ "
+  },
+  {
+    "questionNum": 99257,
+    "questionText": " 2016- ലെ തിലക്സ് സമ്മാൻ പുരസ്കാരത്തിന് ലഭിച്ചതാർക്ക് ? ",
+    "answerText": " ശരത് പവാർ "
+  },
+  {
+    "questionNum": 99258,
+    "questionText": " സമാധാനകാലത്ത് ഇന്ത്യ നൽകു ന്ന ഏറ്റവും ഉയർന്ന സൈനിക ബഹുമതിയായ അശോക ചക്രം ഏറ്റവുമൊടുവിൽ ലഭിച്ചത് ? ",
+    "answerText": " ഹവിൽദാർ ഹൻഗപൻ ദാദ ( മരണാനന്തരം ) "
+  },
+  {
+    "questionNum": 99259,
+    "questionText": " ഇന്ത്യയും ജപ്പാനും ബംഗാൾ ഉൾ ക്കടലിൽ നടത്തിയ സംയുക്ത കോസ്റ്റ് ഗാർഡ് അഭ്യാസം ? ",
+    "answerText": " സഹയോഗ് - കൈജിൻ . "
+  },
+  {
+    "questionNum": 99260,
+    "questionText": " ലോകത്തിലെ എറ്റവും വലിയ എയർ ക്രാഫ്റ്റ് ? ",
+    "answerText": " എയർലാൻഡർ 10 "
+  },
+  {
+    "questionNum": 99261,
+    "questionText": " ഫ്രാൻസിലെ Chevalier de LOrder et Lettres അർഹനായ സിനിമ അഭിനേതാവ് ? [Phraansile chevalier de lorder et lettres arhanaaya sinima abhinethaavu ?]",
+    "answerText": " കമൽഹാസൻ "
+  },
+  {
+    "questionNum": 99262,
+    "questionText": " 2016- ൽ മികച്ച ചിത്രങ്ങൾക്കുള്ളഗോൾഡൻ ഗ്ലോബ് അവാർഡ് നേടിയ സിനിമകൾ ? ",
+    "answerText": "  ദ റെവനൻറ് ,  ദ മാർഷ്യൻ  [ da revananru ,  da maarshyan ]"
+  },
+  {
+    "questionNum": 99263,
+    "questionText": " നിതി ആയോഗിന്റെ സി . ഇ . ഒ ? ",
+    "answerText": " അമിതാഭ്കാന്ത് "
+  },
+  {
+    "questionNum": 99264,
+    "questionText": " ഇൻറർനാഷണൽ ആർബിട്രേഷൻ കോടതിയുടെ സൗത്ത് ഏ ഷ്യാ ജോയിൻറ് ഡയറക്ടർ ആയി നിയമിക്കപ്പെട്ട ഇന്ത്യക്കാരൻ ? ",
+    "answerText": " അഭിനവ്ഭൂഷൺ "
+  },
+  {
+    "questionNum": 99265,
+    "questionText": " യാഹൂവിനെ ഏറ്റെടുത്ത അമേരിക്കൻ കമ്പനി ഏതാണ് ? ",
+    "answerText": " വെറൈസൺ "
+  },
+  {
+    "questionNum": 99266,
+    "questionText": " 2016- ലെ ഗ്ലോബൽ ഇന്നവേഷൻ ഇൻഡക്സസിൽ ഇന്ത്യയുടെ സ്ഥാനം ? ",
+    "answerText": 66
+  },
+  {
+    "questionNum": 99267,
+    "questionText": " അവശത്തെ അനുഭവിക്കുന്ന സ്ത്രീകൾക്കായി സഖി എന്നപേരിൽ സംഘടന ആരംഭിച്ച സംസ്ഥാനം ? ",
+    "answerText": " നാഗാലാൻഡ് "
+  },
+  {
+    "questionNum": 99268,
+    "questionText": " കോം പറ്റീഷൻ കമ്മിഷൻ ഒ ഫ് ഇന്ത്യയുടെ ചെയർമാൻ ? ",
+    "answerText": " ദേവേന്ദർ കുമാർ സിക്രി "
+  },
+  {
+    "questionNum": 99269,
+    "questionText": " ബി . സി . സി . ഐ . പരിഷ്കരണ ത്തിനുള്ള നിർദേശങ്ങൾ സമർപ്പി ക്കാൻ സുപ്രീം കോടതി നിയോഗി ച്ചത് ആരുടെ നേതൃത്വത്തിലുള്ള കമ്മിറ്റിയെയായിരുന്നു ? ",
+    "answerText": " ജസ്റ്റിസ് . ആർ . എം . ലോധ "
+  },
+  {
+    "questionNum": 99270,
+    "questionText": " റോഡപകടങ്ങൾ കുറയ്ക്കാനും യാത്ര സുരക്ഷ ഉറപ്പാക്കാനും ട്രാഫിക്സ് പോലീസ് തിരുവനന്തപുരം നഗരത്തിൽ നടപ്പിലാക്കുന്ന പദ്ധതി ? ",
+    "answerText": " ഓപ്പറേഷൻ സേഫ്റ്റി "
+  },
+  {
+    "questionNum": 99271,
+    "questionText": " ഏത് സംസ്ഥാനത്താണ് 2016- ൽ തുലുനി ഫെസ്റ്റിവൽ നടന്നത് ? ",
+    "answerText": " നാഗാലാൻഡ് "
+  },
+  {
+    "questionNum": 99272,
+    "questionText": " ജൈവകൃഷിക്ക് വേണ്ടിയുള്ള ഇന്ത്യയിലെ ആദ്യ സർവകലാശ സ്ഥാപിതമാകുന്നത് എവിടെ ? ",
+    "answerText": " ഗാന്ധിനഗർ , ഗുജറാത്ത് "
+  },
+  {
+    "questionNum": 99273,
+    "questionText": " For radio transmission BBC uses?",
+    "answerText": " Short waves"
+  },
+  {
+    "questionNum": 99274,
+    "questionText": " Short waves ranging from 14mto 60m are used for?",
+    "answerText": " International communication"
+  },
+  {
+    "questionNum": 99275,
+    "questionText": " The waves which travel long distances without loss in intensity?",
+    "answerText": " Short waves (14m to 60m)"
+  },
+  {
+    "questionNum": 99276,
+    "questionText": " Electro magnetic spectrum between 30MHzand 300 MHz is called?",
+    "answerText": " VHF"
+  },
+  {
+    "questionNum": 99277,
+    "questionText": " VHF is used in?",
+    "answerText": " Radio Transmission and Radar"
+  },
+  {
+    "questionNum": 99278,
+    "questionText": " Frequency ranging from 300 MHZ to 3 GHz is called?",
+    "answerText": " VHF"
+  },
+  {
+    "questionNum": 99279,
+    "questionText": " Full form of Telex is?",
+    "answerText": " Teleprinter Exchange"
+  },
+  {
+    "questionNum": 99280,
+    "questionText": " The device used for communicating the text and images through telephone lines?",
+    "answerText": " Fax machine"
+  },
+  {
+    "questionNum": 99281,
+    "questionText": " The device used to convert audio frequency signals into sound?",
+    "answerText": " Loudspeaker"
+  },
+  {
+    "questionNum": 99282,
+    "questionText": " The instrument which has ability to convert sound into magnetic energy?",
+    "answerText": " Tape recorder"
+  },
+  {
+    "questionNum": 99283,
+    "questionText": " The phenomenon of attraction of a substance by a magnet is called?",
+    "answerText": " Magnetism"
+  },
+  {
+    "questionNum": 99284,
+    "questionText": " A naturally occurring magnet?",
+    "answerText": " Lodestone"
+  },
+  {
+    "questionNum": 99285,
+    "questionText": " Magnetism was first discovered in?",
+    "answerText": " Lodestone"
+  },
+  {
+    "questionNum": 99286,
+    "questionText": " Every magnet has two poles, they are?",
+    "answerText": " A North pole and a South pole"
+  },
+  {
+    "questionNum": 99287,
+    "questionText": " Like poles of a magnet …. and unlike poles……?",
+    "answerText": " repel; attract"
+  },
+  {
+    "questionNum": 99288,
+    "questionText": " The field around a magnet where its magnetic effect is felt?",
+    "answerText": " Magnetic field."
+  },
+  {
+    "questionNum": 99289,
+    "questionText": " Permanent magnet is made up of?",
+    "answerText": " Alnico"
+  },
+  {
+    "questionNum": 99290,
+    "questionText": " Electromagnet is made up of?",
+    "answerText": " Pure Iron"
+  },
+  {
+    "questionNum": 99291,
+    "questionText": " Molecular theory of magnetism was proposed by?",
+    "answerText": " Weber"
+  },
+  {
+    "questionNum": 99292,
+    "questionText": " The magnetism of a substance decreases while on?",
+    "answerText": " Heating or hammering"
+  },
+  {
+    "questionNum": 99293,
+    "questionText": " ഇന്ത്യൻ സ്വാതന്ത്ര്യ സമരത്തിലെ ഒന്നാമത്തെ ആൾ എന്ന വിശേഷണമുളളത് ആർക്ക് ? ",
+    "answerText": " ബാലഗംഗാധര തിലകൻ ... "
+  },
+  {
+    "questionNum": 99294,
+    "questionText": " In a magnet the magnetic line of force are from?",
+    "answerText": " North to South pole"
+  },
+  {
+    "questionNum": 99295,
+    "questionText": " Artificial magnets made by the use of electricity are called?",
+    "answerText": " Electromagnets"
+  },
+  {
+    "questionNum": 99296,
+    "questionText": " The instruments which are dependent of magnetic power of electricity are?",
+    "answerText": " Fan; telephone receiver; dynamo etc"
+  },
+  {
+    "questionNum": 99297,
+    "questionText": " The scientist who stated that the earth behaves as a huge magnet?",
+    "answerText": " William Gilbert"
+  },
+  {
+    "questionNum": 99298,
+    "questionText": " A Magnetic force of attraction at the centre of bar magnet?",
+    "answerText": " Zero"
+  },
+  {
+    "questionNum": 99299,
+    "questionText": " സ്വദേശി പ്രസ്ഥാനവുമായി ബന്ധപ്പെട്ട് ‘ ബംഗാൾ സ്വദേശി സ്റ്റോഴ്സ് ’ സ്ഥാപിച്ചതാരാണ് ? ",
+    "answerText": " പി . സി . റോയ് ... "
+  },
+  {
+    "questionNum": 99300,
+    "questionText": " നാനാത്വത്തിൽ അധിഷ്ഠിതമായ ഒരു ഏകത്വമാണ് ഇന്ത്യയിൽ ’– ഇങ്ങനെ അഭിപ്രായപ്പെട്ടതാര് ? ",
+    "answerText": " രവീന്ദ്രനാഥ ടഗോർ ... "
+  },
+  {
+    "questionNum": 99301,
+    "questionText": " A coil of insulated wire bound on a rod shaped form made of solid iron is called?",
+    "answerText": " Solenoid"
+  },
+  {
+    "questionNum": 99302,
+    "questionText": " The unit of magnetic flux density?",
+    "answerText": " Tesla"
+  },
+  {
+    "questionNum": 99303,
+    "questionText": " Unit of magnetic flux?",
+    "answerText": " Weber"
+  },
+  {
+    "questionNum": 99304,
+    "questionText": " Substances acquire strong magnetism in the direction of magnetic field?",
+    "answerText": " Ferromagnetic substances eg: Nickel; Iron; Cobalt"
+  },
+  {
+    "questionNum": 99305,
+    "questionText": " Strongest type of magnetism?",
+    "answerText": " Ferro magnetism"
+  },
+  {
+    "questionNum": 99306,
+    "questionText": " സ്വാതന്ത്ര്യാനന്തരം നാട്ടുരാജ്യങ്ങളുടെ സംയോജനത്തിനു നേതൃത്വം നൽകിയ നേതാവ് ? ",
+    "answerText": " സർദാർ വല്ലഭായ് പട്ടേൽ ... "
+  },
+  {
+    "questionNum": 99307,
+    "questionText": " Refrigerator magnet is?",
+    "answerText": " Ferro magnet"
+  },
+  {
+    "questionNum": 99308,
+    "questionText": " ‘ എനിക്ക് രക്തം തരൂ . ഞാൻ നിങ്ങൾക്കു സ്വാതന്ത്ര്യം നേടിത്തരാം ’’ എന്നു പറഞ്ഞ നേതാവ് ? ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 99309,
+    "questionText": " Ferro magnetism was discovered by?",
+    "answerText": " Louis Neel"
+  },
+  {
+    "questionNum": 99310,
+    "questionText": " Substance acquire feeble magnetism in the direction of magnetic field is called?",
+    "answerText": " Paramagnetic Substances eg: Platinum; Oxygen; manganese etc"
+  },
+  {
+    "questionNum": 99311,
+    "questionText": " Paramagnetic substances is temperature dependent Substances acquire weak magnetism in the direction opposite to the magnetic field is called?",
+    "answerText": " Diamagnetic substances eg: inert gases; alcohol; copper; gold; water; hydrogen etc."
+  },
+  {
+    "questionNum": 99312,
+    "questionText": " Substance used for making electromagnets is?",
+    "answerText": " Soft iron"
+  },
+  {
+    "questionNum": 99313,
+    "questionText": " Electromagnets are used in?",
+    "answerText": " Electric bells; telephones and telegraphs"
+  },
+  {
+    "questionNum": 99314,
+    "questionText": " An object made from a material that is magnetized and creates its own persistent magnetic field is called ?",
+    "answerText": " Permanent magnet"
+  },
+  {
+    "questionNum": 99315,
+    "questionText": " Powerful permanent magnets are made from?",
+    "answerText": " Alnico"
+  },
+  {
+    "questionNum": 99316,
+    "questionText": " Alnico is an alloy of?",
+    "answerText": " Aluminium; Nickel; Cobalt and Iron"
+  },
+  {
+    "questionNum": 99317,
+    "questionText": " Some organisms can detect magnetic field. This ability is called?",
+    "answerText": " Magnetoception"
+  },
+  {
+    "questionNum": 99318,
+    "questionText": " ‘ ഈ അർധരാത്രിയിൽ ലോകം ഉറങ്ങിക്കിടക്കുമ്പോൾ ഇന്ത്യ സ്വാതന്ത്ര്യത്തിലേക്കും ജീവിതത്തിലേക്കും ഉണരുകയാണ് ’ – ആരുടേതാണ് ഈ വാക്കുകൾ ? ",
+    "answerText": " ജവഹർലാൽ നെഹ്റു ... "
+  },
+  {
+    "questionNum": 99319,
+    "questionText": " ജാലിയൻ വാലാബാഗ് കൂട്ടക്കൊലയ്ക്ക പ്രതികാരമായി സർ മൈക്കൽ ഒ . ഡയറിനെ വധിച്ചതാര് ? ",
+    "answerText": " ഉദം സിങ് ... "
+  },
+  {
+    "questionNum": 99320,
+    "questionText": " Technique using a powerful magnetic field to diagnose and treat diseases?",
+    "answerText": " MRI (Magnetic Resonance imaging)"
+  },
+  {
+    "questionNum": 99321,
+    "questionText": " A magnet made by binding insulated copper wire over a soft iron piece and passing an electric current through the wire is called?",
+    "answerText": " Electro magnet (temporary magnet)"
+  },
+  {
+    "questionNum": 99322,
+    "questionText": " Bulbs are usually called as?",
+    "answerText": " Filament lamps or Incandescent lamps"
+  },
+  {
+    "questionNum": 99323,
+    "questionText": " Gases used to fill inside a filament lamp?",
+    "answerText": " Argon; Nitrogen"
+  },
+  {
+    "questionNum": 99324,
+    "questionText": " യു . എന്നിന്റെ മുൻഗാമി എന്നറിയപ്പെടുന്ന സംഘടനയേത് ? ",
+    "answerText": " സർവ്വരാജ്യ സഖ്യം "
+  },
+  {
+    "questionNum": 99325,
+    "questionText": " സർവ്വ രാജ്യ സഖ്യം രൂപം കൊണ്ടത് എത് വർഷമാണ് ? ",
+    "answerText": 1919
+  },
+  {
+    "questionNum": 99326,
+    "questionText": " സർവ്വ രാജ്യ സഖ്യത്തിന്റെ പിരിച്ചുവിട്ടത് ഏത് വർഷമാണ് ? ",
+    "answerText": " 1946 ഏപ്രിൽ 18 "
+  },
+  {
+    "questionNum": 99327,
+    "questionText": " സർവ്വ രാജ്യ സഖ്യത്തിന്റെ രൂപീകണ സമ്മേളനം നടന്നതെവിടെ ? ",
+    "answerText": " പാരിസ് "
+  },
+  {
+    "questionNum": 99328,
+    "questionText": " സർവ്വ രാജ്യ സഖ്യത്തിന്റെ ആദ്യ സമ്മേളനം നടന്നതെവിടെ ? ",
+    "answerText": " ലണ്ടൻ (1920) "
+  },
+  {
+    "questionNum": 99329,
+    "questionText": " സർവ്വ രാജ്യ സഖ്യത്തിന്റെ സ്ഥിരം ആസ്ഥാനം എവിടെ ആയിരുന്നു ? ",
+    "answerText": " ജനീവ "
+  },
+  {
+    "questionNum": 99330,
+    "questionText": " സർവ രാജ്യ സഖ്യത്തിന്റെ ആദ്യത്തെ സെക്രട്ടറി ജനറൽ ആരായിരുന്നു .? ",
+    "answerText": " സർ ജെയിംസ് എറിക്ക് ഡ്രമ്മണ്ട് "
+  },
+  {
+    "questionNum": 99331,
+    "questionText": " പാർലമെൻറിൽ ഏത് സഭ യിലാണ് ബജറ്റുകൾ അവതരി പ്പിക്കുന്നത് ? ",
+    "answerText": " ലോകസഭ "
+  },
+  {
+    "questionNum": 99332,
+    "questionText": " പാർലമെൻറിൽ ഏത് സഭ യിൽ മാത്രമാണ് മണി ബിൽ അവതരിപ്പിക്കാനാവുക ? ",
+    "answerText": " ലോകസഭ "
+  },
+  {
+    "questionNum": 99333,
+    "questionText": " ഒരു ബിൽ മണിബില്ലാണോ എ ന്നു തീരുമാനിക്കാനുള്ള അധി കാരം ആർക്കാണ് ? ",
+    "answerText": " ലോകസഭാ സ്പീക്കർ "
+  },
+  {
+    "questionNum": 99334,
+    "questionText": " ഏറ്റവുമധികം ലോകസഭാ മണ്ഡലങ്ങളുള്ള സംസ്ഥാനമേത് ? ",
+    "answerText": " ഉത്തർപ്രദേശ് "
+  },
+  {
+    "questionNum": 99335,
+    "questionText": " Life-span of filament lamp?",
+    "answerText": " 1000 hours"
+  },
+  {
+    "questionNum": 99336,
+    "questionText": " ലോകസഭയുടെ ആദ്യത്തെ സ്പീക്കർ ആരായിരുന്നു ? ",
+    "answerText": " ജി . വി . മാവ് ലങ്കാർ "
+  },
+  {
+    "questionNum": 99337,
+    "questionText": " സ്പീക്കറും ഡെപ്യൂട്ടി സ്പീക്കറും ഇല്ലാത്തപ്പോൾ സഭാനടപടികൾ നിയന്ത്രിക്കുന്നതാര് ? ",
+    "answerText": " ചെയർമാൻമാരുടെ പാനലിൽ ഉൾപ്പെട്ടയാൾ "
+  },
+  {
+    "questionNum": 99338,
+    "questionText": " The material used for making filament of the bulb?",
+    "answerText": " Tungsten"
+  },
+  {
+    "questionNum": 99339,
+    "questionText": " Examples of discharge lamps are?",
+    "answerText": " Compact fluorescent lamp; Tube lights; vapour lamps"
+  },
+  {
+    "questionNum": 99340,
+    "questionText": " ലോകസഭയിലെ ആദ്യത്തെ അംഗീകൃത പ്രതിപക്ഷ നേതാവാര ? ",
+    "answerText": " ഡോ . രാംസുഭഗ് സിങ് "
+  },
+  {
+    "questionNum": 99341,
+    "questionText": " ഇന്ത്യൻ ഭരണഘടനയുടെ മുഖ്യ ശില്പി ? ",
+    "answerText": " ഡോ . ഭീംറാവു റാംജി അംബേദ്കർ "
+  },
+  {
+    "questionNum": 99342,
+    "questionText": " എന്നാണ് ഇന്ത്യൻ ഭരണഘടന നിലവിൽ വന്ന ദിവസം ? ",
+    "answerText": " 1950 ജനുവരി 26 "
+  },
+  {
+    "questionNum": 99343,
+    "questionText": " Average life span of fluorescent lamps?",
+    "answerText": " 5000 hours"
+  },
+  {
+    "questionNum": 99344,
+    "questionText": " ലോകസഭയുടെ ആദ്യത്തെ സ മേളനം നടന്നതെന്ന് ? ",
+    "answerText": " 1952 മെയ് 13 "
+  },
+  {
+    "questionNum": 99345,
+    "questionText": " A mixture of Argon and Mercury gases are filled in?",
+    "answerText": " Fluorescent lamps"
+  },
+  {
+    "questionNum": 99346,
+    "questionText": " Phosphor - coating material used in?",
+    "answerText": " Fluorescent lamps"
+  },
+  {
+    "questionNum": 99347,
+    "questionText": " ആദ്യത്തെ ലോകസഭാ തിരഞ്ഞെടുപ്പ് നടന്നതെന്ന് ? ",
+    "answerText": " 1951 ഒക്ടോബർ 25 മുതൽ 1952 ഫിബ്രവരി 21 വരെ "
+  },
+  {
+    "questionNum": 99348,
+    "questionText": " Lamps used in advertisement boards?",
+    "answerText": " Neon vapour lamps"
+  },
+  {
+    "questionNum": 99349,
+    "questionText": " ഒന്നാം ലോകസഭ നിലവിൽ വ രുന്നതുവരെ പാർലമെൻറാ യി നിലകൊണ്ടന്ത് ? ",
+    "answerText": " ഭരണഘടനാ നിർമാണസഭ "
+  },
+  {
+    "questionNum": 99350,
+    "questionText": " Energy efficient in lamps means they consume Low energy Electric bulb was Invented by?",
+    "answerText": " Thomas Alva Edison"
+  },
+  {
+    "questionNum": 99351,
+    "questionText": " ലോകസഭാംഗമാവാൻ വേണ്ട കുറഞ്ഞ പ്രായമെത്ര ? ",
+    "answerText": " 25 വയസ്സ് "
+  },
+  {
+    "questionNum": 99352,
+    "questionText": " ലോകസഭയിൽ ക്വാറം തിക യാൻ എത്ര അംഗങ്ങൾ സന്നി ഹിതരാവണം ? ",
+    "answerText": " ആകെ അംഗങ്ങളുടെ പത്തിലൊന്ന് "
+  },
+  {
+    "questionNum": 99353,
+    "questionText": " ഏറ്റവും കൂടുതൽ കാലം ലോ കസഭാ സ്പീക്കറായിരുന്നിട്ടു ള്ളതാര് ? ",
+    "answerText": " ബൽറാം തന്ധാക്കർ "
+  },
+  {
+    "questionNum": 99354,
+    "questionText": " എത്ര ലോകസഭാ മണ്ഡലങ്ങ ളാണ് കേരളത്തിൽ നിന്നുമു ള്ളത് ? ",
+    "answerText": 20
+  },
+  {
+    "questionNum": 99355,
+    "questionText": " Electrical oscillation was invented by?",
+    "answerText": " Heinrich Hertz"
+  },
+  {
+    "questionNum": 99356,
+    "questionText": " പ്രാഥമിക വിദ്യാഭ്യാസം മൗലികാവകാശമാക്കിയത് ഏത് ഭരണഘടനാ ഭേദഗതിയിലൂടെ ? ",
+    "answerText": " 86 മത് ഭേദഗതി "
+  },
+  {
+    "questionNum": 99357,
+    "questionText": " ഭരണഘടനാ ഭേദഗതികളെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന വകുപ്പ് ? ",
+    "answerText": " ആർട്ടിക്കിൾ 368 "
+  },
+  {
+    "questionNum": 99358,
+    "questionText": " ഭാരതത്തിന്റെ ആദ്യ നിയമമന്ത്രി ? ",
+    "answerText": " ബി . ആർ . അംബേദ്കർ "
+  },
+  {
+    "questionNum": 99359,
+    "questionText": "  ഇന്ത്യൻ ഭരണഘടനയുടെ കാവൽക്കാരൻ  എന്നറിയപ്പെടുന്നത് ? ",
+    "answerText": " സുപ്രീം കോടതി "
+  },
+  {
+    "questionNum": 99360,
+    "questionText": " National energy conservation day?",
+    "answerText": " December 14"
+  },
+  {
+    "questionNum": 99361,
+    "questionText": " പണ്ഡിറ്റ് ",
+    "answerText": " ജവഹർലാൽ നെഹ്റു "
+  },
+  {
+    "questionNum": 99362,
+    "questionText": " The electricity carrying cables buried underground made of?",
+    "answerText": " Copper"
+  },
+  {
+    "questionNum": 99363,
+    "questionText": " ഭരണഘടനയുടെ എട്ടാംഷെഡ്യൂളില് ‍ ഉള് ‍ പ്പെട്ടിട്ടുള്ള ഭാഷകള് ‍ എത്ര ? ",
+    "answerText": 22
+  },
+  {
+    "questionNum": 99364,
+    "questionText": " ഭരണഘടനയുടെ ഏതു പട്ടികയിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്ന നിയമങ്ങളെയാണ് മൗലിക അവകാശങ്ങളുടെ ലംഘനം എന്ന കാരണത്താൽ കോടതിയിൽ ചോദ്യം ചെയ്യാൻ സാധിക്കാത്തത് ? ",
+    "answerText": " 9- ാം പട്ടിക "
+  },
+  {
+    "questionNum": 99365,
+    "questionText": " Colour of Argon vapour lamp is?",
+    "answerText": " Purple"
+  },
+  {
+    "questionNum": 99366,
+    "questionText": " ഇന്ത്യൻ പ്രസിഡന്റിന് സത്യപ്രതിജ്ഞാവാചകം ചൊല്ലിക്കൊടുക്കുന്നതാരാണ് ? ",
+    "answerText": " സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസ് "
+  },
+  {
+    "questionNum": 99367,
+    "questionText": " ഭാഷാടിസ്ഥാനത്തിൽ ഇന്ത്യൻ സംസ്ഥാനങ്ങളുടെ പുനഃസംഘടന നിലവിൽ വന്നത് എന്നാണ് ? ",
+    "answerText": " 1956 നവംബർ 1 "
+  },
+  {
+    "questionNum": 99368,
+    "questionText": " Colour of Chlorine vapour lamp is?",
+    "answerText": " Green"
+  },
+  {
+    "questionNum": 99369,
+    "questionText": " Colour of Mercury vapour lamp is?",
+    "answerText": " White"
+  },
+  {
+    "questionNum": 99370,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും ഉയർന്ന കോടതി ? ",
+    "answerText": " സുപ്രീം കോടതി "
+  },
+  {
+    "questionNum": 99371,
+    "questionText": " Colour of Nitrogen vapour lamp is?",
+    "answerText": " Red"
+  },
+  {
+    "questionNum": 99372,
+    "questionText": " Colour of Neon vapour lamp is?",
+    "answerText": " Orange"
+  },
+  {
+    "questionNum": 99373,
+    "questionText": " Colour of Sodium vapour lamp is?",
+    "answerText": " Yellow"
+  },
+  {
+    "questionNum": 99374,
+    "questionText": " ഇന്ത്യന് ‍ ഭരണഘടനയ്ക്ക് എത്ര ഭാഗങ്ങളാണുള്ളത് ? ",
+    "answerText": " 25 ഭാഗങ്ങൾ "
+  },
+  {
+    "questionNum": 99375,
+    "questionText": " Colour of Hydrogen vapour lamp is?",
+    "answerText": " Blue"
+  },
+  {
+    "questionNum": 99376,
+    "questionText": " മിനി കോണ് ‍ സ്റ്റിറ്റ്യൂഷന് ‍ എന്നറിയപ്പെടുന്ന ഭരണഘടനാ ഭേദഗതി ? ",
+    "answerText": " 42 മത് ഭേദഗതി "
+  },
+  {
+    "questionNum": 99377,
+    "questionText": " സുപ്രീം കോടതി ചീഫ് ജസ്റ്റിസ്സിന്റെ വിരമിക്കല് ‍ പ്രായം ? ",
+    "answerText": " 65 വയസ്സ് "
+  },
+  {
+    "questionNum": 99378,
+    "questionText": " The production of ail electromotive force (voltage) across an electrical conductor due to its dynamic interaction with a magnetic field is called?",
+    "answerText": " Electromagnetic Induction"
+  },
+  {
+    "questionNum": 99379,
+    "questionText": " ഇന്ത്യയിൽ ഹൈക്കോടതി ജഡ്ജിമാരുടെ നിയമനം നടത്തുന്നതാരാണ് ? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 99380,
+    "questionText": " ഭരണഘടനയുടെ 51 എ വകുപ്പ് പ്രകാരം ഉള് ‍ പ്പെടുത്തിയത് ? ",
+    "answerText": " മൗലിക കര് ‍ ത്തവ്യങ്ങള് ‍ "
+  },
+  {
+    "questionNum": 99381,
+    "questionText": " ആരാണ് ‌ മൗലിക അവകാശങ്ങളുടെ ശില്പി ? ",
+    "answerText": " സർദാർ വല്ലഭായ് പട്ടേൽ "
+  },
+  {
+    "questionNum": 99382,
+    "questionText": " Electromagnetic induction was proposed by?",
+    "answerText": " Michael Faraday"
+  },
+  {
+    "questionNum": 99383,
+    "questionText": " Transformers, Microphones, Induction coil, Generators, Motors, Induction coil work on the principle of?",
+    "answerText": " Faraday's law of Electromagnetic Induction"
+  },
+  {
+    "questionNum": 99384,
+    "questionText": " ഇന്ത്യയുടെ രണ്ടാമത്തെ നിയമ ഓഫീസർ ആരാണ് ‌ ? ",
+    "answerText": " സോളിസിറ്റർ ജനറൽ "
+  },
+  {
+    "questionNum": 99385,
+    "questionText": " എത്ര ലോകസഭാ തിരഞെടു പ്പുകൾ ഇതുവരെ (2014 ജനവ രി ) നടന്നിട്ടുണ്ട് ? ",
+    "answerText": 15
+  },
+  {
+    "questionNum": 99386,
+    "questionText": " നിലവിൽ ലോകസഭയിലെ അംഗസംഖ്യ എത്രയാണ് ? ",
+    "answerText": 545
+  },
+  {
+    "questionNum": 99387,
+    "questionText": " പാർലമെൻറിലെ ജനപ്രതിനിധി സഭയേത് ? ",
+    "answerText": " ലോകസഭ "
+  },
+  {
+    "questionNum": 99388,
+    "questionText": " പുതിയ ലോകസഭ സമ്മേളി ക്കുമ്പോൾ അംഗങ്ങൾ സത്യ പ്ര തിജ്ഞ ചെയ്യുന്ന ചടങ്ങിലും സ്പീക്കറെ തിരഞ്ഞെടുക്കുന്ന തിലും നടപടികൾ നിയന്ത്രിക്കുന്ന താര് ? ",
+    "answerText": " പ്രോട്ടേം സ്പീക്കർ "
+  },
+  {
+    "questionNum": 99389,
+    "questionText": " ലോകസഭ . രാജ്യസഭ എന്നിവ യുടെ സംയുക്തസമ്മേള നത്തിൽ ആധ്യക്ഷ്യം വഹിക്കു ന്നതാര് ? ",
+    "answerText": " ലോകസഭാ സ്പീക്കർ "
+  },
+  {
+    "questionNum": 99390,
+    "questionText": " ലോകസഭയിലെ പരവതാനി യുടെ നിറമെന്ത് ? ",
+    "answerText": " പച്ച "
+  },
+  {
+    "questionNum": 99391,
+    "questionText": " ഇന്ത്യൻ പ്രധാനമന്ത്രിയാവാൻ എത്ര വയസ് തികഞ്ഞിരിക്ക ണം ? ",
+    "answerText": 25
+  },
+  {
+    "questionNum": 99392,
+    "questionText": " ലോകസഭാംഗങ്ങളുടെ എണ്ണ ത്തിൽ രണ്ടാംസ്ഥാനത്തള്ള സംസ്ഥാനമേത് ? ",
+    "answerText": " മഹാരാഷ്ട "
+  },
+  {
+    "questionNum": 99393,
+    "questionText": " അവിശ്വാസപ്രമേയം അവതരി പ്പിക്കുന്നത് പാർലമെൻറിൽ ഏത് സഭയിലാണ് ? ",
+    "answerText": " ലോകസഭ "
+  },
+  {
+    "questionNum": 99394,
+    "questionText": " ലോകസഭയുടെ സാധാരണ കാലാവധിയെത്ര ? ",
+    "answerText": " 5 വർഷം "
+  },
+  {
+    "questionNum": 99395,
+    "questionText": " പ്രോട്ടേം സ്പീക്കർ നിയമിക്കു ന്താര് ? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 99396,
+    "questionText": " ഏതു വിഭാഗത്തിൽപെട്ടവരെ യാണ് ലോകസഭയിലേക്ക് നാമനിർദേശം ചെയ്യുന്നത് ? ",
+    "answerText": " ആംഗ്ലോ ഇന്ത്യൻ "
+  },
+  {
+    "questionNum": 99397,
+    "questionText": " ഭരണഘടനപ്രകാരം ലോകസ ഭയിലെ അംഗസംഖ്യ എത്രവരെയാകാം ? ",
+    "answerText": 552
+  },
+  {
+    "questionNum": 99398,
+    "questionText": " എത്ര പേരെയാണ് ലോകസഭ യിലേക്ക് രാഷ്ട്രപതി നാമനിർ ദേശം ചെയ്യുന്നത് ? ",
+    "answerText": 2
+  },
+  {
+    "questionNum": 99399,
+    "questionText": " എന്തൊക്കെ ചേരുന്നതാണ് ഇന്ത്യൻ പാർലമെൻറ് ? ",
+    "answerText": " രാഷ്ട്രപതി , ലോകസഭ , രാജ്യസഭ "
+  },
+  {
+    "questionNum": 99400,
+    "questionText": " A charge of current in neighbouring coil will induce (contribute) a voltage (emf) in a coil is termed as?",
+    "answerText": " Mutual Induction"
+  },
+  {
+    "questionNum": 99401,
+    "questionText": " ഹേബിയസ് കോർപ്പസിന്റെ എന്നതിന്റെ അർത്ഥം ? ",
+    "answerText": " ശരീരം ഹാജരാക്കുക "
+  },
+  {
+    "questionNum": 99402,
+    "questionText": " The coil in which current is changed is called?",
+    "answerText": " Primary coil"
+  },
+  {
+    "questionNum": 99403,
+    "questionText": " ഇന്ത്യയുടെ നിയമനിർമ്മാണ വിഭാഗത്തിന്റെ ഉപരിസമിതി ? ",
+    "answerText": " രാജ്യസഭ "
+  },
+  {
+    "questionNum": 99404,
+    "questionText": " പഞ്ചായത്ത് രാജ് ആദ്യമായി നടപ്പിലാക്കിയ സംസ്ഥാനം ? ",
+    "answerText": " രാജസ്ഥാന് ‍ "
+  },
+  {
+    "questionNum": 99405,
+    "questionText": " എന്നാണ് ഭരണഘടനാ നിർമ്മാണസഭ ഇന്ത്യൻ ഭരണഘടന അംഗീകരിച്ചത് ? ",
+    "answerText": " 1949 നവംബർ 26 "
+  },
+  {
+    "questionNum": 99406,
+    "questionText": " പഞ്ചായത്തീരാജ് , നഗരപാലിക നിയമങ്ങൾ നിലവിൽവന്നത് ഏതു വര്ഷം ? ",
+    "answerText": 1993
+  },
+  {
+    "questionNum": 99407,
+    "questionText": " The coil in which the e.m.f is produced is called?",
+    "answerText": " Secondary coil"
+  },
+  {
+    "questionNum": 99408,
+    "questionText": " 73-) മത് ഭരണഘടനാ ഭേദഗതിയിലൂടെ ഉള് ‍ പ്പെടുത്തിയ പട്ടിക ? ",
+    "answerText": 11
+  },
+  {
+    "questionNum": 99409,
+    "questionText": " Transformer, Generators works on the principle of?",
+    "answerText": " Mutual Induction"
+  },
+  {
+    "questionNum": 99410,
+    "questionText": " ലോക് സഭയുടെ രണ്ട് സമ്മേളനങ്ങൾക്കിടയിലുള്ള പരമാവധി കാലാവധി ? ",
+    "answerText": " 6 മാസം "
+  },
+  {
+    "questionNum": 99411,
+    "questionText": " എവിടെയാണ് ഭരണഘടനയിൽ സംയുക്തസമ്മേളനത്തെക്കുറിച്ച് പറഞ്ഞിരിക്കുന്നത് ? ",
+    "answerText": " അനുച്ഛേദം 108 "
+  },
+  {
+    "questionNum": 99412,
+    "questionText": " Energy conversion in Wax candle is?",
+    "answerText": " Chemical Energy to Heat and Light energies"
+  },
+  {
+    "questionNum": 99413,
+    "questionText": " ശരീരത്തിലെ രാസപ്രവർത്തനത്ത െ നിയന്ത്രിക്കുന്ന രാസവസ്തുക്കൾ? ",
+    "answerText": " എൻസൈമുകൾ "
+  },
+  {
+    "questionNum": 99414,
+    "questionText": " Energy conversion in Electric fan is?",
+    "answerText": " Electrical to Mechanical energy"
+  },
+  {
+    "questionNum": 99415,
+    "questionText": " സുപ്രീം കോടതി ചീഫ് ജസ്റ്റിസ് ? ",
+    "answerText": " ടി.എസ്.താക്കൂർ "
+  },
+  {
+    "questionNum": 99416,
+    "questionText": " അറ്റോർണി ജനറൽ ഓഫ് ഇന്ത്യ? ",
+    "answerText": " മുകുൾ റോഹത്ഗി "
+  },
+  {
+    "questionNum": 99417,
+    "questionText": " ആരാണ് ‌ ഇന്ത്യ ഗവൺമെന്റിന് ആവശ്യമായ നിയമോപദേശം നൽകുന്നത് ? ",
+    "answerText": " അറ്റോർണി ജനറൽ "
+  },
+  {
+    "questionNum": 99418,
+    "questionText": " ഉപരാഷ്ട്രപതിയെ തെരഞ്ഞടുക്കുന്നത് ? ",
+    "answerText": " പാര് ‍ ലമെന്റ് അംഗങ്ങള് ‍ "
+  },
+  {
+    "questionNum": 99419,
+    "questionText": " ദേശീയ മനുഷ്യാവകാശ കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " എച്. എൽ. ദത്തു "
+  },
+  {
+    "questionNum": 99420,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവുമുയർന്ന സമ്മാനത്തുകയുള്ള സാഹിത്യപുരസ്കാരം : ",
+    "answerText": " മാതൃഭൂമി സാഹിത്യപുരസ്കാരം "
+  },
+  {
+    "questionNum": 99421,
+    "questionText": " മാതൃഭൂമി സാഹിത്യപുരസ്കാരത്തിന്റെ സമ്മാനത്തുക ? ",
+    "answerText": " രണ്ടു ലക്ഷം രൂപ "
+  },
+  {
+    "questionNum": 99422,
+    "questionText": " മാതൃഭൂമി സാഹിത്യപുരസ്കാരം നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 2001
+  },
+  {
+    "questionNum": 99423,
+    "questionText": " പ്രഥമ മാതൃഭൂമി സാഹിത്യപുരസ്കാര ജേതാവ് : ",
+    "answerText": " തിക്കോടിയൻ(2001) "
+  },
+  {
+    "questionNum": 99424,
+    "questionText": " 2015-ലെ മാതൃഭൂമി സാഹിത്യപുരസ്കാര ജേതാവ് : ",
+    "answerText": " ടി. പത്മനാഭൻ "
+  },
+  {
+    "questionNum": 99425,
+    "questionText": " ജ്ഞാനപീഠ പുരസ്കാരം ലഭിച്ചതിന്റെ സ്മരണയ്ക്കായി ജി. ശങ്കരക്കുറുപ്പ് തുടങ്ങിയ അവാർഡ് : ",
+    "answerText": " ഓടക്കുഴൽ അവാർഡ് "
+  },
+  {
+    "questionNum": 99426,
+    "questionText": " ഓടക്കുഴൽ അവാർഡ് തുടങ്ങിയത് ആര് ? ",
+    "answerText": " ജി. ശങ്കരക്കുറുപ്പ് "
+  },
+  {
+    "questionNum": 99427,
+    "questionText": " ഓടക്കുഴൽ അവാർഡ് നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 1969
+  },
+  {
+    "questionNum": 99428,
+    "questionText": " പ്രഥമ ഓടക്കുഴൽ അവാർഡ് ജേതാവ് : ",
+    "answerText": " വെണ്ണിക്കുളം ഗോപാലക്കുറുപ്പ് "
+  },
+  {
+    "questionNum": 99429,
+    "questionText": " 2015-ലെ ഓടക്കുഴൽ അവാർഡ് ജേതാവ് : ",
+    "answerText": " എസ്. ജോസഫ്(ചന്ദ്രനോടൊപ്പം) "
+  },
+  {
+    "questionNum": 99430,
+    "questionText": " 2015-ലെ ഓടക്കുഴൽ അവാർഡ് ലഭിച്ച കൃതി ? ",
+    "answerText": " ‘ചന്ദ്രനോടൊപ്പം’(എസ്. ജോസഫ്) "
+  },
+  {
+    "questionNum": 99431,
+    "questionText": " എസ്. ജോസഫിനെ 2015-ലെ ഓടക്കുഴൽ അവാർഡിനർഹനാക്കിയ കൃതി ? ",
+    "answerText": " ‘ചന്ദ്രനോടൊപ്പം’ "
+  },
+  {
+    "questionNum": 99432,
+    "questionText": " ഭാരതസർക്കാർ പത്മ പുരസ്കാരങ്ങൾ ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99433,
+    "questionText": " പത്മ പുരസ്കാരങ്ങൾ എന്നറിയപ്പെടുന്നത് ? ",
+    "answerText": " പത്മവിഭൂഷൻ, പത്മഭൂഷൻ, പത്മശ്രീ "
+  },
+  {
+    "questionNum": 99434,
+    "questionText": " ഭാരതസർക്കാർ പത്മവിഭൂഷൻ പുരസ്കാരം ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99435,
+    "questionText": " ഭാരതസർക്കാർ പത്മഭൂഷൻ പുരസ്കാരം ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99436,
+    "questionText": " ഭാരതസർക്കാർ പത്മശ്രീ പുരസ്കാരം ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99437,
+    "questionText": " പത്മ പുരസ്കാരങ്ങൾ നൽകുന്നതാര് ? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 99438,
+    "questionText": " പത്മ അവാർഡുകൾക്ക് തിരഞ്ഞെടുക്കുന്നത് ആരെയാണ് ? ",
+    "answerText": " സർക്കാർ സേവനമുൾപ്പെടെ വിവിധ മേഖലകളിൽ മികച്ച സംഭാവന നൽകുന്നവരെ "
+  },
+  {
+    "questionNum": 99439,
+    "questionText": " ഭാരതരത്നം കഴിഞ്ഞാൽ ഇന്ത്യയിലെ ഏറ്റവുമുയർന്ന സിവിലിയൻ ബഹുമതി : ",
+    "answerText": " പത്മവിഭൂഷൻ "
+  },
+  {
+    "questionNum": 99440,
+    "questionText": " ഇന്ത്യയിലെ മൂന്നാമത്തെ ഉയർന്ന സിവിലിയൻ ബഹുമതി: ",
+    "answerText": " പത്മഭൂഷൻ "
+  },
+  {
+    "questionNum": 99441,
+    "questionText": " ഇന്ത്യയിലെ നാലാമത്തെ ഉയർന്ന സിവിലിയൻ ബഹുമതി: ",
+    "answerText": " പത്മശ്രീ "
+  },
+  {
+    "questionNum": 99442,
+    "questionText": " കേരളത്തിൽ ആദ്യമായി പത്മവിഭൂഷൻ ലഭിച്ചത് ആർക്ക് ? ",
+    "answerText": " വി.കെ. കൃഷ്ണമേനോൻ (1954) "
+  },
+  {
+    "questionNum": 99443,
+    "questionText": " 1954-ൽ പത്മവിഭൂഷൻ ലഭിച്ച മലയാളി : ",
+    "answerText": " വി.കെ. കൃഷ്ണമേനോൻ "
+  },
+  {
+    "questionNum": 99444,
+    "questionText": " വി.കെ. കൃഷ്ണമേനോന് പത്മവിഭൂഷൻ ലഭിച്ച വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99445,
+    "questionText": " കേരളത്തിൽ ആദ്യമായി പത്മഭൂഷൻ ലഭിച്ചത് ആർക്ക് ? ",
+    "answerText": " വള്ളത്തോൾ നാരായണമേനോൻ(1954) "
+  },
+  {
+    "questionNum": 99446,
+    "questionText": " 1954-ൽ പത്മഭൂഷൻ ലഭിച്ച മലയാളി : ",
+    "answerText": " വള്ളത്തോൾ നാരായണമേനോൻ "
+  },
+  {
+    "questionNum": 99447,
+    "questionText": " വള്ളത്തോൾ നാരായണമേനോന് പത്മഭൂഷൻ ലഭിച്ച വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99448,
+    "questionText": " കേരളത്തിൽ ആദ്യമായി പത്മശ്രീ അവാർഡ് ലഭിച്ചത് ആർക്ക് ? ",
+    "answerText": " ഡോ. പ്രകാശ് വർഗീസ് ബഞ്ചമിൻ (1955) "
+  },
+  {
+    "questionNum": 99449,
+    "questionText": " 1955-ൽ പത്മശ്രീ അവാർഡ് ലഭിച്ച മലയാളി : ",
+    "answerText": " ഡോ. പ്രകാശ് വർഗീസ് ബഞ്ചമിൻ "
+  },
+  {
+    "questionNum": 99450,
+    "questionText": " ഡോ. പ്രകാശ് വർഗീസ് ബഞ്ചമിന് പത്മശ്രീ ലഭിച്ച വർഷം ? ",
+    "answerText": 1955
+  },
+  {
+    "questionNum": 99451,
+    "questionText": " പത്മപുരസ്കാരം ലഭിച്ച ആദ്യ കേരളീയ വനിത : ",
+    "answerText": " ലക്ഷ്മി നന്ദൻ മേനോൻ "
+  },
+  {
+    "questionNum": 99452,
+    "questionText": " 1957ൽ പത്മഭൂഷൻ നേടിയ കേരളീയ വനിത : ",
+    "answerText": " ലക്ഷ്മി നന്ദൻ മേനോൻ "
+  },
+  {
+    "questionNum": 99453,
+    "questionText": " ലക്ഷ്മി നന്ദൻ മേനോന് പത്മഭൂഷൻ ലഭിച്ച വർഷം ? ",
+    "answerText": 1957
+  },
+  {
+    "questionNum": 99454,
+    "questionText": " കെ.കെ. ബിർള ഫൗണ്ടേഷൻ ഏർപ്പെടുത്തിയിട്ടുള്ള സാഹിത്യപുരസ്കാരം? ",
+    "answerText": " സരസ്വതി സമ്മാൻ "
+  },
+  {
+    "questionNum": 99455,
+    "questionText": " സരസ്വതി സമ്മാൻ സാഹിത്യപുരസ്കാരം ഏർപ്പെടുത്തിയ ഫൗണ്ടേഷൻ : ",
+    "answerText": " കെ.കെ. ബിർള ഫൗണ്ടേഷൻ "
+  },
+  {
+    "questionNum": 99456,
+    "questionText": " ഏറ്റവും ഒടുവിലത്തെ പത്തു വർഷങ്ങളിൽ ഇന്ത്യൻ ഭാഷകളിലുണ്ടായ മികച്ച കൃതിക്ക് നൽകുന്ന സാഹിത്യപുരസ്കാരം ? ",
+    "answerText": " സരസ്വതി സമ്മാൻ "
+  },
+  {
+    "questionNum": 99457,
+    "questionText": " സരസ്വതി സമ്മാൻ നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 1991
+  },
+  {
+    "questionNum": 99458,
+    "questionText": " 1991-ലെ പ്രഥമ സരസ്വതി സമ്മാൻ ജേതാവ് ? ",
+    "answerText": " ഹരിവംശറായി ബച്ചൻ "
+  },
+  {
+    "questionNum": 99459,
+    "questionText": " മലയാളത്തിൽ ആദ്യമായി സരസ്വതി സമ്മാൻ പുരസ്കാരം ലഭിച്ചത് ആർക്ക് : ",
+    "answerText": " ബാലാമണി അമ്മ(1995, നിവേദ്യം) "
+  },
+  {
+    "questionNum": 99460,
+    "questionText": " 1995-ലെ സരസ്വതി സമ്മാൻ ജേതാവായ മലയാളി ? ",
+    "answerText": " ബാലാമണി അമ്മ "
+  },
+  {
+    "questionNum": 99461,
+    "questionText": " 1995-ലെ സരസ്വതി സമ്മാൻ നേടിയ മലയാള കൃതി ? ",
+    "answerText": " നിവേദ്യം "
+  },
+  {
+    "questionNum": 99462,
+    "questionText": " ബാലാമണി അമ്മക്ക് 1995-ലെ സരസ്വതി സമ്മാൻ നേടിക്കൊടുത്ത കൃതി ? ",
+    "answerText": " നിവേദ്യം "
+  },
+  {
+    "questionNum": 99463,
+    "questionText": " ’നിവേദ്യം’ എന്ന മലയാളം കൃതിയുടെ കർത്താവ് ? ",
+    "answerText": " ബാലാമണി അമ്മ "
+  },
+  {
+    "questionNum": 99464,
+    "questionText": " 2005-ലെ സരസ്വതി സമ്മാൻ ജേതാവായ മലയാളി ? ",
+    "answerText": " അയ്യപ്പപ്പണിക്കർ (അയ്യപ്പപ്പണിക്കരുടെ കൃതികൾ) "
+  },
+  {
+    "questionNum": 99465,
+    "questionText": " 2005-ലെ സരസ്വതി സമ്മാൻ നേടിയ മലയാള കൃതി ? ",
+    "answerText": " ‘അയ്യപ്പപ്പണിക്കരുടെ കൃതികൾ’ "
+  },
+  {
+    "questionNum": 99466,
+    "questionText": " അയ്യപ്പപ്പണിക്കർക്ക് സരസ്വതി സമ്മാൻ പുരസ്‌കാരം ലഭിച്ച വർഷം? ",
+    "answerText": 2005
+  },
+  {
+    "questionNum": 99467,
+    "questionText": " 2012-ലെ സരസ്വതി സമ്മാൻ ജേതാവായ മലയാളി ? ",
+    "answerText": " സുഗതകുമാരി(മണലെഴുത്ത്) "
+  },
+  {
+    "questionNum": 99468,
+    "questionText": " 2012-ലെ സരസ്വതി സമ്മാൻ നേടിയ മലയാള കൃതി ? ",
+    "answerText": " മണലെഴുത്ത്(സുഗതകുമാരി) "
+  },
+  {
+    "questionNum": 99469,
+    "questionText": " സുഗതകുമാരിക്ക് 2012-ലെ സരസ്വതി സമ്മാൻ നേടിക്കൊടുത്ത കൃതി? ",
+    "answerText": " മണലെഴുത്ത് "
+  },
+  {
+    "questionNum": 99470,
+    "questionText": " ’മണലെഴുത്ത്’ എന്ന മലയാളം കൃതിയുടെ കർത്താവ് ? ",
+    "answerText": " സുഗതകുമാരി "
+  },
+  {
+    "questionNum": 99471,
+    "questionText": " സുഗതകുമാരിക്ക് ’മണലെഴുത്ത്’ എന്ന കൃതിക്ക് സരസ്വതി സമ്മാൻ പുരസ്‌കാരം ലഭിച്ച വർഷം? ",
+    "answerText": 2012
+  },
+  {
+    "questionNum": 99472,
+    "questionText": " കലാരംഗത്തെ സംഭാവനകൾക്ക് മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന 1980 മുതൽ ഏർപ്പെടുത്തിയ അവാർഡ് : ",
+    "answerText": " കാളിദാസ സമ്മാൻ "
+  },
+  {
+    "questionNum": 99473,
+    "questionText": " ’കാളിദാസ സമ്മാൻ’ പുരസ്‌കാരം നൽകുന്നതാര്? ",
+    "answerText": " മധ്യപ്രദേശ് സർക്കാർ "
+  },
+  {
+    "questionNum": 99474,
+    "questionText": " മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 1980
+  },
+  {
+    "questionNum": 99475,
+    "questionText": " 1981-ൽ മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ ജേതാവായ മലയാളി ? ",
+    "answerText": " കെ.ജി. സുബ്രഹ്മണ്യൻ "
+  },
+  {
+    "questionNum": 99476,
+    "questionText": " 2008-ൽ മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ ജേതാവായ മലയാളി ? ",
+    "answerText": " കലാമണ്ഡലം ഗോപി "
+  },
+  {
+    "questionNum": 99477,
+    "questionText": " 1992-ൽ മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ ജേതാവായ മലയാളിൾ ? ",
+    "answerText": " രാമൻകുട്ടി നായർ, അമ്മന്നൂർ മാധവചാക്യാർ "
+  },
+  {
+    "questionNum": 99478,
+    "questionText": " 1994-ൽ മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ ജേതാവായ മലയാളി ? ",
+    "answerText": " കാവാലം നാരായണപ്പണിക്കർ "
+  },
+  {
+    "questionNum": 99479,
+    "questionText": " 1997-ൽ മധ്യപ്രദേശ് സർക്കാർ നൽകുന്ന ’കാളിദാസ സമ്മാൻ’ ജേതാവായ മലയാളി ? ",
+    "answerText": " കല്യാണിക്കുട്ടിയമ്മ "
+  },
+  {
+    "questionNum": 99480,
+    "questionText": " സംസ്ഥാന ചലച്ചിത്ര അവാർഡ് നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 1969
+  },
+  {
+    "questionNum": 99481,
+    "questionText": " പ്രഥമ സംസ്ഥാന ചലച്ചിത്ര അവാർഡിലെ മികച്ച ചിത്രം ? ",
+    "answerText": " കുമാരസംഭവം "
+  },
+  {
+    "questionNum": 99482,
+    "questionText": " പ്രഥമ സംസ്ഥാന ചലച്ചിത്ര അവാർഡിലെ മികച്ച സംവിധായകൻ : ",
+    "answerText": " എ. വിൻസന്റ് "
+  },
+  {
+    "questionNum": 99483,
+    "questionText": " പ്രഥമ സംസ്ഥാന ചലച്ചിത്ര അവാർഡിലെ മികച്ച നടൻ : ",
+    "answerText": " സത്യൻ "
+  },
+  {
+    "questionNum": 99484,
+    "questionText": " പ്രഥമ സംസ്ഥാന ചലച്ചിത്ര അവാർഡിലെ മികച്ച നടി : ",
+    "answerText": " ഷീല "
+  },
+  {
+    "questionNum": 99485,
+    "questionText": " ദേശീയ ചലച്ചിത്ര അവാർഡ് ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 99486,
+    "questionText": " ദേശീയ ചലച്ചിത്ര അവാർഡ് നൽകുന്നതാര് ? ",
+    "answerText": " ഡയറക്ടറേറ്റ് ഓഫ് ഫിലിം അവാർഡ്‌സ് "
+  },
+  {
+    "questionNum": 99487,
+    "questionText": " 1954 മുതൽ ഡയറക്ടറേറ്റ് ഓഫ് ഫിലിം അവാർഡ്‌സ് നൽകുന്ന ചലച്ചിത്ര അവാർഡ് : ",
+    "answerText": " ദേശീയ ചലച്ചിത്ര അവാർഡ് "
+  },
+  {
+    "questionNum": 99488,
+    "questionText": " പ്രഥമ ദേശീയ ചലച്ചിത്ര അവാർഡിലെ മികച്ച ചിത്രം ? ",
+    "answerText": " പി.കെ.ആത്രെ സംവിധാനം ചെയ്ത മറാത്തി ചിത്രമായ 'ശ്യാംജി ആയി' "
+  },
+  {
+    "questionNum": 99489,
+    "questionText": " പ്രഥമ ദേശീയ ചലച്ചിത്ര അവാർഡിലെ മികച്ച ചിത്രമായ 'ശ്യാംജി ആയി' യുടെ സംവിധായകൻ ? ",
+    "answerText": " പി.കെ.ആത്രെ "
+  },
+  {
+    "questionNum": 99490,
+    "questionText": " പ്രഥമ ദേശീയ ചലച്ചിത്ര അവാർഡിലെ രണ്ടാമത്തെ മികച്ച ചിത്രത്തിനുള്ള രജതകമലം ലഭിച്ച ചിത്രം ? ",
+    "answerText": " 'നീലക്കുയിൽ’ "
+  },
+  {
+    "questionNum": 99491,
+    "questionText": " ദേശീയ ചലച്ചിത്ര അവാർഡിൽ മികച്ച നടൻ, നടി എന്നീ വിഭാഗങ്ങളിൽ അവാർഡ് ഏർപ്പെടുത്തിയ വർഷം ? ",
+    "answerText": 1968
+  },
+  {
+    "questionNum": 99492,
+    "questionText": " പ്രഥമ ദേശീയ ചലച്ചിത്ര അവാർഡിലെ മികച്ച നടൻ : ",
+    "answerText": " ഉത്തംകുമാർ(1968) "
+  },
+  {
+    "questionNum": 99493,
+    "questionText": " പ്രഥമ ദേശീയ ചലച്ചിത്ര അവാർഡിലെ മികച്ച നടി : ",
+    "answerText": " നർഗീസ് ദത്ത്(1968) "
+  },
+  {
+    "questionNum": 99494,
+    "questionText": " ദേശീയ ചലച്ചിത്ര അവാർഡിൽ ഏറ്റവും കൂടുതൽ തവണ മികച്ച നടിയായി തിരഞ്ഞെടുക്കപ്പെട്ട വനിത ? ",
+    "answerText": " ശബാന ആസ്മി "
+  },
+  {
+    "questionNum": 99495,
+    "questionText": " അമേരിക്കൻ അക്കാദമി ഓഫ് മോഷൻ പിക്ച്ചർ ആർട്ട്സ് ആൻഡ് സയൻസസ് എല്ലാവർഷവും നൽകുന്ന അക്കാദമി അവാർഡാണ് : ",
+    "answerText": " ഓസ്കർ അവാർഡ് "
+  },
+  {
+    "questionNum": 99496,
+    "questionText": " ഓസ്കർ അവാർഡ് ഓസ്കർ അവാർഡ് നൽകുന്ന അക്കാദമി : ",
+    "answerText": " അമേരിക്കൻ അക്കാദമി ഓഫ് മോഷൻ പിക്ച്ചർ ആർട്ട്സ് ആൻഡ് സയൻസസ് "
+  },
+  {
+    "questionNum": 99497,
+    "questionText": " ഓസ്കർ അവാർഡ് നൽകിത്തുടങ്ങിയ വർഷം ? ",
+    "answerText": 1929
+  },
+  {
+    "questionNum": 99498,
+    "questionText": " ഓസ്കർ അവാർഡ് വിതരണം ചെയ്യുന്നത് എവിടെ വച്ചാണ് ? ",
+    "answerText": " അമേരിക്കയിലെ ഹോളിവുഡിലുള്ള കൊഡാക്ക് തിയേറ്ററിൽ "
+  },
+  {
+    "questionNum": 99499,
+    "questionText": " അമേരിക്കയിലെ ഹോളിവുഡിലുള്ള കൊഡാക്ക് തിയേറ്ററിൽ വെച്ച് വിതരണം ചെയ്യുന്ന അവാർഡ് : ",
+    "answerText": " ഓസ്കർ അവാർഡ് "
+  },
+  {
+    "questionNum": 99500,
+    "questionText": " എത്ര ഇനങ്ങളിലാണ് ഓസ്കർ പുരസ്കാരങ്ങൾ നൽകുന്നത് :\r\n",
+    "answerText": 24
+  },
+  {
+    "questionNum": 99501,
+    "questionText": " പ്രഥമ ഓസ്കർ അവാർഡിലെ മികച്ച ചിത്രം ?\r\n",
+    "answerText": " വിങ്സ്\r\n"
+  },
+  {
+    "questionNum": 99502,
+    "questionText": " ഓസ്കർ അവാർഡിലെ മികച്ച ചിത്രം ബഹുമതിക്കർഹമായ ഏക നിശബ്ദ ചിത്രം ?\r\n",
+    "answerText": " വിങ്സ്\r\n"
+  },
+  {
+    "questionNum": 99503,
+    "questionText": " ഏറ്റവും കൂടുതൽ ഓസ്കർ നേടിയ വ്യക്തി :\r\n",
+    "answerText": " വാൾട്ട് ഡിസ്നി(26 എണ്ണം )\r\n"
+  },
+  {
+    "questionNum": 99504,
+    "questionText": " 26 ഓസ്കറുകൾ സ്വന്തമാക്കിയ വ്യക്തി ?\r\n",
+    "answerText": " വാൾട്ട് ഡിസ്നി\r\n"
+  },
+  {
+    "questionNum": 99505,
+    "questionText": " ഏറ്റവും കൂടുതൽ ഓസ്കർ പുരസ്കാരങ്ങൾ (11 എണ്ണം) നേടിയ ചിത്രങ്ങൾ ഏതെല്ലാം ?\r\n",
+    "answerText": " ബെൻഹർ(1952), ടൈറ്റാ നിക്ക്(1997), ലോർഡ് ഓഫ് ദി റിങ്സ്: ദി റിട്ടേൺ ഓഫ് ദി കിങ്(2003)\r\n"
+  },
+  {
+    "questionNum": 99506,
+    "questionText": " 1952-ൽ പുറത്തിറങ്ങിയ ‘ബെൻഹർ’ എന്ന ചിത്രം നേടിയ ഓസ്കറുകളുടെ എണ്ണം ?\r\n",
+    "answerText": 11
+  },
+  {
+    "questionNum": 99507,
+    "questionText": " 1997-ൽ പുറത്തിറങ്ങിയ ടൈറ്റാനിക്ക് എന്ന ചിത്രം നേടിയ ഓസ്കറുകളുടെ എണ്ണം ?\r\n",
+    "answerText": 11
+  },
+  {
+    "questionNum": 99508,
+    "questionText": " 2003-ൽ പുറത്തിറങ്ങിയ ലോർഡ് ഓഫ് ദി റിങ്സ്: ദി റിട്ടേൺ ഓഫ് ദി കിങ് എന്ന ചിത്രം നേടിയ ഓസ്കറുകളുടെ എണ്ണം ?\r\n",
+    "answerText": 11
+  },
+  {
+    "questionNum": 99509,
+    "questionText": " നൊബേൽ സമ്മാനം ഓസ്കർ എന്നിവ രണ്ടും നേടിയിട്ടുള്ള ഏകവ്യക്തി :\r\n",
+    "answerText": " ബ്രിട്ടീഷുകാരനായ ജോർജ് ബെർണാഡ് ഷാ\r\n"
+  },
+  {
+    "questionNum": 99510,
+    "questionText": " 1925ൽ സാഹിത്യത്തിനുള്ള നൊബേൽ സമ്മാനവും 1938ൽ ഓസ്കറും\r\nലഭിച്ച വ്യക്തി ?\r\n",
+    "answerText": " ബ്രിട്ടീഷുകാരനായ ജോർജ് ബെർണാഡ് ഷാ\r\n"
+  },
+  {
+    "questionNum": 99511,
+    "questionText": " 2010-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ആദാമിന്റെ മകൻ അബു(സലിം അഹമ്മദ്) "
+  },
+  {
+    "questionNum": 99512,
+    "questionText": " 2010-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘ആദാമിന്റെ മകൻ അബു’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " സലിം അഹമ്മദ് "
+  },
+  {
+    "questionNum": 99513,
+    "questionText": " സലിം അഹമ്മദ് സംവിധാനം ചെയ്ത ‘ആദാമിന്റെ മകൻ അബു’മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 2010
+  },
+  {
+    "questionNum": 99514,
+    "questionText": " 2009-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " കുട്ടിസ്രാങ്ക്(ഷാജി എൻ.കരുൺ) "
+  },
+  {
+    "questionNum": 99515,
+    "questionText": " 2010-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘കുട്ടിസ്രാങ്ക്’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ഷാജി എൻ.കരുൺ "
+  },
+  {
+    "questionNum": 99516,
+    "questionText": " ഷാജി എൻ.കരുൺ സംവിധാനം ചെയ്ത ‘കുട്ടിസ്രാങ്ക്’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 2009
+  },
+  {
+    "questionNum": 99517,
+    "questionText": " 2006-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " പുലിജൻമം(പ്രിയനന്ദൻ) "
+  },
+  {
+    "questionNum": 99518,
+    "questionText": " 2006-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘പുലിജൻമം’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " പ്രിയനന്ദൻ "
+  },
+  {
+    "questionNum": 99519,
+    "questionText": " പ്രിയനന്ദൻ സംവിധാനം ചെയ്ത ‘പുലിജൻമം’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 2006
+  },
+  {
+    "questionNum": 99520,
+    "questionText": " 2000-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ശാന്തം (ജയരാജ്) "
+  },
+  {
+    "questionNum": 99521,
+    "questionText": " 2000-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘ശാന്തം’സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ജയരാജ് "
+  },
+  {
+    "questionNum": 99522,
+    "questionText": " 1999-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " വാനപ്രസ്ഥം (ഷാജി എൻ.കരുൺ) "
+  },
+  {
+    "questionNum": 99523,
+    "questionText": " 1999-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘വാനപ്രസ്ഥം’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ഷാജി എൻ.കരുൺ "
+  },
+  {
+    "questionNum": 99524,
+    "questionText": " ഷാജി എൻ.കരുൺ സംവിധാനം ചെയ്ത ‘വാനപ്രസ്ഥം’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1999
+  },
+  {
+    "questionNum": 99525,
+    "questionText": " 1995-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " കഥാപുരുഷൻ (അടൂർ ഗോപാലകൃഷ്ണൻ) "
+  },
+  {
+    "questionNum": 99526,
+    "questionText": " 1995-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘കഥാപുരുഷൻ’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 99527,
+    "questionText": " അടൂർ ഗോപാലകൃഷ്ണൻ സംവിധാനം ചെയ്ത ‘കഥാപുരുഷൻ’മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1995
+  },
+  {
+    "questionNum": 99528,
+    "questionText": " 1988-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " പിറവി(ഷാജി എൻ.കരുൺ) "
+  },
+  {
+    "questionNum": 99529,
+    "questionText": " 1988-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘പിറവി’സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ഷാജി എൻ.കരുൺ "
+  },
+  {
+    "questionNum": 99530,
+    "questionText": " ഷാജി എൻ.കരുൺ സംവിധാനം ചെയ്ത ‘പിറവി’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1988
+  },
+  {
+    "questionNum": 99531,
+    "questionText": " 1985-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ചിദംബരം(ജി.അരവിന്ദൻ) "
+  },
+  {
+    "questionNum": 99532,
+    "questionText": " 1985-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘ചിദംബരം’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ജി.അരവിന്ദൻ "
+  },
+  {
+    "questionNum": 99533,
+    "questionText": " ജി.അരവിന്ദൻ സംവിധാനം ചെയ്ത ‘ചിദംബരം’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1985
+  },
+  {
+    "questionNum": 99534,
+    "questionText": " 1973-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " നിർമ്മാല്യം(എം.ടി.വാസുദേവൻ നായർ) "
+  },
+  {
+    "questionNum": 99535,
+    "questionText": " 1973-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘നിർമ്മാല്യം’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 99536,
+    "questionText": " എം.ടി.വാസുദേവൻ നായർ സംവിധാനം ചെയ്ത ‘നിർമ്മാല്യം’മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1973
+  },
+  {
+    "questionNum": 99537,
+    "questionText": " 1972-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " സ്വയം വരം(അടൂർ ഗോപാലകൃഷ്ണൻ) "
+  },
+  {
+    "questionNum": 99538,
+    "questionText": " 1972-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘സ്വയം വരം’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 99539,
+    "questionText": " അടൂർ ഗോപാലകൃഷ്ണൻ സംവിധാനം ചെയ്ത ‘സ്വയം വരം’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1972
+  },
+  {
+    "questionNum": 99540,
+    "questionText": " 1965-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ചെമ്മീൻ(രാമു കര്യാട്ട്) "
+  },
+  {
+    "questionNum": 99541,
+    "questionText": " 1965-ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘ചെമ്മീൻ’സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " രാമു കര്യാട്ട് "
+  },
+  {
+    "questionNum": 99542,
+    "questionText": " രാമു കര്യാട്ട് സംവിധാനം ചെയ്ത ‘ചെമ്മീൻ’ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1965
+  },
+  {
+    "questionNum": 99543,
+    "questionText": " 2012-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ഉസ്താദ് ഹോട്ടൽ (അൻവർ റഷീദ്) "
+  },
+  {
+    "questionNum": 99544,
+    "questionText": " 2012-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘ഉസ്താദ് ഹോട്ടൽ’ സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " അൻവർ റഷീദ് "
+  },
+  {
+    "questionNum": 99545,
+    "questionText": " അൻവർ റഷീദ് സംവിധാനം ചെയ്ത ‘ഉസ്താദ് ഹോട്ടൽ’ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 2012
+  },
+  {
+    "questionNum": 99546,
+    "questionText": " 1993-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " മണിച്ചിത്രത്താഴ്(ഫാസിൽ) "
+  },
+  {
+    "questionNum": 99547,
+    "questionText": " 1993-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മണിച്ചിത്രത്താഴ് സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ഫാസിൽ "
+  },
+  {
+    "questionNum": 99548,
+    "questionText": " 1992-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " സർഗം (ഹരിഹരൻ) "
+  },
+  {
+    "questionNum": 99549,
+    "questionText": " 1992-ലെ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ ‘സർഗം’സംവിധാനം ചെയ്തതാര് ? ",
+    "answerText": " ഹരിഹരൻ "
+  },
+  {
+    "questionNum": 99550,
+    "questionText": " ഹരിഹരൻ സംവിധാനം ചെയ്ത ‘സർഗം’ ജനപ്രിയചിത്രത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ വർഷം ? ",
+    "answerText": 1992
+  },
+  {
+    "questionNum": 99551,
+    "questionText": " 1967-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " അഗ്നിപുത്രി(എസ്.എൽ.പുരം സദാനന്ദൻ) "
+  },
+  {
+    "questionNum": 99552,
+    "questionText": " ’അഗ്നിപുത്രി’ എന്ന ചിത്രത്തിലൂടെ 1967-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " എസ്.എൽ.പുരം സദാനന്ദൻ "
+  },
+  {
+    "questionNum": 99553,
+    "questionText": " 1984-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " മുഖാമുഖം (അടൂർ ഗോപാലകൃഷ്ണൻ) "
+  },
+  {
+    "questionNum": 99554,
+    "questionText": " ’മുഖാമുഖം’ എന്ന ചിത്രത്തിലൂടെ 1984-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 99555,
+    "questionText": " 1987-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " അനന്തരം (അടൂർ ഗോപാലകൃഷ്ണൻ) "
+  },
+  {
+    "questionNum": 99556,
+    "questionText": " ’അനന്തരം’എന്ന ചിത്രത്തിലൂടെ 1987-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 99557,
+    "questionText": " 1989 -ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ഒരു വടക്കൻ വീരഗാഥ (എം.ടി.വാസുദേവൻ നായർ) "
+  },
+  {
+    "questionNum": 99558,
+    "questionText": " ’ഒരു വടക്കൻ വീരഗാഥ’ എന്ന ചിത്രത്തിലൂടെ 1989-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 99559,
+    "questionText": " ’ഒരു വടക്കൻ വീരഗാഥ’ എന്ന ചിത്രത്തിലൂടെ എം.ടി.വാസുദേവൻ നായർക്ക് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 1989
+  },
+  {
+    "questionNum": 99560,
+    "questionText": " 1991-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " കടവ് (എം.ടി.വാസുദേവൻ നായർ) "
+  },
+  {
+    "questionNum": 99561,
+    "questionText": " ’കടവ്’എന്ന ചിത്രത്തിലൂടെ എം.ടി.വാസുദേവൻ നായർക്ക് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 1991
+  },
+  {
+    "questionNum": 99562,
+    "questionText": " ’കടവ്’എന്ന ചിത്രത്തിലൂടെ 1991-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 99563,
+    "questionText": " 1992-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " സദയം (എം.ടി.വാസുദേവൻ നായർ) "
+  },
+  {
+    "questionNum": 99564,
+    "questionText": " ’സദയം’എന്ന ചിത്രത്തിലൂടെ 1992-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 99565,
+    "questionText": " ’സദയം’ എന്ന ചിത്രത്തിലൂടെ എം.ടി.വാസുദേവൻ നായർക്ക് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 1992
+  },
+  {
+    "questionNum": 99566,
+    "questionText": " 1994-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " പരിണയം (എം.ടി.വാസുദേവൻ നായർ) "
+  },
+  {
+    "questionNum": 99567,
+    "questionText": " ’പരിണയം’എന്ന ചിത്രത്തിലൂടെ എം.ടി.വാസുദേവൻ നായർക്ക് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 1994
+  },
+  {
+    "questionNum": 99568,
+    "questionText": " ’പരിണയം’ എന്ന ചിത്രത്തിലൂടെ 1994-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 99569,
+    "questionText": " 1999-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " കരുണം (മാടമ്പ് കുഞ്ഞുക്കുട്ടൻ) "
+  },
+  {
+    "questionNum": 99570,
+    "questionText": " ’കരുണം’ എന്ന ചിത്രത്തിലൂടെ 1999-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " മാടമ്പ് കുഞ്ഞുക്കുട്ടൻ "
+  },
+  {
+    "questionNum": 99571,
+    "questionText": " 2009-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " കുട്ടിസ്രാങ്ക് (പി.എഫ്. മാത്യുസ്) "
+  },
+  {
+    "questionNum": 99572,
+    "questionText": " ’കുട്ടിസ്രാങ്ക്’എന്ന ചിത്രത്തിലൂടെ 2009-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " പി.എഫ്. മാത്യുസ് "
+  },
+  {
+    "questionNum": 99573,
+    "questionText": " 2012-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ഉസ്താദ് ഹോട്ടൽ (അഞ്ജലി മേനോൻ) "
+  },
+  {
+    "questionNum": 99574,
+    "questionText": " ’ഉസ്താദ് ഹോട്ടൽ’എന്ന ചിത്രത്തിലൂടെ 2012-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " അഞ്ജലി മേനോൻ "
+  },
+  {
+    "questionNum": 99575,
+    "questionText": " ’ഉസ്താദ് ഹോട്ടൽ’എന്ന ചിത്രത്തിലൂടെ അഞ്ജലീമേനോന് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 2012
+  },
+  {
+    "questionNum": 99576,
+    "questionText": " 2014-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " ഒറ്റാൽ(ജോഷി മംഗലത്ത്) "
+  },
+  {
+    "questionNum": 99577,
+    "questionText": " ’ഒറ്റാൽ’എന്ന ചിത്രത്തിലൂടെ 2014-ലെ മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " ജോഷി മംഗലത്ത് "
+  },
+  {
+    "questionNum": 99578,
+    "questionText": " ’ഒറ്റാൽ’ എന്ന ചിത്രത്തിലൂടെ എം.ടി.വാസുദേവൻ നായർക്ക് മികച്ച തിരക്കഥയ്ക്കുള്ള ദേശീയ അവാർഡ് നൽകിയ വർഷം ? ",
+    "answerText": 2014
+  },
+  {
+    "questionNum": 99579,
+    "questionText": " 1992-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ? ",
+    "answerText": " അച്ഛനും,ബാപ്പയും(വയലാർ രാമ വർമ്മ) "
+  },
+  {
+    "questionNum": 99580,
+    "questionText": " ’അച്ഛനും,ബാപ്പയും’ എന്ന ചിത്രത്തിലൂടെ 1992-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ? ",
+    "answerText": " വയലാർ രാമ വർമ്മ "
+  },
+  {
+    "questionNum": 99581,
+    "questionText": " 1988-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " വൈശാലി (ഒ.എൻ.വി.കുറുപ്പ്)\r\n"
+  },
+  {
+    "questionNum": 99582,
+    "questionText": " ’വൈശാലി’ എന്ന ചിത്രത്തിലൂടെ 1988-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ഒ.എൻ.വി.കുറുപ്പ്\r\n"
+  },
+  {
+    "questionNum": 99583,
+    "questionText": " 2000-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " മഴ (യൂസുഫ് അലി കേച്ചേരി)\r\n"
+  },
+  {
+    "questionNum": 99584,
+    "questionText": " ’മഴ’ എന്ന ചിത്രത്തിലൂടെ 2000-ലെ മികച്ച ഗാനരചനയ്ക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " യൂസുഫ് അലി കേച്ചേരി\r\n"
+  },
+  {
+    "questionNum": 99585,
+    "questionText": " 2015-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള സംഗീതസംവിധായകൻ ?\r\n",
+    "answerText": " എം. ജയചന്ദ്രൻ(എന്ന് നിന്റെ മൊയ്തീൻ)\r\n"
+  },
+  {
+    "questionNum": 99586,
+    "questionText": " 2015-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " എന്ന് നിന്റെ മൊയ്തീൻ(എം. ജയചന്ദ്രൻ)\r\n"
+  },
+  {
+    "questionNum": 99587,
+    "questionText": " 2014-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ഗോപിസുന്ദർ\r\n"
+  },
+  {
+    "questionNum": 99588,
+    "questionText": " 2014-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " 1983(ഗോപിസുന്ദർ)\r\n"
+  },
+  {
+    "questionNum": 99589,
+    "questionText": " ’എന്ന് നിന്റെ മൊയ്തീൻ’ എന്ന ചിത്രത്തിലൂടെ എം. ജയചന്ദ്രന് മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് ലഭിച്ച വർഷം?\r\n",
+    "answerText": 2015
+  },
+  {
+    "questionNum": 99590,
+    "questionText": " ’1983’ എന്ന ചിത്രത്തിലൂടെ ഗോപിസുന്ദറിന് മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് ലഭിച്ച വർഷം?\r\n",
+    "answerText": 2014
+  },
+  {
+    "questionNum": 99591,
+    "questionText": " 2012-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ബിജിപാൽ(കളിയച്ഛൻ)\r\n"
+  },
+  {
+    "questionNum": 99592,
+    "questionText": " 2012-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " കളിയച്ഛൻ(ബിജിപാൽ)\r\n"
+  },
+  {
+    "questionNum": 99593,
+    "questionText": " ‘കളിയച്ഛൻ’ എന്ന ചിത്രത്തിലൂടെ ബിജിപാലിന് മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് ലഭിച്ച വർഷം?\r\n‘കളിയച്ഛൻ’ എന്ന ചിത്രത്തിലൂടെ ബിജിപാലിന് മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് ലഭിച്ച വർഷം?\r\n",
+    "answerText": 2012
+  },
+  {
+    "questionNum": 99594,
+    "questionText": " 2010-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ഐസക്ക് തോമസ്(ആദാമിന്റെ മകൻ അബു)\r\n"
+  },
+  {
+    "questionNum": 99595,
+    "questionText": " 2010-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " ആദാമിന്റെ മകൻ അബു(ഐസക്ക് തോമസ്)\r\n"
+  },
+  {
+    "questionNum": 99596,
+    "questionText": " 2009-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ സംഗീതസംവിധായകൻ ?\r\n",
+    "answerText": " ഇളയരാജ(പഴശ്ശിരാജ)\r\n"
+  },
+  {
+    "questionNum": 99597,
+    "questionText": " 2009-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " പഴശ്ശിരാജ(ഇളയരാജ)\r\n"
+  },
+  {
+    "questionNum": 99598,
+    "questionText": " 2007-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ഔസേപ്പച്ചൻ(ഒരേകടൽ)\r\n"
+  },
+  {
+    "questionNum": 99599,
+    "questionText": " 2007-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " ഒരേകടൽ(ഔസേപ്പച്ചൻ)\r\n"
+  },
+  {
+    "questionNum": 99600,
+    "questionText": " 1994-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ സംഗീതസംവിധായകർ ?\r\n",
+    "answerText": " രവി ബോംബൈ, ജോൺസൺ(സുകൃതം,പരിണയം)\r\n"
+  },
+  {
+    "questionNum": 99601,
+    "questionText": " 1994-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രങ്ങൾ ?\r\n",
+    "answerText": " സുകൃതം,പരിണയം(രവി ബോംബൈ, ജോൺസൺ)\r\n"
+  },
+  {
+    "questionNum": 99602,
+    "questionText": " 1993-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " ജോൺസൺ(പൊന്തൻ മാട)\r\n"
+  },
+  {
+    "questionNum": 99603,
+    "questionText": " 1993-ലെ മികച്ച സംഗീതസംവിധാനത്തിനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാള ചിത്രം ?\r\n",
+    "answerText": " പൊന്തൻ മാട(ജോൺസൺ)\r\n"
+  },
+  {
+    "questionNum": 99604,
+    "questionText": " 1999-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " എം.ജി.ശ്രീകുമാർ(വാസന്തിയും ലക്ഷ്മിയും പിന്നെ ഞാനും)\r\n"
+  },
+  {
+    "questionNum": 99605,
+    "questionText": " എം.ജി.ശ്രീകുമാറിന് 1999ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " വാസന്തിയും ലക്ഷ്മിയും പിന്നെ ഞാനും\r\n"
+  },
+  {
+    "questionNum": 99606,
+    "questionText": " 1993-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " കെ.ജെ. യേശുദാസ്(സോപാനം)\r\n"
+  },
+  {
+    "questionNum": 99607,
+    "questionText": " കെ.ജെ. യേശുദാസിന് 1993-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " സോപാനം\r\n"
+  },
+  {
+    "questionNum": 99608,
+    "questionText": " 1991-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " കെ.ജെ. യേശുദാസ്(ഭരതം)\r\n"
+  },
+  {
+    "questionNum": 99609,
+    "questionText": " കെ.ജെ. യേശുദാസിന് 1991-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ഭരതം\r\n"
+  },
+  {
+    "questionNum": 99610,
+    "questionText": " 1990-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " എം.ജി.ശ്രീകുമാർ(ഹിസ് ഹൈനസ് അബ്ദുള്ള )\r\n"
+  },
+  {
+    "questionNum": 99611,
+    "questionText": " എം.ജി.ശ്രീകുമാറിന് 1990-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ഹിസ് ഹൈനസ് അബ്ദുള്ള\r\n"
+  },
+  {
+    "questionNum": 99612,
+    "questionText": " 1987-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " കെ.ജെ. യേശുദാസ് (ഉണ്ണികളെ ഒരു കഥ പറയാം)\r\n"
+  },
+  {
+    "questionNum": 99613,
+    "questionText": " കെ.ജെ. യേശുദാസിന് 1987-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ഉണ്ണികളെ ഒരു കഥ പറയാം\r\n"
+  },
+  {
+    "questionNum": 99614,
+    "questionText": " 1985-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " പി ജയചന്ദ്രൻ(ചിത്രം:ശ്രീനാരായണ ഗുരു)\r\n"
+  },
+  {
+    "questionNum": 99615,
+    "questionText": " പി ജയചന്ദ്രന് 1985-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ശ്രീനാരായണ ഗുരു\r\n"
+  },
+  {
+    "questionNum": 99616,
+    "questionText": " 1973-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " കെ.ജെ. യേശുദാസ്(ചിത്രം:ഗായത്രി)\r\n"
+  },
+  {
+    "questionNum": 99617,
+    "questionText": " കെ.ജെ. യേശുദാസിന് 1973-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ഗായത്രി\r\n"
+  },
+  {
+    "questionNum": 99618,
+    "questionText": " 1972-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി ?\r\n",
+    "answerText": " കെ.ജെ. യേശുദാസ്(അച്ഛനും,ബാപ്പയും)\r\n"
+  },
+  {
+    "questionNum": 99619,
+    "questionText": " കെ.ജെ. യേശുദാസിന് 1972-ലെ മികച്ച ഗായകനുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " അച്ഛനും,ബാപ്പയും\r\n"
+  },
+  {
+    "questionNum": 99620,
+    "questionText": " 1980-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി?\r\n",
+    "answerText": " എസ്.ജാനകി(ചിത്രം:ഓപ്പോൾ)\r\n"
+  },
+  {
+    "questionNum": 99621,
+    "questionText": " എസ്.ജാനകിക്ക് 1980-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " ഓപ്പോൾ\r\n"
+  },
+  {
+    "questionNum": 99622,
+    "questionText": " 1986-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി?\r\n",
+    "answerText": " കെ.എസ്.ചിത്ര(ചിത്രം:നഖക്ഷതങ്ങൾ)\r\n"
+  },
+  {
+    "questionNum": 99623,
+    "questionText": " കെ.എസ്.ചിത്രക്ക് 1986-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " നഖക്ഷതങ്ങൾ\r\n"
+  },
+  {
+    "questionNum": 99624,
+    "questionText": " 1988-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി?\r\n",
+    "answerText": " കെ.എസ്.ചിത്ര(ചിത്രം:വൈശാലി)\r\n"
+  },
+  {
+    "questionNum": 99625,
+    "questionText": " കെ.എസ്.ചിത്രക്ക് 1988-ലെ മികച്ച ഗായികക്കുള്ള ദേശീയ അവാർഡ് നേടിക്കൊടുത്ത ചിത്രം ?\r\n",
+    "answerText": " വൈശാലി\r\n"
+  },
+  {
+    "questionNum": 99626,
+    "questionText": " മലയാളസംസ്കൃതപദങ്ങൾ ചേർന്നുണ്ടാകുന്ന മനോജ്ഞഭാഷ :\r\n",
+    "answerText": " മണിപ്രവാളം\r\n"
+  },
+  {
+    "questionNum": 99627,
+    "questionText": " എന്താണ് മണിപ്രവാളം ?\r\n",
+    "answerText": " മലയാളസംസ്കൃതപദങ്ങൾ ചേർന്നുണ്ടാകുന്ന മനോജ്ഞഭാഷ\r\n"
+  },
+  {
+    "questionNum": 99628,
+    "questionText": " മണിപ്രവാളത്തിലെ മണി എന്ന പദം സൂചിപ്പിക്കുന്ന ഭാഷ:\r\n",
+    "answerText": " മലയാളം\r\n"
+  },
+  {
+    "questionNum": 99629,
+    "questionText": " മണിപ്രവാളത്തിലെ പവിഴം എന്ന പദം സൂചിപ്പിക്കുന്ന ഭാഷ:\r\n",
+    "answerText": " സംസ്കൃതം\r\n"
+  },
+  {
+    "questionNum": 99630,
+    "questionText": " മണിപ്രവാളത്തിലെ മലയാളം ഭാഷയെ സൂചിപ്പിക്കുന്ന പദം:\r\n",
+    "answerText": " മണി\r\n"
+  },
+  {
+    "questionNum": 99631,
+    "questionText": " മണിപ്രവാളത്തിലെ സംസ്കൃതം ഭാഷയെ സൂചിപ്പിക്കുന്ന പദം:\r\n",
+    "answerText": " പവിഴം\r\n"
+  },
+  {
+    "questionNum": 99632,
+    "questionText": " മലയാളത്തിലെ ഗാഥാ പ്രസ്ഥാനത്തിന് വഴിതെളിച്ച ഗ്രന്ഥം ?\r\n",
+    "answerText": " കൃഷ്ണഗാഥ\r\n"
+  },
+  {
+    "questionNum": 99633,
+    "questionText": " മലയാളത്തിലെ വഞ്ചിപ്പാട്ട് പ്രസ്ഥാനത്തിന് വഴിതെളിച്ച ഗ്രന്ഥം ?\r\n",
+    "answerText": " കുചേലവൃത്തം\r\n"
+  },
+  {
+    "questionNum": 99634,
+    "questionText": " കൃഷ്ണഗാഥ യുടെ കർത്താവ് :\r\n",
+    "answerText": " പതിനഞ്ചാം ശതകത്തിന്റെ ഉത്തരാർധത്തിൽ ജീവിച്ചിരുന്ന ചെറുശ്ശേരിനമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99635,
+    "questionText": " പതിനഞ്ചാം ശതകത്തിന്റെ ഉത്തരാർധത്തിൽ ജീവിച്ചിരുന്ന ചെറുശ്ശേരിനമ്പൂതിരി രചിച്ച മലയാളത്തിലെ ഗാഥാ പ്രസ്ഥാനത്തിന് വഴിതെളിച്ച ഗ്രന്ഥം ?\r\n",
+    "answerText": " കൃഷ്ണഗാഥ\r\n"
+  },
+  {
+    "questionNum": 99636,
+    "questionText": " കൃഷ്ണഗാഥ രചിച്ച ചെറുശ്ശേരിനമ്പൂതിരി ഏതു രാജാവിന്റെ\r\nസദസ്യനായിരുന്നു :\r\n",
+    "answerText": " കോലത്തുനാട് ഭരിച്ചിരുന്ന ഉദയവർമ രാജാവ്\r\n"
+  },
+  {
+    "questionNum": 99637,
+    "questionText": " കോലത്തുനാട് ഭരിച്ചിരുന്ന ഉദയവർമ രാജാവിന്റെ നിർദേശപ്രകാരം ചെറുശ്ശേരിനമ്പൂതിരി രചിച്ച ഗ്രന്ഥം ?\r\n",
+    "answerText": " കൃഷ്ണഗാഥ\r\n"
+  },
+  {
+    "questionNum": 99638,
+    "questionText": " കോലത്തുനാട് ഭരിച്ചിരുന്ന ഉദയവർമ രാജാവിന്റെ നിർദേശപ്രകാരമാണ് ചെറുശ്ശേരിനമ്പൂതിരി കൃഷ്ണഗാഥ\r\nരചിച്ചത് എന്ന് വ്യക്തമാക്കുന്ന ശ്ലോകം:\r\n",
+    "answerText": " ആജ്ഞയാ കോലഭൂപസ്യ\r\nപ്രാജ്ഞസ്യോദയ വർമ്മണഃ\r\nകൃതായാം കൃഷ്‌ണഗാഥയാം കൃഷ്ണോത്പത്തിസ്സമീരിതാ\r\n"
+  },
+  {
+    "questionNum": 99639,
+    "questionText": " കുചേലവൃത്തം വഞ്ചിപ്പാട്ട് രചിച്ചത് ആര് ?\r\n",
+    "answerText": " രാമപുരത്തു വാര്യർ\r\n"
+  },
+  {
+    "questionNum": 99640,
+    "questionText": " രാമപുരത്തു വാര്യർ രചിച്ച മലയാളത്തിലെ വഞ്ചിപ്പാട്ട് പ്രസ്ഥാനത്തിന് വഴിതെളിച്ച ഗ്രന്ഥം ?\r\n",
+    "answerText": " കുചേലവൃത്തം\r\n"
+  },
+  {
+    "questionNum": 99641,
+    "questionText": " കുചേലവൃത്തം വഞ്ചിപ്പാട്ട് രചിച്ച രാമപുരത്തു വാര്യർ ജീവിച്ചിരുന്ന ശതകം ?\r\n",
+    "answerText": " പതിനെട്ടാം ശതകം\r\n"
+  },
+  {
+    "questionNum": 99642,
+    "questionText": " കുചേലവൃത്തം വഞ്ചിപ്പാട്ട് രാമപുരത്തു വാര്യർ രചിച്ചത്\r\nഏതു രാജാവിന്റെ കല്പനപ്രകാരമാണ്‌\r\n",
+    "answerText": " മാർത്താ ണ്ഡവർമമഹാരാജാവ്\r\n"
+  },
+  {
+    "questionNum": 99643,
+    "questionText": " കുചേലവൃത്തം വഞ്ചിപ്പാട്ട് രാമപുരത്തു വാര്യർ രചിച്ചത് മാർത്താ ണ്ഡവർമമഹാരാജാവിന്റെ കല്പനപ്രകാരമാണെന്നു തെളിയിക്കുന്ന വരികൾ ?\r\n",
+    "answerText": " ഞ്ചനമനുജനായിട്ടവതരിച്ചിരിക്കുന്ന വഞ്ചിവലവൈരിയുടെ കൃപയ്തിരിപ്പാൻ വഞ്ചികയായ വന്നാവൂ,ഞാനെന്നിച്ഛിച്ചു\r\nവാഴും കാലം\r\nവഞ്ചിപ്പാട്ടുണ്ടാക്കണമെന്നരുളിച്ചെയ്തു.\r\n"
+  },
+  {
+    "questionNum": 99644,
+    "questionText": " ആരാണ് പതിനെട്ടരക്കവികൾ എന്നറിയപ്പെടുന്നത് ?\r\n",
+    "answerText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിലെ അംഗങ്ങൾ\r\n"
+  },
+  {
+    "questionNum": 99645,
+    "questionText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിലെ അംഗങ്ങൾ അറിയപ്പെട്ടിരുന്നത് ?\r\n",
+    "answerText": " പതിനെട്ടരക്കവികൾ\r\n"
+  },
+  {
+    "questionNum": 99646,
+    "questionText": " ഏതു കവിസദസ്സിലെ അംഗങ്ങളാണ് പതിനെട്ടരക്കവികൾ എന്നറിയപ്പെടുന്നത് ?\r\n",
+    "answerText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിൽ\r\n"
+  },
+  {
+    "questionNum": 99647,
+    "questionText": " പതിനെട്ടരക്കവികൾ ഏതൊക്കെ കവികൾ ചേർന്നതാണ് ?\r\n",
+    "answerText": " പതിനെട്ടു പൂർണകവികളും ഒരു അരക്കവിയും ചേർന്നത്\r\n"
+  },
+  {
+    "questionNum": 99648,
+    "questionText": " പതിനെട്ടരക്കവികളിലെ അരക്കവി ആര് ?\r\n",
+    "answerText": " പുനം നമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99649,
+    "questionText": " പതിനെട്ടരക്കവികളിൽ പുനം നമ്പൂതിരി ഏതു തരം കവിയായാണ് അറിയപ്പെട്ടിരുന്നത് ?\r\n",
+    "answerText": " അരക്കവി\r\n"
+  },
+  {
+    "questionNum": 99650,
+    "questionText": " പതിനെട്ടരക്കവികളിൽ പുനം നമ്പൂതിരിക്ക് അരക്കവി സ്ഥാനം നൽകിയിരുന്നത് എന്ത് കൊണ്ട് ?\r\n",
+    "answerText": " മണിപ്രവാള (മലയാള) കവി ആയതു കൊണ്ട്\r\n"
+  },
+  {
+    "questionNum": 99651,
+    "questionText": " പതിനെട്ടരക്കവികളിലെ മണിപ്രവാള (മലയാള) കവി ആരായിരുന്നു ?\r\n",
+    "answerText": " പുനം നമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99652,
+    "questionText": " പതിനെട്ടരക്കവികളിലെ പുനം നമ്പൂതിരി ഒഴികെയുള്ളവരെല്ലാം\r\nഏത് ഭാഷയിലെ കവികളായിരുന്നു ?\r\n",
+    "answerText": " സംസ്കൃതകവികൾ\r\n"
+  },
+  {
+    "questionNum": 99653,
+    "questionText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിലെ പതിനെട്ടരക്കവികൾ ആരെല്ലാം ?\r\n",
+    "answerText": " പയ്യുർ പട്ടേരിമാർ ജ്യേഷ്ടാനുജൻമാരായ എട്ടുപേരും ഒരുമഹനും, തിരുവേഗപ്പുറക്കാരായ നമ്പൂതിരിമാർ അഞ്ചുപേർ, മുല്ലപ്പിള്ളി ഭട്ടതിരി, ചേന്നാസ് നാരായണ ഭട്ടതിരി, കാക്കശ്ശേരി ഭട്ടതിരി, ഉദ്ദണ്ഡശാസ്ത്രികൾ, പുനംനമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99654,
+    "questionText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിലെ പതിനെട്ടരക്കവികളിൽ പയ്യുർ പട്ടേരിമാർ എത്ര പേരുണ്ടായിരുന്നു ?\r\n",
+    "answerText": 8
+  },
+  {
+    "questionNum": 99655,
+    "questionText": " കോഴിക്കോട് മാനവിക്രമ സാമൂതിരിയുടെ കവിസദസ്സിലെ പതിനെട്ടരക്കവികളിൽ തിരുവേഗപ്പുറക്കാരായ നമ്പൂതിരിമാർ എത്ര പേരുണ്ടായിരുന്നു ?\r\n",
+    "answerText": 5
+  },
+  {
+    "questionNum": 99656,
+    "questionText": " ചില പണ്ഡിതർ പിൽകാലത്ത് പതിനെട്ടരക്കവികൾക്ക് അർഥം കല്പിച്ചത് എങ്ങനെ ?\r\n",
+    "answerText": " പതിനെട്ട് അരച (രാജ) കവികൾ\r\n"
+  },
+  {
+    "questionNum": 99657,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ നോവൽ :\r\n",
+    "answerText": " അവകാശികൾ (വിലാസിനി (എം.കെ.മേനോൻ) )\r\n"
+  },
+  {
+    "questionNum": 99658,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ നോവലായ ‘അവകാശികൾ’ രചിച്ചത് ആര് ?\r\n",
+    "answerText": " വിലാസിനി (എം.കെ.മേനോൻ)\r\n"
+  },
+  {
+    "questionNum": 99659,
+    "questionText": " നാലുഭാഗമുള്ള മലയാളത്തിലെ ഏറ്റവും വലിയ നോവലായ ‘അവകാശിക’ളുടെ രചനാ പശ്ചാത്തലം എവിടെയാണ് ?\r\n",
+    "answerText": " മലേഷ്യ\r\n"
+  },
+  {
+    "questionNum": 99660,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ നോവലായ ‘അവകാശികൾ’ എത്ര ഭാഗങ്ങളാണ് ?\r\n",
+    "answerText": 4
+  },
+  {
+    "questionNum": 99661,
+    "questionText": " ‘ആധുനികയുഗത്തിന്റെ മഹാഭാരതം’ എന്നു വിശേഷിപ്പിക്കപ്പെടുന്ന മലയാള നോവൽ ?\r\n",
+    "answerText": " അവകാശികൾ (വിലാസിനി (എം.കെ.മേനോൻ) )\r\n"
+  },
+  {
+    "questionNum": 99662,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ നോവലായ ‘അവകാശികൾ’ വിശേഷിപ്പിക്കപ്പെടുന്നത് ?\r\n",
+    "answerText": " ആധുനികയുഗത്തിന്റെ മഹാഭാരതം\r\n"
+  },
+  {
+    "questionNum": 99663,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ രണ്ടാമത്തെ നോവൽ ?\r\n",
+    "answerText": " കയർ(തകഴി)\r\n"
+  },
+  {
+    "questionNum": 99664,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ രണ്ടാമത്തെ നോവലായ ‘കയർ’\r\nരചിച്ചതാര് ?\r\n",
+    "answerText": " തകഴി\r\n"
+  },
+  {
+    "questionNum": 99665,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘കർമഭൂമിയുടെ പിഞ്ചുകാൽ’ രചിച്ചതാര് ?\r\n",
+    "answerText": " വള്ളത്തോൾ നാരായണമേനോൻ\r\n"
+  },
+  {
+    "questionNum": 99666,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് സി.വി. വാസുദേവഭട്ടതിരി രചിച്ച പ്രസിദ്ധ മലയാള കവിത ?\r\n",
+    "answerText": " ഭാരതേന്ദു\r\n"
+  },
+  {
+    "questionNum": 99667,
+    "questionText": " വള്ളത്തോൾ നാരായണമേനോന്റെ ‘കർമഭൂമിയുടെ പിഞ്ചുകാൽ’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99668,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘എന്റെ ഗുരുനാഥൻ’ രചിച്ചതാര് ?\r\n",
+    "answerText": " വള്ളത്തോൾ നാരായണമേനോൻ\r\n"
+  },
+  {
+    "questionNum": 99669,
+    "questionText": " വള്ളത്തോൾ നാരായണമേനോന്റെ ‘എന്റെ ഗുരുനാഥൻ’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99670,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ബാപ്പുജി’ രചിച്ചതാര് ?\r\n",
+    "answerText": " വള്ളത്തോൾ നാരായണമേനോൻ\r\n"
+  },
+  {
+    "questionNum": 99671,
+    "questionText": " വള്ളത്തോൾ നാരായണമേനോന്റെ ‘ബാപ്പുജി’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99672,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് വള്ളത്തോൾ നാരായണമേനോൻ രചിച്ച പ്രസിദ്ധ മലയാള കവിതകൾ ?\r\n",
+    "answerText": " കർമഭൂമിയുടെ പിഞ്ചുകാൽ,എന്റെ ഗുരുനാഥൻ,ബാപ്പുജി\r\n"
+  },
+  {
+    "questionNum": 99673,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ഭാരതേന്ദു’ രചിച്ചതാര് ?\r\n",
+    "answerText": " സി.വി. വാസുദേവഭട്ടതിരി\r\n"
+  },
+  {
+    "questionNum": 99674,
+    "questionText": " സി.വി. വാസുദേവഭട്ടതിരിയുടെ ‘ഭാരതേന്ദു’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99675,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ആഗസ്റ്റ് കാറ്റിൽ ഒരില’ രചിച്ചതാര് ?\r\n",
+    "answerText": " എൻ.വി.കൃഷ്ണവാര്യർ\r\n"
+  },
+  {
+    "questionNum": 99676,
+    "questionText": " എൻ.വി.കൃഷ്ണവാര്യരുടെ ‘ആഗസ്റ്റ് കാറ്റിൽ ഒരില’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99677,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് എൻ.വി.കൃഷ്ണവാര്യർ രചിച്ച പ്രസിദ്ധ മലയാള കവിതകൾ ?\r\n",
+    "answerText": " ആഗസ്റ്റ് കാറ്റിൽ ഒരില,ഗാന്ധിയും ഗോദ്സേയും\r\n"
+  },
+  {
+    "questionNum": 99678,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ഗാന്ധിയും ഗോദ്സേയും’ രചിച്ചതാര് ?\r\n",
+    "answerText": " എൻ.വി.കൃഷ്ണവാര്യർ\r\n"
+  },
+  {
+    "questionNum": 99679,
+    "questionText": " എൻ.വി.കൃഷ്ണവാര്യരുടെ ‘ഗാന്ധിയും ഗോദ്സേയും’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99680,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ധർമസൂര്യൻ’ രചിച്ചതാര് ?\r\n",
+    "answerText": " അക്കിത്തം അച്യുതൻ നമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99681,
+    "questionText": " അക്കിത്തം അച്യുതൻ നമ്പൂതിരിയുടെ ‘ധർമസൂര്യൻ’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99682,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് അക്കിത്തം അച്യുതൻ നമ്പൂതിരി രചിച്ച പ്രസിദ്ധ മലയാള കവിത:\r\n",
+    "answerText": " ധർമസൂര്യൻ\r\n"
+  },
+  {
+    "questionNum": 99683,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ ഗാന്ധി ഭാരതം’ രചിച്ചതാര് ?\r\n",
+    "answerText": " പാലാ നാരായണൻനായർ\r\n"
+  },
+  {
+    "questionNum": 99684,
+    "questionText": " പാലാ നാരായണൻനായരുടെ ‘ഗാന്ധി ഭാരതം’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99685,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് അക്കിത്തം പാലാ നാരായണൻനായർ രചിച്ച പ്രസിദ്ധ മലയാള കവിത:\r\n",
+    "answerText": " ഗാന്ധി ഭാരതം\r\n"
+  },
+  {
+    "questionNum": 99686,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ഗാന്ധിയും കാക്കയും ഞാനും’ രചിച്ചതാര് ?\r\n",
+    "answerText": " ഒ.എൻ.വി. കുറുപ്പ്\r\n"
+  },
+  {
+    "questionNum": 99687,
+    "questionText": " ഒ.എൻ.വി. കുറുപ്പിന്റെ ‘ഗാന്ധിയും കാക്കയും ഞാനും’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99688,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് ഒ.എൻ.വി. കുറുപ്പ് രചിച്ച പ്രസിദ്ധ മലയാള കവിത:\r\n",
+    "answerText": " ഗാന്ധിയും കാക്കയും ഞാനും\r\n"
+  },
+  {
+    "questionNum": 99689,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് മലയാളത്തിലുണ്ടായ പ്രസിദ്ധ കവിതയായ\r\n‘ആ ചുടലക്കളം’ രചിച്ചതാര് ?\r\n",
+    "answerText": " ഉള്ളൂർ എസ്. പരമേശ്വരയ്യർ "
+  },
+  {
+    "questionNum": 99690,
+    "questionText": " ഉള്ളൂർ എസ്. പരമേശ്വരയ്യരുടെ ‘ആ ചുടലക്കളം’ എന്ന കവിതയിൽ പരാമർശിക്കുന്ന നേതാവ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99691,
+    "questionText": " ഗാന്ധിജിയെ കുറിച്ച് ഉള്ളൂർ എസ്. പരമേശ്വരയ്യർ രചിച്ച പ്രസിദ്ധ മലയാള കവിത:\r\n",
+    "answerText": " ആ ചുടലക്കളം\r\n"
+  },
+  {
+    "questionNum": 99692,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ രാമചരിതം രചിച്ചതാര് ?\r\n",
+    "answerText": " ചീരാമകവി\r\n"
+  },
+  {
+    "questionNum": 99693,
+    "questionText": " ചീരാമകവി രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല പാട്ട് :\r\n",
+    "answerText": " രാമചരിതം\r\n"
+  },
+  {
+    "questionNum": 99694,
+    "questionText": " ചീരാമകവി രചിച്ച ‘രാമചരിതം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " പാട്ട്\r\n"
+  },
+  {
+    "questionNum": 99695,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘ഉണ്ണിയച്ചിചരിതം’ രചിച്ചതാര് ?\r\n",
+    "answerText": " അജ്ഞാതകർതൃകം\r\n"
+  },
+  {
+    "questionNum": 99696,
+    "questionText": " അജ്ഞാതകർതൃകം രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല ചമ്പു :\r\n",
+    "answerText": " ഉണ്ണിയച്ചിചരിതം\r\n"
+  },
+  {
+    "questionNum": 99697,
+    "questionText": " അജ്ഞാതകർതൃകം രചിച്ച ‘.ഉണ്ണിയച്ചിചരിതം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " ചമ്പു\r\n"
+  },
+  {
+    "questionNum": 99698,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘കൃഷ്ണഗാഥ’\r\nരചിച്ചതാര് ?\r\n",
+    "answerText": " ചെറുശ്ശേരി നമ്പൂതിരി\r\n"
+  },
+  {
+    "questionNum": 99699,
+    "questionText": " ചെറുശ്ശേരി നമ്പൂതിരി രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല ഗാഥ :\r\n",
+    "answerText": " കൃഷ്ണഗാഥ\r\n"
+  },
+  {
+    "questionNum": 99700,
+    "questionText": " ചെറുശ്ശേരി നമ്പൂതിരി രചിച്ച ‘കൃഷ്ണഗാഥ’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " ഗാഥ\r\n"
+  },
+  {
+    "questionNum": 99701,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘അദ്ധ്യാത്മരാമായണം’ കിളിപ്പാട്ട് രചിച്ചതാര് ?\r\n",
+    "answerText": " തുഞ്ചത്ത് എഴുത്തച്ഛൻ\r\n"
+  },
+  {
+    "questionNum": 99702,
+    "questionText": " തുഞ്ചത്ത് എഴുത്തച്ഛൻ രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല കിളിപ്പാട്ട് :\r\n",
+    "answerText": " അദ്ധ്യാത്മരാമായണം\r\n"
+  },
+  {
+    "questionNum": 99703,
+    "questionText": " തുഞ്ചത്ത് എഴുത്തച്ഛൻ രചിച്ച ‘അദ്ധ്യാത്മരാമായണം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " കിളിപ്പാട്ട്\r\n"
+  },
+  {
+    "questionNum": 99704,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘കല്യാണസൗഗന്ധികം’ തുള്ളൽപ്പാട്ട് രചിച്ചതാര് ?\r\n",
+    "answerText": " കുഞ്ചൻനമ്പ്യാർ\r\n"
+  },
+  {
+    "questionNum": 99705,
+    "questionText": " കുഞ്ചൻനമ്പ്യാർ രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല തുള്ളൽപ്പാട്ട് :\r\n",
+    "answerText": " കല്യാണസൗഗന്ധികം\r\n"
+  },
+  {
+    "questionNum": 99706,
+    "questionText": " കുഞ്ചൻനമ്പ്യാർ രചിച്ച ‘കല്യാണസൗഗന്ധികം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " തുള്ളൽപ്പാട്ട്\r\n"
+  },
+  {
+    "questionNum": 99707,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘കുചേലവൃത്തം’ വഞ്ചിപ്പാട്ട് രചിച്ചതാര് ?\r\n",
+    "answerText": " രാമപുരത്ത് വാര്യർ\r\n"
+  },
+  {
+    "questionNum": 99708,
+    "questionText": " രാമപുരത്ത് വാര്യർ രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല വഞ്ചിപ്പാട്ട് :\r\n",
+    "answerText": " കുചേലവൃത്തം\r\n"
+  },
+  {
+    "questionNum": 99709,
+    "questionText": " രാമപുരത്ത് വാര്യർ രചിച്ച ‘കുചേലവൃത്തം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " വഞ്ചിപ്പാട്ട്\r\n"
+  },
+  {
+    "questionNum": 99710,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘ഉണ്ണുനീലിസന്ദേശം’ സന്ദേശകാവ്യം രചിച്ചതാര് ?\r\n",
+    "answerText": " അജ്ഞാതകർതൃകം\r\n"
+  },
+  {
+    "questionNum": 99711,
+    "questionText": " അജ്ഞാതകർതൃകം രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല സന്ദേശകാവ്യം :\r\n",
+    "answerText": " ഉണ്ണുനീലിസന്ദേശം\r\n"
+  },
+  {
+    "questionNum": 99712,
+    "questionText": " അജ്ഞാതകർതൃകം രചിച്ച ‘ഉണ്ണുനീലിസന്ദേശം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " സന്ദേശകാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99713,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘മലയവിലാസം’ ഖണ്ഡകാവ്യം രചിച്ചതാര് ?\r\n",
+    "answerText": " എ.ആർ. രാജരാജവർമ്മ\r\n"
+  },
+  {
+    "questionNum": 99714,
+    "questionText": " എ.ആർ. രാജരാജവർമ്മ രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല ഖണ്ഡകാവ്യം:\r\n",
+    "answerText": " മലയവിലാസം\r\n"
+  },
+  {
+    "questionNum": 99715,
+    "questionText": " എ.ആർ. രാജരാജവർമ്മ രചിച്ച ‘മലയവിലാസം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " ഖണ്ഡകാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99716,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘രാമചന്ദ്രവിലാസം’ മഹാകാവ്യം രചിച്ചതാര് ?\r\n",
+    "answerText": " അഴകത്ത് പദ്മനാഭക്കുറുപ്പ്\r\n"
+  },
+  {
+    "questionNum": 99717,
+    "questionText": " അഴകത്ത് പദ്മനാഭക്കുറുപ്പ് രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല മഹാകാവ്യം :\r\n",
+    "answerText": " രാമചന്ദ്രവിലാസം\r\n"
+  },
+  {
+    "questionNum": 99718,
+    "questionText": " അഴകത്ത് പദ്മനാഭക്കുറുപ്പ് രചിച്ച ‘രാമചന്ദ്രവിലാസം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " മഹാകാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99719,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘വാസനാവികൃതി’ ചെറുകഥ രചിച്ചതാര് ?\r\n",
+    "answerText": " വേങ്ങയിൽ കുഞ്ഞിരാമൻ നായനാർ\r\n"
+  },
+  {
+    "questionNum": 99720,
+    "questionText": " വേങ്ങയിൽ കുഞ്ഞിരാമൻ നായനാർ രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല ചെറുകഥ :\r\n",
+    "answerText": " വാസനാവികൃതി\r\n"
+  },
+  {
+    "questionNum": 99721,
+    "questionText": " വേങ്ങയിൽ കുഞ്ഞിരാമൻ നായനാർ രചിച്ച ‘വാസനാവികൃതി’\r\nഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " ചെറുകഥ\r\n"
+  },
+  {
+    "questionNum": 99722,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘കുന്ദലത’ നോവൽ രചിച്ചതാര് ?\r\n",
+    "answerText": " അപ്പുനെടുങ്ങാടി\r\n"
+  },
+  {
+    "questionNum": 99723,
+    "questionText": " അപ്പുനെടുങ്ങാടി രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല നോവൽ:\r\n",
+    "answerText": " കുന്ദലത\r\n"
+  },
+  {
+    "questionNum": 99724,
+    "questionText": " അപ്പുനെടുങ്ങാടി രചിച്ച ‘കുന്ദലത’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " നോവൽ\r\n"
+  },
+  {
+    "questionNum": 99725,
+    "questionText": " സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘ആൾമാറാട്ടം’ നാടകം രചിച്ചതാര് ?\r\n",
+    "answerText": " കല്ലൂർ ഉമ്മൻ ഫിലിപ്പോസ്\r\n"
+  },
+  {
+    "questionNum": 99726,
+    "questionText": " കല്ലൂർ ഉമ്മൻ ഫിലിപ്പോസ് രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ പ്രസിദ്ധമായ ആദ്യകാല നാടകം :\r\n",
+    "answerText": " ആൾമാറാട്ടം\r\n"
+  },
+  {
+    "questionNum": 99727,
+    "questionText": " കല്ലൂർ ഉമ്മൻ ഫിലിപ്പോസ് രചിച്ച സാഹിത്യ പ്രസ്ഥാനങ്ങളിലെ ആദ്യകാല കൃതിയായ ‘ആൾമാറാട്ടം’ ഏത് സാഹിത്യവിഭാഗത്തിൽ പെടുന്നു ?\r\n",
+    "answerText": " നാടകം\r\n"
+  },
+  {
+    "questionNum": 99728,
+    "questionText": " പുരാണേതിഹാസസങ്ങളിലെ കഥാപാത്രങ്ങളെയും കഥാസന്ദർഭങ്ങളെയും കുറിച്ചുള്ള പഠനമായ ‘ഭാരതപര്യടനം’\r\nകൃതി രചിച്ചതാര് ?\r\n",
+    "answerText": " കുട്ടികൃഷ്ണമാരാർ\r\n"
+  },
+  {
+    "questionNum": 99729,
+    "questionText": " കുട്ടികൃഷ്ണമാരാർ രചിച്ച പുരാണേതിഹാസസങ്ങളിലെ കഥാപാത്രങ്ങളെയും കഥാസന്ദർഭങ്ങളെയും കുറിച്ചുള്ള പഠനമായ കൃതി ?\r\n",
+    "answerText": " ‘ഭാരതപര്യടനം’\r\n"
+  },
+  {
+    "questionNum": 99730,
+    "questionText": " കുട്ടികൃഷ്ണമാരാരുടെ ‘ഭാരതപര്യടനം’ കൃതിയിൽ പരാമർശിക്കുന്നത് ?\r\n",
+    "answerText": " പുരാണേതിഹാസസങ്ങളിലെ കഥാപാത്രങ്ങളെയും കഥാസന്ദർഭങ്ങളെയും കുറിച്ചുള്ള പഠനം\r\n"
+  },
+  {
+    "questionNum": 99731,
+    "questionText": " ഭീമസേനൻ കഥാപാത്രമായുള്ള ‘രണ്ടാമൂഴം’ നോവൽ രചിച്ചത് ആര്?\r\n",
+    "answerText": " എം.ടി.വാസുദേവൻ നായർ\r\n"
+  },
+  {
+    "questionNum": 99732,
+    "questionText": " എം.ടി.വാസുദേവൻ നായർ രചിച്ച ഭീമസേനൻ കഥാപാത്രമായുള്ള\r\nപ്രസിദ്ധ നോവൽ ?\r\n",
+    "answerText": " ‘രണ്ടാമൂഴം’\r\n"
+  },
+  {
+    "questionNum": 99733,
+    "questionText": " കർണൻ കഥാപാത്രമായുള്ള ‘ഇനി ഞാൻ ഉറങ്ങട്ടെ’ എന്ന നോവൽ\r\nരചിച്ചത് ആര്?\r\n",
+    "answerText": " പി.കെ. ബാലകൃഷ്ണൻ\r\n"
+  },
+  {
+    "questionNum": 99734,
+    "questionText": " പി.കെ. ബാലകൃഷ്ണൻ രചിച്ച കർണൻ കഥാപാത്രമായുള്ള പുരാണകഥാ പശ്ചാത്തലത്തിലുള്ള നോവൽ :\r\n",
+    "answerText": " ഇനി ഞാൻ ഉറങ്ങട്ടെ\r\n"
+  },
+  {
+    "questionNum": 99735,
+    "questionText": " പി.കെ. ബാലകൃഷ്ണൻ രചിച്ച പുരാണകഥാ പശ്ചാത്തലത്തിലുള്ള നോവലായ ‘ഇനി ഞാൻ ഉറങ്ങട്ടെ’ കൃതിയിലെ പ്രധാന കഥാപാത്രം ?\r\n",
+    "answerText": " കർണൻ\r\n"
+  },
+  {
+    "questionNum": 99736,
+    "questionText": " എം.ടി.വാസുദേവൻ നായർ രചിച്ച പുരാണകഥാ പശ്ചാത്തലത്തിലുള്ള നോവലായ ‘രണ്ടാമൂഴം’ എന്ന കൃതിയിലെ പ്രധാന കഥാപാത്രം ?\r\n",
+    "answerText": " ഭീമസേനൻ\r\n"
+  },
+  {
+    "questionNum": 99737,
+    "questionText": " പറയിപെറ്റ പന്തിരുകുലത്തിന്റെ കഥ പറയുന്ന ‘ഇന്നലത്തെ മഴ’\r\nനോവൽ രചിച്ചതാര് ?\r\n",
+    "answerText": " എൻ. മോഹനൻ\r\n"
+  },
+  {
+    "questionNum": 99738,
+    "questionText": " എൻ. മോഹനൻ രചിച്ച പറയിപെറ്റ പന്തിരുകുലത്തിന്റെ കഥ പറയുന്ന നോവൽ :\r\n",
+    "answerText": " ഇന്നലത്തെ മഴ\r\n"
+  },
+  {
+    "questionNum": 99739,
+    "questionText": " എൻ. മോഹനൻ രചിച്ച ‘ഇന്നലത്തെ മഴ’ എന്ന നോവലിന്റെ കഥാപശ്ചാത്തലം ?\r\n",
+    "answerText": " പറയിപെറ്റ പന്തിരുകുലത്തിന്റെ കഥ\r\n"
+  },
+  {
+    "questionNum": 99740,
+    "questionText": " സീതയെ അവലംബമാക്കി രചിച്ച ‘സീതായനം’ എന്ന നോവൽ രചിച്ചതാര് ?\r\n",
+    "answerText": " കെ. സുരേന്ദ്രൻ\r\n"
+  },
+  {
+    "questionNum": 99741,
+    "questionText": " കെ. സുരേന്ദ്രൻ സീതയെ അവലംബമാക്കി രചിച്ച നോവൽ :\r\n",
+    "answerText": " സീതായനം\r\n"
+  },
+  {
+    "questionNum": 99742,
+    "questionText": " ‘നാട്യശാസ്ത്രം’ കൃതിയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " അഭിനവഭാരതി\r\n"
+  },
+  {
+    "questionNum": 99743,
+    "questionText": " ‘നാട്യശാസ്ത്രം’ കൃതിയുടെ വ്യാഖ്യാനമായ ‘അഭിനവഭാരതി’യുടെ\r\nവ്യാഖ്യാതാവ് :\r\n",
+    "answerText": " അഭിനവഗുപ്തൻ\r\n"
+  },
+  {
+    "questionNum": 99744,
+    "questionText": " അഭിനവഗുപ്തൻ രചിച്ച ‘അഭിനവഭാരതി’ ഏതു മൂലകൃതിയുടെ\r\nവ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " നാട്യശാസ്ത്രം\r\n"
+  },
+  {
+    "questionNum": 99745,
+    "questionText": " ‘രാമകഥാപ്പാട്ട്’ കൃതിയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " ഭാഷാപരിമളം(ഡോ. പി.കെ. നാ രായണപിള്ള)\r\n"
+  },
+  {
+    "questionNum": 99746,
+    "questionText": " ‘രാമകഥാപ്പാട്ട്’ കൃതിയുടെ വ്യാഖ്യാനമായ ‘ഭാഷാപരിമളം’ത്തിന്റെ വ്യാഖ്യാതാവ് :\r\n",
+    "answerText": " ഡോ. പി.കെ. നാ രായണപിള്ള\r\n"
+  },
+  {
+    "questionNum": 99747,
+    "questionText": " ഡോ. പി.കെ. നാ രായണപിള്ള രചിച്ച ‘ഭാഷാപരിമളം’ ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " രാമകഥാപ്പാട്ട്\r\n"
+  },
+  {
+    "questionNum": 99748,
+    "questionText": " ശൂരനാട് കുഞ്ഞൻപിള്ള രചിച്ച ‘കൈരളീതിലകം’ ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " ലീലാതിലകം\r\n"
+  },
+  {
+    "questionNum": 99749,
+    "questionText": " ‘ലീലാതിലകം’ കൃതിയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " കൈരളീതിലകം\r\n"
+  },
+  {
+    "questionNum": 99750,
+    "questionText": " ‘ലീലാതിലകം’ കൃതിയുടെ വ്യാഖ്യാനമായ ‘കൈരളീതിലകം’ത്തിന്റെ വ്യാഖ്യാതാവ് :\r\n",
+    "answerText": " ശൂരനാട് കുഞ്ഞൻപിള്ള\r\n"
+  },
+  {
+    "questionNum": 99751,
+    "questionText": " ഡോ. പി.കെ.നാരായണപിള്ള രചിച്ച ‘കേരളഹൃദയം’ ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " മയൂരസന്ദേശം\r\n"
+  },
+  {
+    "questionNum": 99752,
+    "questionText": " ‘മയൂരസന്ദേശം’ കൃതിയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " കേരളഹൃദയം(ഡോ. പി.കെ.നാരായണപിള്ള)\r\n"
+  },
+  {
+    "questionNum": 99753,
+    "questionText": " ‘മയൂരസന്ദേശം’ കൃതിയുടെ വ്യാഖ്യാനമായ ‘കേരളഹൃദയം’ത്തിന്റെ വ്യാഖ്യാതാവ് :\r\n",
+    "answerText": " ഡോ. പി.കെ.നാരായണപിള്ള\r\n"
+  },
+  {
+    "questionNum": 99754,
+    "questionText": " നളചരിതം ആട്ടക്കഥയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " കാന്താരതാരകം(എ.ആർ.രാജരാജവർമ്മ)\r\n"
+  },
+  {
+    "questionNum": 99755,
+    "questionText": " നളചരിതം ആട്ടക്കഥയുടെ വ്യാഖ്യാനമായ കാന്താരതാരകം\r\nരചിച്ചത് ?\r\n",
+    "answerText": " എ.ആർ.രാജരാജവർമ്മ\r\n"
+  },
+  {
+    "questionNum": 99756,
+    "questionText": " കാന്താരതാരകം ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " നളചരിതം ആട്ടക്കഥ\r\n"
+  },
+  {
+    "questionNum": 99757,
+    "questionText": " നളചരിതം ആട്ടക്കഥയുടെ പന്മന രാമചന്ദ്രൻ നായർ രചിച്ച വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " കൈരളി\r\n"
+  },
+  {
+    "questionNum": 99758,
+    "questionText": " പന്മന രാമചന്ദ്രൻ നായർ രചിച്ച കൈരളി ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " നളചരിതം ആട്ടക്കഥ\r\n"
+  },
+  {
+    "questionNum": 99759,
+    "questionText": " നളചരിതം ആട്ടക്കഥയുടെ വ്യാഖ്യാനമായ ‘കൈരളി’ രചിച്ചതാര് ?\r\n",
+    "answerText": " പന്മന രാമചന്ദ്രൻ നായർ\r\n"
+  },
+  {
+    "questionNum": 99760,
+    "questionText": " ‘അഷ്ടാധ്യായി’ കൃതിയുടെ പതഞ്ജലി രചിച്ച വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " മഹാഭാഷ്യം\r\n"
+  },
+  {
+    "questionNum": 99761,
+    "questionText": " അഷ്ടാധ്യായിയുടെ വ്യാഖ്യാനമായ ‘മഹാഭാഷ്യം’ രചിച്ചതാര് ?\r\n",
+    "answerText": " പതഞ്ജലി\r\n"
+  },
+  {
+    "questionNum": 99762,
+    "questionText": " പതഞ്ജലി രചിച്ച ‘മഹാഭാഷ്യം’ ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " അഷ്ടാധ്യായി\r\n"
+  },
+  {
+    "questionNum": 99763,
+    "questionText": " നാരായണീയം കൃതിയുടെ വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " ഭക്തപ്രിയ(വാസുദേവൻ)\r\n"
+  },
+  {
+    "questionNum": 99764,
+    "questionText": " വാസുദേവൻ രചിച്ച ഭക്തപ്രിയ ഏതു മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " നാരായണീയം\r\n"
+  },
+  {
+    "questionNum": 99765,
+    "questionText": " ‘നാരായണീയം’ കൃതിയുടെ വ്യാഖ്യാനമായ ‘ഭക്തപ്രിയ’ രചിച്ചതാര്?\r\n",
+    "answerText": " വാസുദേവൻ\r\n"
+  },
+  {
+    "questionNum": 99766,
+    "questionText": " അഷ്ടാംഗഹൃദയം കൃതിയുടെ വൈക്കത്ത് പാച്ചു മൂത്തത് രചിച്ച വ്യാഖ്യാനത്തിന്റെ പേര് :\r\n",
+    "answerText": " ഹൃദയപ്രിയ\r\n"
+  },
+  {
+    "questionNum": 99767,
+    "questionText": " വൈക്കത്ത് പാച്ചു മൂത്തത് രചിച്ച ഹൃദയപ്രിയ ഏത് മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ് ?\r\n",
+    "answerText": " അഷ്ടാംഗഹൃദയം\r\n"
+  },
+  {
+    "questionNum": 99768,
+    "questionText": " അഷ്ടാംഗഹൃദയത്തിന്റെ വ്യാഖ്യാനമായ ഹൃദയപ്രിയ\r\nരചിച്ചതാര് ?\r\n",
+    "answerText": " വൈക്കത്ത് പാച്ചു മൂത്തത്\r\n"
+  },
+  {
+    "questionNum": 99769,
+    "questionText": " ‘വേദങ്ങൾ’ കൃതിയുടെ യാസ്കൻ രചിച്ച വ്യാഖ്യാനത്തിന്റെ പേര്:\r\n",
+    "answerText": " നിരുക്തം\r\n"
+  },
+  {
+    "questionNum": 99770,
+    "questionText": " യാസ്കൻ രചിച്ച ‘നിരുക്തം’ ഏത് മൂലകൃതിയുടെ വ്യാഖ്യാനമാണ്?\r\n",
+    "answerText": " വേദങ്ങൾ\r\n"
+  },
+  {
+    "questionNum": 99771,
+    "questionText": " ‘വേദങ്ങൾ’ കൃതിയുടെ വ്യാഖ്യാനമായ നിരുക്തം രചിച്ചതാര് ? ",
+    "answerText": " യാസ്കൻ\r\n"
+  },
+  {
+    "questionNum": 99772,
+    "questionText": " ഹസ്ത്യായുർവേദം കൃതിയുടെ കടലായിൽ നീലകണ്ഠൻ ശാസ്ത്രികൾ രചിച്ച വ്യാഖ്യാനത്തിന്റെ പേര്:\r\n",
+    "answerText": " മാതംഗലീല\r\n"
+  },
+  {
+    "questionNum": 99773,
+    "questionText": " കടലായിൽ നീലകണ്ഠൻ ശാസ്ത്രികൾ രചിച്ച മാതംഗലീല ഏത് പ്രസിദ്ധ കൃതിയുടെ വ്യാഖ്യാനമാണ്?\r\n",
+    "answerText": " ഹസ്ത്യായുർവേദം\r\n"
+  },
+  {
+    "questionNum": 99774,
+    "questionText": " ഹസ്ത്യായുർവേദം കൃതിയുടെ വ്യാഖ്യാനമായ ‘മാതംഗലീല’ രചിച്ചതാര് ?\r\n",
+    "answerText": " കടലായിൽ നീലകണ്ഠൻ ശാസ്ത്രികൾ\r\n"
+  },
+  {
+    "questionNum": 99775,
+    "questionText": " ആദികാവ്യം എന്നറിയപ്പെടുന്നത് ?\r\n",
+    "answerText": " രാമായണം\r\n"
+  },
+  {
+    "questionNum": 99776,
+    "questionText": " ആദികാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘രാമായണം’ രചിച്ചതാര്?\r\n",
+    "answerText": " വാല്മീകി\r\n"
+  },
+  {
+    "questionNum": 99777,
+    "questionText": " അഞ്ചാംവേദം എന്നറിയപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " മഹാഭാരതം (വ്യാസൻ)\r\n"
+  },
+  {
+    "questionNum": 99778,
+    "questionText": " അഞ്ചാംവേദം എന്നറിയപ്പെടുന്ന ‘മഹാഭാരതം’ രചിച്ചതാര്?\r\n",
+    "answerText": " വ്യാസൻ\r\n"
+  },
+  {
+    "questionNum": 99779,
+    "questionText": " വ്യാസൻ രചിച്ച അഞ്ചാംവേദം എന്നറിയപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " മഹാഭാരതം\r\n"
+  },
+  {
+    "questionNum": 99780,
+    "questionText": " മഹാഭാരതം വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " അഞ്ചാംവേദം\r\n"
+  },
+  {
+    "questionNum": 99781,
+    "questionText": " ഷഡ്സാഹസ്രി എന്നറിയപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " നാട്യശാസ്ത്രം (ഭരതമുനി)\r\n"
+  },
+  {
+    "questionNum": 99782,
+    "questionText": " നാട്യശാസ്ത്രം രചിച്ചതാര്?\r\n",
+    "answerText": " ഭരതമുനി\r\n"
+  },
+  {
+    "questionNum": 99783,
+    "questionText": " ഭരതമുനിയുടെ പ്രസിദ്ധ കൃതി :\r\n",
+    "answerText": " നാട്യശാസ്ത്രം\r\n"
+  },
+  {
+    "questionNum": 99784,
+    "questionText": " ഭരതമുനിയുടെ നാട്യശാസ്ത്രം വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ഷഡ്സാഹസ്രി\r\n"
+  },
+  {
+    "questionNum": 99785,
+    "questionText": " ദ്രാവിഡവേദം എന്നറിയപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " തിരുവായ്മൊഴി (നമ്മാഴ്വർ) "
+  },
+  {
+    "questionNum": 99786,
+    "questionText": " ദ്രാവിഡവേദം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘തിരുവായ്മൊഴി’ രചിച്ചതാര്?\r\n",
+    "answerText": " നമ്മാഴ്വർ\r\n"
+  },
+  {
+    "questionNum": 99787,
+    "questionText": " നമ്മാഴ്വർ രചിച്ച ദ്രാവിഡവേദം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന\r\nകൃതി ?\r\n",
+    "answerText": " തിരുവായ്മൊഴി\r\n"
+  },
+  {
+    "questionNum": 99788,
+    "questionText": " നമ്മാഴ്വരുടെ ‘തിരുവായ്മൊഴി’ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ദ്രാവിഡവേദം\r\n"
+  },
+  {
+    "questionNum": 99789,
+    "questionText": " ലൗകികനിഘണ്ടു എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന അമരസിംഹന്റെ കൃതി ?\r\n",
+    "answerText": " അമരകോശം\r\n"
+  },
+  {
+    "questionNum": 99790,
+    "questionText": " ലൗകികനിഘണ്ടു എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘അമരകോശം’ രചിച്ചതാര്?\r\n",
+    "answerText": " അമരസിംഹൻ\r\n"
+  },
+  {
+    "questionNum": 99791,
+    "questionText": " അമരസിംഹന്റെ ‘അമരകോശം’ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ലൗകികനിഘണ്ടു\r\n"
+  },
+  {
+    "questionNum": 99792,
+    "questionText": " കേരളാരാമം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " ഹോർത്തൂസ് മലബാറിക്കസ് (ഹെൻറിക് വാൻറീഡ്)\r\n"
+  },
+  {
+    "questionNum": 99793,
+    "questionText": " കേരളാരാമം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘ഹോർത്തൂസ് മലബാറിക്കസ്’ രചിച്ചതാര്?\r\n",
+    "answerText": " ഹെൻറിക് വാൻറീഡ്\r\n"
+  },
+  {
+    "questionNum": 99794,
+    "questionText": " ഹെൻറിക് വാൻറീഡ് രചിച്ച ഹോർത്തൂസ് മലബാറിക്കസ് വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " കേരളാരാമം\r\n"
+  },
+  {
+    "questionNum": 99795,
+    "questionText": " മധുരകാവ്യം എന്നറിയപ്പെടുന്ന എ.ആർ. രാജരാജവർമ്മയുടെ\r\nകൃതി ?\r\n",
+    "answerText": " മലയവിലാസം\r\n"
+  },
+  {
+    "questionNum": 99796,
+    "questionText": " മധുരകാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘മലയവിലാസം ’ രചിച്ചതാര്?\r\n",
+    "answerText": " എ.ആർ. രാജരാജവർമ്മ\r\n"
+  },
+  {
+    "questionNum": 99797,
+    "questionText": " എ.ആർ. രാജരാജവർമ്മയുടെ മലയവിലാസം വിശേഷിപ്പിക്കപ്പെടുന്നത് ?\r\n",
+    "answerText": " മധുരകാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99798,
+    "questionText": " പ്രകൃതികാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൊടുങ്ങല്ലൂർ\r\nകൊച്ചുണ്ണിതമ്പുരാന്റെ കൃതി ?\r\n",
+    "answerText": " മലയാം കൊല്ലം\r\n"
+  },
+  {
+    "questionNum": 99799,
+    "questionText": " പ്രകൃതികാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘മലയാം കൊല്ലം’\r\nരചിച്ചതാര്?\r\n",
+    "answerText": " കൊടുങ്ങല്ലൂർ കൊച്ചുണ്ണിതമ്പുരാൻ\r\n"
+  },
+  {
+    "questionNum": 99800,
+    "questionText": " കൊടുങ്ങല്ലൂർ കൊച്ചുണ്ണിതമ്പുരാൻ രചിച്ച ‘മലയാം കൊല്ലം’\r\nവിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " പ്രകൃതികാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99801,
+    "questionText": " അഞ്ചടിക്കവിത എന്നറിയപ്പെടുന്ന ‘ദുരവസ്ഥ’ ആരുടെ കൃതിയാണ് ?\r\n",
+    "answerText": " കുമാരനാശാൻ\r\n"
+  },
+  {
+    "questionNum": 99802,
+    "questionText": " കേരളശാകുന്തളം എന്നറിയപ്പെടുന്ന കൃതി :\r\n",
+    "answerText": " നളചരിതം ആട്ടക്കഥ (ഉണ്ണായിവാര്യർ)\r\n"
+  },
+  {
+    "questionNum": 99803,
+    "questionText": " ഉണ്ണായിവാര്യരുടെ നളചരിതം ആട്ടക്കഥ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " കേരളശാകുന്തളം\r\n"
+  },
+  {
+    "questionNum": 99804,
+    "questionText": " പ്രേമോപനിഷത്ത് എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " പ്രേമസംഗീതം (ഉള്ളൂർ )\r\n"
+  },
+  {
+    "questionNum": 99805,
+    "questionText": " പ്രേമോപനിഷത്ത് എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘പ്രേമസംഗീതം’ എന്ന കൃതി രചിച്ചതാര്?\r\n",
+    "answerText": " ഉള്ളൂർ\r\n"
+  },
+  {
+    "questionNum": 99806,
+    "questionText": " ഉള്ളൂരിന്റെ ‘പ്രേമസംഗീതം’ എന്ന കൃതി വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " പ്രേമോപനിഷത്ത്\r\n"
+  },
+  {
+    "questionNum": 99807,
+    "questionText": " അഞ്ചടിക്കവിത എന്നറിയപ്പെടുന്ന കുമാരനാശാന്റെ കൃതി:\r\n",
+    "answerText": " ദുരവസ്ഥ.\r\n"
+  },
+  {
+    "questionNum": 99808,
+    "questionText": " കുമാരനാശാന്റെ ‘ദുരവസ്ഥ’ എന്ന കൃതി വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " അഞ്ചടിക്കവിത\r\n"
+  },
+  {
+    "questionNum": 99809,
+    "questionText": " ‘ഒരു സ്നേഹം’ എന്നറിയപ്പെടുന്ന കുമാരനാശാന്റെ കൃതി:\r\n",
+    "answerText": " നളിനി\r\n"
+  },
+  {
+    "questionNum": 99810,
+    "questionText": " ‘ഒരു സ്നേഹം’ എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘നളിനി’ ആരുടെ കൃതിയാണ് ?\r\n",
+    "answerText": " കുമാരനാശാൻ\r\n"
+  },
+  {
+    "questionNum": 99811,
+    "questionText": " കുമാരനാശാന്റെ ‘നളിനി’ എന്ന കൃതി വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ഒരു സ്നേഹം\r\n"
+  },
+  {
+    "questionNum": 99812,
+    "questionText": " ഭാഷയിലെ താജ് എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൃതി :\r\n",
+    "answerText": " കണ്ണുനീർത്തുള്ളി(നാലപ്പാട്ടുനാരായണ മേനോൻ)\r\n"
+  },
+  {
+    "questionNum": 99813,
+    "questionText": " ഭാഷയിലെ താജ് എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘കണ്ണുനീർത്തുള്ളി’\r\nആരുടെ കൃതിയാണ് ?\r\n",
+    "answerText": " നാലപ്പാട്ടുനാരായണ മേനോൻ\r\n"
+  },
+  {
+    "questionNum": 99814,
+    "questionText": " നാലപ്പാട്ടുനാരായണ മേനോൻ രചിച്ച ‘കണ്ണുനീർത്തുള്ളി’ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ഭാഷയിലെ താജ്\r\n"
+  },
+  {
+    "questionNum": 99815,
+    "questionText": " ഗീതപ്രബന്ധം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൃതി :\r\n",
+    "answerText": " ഗിരിജാകല്യാണം (അജ്ഞാതകർതൃകം)\r\n"
+  },
+  {
+    "questionNum": 99816,
+    "questionText": " വി.ആർ. പരമേശ്വരൻ പിള്ള രചിച്ച ‘ശാക്യസിംഹൻ’ എന്ന നോവലിൽ പ്രതിപാദിക്കുന്നത് ആരുടെ ജീവിതകഥയാണ് ?\r\n",
+    "answerText": " ബുദ്ധന്റെ ജീവിതകഥ\r\n"
+  },
+  {
+    "questionNum": 99817,
+    "questionText": " ഗീതപ്രബന്ധം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘ഗിരിജാകല്യാണം’\r\nആരുടെ കൃതിയാണ് ?\r\n",
+    "answerText": " അജ്ഞാതകർതൃകം\r\n"
+  },
+  {
+    "questionNum": 99818,
+    "questionText": " അജ്ഞാതകർതൃകം രചിച്ച ‘ഗിരിജാകല്യാണം’ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " ഗീതപ്രബന്ധം\r\n"
+  },
+  {
+    "questionNum": 99819,
+    "questionText": " പെണ്ണുങ്ങളുടെ ബുദ്ധി എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ബഷീറിന്റെ കൃതി ?\r\n",
+    "answerText": " പാത്തുമ്മയുടെ ആട്\r\n"
+  },
+  {
+    "questionNum": 99820,
+    "questionText": " ബഷീറിന്റെ ‘പാത്തുമ്മയുടെ ആട്’ വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " പെണ്ണുങ്ങളുടെ ബുദ്ധി\r\n"
+  },
+  {
+    "questionNum": 99821,
+    "questionText": " നായർമഹാകാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന കൃതി ?\r\n",
+    "answerText": " ധർമ്മരാജ (സി.വി. രാമൻപിള്ള)\r\n"
+  },
+  {
+    "questionNum": 99822,
+    "questionText": " നായർമഹാകാവ്യം എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ‘ധർമ്മരാജ’\r\nആരുടെ കൃതിയാണ് ?\r\n",
+    "answerText": " സി.വി. രാമൻപിള്ള\r\n"
+  },
+  {
+    "questionNum": 99823,
+    "questionText": " സി.വി. രാമൻപിള്ളയുടെ ‘ധർമ്മരാജ’ എന്ന കൃതി വിശേഷിപ്പിക്കപ്പെടുന്ന പേര് ?\r\n",
+    "answerText": " നായർമഹാകാവ്യം\r\n"
+  },
+  {
+    "questionNum": 99824,
+    "questionText": " ഗാന്ധിജിയുടെ ജീവിതകഥ പറയുന്ന പുഴങ്കര ബാലകൃഷ്ണന്റെ നോവൽ ?\r\n",
+    "answerText": " അർധനഗ്നർ\r\n"
+  },
+  {
+    "questionNum": 99825,
+    "questionText": " ഗാന്ധിജിയുടെ ജീവിതകഥ പറയുന്ന ‘അർധനഗ്നർ’ എന്ന നോവൽ\r\nരചിച്ചതാര് ?\r\n",
+    "answerText": " പുഴങ്കര ബാലകൃഷ്ണൻ\r\n"
+  },
+  {
+    "questionNum": 99826,
+    "questionText": " പുഴങ്കര ബാലകൃഷ്ണൻ രചിച്ച ‘അർധനഗ്നർ’ എന്ന നോവലിൽ പ്രതിപാദിക്കുന്നത് ആരുടെ ജീവിതകഥയാണ് ?\r\n",
+    "answerText": " ഗാന്ധിജി\r\n"
+  },
+  {
+    "questionNum": 99827,
+    "questionText": " ബുദ്ധന്റെ ജീവിതകഥ പറയുന്ന വി.ആർ. പരമേശ്വരൻ പിള്ളയുടെ നോവൽ ?\r\n",
+    "answerText": " ശാക്യസിംഹൻ\r\n"
+  },
+  {
+    "questionNum": 99828,
+    "questionText": " ബുദ്ധന്റെ ജീവിതകഥ പറയുന്ന ‘ശാക്യസിംഹൻ’ എന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " വി.ആർ. പരമേശ്വരൻ പിള്ള\r\n"
+  },
+  {
+    "questionNum": 99829,
+    "questionText": " എഴുത്തച്ഛന്റെ ജീവിതകഥ പറയുന്ന സി. രാധാകൃഷ്ണന്റെ\r\nനോവൽ ?\r\n",
+    "answerText": " തീക്കടൽകടഞ്ഞ് തിരുമധുരം\r\n"
+  },
+  {
+    "questionNum": 99830,
+    "questionText": " പള്ളിക്കര വി.പി.മുഹമ്മദിന്റെ ‘വ്യക്തിയിലെ വ്യക്തി’ എന്ന നോവലിൽ പരാമർശിക്കുന്ന പ്രമുഖ വ്യക്തി ?\r\n",
+    "answerText": " എബ്രഹാംലിങ്കൻ\r\n"
+  },
+  {
+    "questionNum": 99831,
+    "questionText": " എഴുത്തച്ഛന്റെ ജീവിതകഥ പറയുന്ന ‘തീക്കടൽകടഞ്ഞ് തിരുമധുരം’ എന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " സി. രാധാകൃഷ്ണൻ\r\n"
+  },
+  {
+    "questionNum": 99832,
+    "questionText": " സി. രാധാകൃഷ്ണൻ രചിച്ച ‘തീക്കടൽകടഞ്ഞ് തിരുമധുരം’ എന്ന നോവലിൽ പ്രതിപാദിക്കുന്നത് ആരുടെ ജീവിതകഥയാണ് ?\r\n",
+    "answerText": " എഴുത്തച്ഛന്റെ ജീവിതകഥ\r\n"
+  },
+  {
+    "questionNum": 99833,
+    "questionText": " ഇന്ദിരാഗാന്ധി മുഖ്യകഥാപാത്രമായി ജോർജ് ഓണക്കൂർ രചിച്ച\r\nനോവൽ :\r\n",
+    "answerText": " പർവതങ്ങളിലെ കാറ്റ്\r\n"
+  },
+  {
+    "questionNum": 99834,
+    "questionText": " ഇന്ദിരാഗാന്ധി മുഖ്യകഥാപാത്രമായ ‘പർവതങ്ങളിലെ കാറ്റ്’ എന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " ജോർജ് ഓണക്കൂർ\r\n"
+  },
+  {
+    "questionNum": 99835,
+    "questionText": " ജോർജ് ഓണക്കൂർ രചിച്ച ‘പർവതങ്ങളിലെ കാറ്റ്’ എന്ന നോവലിൽ മുഖ്യകഥാപാത്രമായ വനിത നേതാവ് ?\r\n",
+    "answerText": " ഇന്ദിരാഗാന്ധി\r\n"
+  },
+  {
+    "questionNum": 99836,
+    "questionText": " എബ്രഹാംലിങ്കൻ കഥാപാത്രമായി വരുന്ന പള്ളിക്കര വി.പി.മുഹമ്മദ് രചിച്ച നോവൽ :\r\n",
+    "answerText": " വ്യക്തിയിലെ വ്യക്തി\r\n"
+  },
+  {
+    "questionNum": 99837,
+    "questionText": " എബ്രഹാംലിങ്കൻ കഥാപാത്രമായി വരുന്ന ‘വ്യക്തിയിലെ വ്യക്തി’\r\nഎന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " പള്ളിക്കര വി.പി.മുഹമ്മദ്\r\n"
+  },
+  {
+    "questionNum": 99838,
+    "questionText": " അടിയന്തരാവസ്ഥയുടെ പശ്ചാത്തലത്തിൽ ഒ.വി. വിജയൻ രചിച്ച നോവൽ :\r\n",
+    "answerText": " ധർമപുരാണം\r\n"
+  },
+  {
+    "questionNum": 99839,
+    "questionText": " അടിയന്തരാവസ്ഥയുടെ പശ്ചാത്തലത്തിൽ രചിച്ച ‘ധർമപുരാണം’\r\nനോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " ഒ.വി. വിജയൻ\r\n"
+  },
+  {
+    "questionNum": 99840,
+    "questionText": " ഒ.വി. വിജയന്റെ ‘ധർമപുരാണം’ എന്ന നോവലിന്റെ പശ്ചാത്തലം?\r\n",
+    "answerText": " അടിയന്തരാവസ്ഥ "
+  },
+  {
+    "questionNum": 99841,
+    "questionText": " പുന്നപ്രവയലാർ സമരം പ്രമേയമായ പി.കേശവദേവിന്റെ നോവൽ :\r\n",
+    "answerText": " ഉലക്ക\r\n"
+  },
+  {
+    "questionNum": 99842,
+    "questionText": " പുന്നപ്രവയലാർ സമരം പ്രമേയമായ ‘ഉലക്ക’ എന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " പി.കേശവദേവ്\r\n"
+  },
+  {
+    "questionNum": 99843,
+    "questionText": " പി.കേശവദേവ് രചിച്ച ‘ഉലക്ക’ എന്ന നോവലിന്റെ പ്രമേയം ?\r\n",
+    "answerText": " പുന്നപ്രവയലാർ സമരം\r\n"
+  },
+  {
+    "questionNum": 99844,
+    "questionText": " പുന്നപ്രവയലാർ സമരം പ്രമേയമായ തകഴിയുടെ നോവൽ ?\r\n",
+    "answerText": " തലയോട്\r\n"
+  },
+  {
+    "questionNum": 99845,
+    "questionText": " പുന്നപ്രവയലാർ സമരം പ്രമേയമായ ‘തലയോട്’ എന്ന നോവലിന്റെ കർത്താവ് ?\r\n",
+    "answerText": " തകഴി\r\n"
+  },
+  {
+    "questionNum": 99846,
+    "questionText": " തകഴിയുടെ ‘തലയോട്’ എന്ന നോവലിന്റെ പ്രമേയം ?\r\n",
+    "answerText": " പുന്നപ്രവയലാർ സമരം\r\n"
+  },
+  {
+    "questionNum": 99847,
+    "questionText": " ‘തലയോട്’ എന്ന നോവലിന്റെ പ്രമേയമായ സമരം ?\r\n",
+    "answerText": " പുന്നപ്രവയലാർ സമരം\r\n"
+  },
+  {
+    "questionNum": 99848,
+    "questionText": " Energy conversion in Electric Bell is?",
+    "answerText": " Electrical to Sound energy"
+  },
+  {
+    "questionNum": 99849,
+    "questionText": " Energy conversion in Dynamo is?",
+    "answerText": " Mechanical to Electrical energy"
+  },
+  {
+    "questionNum": 99850,
+    "questionText": " Energy conversion in Battery is?",
+    "answerText": " Chemical to Electrical energy"
+  },
+  {
+    "questionNum": 99851,
+    "questionText": " Energy conversion in Solar cell?",
+    "answerText": " Solar to Electrical energy"
+  },
+  {
+    "questionNum": 99852,
+    "questionText": " Energy conversion in Electric oven?",
+    "answerText": " Electrical to Heat energy"
+  },
+  {
+    "questionNum": 99853,
+    "questionText": " Energy conversion in Motor is?",
+    "answerText": " Electrical to Mechanic energy"
+  },
+  {
+    "questionNum": 99854,
+    "questionText": " Energy conversion in Gass stove is?",
+    "answerText": " Chemical energy to light and Heat energies"
+  },
+  {
+    "questionNum": 99855,
+    "questionText": " Energy conversion in Loud Speaker is?",
+    "answerText": " Electrical energy to Sound energy"
+  },
+  {
+    "questionNum": 99856,
+    "questionText": " Energy conversion in Microphone is?",
+    "answerText": " Sound energy to Electrical energy"
+  },
+  {
+    "questionNum": 99857,
+    "questionText": " The strongest force of nature is?",
+    "answerText": " Nuclear force"
+  },
+  {
+    "questionNum": 99858,
+    "questionText": " Nuclear force acts between the….?",
+    "answerText": " Nucleons"
+  },
+  {
+    "questionNum": 99859,
+    "questionText": " The process of changing nucleus of one element into other by the spontaneous emission of certain radiation?",
+    "answerText": " Radio activity"
+  },
+  {
+    "questionNum": 99860,
+    "questionText": " SI unit of Radioactivity?",
+    "answerText": " Becquerel (Bq)"
+  },
+  {
+    "questionNum": 99861,
+    "questionText": " Another unit of Radioactivity?",
+    "answerText": " Curie"
+  },
+  {
+    "questionNum": 99862,
+    "questionText": " Radioactive substances emit 3 types of radiation?",
+    "answerText": " Alpha; Beta and Gama"
+  },
+  {
+    "questionNum": 99863,
+    "questionText": " The device used for detecting and measuring radiation?",
+    "answerText": " Gieger counter"
+  },
+  {
+    "questionNum": 99864,
+    "questionText": " Product of Natural radioactivity?",
+    "answerText": " Lead"
+  },
+  {
+    "questionNum": 99865,
+    "questionText": " Particle with highest ionization energy?",
+    "answerText": " Alpha"
+  },
+  {
+    "questionNum": 99866,
+    "questionText": " Particle with least ionization energy?",
+    "answerText": " Gamma"
+  },
+  {
+    "questionNum": 99867,
+    "questionText": " Particle with highest penetrating power?",
+    "answerText": " Gamma"
+  },
+  {
+    "questionNum": 99868,
+    "questionText": " Particle with least penetrating power?",
+    "answerText": " Alpha"
+  },
+  {
+    "questionNum": 99869,
+    "questionText": " Particle With highest velocity?",
+    "answerText": " Gamma"
+  },
+  {
+    "questionNum": 99870,
+    "questionText": " Particle with least velocity?",
+    "answerText": " Alpha"
+  },
+  {
+    "questionNum": 99871,
+    "questionText": " Radioactive elements used as medicine?",
+    "answerText": " Phosphorous 32; Iodine 131; Oxygen 15"
+  },
+  {
+    "questionNum": 99872,
+    "questionText": " Compound used as heavy water?",
+    "answerText": " Deuterium Oxide (D2O)"
+  },
+  {
+    "questionNum": 99873,
+    "questionText": " Deuterium is known as?",
+    "answerText": " Heavy hydrogen"
+  },
+  {
+    "questionNum": 99874,
+    "questionText": " The radio active isotope used for the treatment of cancer is?",
+    "answerText": " Cobalt 60"
+  },
+  {
+    "questionNum": 99875,
+    "questionText": " The process of combining of two lighter nuclei to give a heavier nucleus is called?",
+    "answerText": " Nuclear fusion"
+  },
+  {
+    "questionNum": 99876,
+    "questionText": " Nuclear fusion is otherwise called as?",
+    "answerText": " Thermonuclear reaction"
+  },
+  {
+    "questionNum": 99877,
+    "questionText": " Hydrogen bomb is based on the principle of?",
+    "answerText": " Nuclear fusion"
+  },
+  {
+    "questionNum": 99878,
+    "questionText": " Nuclear fusion was discovered by?",
+    "answerText": " Hans Bathe"
+  },
+  {
+    "questionNum": 99879,
+    "questionText": " Isotope of hydrogen used in nuclear fusion?",
+    "answerText": " Tritium"
+  },
+  {
+    "questionNum": 99880,
+    "questionText": " The main source of solar energy is?",
+    "answerText": " Nuclear fusion"
+  },
+  {
+    "questionNum": 99881,
+    "questionText": " The phenomenon of breaking a heavy nucleus into two light nuclei of almost equal masses along with release of huge amount of energy is called?",
+    "answerText": " Nuclear fission"
+  },
+  {
+    "questionNum": 99882,
+    "questionText": " Uncontrolled chain reaction is the working principle of?",
+    "answerText": " Atom Bomb"
+  },
+  {
+    "questionNum": 99883,
+    "questionText": " Nuclear fission was discovered by?",
+    "answerText": " Ottohann and Friz strassmann"
+  },
+  {
+    "questionNum": 99884,
+    "questionText": " Time interval taken by a radioactive substance to disintegrate to half of its initial weight is called?",
+    "answerText": " Half life"
+  },
+  {
+    "questionNum": 99885,
+    "questionText": " Radio Carbon (carbon -14) has a half life of?",
+    "answerText": " 5760 years"
+  },
+  {
+    "questionNum": 99886,
+    "questionText": " The average lifetime of atoms in a radioactive substance is called?",
+    "answerText": " Mean life"
+  },
+  {
+    "questionNum": 99887,
+    "questionText": " Uranium - 235 is known as?",
+    "answerText": " Enriched uranium"
+  },
+  {
+    "questionNum": 99888,
+    "questionText": " The technique used to determine the age of fossils of animals and plants?",
+    "answerText": " Carbon dating"
+  },
+  {
+    "questionNum": 99889,
+    "questionText": " The technique used to estimate the age of rocks from the moon?",
+    "answerText": " Uranium dating"
+  },
+  {
+    "questionNum": 99890,
+    "questionText": " The technique used for finding the age of rocks?",
+    "answerText": " Rubidium – Strontium dating"
+  },
+  {
+    "questionNum": 99891,
+    "questionText": " The technique used for calculating the age of caves and sea animals?",
+    "answerText": " Uranium - Thorium dating"
+  },
+  {
+    "questionNum": 99892,
+    "questionText": " Dating method used for determining the age of archaeological materials?",
+    "answerText": " Thermoluminescence"
+  },
+  {
+    "questionNum": 99893,
+    "questionText": " Fourth largest source of electricity in India?",
+    "answerText": " Nuclear power"
+  },
+  {
+    "questionNum": 99894,
+    "questionText": " First atomic reactor in India?",
+    "answerText": " Apsara' in Trombay (Maharashtra)"
+  },
+  {
+    "questionNum": 99895,
+    "questionText": " Chain reaction is allowed to proceed slowly and in a controlled manner in?",
+    "answerText": " Nuclear reactor"
+  },
+  {
+    "questionNum": 99896,
+    "questionText": " Fuels used in nuclear reactors are?",
+    "answerText": " Uranium 233; Uranium 235; Plutonium 239"
+  },
+  {
+    "questionNum": 99897,
+    "questionText": " The device used to slow down the fast moving secondary neutrons?",
+    "answerText": " Moderator"
+  },
+  {
+    "questionNum": 99898,
+    "questionText": " Commonly used moderators are?",
+    "answerText": " Heavy water; Graphite; Rods of Boron and Cadmium; Berillium oxide"
+  },
+  {
+    "questionNum": 99899,
+    "questionText": " The substances used to remove the heat produced from the nuclear reactor?",
+    "answerText": " Coolants"
+  },
+  {
+    "questionNum": 99900,
+    "questionText": " Coolant used in high temperature breeder reactor?",
+    "answerText": " Liquid Sodium"
+  },
+  {
+    "questionNum": 99901,
+    "questionText": " The fuel used in the fast breeder reactors?",
+    "answerText": " Plutonium; Uranium oxide Power reactors Converts nuclear fission energy into electric power"
+  },
+  {
+    "questionNum": 99902,
+    "questionText": " Early reactors were known as?",
+    "answerText": " Atomic piles"
+  },
+  {
+    "questionNum": 99903,
+    "questionText": " Atomic clock (ceasium) was discovered by?",
+    "answerText": " Louis Essen"
+  },
+  {
+    "questionNum": 99904,
+    "questionText": " The total normal force exerted by a fluid on a surface is called?",
+    "answerText": " Thrust"
+  },
+  {
+    "questionNum": 99905,
+    "questionText": " The total gravitational force act on a body?",
+    "answerText": " Weight {W=mg "
+  },
+  {
+    "questionNum": 99906,
+    "questionText": " Weight of a body is Minimum at?",
+    "answerText": " the Equator"
+  },
+  {
+    "questionNum": 99907,
+    "questionText": " Weight of a body is Zero at?",
+    "answerText": " The centre of Earth"
+  },
+  {
+    "questionNum": 99908,
+    "questionText": " Weight of a body is maximum at?",
+    "answerText": " The poles of the Earth"
+  },
+  {
+    "questionNum": 99909,
+    "questionText": " Weight of a body in moon is equal to?",
+    "answerText": " 1/6th of the weight of a body on earth"
+  },
+  {
+    "questionNum": 99910,
+    "questionText": " The amount of matter contained in a body is called?",
+    "answerText": " Mass"
+  },
+  {
+    "questionNum": 99911,
+    "questionText": " Density of water is?",
+    "answerText": " 1000 kg/m3"
+  },
+  {
+    "questionNum": 99912,
+    "questionText": " Density of water is maximum at?",
+    "answerText": " 4°C"
+  },
+  {
+    "questionNum": 99913,
+    "questionText": " Relative density is also known as?",
+    "answerText": " Specific gravity"
+  },
+  {
+    "questionNum": 99914,
+    "questionText": " Water occupies maximum volume at?",
+    "answerText": " - 0°C"
+  },
+  {
+    "questionNum": 99915,
+    "questionText": " When ice melts level of water….?",
+    "answerText": " remains Constant"
+  },
+  {
+    "questionNum": 99916,
+    "questionText": " When ice melts, its volume…..?",
+    "answerText": " Decreases"
+  },
+  {
+    "questionNum": 99917,
+    "questionText": " Why Ice floats on water?",
+    "answerText": " Density of Ice is less than the density of water"
+  },
+  {
+    "questionNum": 99918,
+    "questionText": " Why a ship of iron and steel float on water?",
+    "answerText": " Density of iron is less than the density of water"
+  },
+  {
+    "questionNum": 99919,
+    "questionText": " Why Iron nail sinks in water?",
+    "answerText": " Density of iron is less than the density of water"
+  },
+  {
+    "questionNum": 99920,
+    "questionText": " Why do an iron nail floats on mercury?",
+    "answerText": " Density of mercury is lessthan the density of iron"
+  },
+  {
+    "questionNum": 99921,
+    "questionText": " Why a Ship moves from river to sea rises?",
+    "answerText": " Density of sea water is greater than the little higher density of fresh water"
+  },
+  {
+    "questionNum": 99922,
+    "questionText": " Why It is impossible to extinguish fire due to petrol with water?",
+    "answerText": " - Density of water is greater than the density of petrol. So petrol floats above the water and continue burning."
+  },
+  {
+    "questionNum": 99923,
+    "questionText": " Why do Ice sinks in alcohol?",
+    "answerText": " Density of water is greater than the density of alcohol."
+  },
+  {
+    "questionNum": 99924,
+    "questionText": " Explain Pascal's law or also known as principle of Transmission of fluid pressure?",
+    "answerText": " A force exerted on anywhere in a confined incompressible fluid is transmitted equally in all directions"
+  },
+  {
+    "questionNum": 99925,
+    "questionText": " Pascal's law was discovered by?",
+    "answerText": " Blaise Pascal"
+  },
+  {
+    "questionNum": 99926,
+    "questionText": " The law that explains the working of Hydraulic Press is?",
+    "answerText": " Pascal's law"
+  },
+  {
+    "questionNum": 99927,
+    "questionText": " The law that explains the working of Hydraulic jack is?",
+    "answerText": " Pascal's law"
+  },
+  {
+    "questionNum": 99928,
+    "questionText": " The law that explains the working of Hydraulic lifts is?",
+    "answerText": " Pascal's law"
+  },
+  {
+    "questionNum": 99929,
+    "questionText": " The law that explains the working of Flush tank is?",
+    "answerText": " Pascal's law"
+  },
+  {
+    "questionNum": 99930,
+    "questionText": " When a body is immersed partly or wholly in a liquid, a force acts on the body by the liquid in the upward direction. This force is called?",
+    "answerText": " Buoyant force "
+  },
+  {
+    "questionNum": 99931,
+    "questionText": " State ARCHIMEDES PRINCIPLE?",
+    "answerText": " When a body is completely or partly immersed in a fluid; the body experiences an upward thrust which is equal to the weight of fluid displaced by the body"
+  },
+  {
+    "questionNum": 99932,
+    "questionText": " The law of lever was proposed by?",
+    "answerText": " Archimedes"
+  },
+  {
+    "questionNum": 99933,
+    "questionText": " The device used to test the purity of milk.?",
+    "answerText": " Lactometer"
+  },
+  {
+    "questionNum": 99934,
+    "questionText": " The majority of UV radiations coming from the sun are absorbed by the?",
+    "answerText": " Ozone layer"
+  },
+  {
+    "questionNum": 99935,
+    "questionText": " Periscopeisa device works on the principle of?",
+    "answerText": " Reflection and Refraction"
+  },
+  {
+    "questionNum": 99936,
+    "questionText": " Photometry is the branch deals with the measurement of light emitted by the?",
+    "answerText": " Objects"
+  },
+  {
+    "questionNum": 99937,
+    "questionText": " Father of cybernetics?",
+    "answerText": " Norbert Weiner"
+  },
+  {
+    "questionNum": 99938,
+    "questionText": " Audible Frequency of sound of Human?",
+    "answerText": " 20Hz - 20000Hz"
+  },
+  {
+    "questionNum": 99939,
+    "questionText": " Frequency of sound Less than 20 Hz is?",
+    "answerText": " Infrasonic"
+  },
+  {
+    "questionNum": 99940,
+    "questionText": " Frequency of sound Greater than 20000 Hz?",
+    "answerText": " Ultrasonic"
+  },
+  {
+    "questionNum": 99941,
+    "questionText": " Tachyon was discovered by?",
+    "answerText": " ECG Sudharshan"
+  },
+  {
+    "questionNum": 99942,
+    "questionText": " Wave theory was formulated by?",
+    "answerText": " Christian Huygens"
+  },
+  {
+    "questionNum": 99943,
+    "questionText": " Quantum theory was formulated by -?",
+    "answerText": " Max Planck"
+  },
+  {
+    "questionNum": 99944,
+    "questionText": " Corpuscular theory was formulated by?",
+    "answerText": " Isaac Newton"
+  },
+  {
+    "questionNum": 99945,
+    "questionText": " Who discovered that white light consist of different colours?",
+    "answerText": " Isaac Newton"
+  },
+  {
+    "questionNum": 99946,
+    "questionText": " Light is an electromagnetic wave -?",
+    "answerText": " Heinrich Hertz"
+  },
+  {
+    "questionNum": 99947,
+    "questionText": " Who discovered the 3 primary colours?",
+    "answerText": " Thomas Young"
+  },
+  {
+    "questionNum": 99948,
+    "questionText": " The term Energy was coined by -?",
+    "answerText": " Thomas Young"
+  },
+  {
+    "questionNum": 99949,
+    "questionText": " Who discovered that Speed of light varies in different media?",
+    "answerText": " Leon Foucault"
+  },
+  {
+    "questionNum": 99950,
+    "questionText": " Raman effect was discovered by…. on….?",
+    "answerText": " C.V Raman; Feb. 28; 1928"
+  },
+  {
+    "questionNum": 99951,
+    "questionText": " Why February 28 is celebrated as National Science Day?",
+    "answerText": " Discovery of Raman effect"
+  },
+  {
+    "questionNum": 99952,
+    "questionText": " C. V Raman was awarded Nobel Prize in?",
+    "answerText": 1930
+  },
+  {
+    "questionNum": 99953,
+    "questionText": " Raman effect is associated with?",
+    "answerText": " Scattering of light"
+  },
+  {
+    "questionNum": 99954,
+    "questionText": " Blue colour of sea was explained by?",
+    "answerText": " C.V. Raman"
+  },
+  {
+    "questionNum": 99955,
+    "questionText": " Celsius to Kelvin Scale conversion formula is?",
+    "answerText": " K = C + 273.15"
+  },
+  {
+    "questionNum": 99956,
+    "questionText": " Kelvin to Celsius C conversion formula is?",
+    "answerText": " C= K- 273.15"
+  },
+  {
+    "questionNum": 99957,
+    "questionText": " Father of Indian Space Research?",
+    "answerText": " Vikram Sarabhai"
+  },
+  {
+    "questionNum": 99958,
+    "questionText": " Father of Indian Atom Bomb?",
+    "answerText": " Raja Ramanna"
+  },
+  {
+    "questionNum": 99959,
+    "questionText": " Father of Hydrogen Bomb?",
+    "answerText": " Edward Teller"
+  },
+  {
+    "questionNum": 99960,
+    "questionText": " Father of Atom Bomb?",
+    "answerText": " Robert Oppenheimer"
+  },
+  {
+    "questionNum": 99961,
+    "questionText": " Father of Modern Physics?",
+    "answerText": " Albert Einstein"
+  },
+  {
+    "questionNum": 99962,
+    "questionText": " Who discovered Lightening conductor?",
+    "answerText": " Benjamin Franklin"
+  },
+  {
+    "questionNum": 99963,
+    "questionText": " Who discovered Bifocal lens?",
+    "answerText": " Benjamin Franklin"
+  },
+  {
+    "questionNum": 99964,
+    "questionText": " മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണർ? ",
+    "answerText": " നസീം സെയ്ദി "
+  },
+  {
+    "questionNum": 99965,
+    "questionText": " മുഖ്യ വിവരവകാശ കമ്മീഷണർ? ",
+    "answerText": " ആർ.കെ. മാത്തൂർ "
+  },
+  {
+    "questionNum": 99966,
+    "questionText": " ദേശീയ ന്യുനപക്ഷ കമ്മിഷണർ? ",
+    "answerText": " നസീം അഹമ്മദ് "
+  },
+  {
+    "questionNum": 99967,
+    "questionText": " ദേശീയ വനിതാ കമ്മീഷൻ ചെയർ പേഴ്സൺ? ",
+    "answerText": " ലളിത കുമാരമംഗലം "
+  },
+  {
+    "questionNum": 99968,
+    "questionText": " ദേശീയ ആണവോർജ കമ്മിഷൻ ചെയർമാൻ? ",
+    "answerText": " ശേഖർ ബസു "
+  },
+  {
+    "questionNum": 99969,
+    "questionText": " ഐ.എസ്.ആർ.ഒ. ചെയർമാൻ? ",
+    "answerText": " എ.എസ്. കിരൺ കുമാർ "
+  },
+  {
+    "questionNum": 99970,
+    "questionText": " യു. പി.എസ്.സി. ചെയർമാൻ? ",
+    "answerText": " അൽകാ ശിരോഹി "
+  },
+  {
+    "questionNum": 99971,
+    "questionText": " ദേശീയ വിജ്ഞാന കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " സാംപിത്രോട "
+  },
+  {
+    "questionNum": 99972,
+    "questionText": " ദേശീയ പട്ടികജാതി കമ്മീഷൻ ചെയർമാന്? ",
+    "answerText": " പി.എൽ. പുനിയ "
+  },
+  {
+    "questionNum": 99973,
+    "questionText": " ദേശീയ പട്ടിക വർഗ്ഗ കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " രാമേശ്വർ ഒറാവോൺ "
+  },
+  {
+    "questionNum": 99974,
+    "questionText": " യു.ജി.സി. ചെയർമാൻ? ",
+    "answerText": " വേദ് പ്രകാശ് "
+  },
+  {
+    "questionNum": 99975,
+    "questionText": " ദേശീയ പിന്നോക്ക കമ്മിഷൻ ചെയർ പേഴ്സൺ? ",
+    "answerText": " വി. ഈശ്വരയ്യ "
+  },
+  {
+    "questionNum": 99976,
+    "questionText": " 14 മത് ധനകാര്യ കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " യാഗ വേണുഗോപാൽ റെഡ്ഡി "
+  },
+  {
+    "questionNum": 99977,
+    "questionText": " റീസെർവ് ബാങ്ക് ഗവർണർ ? ",
+    "answerText": " ഉർജിത് പട്ടേൽ (24th) "
+  },
+  {
+    "questionNum": 99978,
+    "questionText": " റ്റൈഡൽ പാർക്ക് ‌ എന്നറിയപ്പെടുന്ന സോഫ്റ്റ് ‌ വെയർ ടെക്നോളജി പാർക്ക് ‌ സ്ഥിതി ചെയ്യുന്നത് എവിടെ ",
+    "answerText": " ചെന്നൈ "
+  },
+  {
+    "questionNum": 99979,
+    "questionText": " SEBI ചെയർമാൻ? ",
+    "answerText": " ഉപേന്ദ്ര കുമാർ സിംഹ "
+  },
+  {
+    "questionNum": 99980,
+    "questionText": " I.R.D.A ചെയർമാൻ? ",
+    "answerText": " ടി.എസ്. വിജയൻ "
+  },
+  {
+    "questionNum": 99981,
+    "questionText": " കേരളത്തിൽ ടെക്നോപാർക്ക് ‌ ആരംഭിച്ചത് ഏത് വർഷം ",
+    "answerText": 1990
+  },
+  {
+    "questionNum": 99982,
+    "questionText": " 7മത് ശമ്പള കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " അശോക് കുമാർ മാത്തൂർ "
+  },
+  {
+    "questionNum": 99983,
+    "questionText": " നബാർഡ് ചെയർമാൻ? ",
+    "answerText": " ഹർഷ് കുമാർ ബൻവാല "
+  },
+  {
+    "questionNum": 99984,
+    "questionText": " ഇന്ത്യയിലെ ഏത് സര് ‍ വകലാശാലയാണ് ആദ്യമായി ഇന്റെര് ‍ നെറ്റ് വഴി കോഴ്സുകള് ‍ ആരംഭിച്ചത് ",
+    "answerText": " ആന്ധ്ര സര് ‍ വകലാശാല "
+  },
+  {
+    "questionNum": 99985,
+    "questionText": " ഏറ്റവും കൂടുതല് ‍ റോബോട്ടുകളെ ഉപയോഗിക്കുന്ന രാജ്യം ഏത് ",
+    "answerText": " ജപ്പാന് ‍ "
+  },
+  {
+    "questionNum": 99986,
+    "questionText": " നാഷണൽ സ്റ്റോക് എക്സ്ചേഞ്ച് ചെയർമാൻ? ",
+    "answerText": " അശോക് ചൗള "
+  },
+  {
+    "questionNum": 99987,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ സോഫ്റ്റ് ‌ വെയര് ‍ കമ്പനി ഏത് ",
+    "answerText": " ടി സി എസ് "
+  },
+  {
+    "questionNum": 99988,
+    "questionText": " SBI ചെയർപേഴ്സൺ? ",
+    "answerText": " അരുന്ധതി ഭട്ടാചാര്യ "
+  },
+  {
+    "questionNum": 99989,
+    "questionText": " L IC ചെയർമാൻ? ",
+    "answerText": " എസ്.കെ.റോയ് "
+  },
+  {
+    "questionNum": 99990,
+    "questionText": " ദേശീയ ജല കമ്മീഷൻ ചെയർമാൻ? ",
+    "answerText": " ജി. എസ്. ജാ "
+  },
+  {
+    "questionNum": 99991,
+    "questionText": " TRAI ചെയർമാൻ? ",
+    "answerText": " റാം സേവക് ശർമ "
+  },
+  {
+    "questionNum": 99992,
+    "questionText": " ദേശീയ സുരക്ഷാ ഉപദേഷ്ടാവ്? ",
+    "answerText": " അജിത് കുമാർ ദോവൽ "
+  },
+  {
+    "questionNum": 99993,
+    "questionText": " കംപ്ട്രോളർ ആൻഡ് ഓഡിറ്റർ ജനറൽ ഓഫ് ഇന്ത്യ? ",
+    "answerText": " ശശികാന്ത് ശർമ "
+  },
+  {
+    "questionNum": 99994,
+    "questionText": " സ്വതന്ത്ര സോഫ്റ്റ് ‌ വെയർ പ്രസ്ഥാനത്തിന്റെ ഉപജ്ഞാതാവ് ആര് ",
+    "answerText": " റിച്ചാർഡ് ‌ സ്റ്റാൽ മാൻ "
+  },
+  {
+    "questionNum": 99995,
+    "questionText": " ഇന്ത്യയുടെ സോളിസിറ്റർ ജനറൽ? ",
+    "answerText": " രഞ്ജിത് കുമാർ "
+  },
+  {
+    "questionNum": 99996,
+    "questionText": " ചെയർമാൻ, നാഷണൽ സ്റ്റാറ്റിസ്റ്റിക്കൽ കമ്മീഷൻ? ",
+    "answerText": " രാധ വിനോദ് ബർമെൻ "
+  },
+  {
+    "questionNum": 99997,
+    "questionText": " Who discovered Astronomical telescope?",
+    "answerText": " Galileo"
+  },
+  {
+    "questionNum": 99998,
+    "questionText": " ഇന്ത്യ കാബിനറ്റ് സെക്രട്ടറി? ",
+    "answerText": " പ്രദീപ് കുമാർ സിൻഹ "
+  },
+  {
+    "questionNum": 99999,
+    "questionText": " രാജ്യസഭാ സെക്രട്ടറി ജനറൽ? ",
+    "answerText": " ഷംഷീർ കെ ഷെരീഫ് "
+  },
+  {
+    "questionNum": 100000,
+    "questionText": " ലോക്സഭാ സെക്രട്ടറി ജനറൽ? ",
+    "answerText": " അനൂപ് മിശ്ര "
+  }
+]

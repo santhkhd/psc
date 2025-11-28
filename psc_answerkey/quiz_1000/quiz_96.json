@@ -1,0 +1,5002 @@
+[
+  {
+    "questionNum": 95001,
+    "questionText": " ലണ്ടൻ നഗരം ഏത് നദിയുടെ തീരത്താണ്? ",
+    "answerText": " തൈംസ്, ഇംഗ്ളണ്ട്  "
+  },
+  {
+    "questionNum": 95002,
+    "questionText": " ദി ത്രീ മസ്കറ്റിർസ് ആരുടെ രചനയാണ്? ",
+    "answerText": " അലക്സാണ്ടർ ഡ്യുമസ്  "
+  },
+  {
+    "questionNum": 95003,
+    "questionText": " സൂർ വംശത്തിലെ അവസാന രാജാവാരായിരുന്നു? ",
+    "answerText": " സിക്കന്ദർഷാ  "
+  },
+  {
+    "questionNum": 95004,
+    "questionText": " In the 14th Century the old Mushaka country had come to be known as?",
+    "answerText": " Kolathunad"
+  },
+  {
+    "questionNum": 95005,
+    "questionText": " ദി വാർ ഒഫ് ദി വേൾഡ്‌സ് ആരുടെ രചനയാണ്? ",
+    "answerText": " എച്ച്.ജി. വെൽസ്  "
+  },
+  {
+    "questionNum": 95006,
+    "questionText": " മൂന്നാം പാനിപ്പട്ട് യുദ്ധം നടന്നതെന്ന്? ",
+    "answerText": 1761
+  },
+  {
+    "questionNum": 95007,
+    "questionText": " മഹാരാഷ്ട്രയിലെ സോക്രട്ടീസ് എന്നറിയപ്പെടുന്നത് ആര്? ",
+    "answerText": " ഗോപാലകൃഷ്ണ ഗോഖലെ  "
+  },
+  {
+    "questionNum": 95008,
+    "questionText": " ന്യൂട്രോൺ കണ്ടെത്തിയ ശാസ്ത്രജ്ഞൻ ആര്? ",
+    "answerText": " ജയിംസ് ചാഡ്വിക്ക്  "
+  },
+  {
+    "questionNum": 95009,
+    "questionText": " ഏറ്റവും തണുത്ത മരുഭൂമി എന്നറിയപ്പെടുന്നതേത്? ",
+    "answerText": " ഗോബി  "
+  },
+  {
+    "questionNum": 95010,
+    "questionText": " 'വരിക വരിക സഹജരേ' എന്നു തുടങ്ങുന്ന സ്വാതന്ത്ര്യസമരഗീതത്തിന്റെ കർത്താവ് ആര്? ",
+    "answerText": " അംശി നാരായണപിള്ള  "
+  },
+  {
+    "questionNum": 95011,
+    "questionText": " കേരളത്തിന്റെ കാണാതായ കപ്പൽ ഏത്? ",
+    "answerText": " കൈരളി  "
+  },
+  {
+    "questionNum": 95012,
+    "questionText": " കന്യാകുമാരിയിൽ സ്ഥിതിചെയ്യുന്ന കേരള സർക്കാരിന്റെ അധീനതയിലുള്ള കൊട്ടാരം ഏത്? ",
+    "answerText": " പത്മനാഭപുരം കൊട്ടാരം  "
+  },
+  {
+    "questionNum": 95013,
+    "questionText": " പെൻസിൽ നിർമ്മിക്കാനുപയോഗിക്കുന്നതെന്ത്? ",
+    "answerText": " ഗ്രാഫൈറ്റ്  "
+  },
+  {
+    "questionNum": 95014,
+    "questionText": " ആധുനിക കേരളത്തിന്റെ നവോത്ഥാന നായകൻ എന്നറിയപ്പെടുന്നതാര്? ",
+    "answerText": " ശ്രീനാരായണഗുരു  "
+  },
+  {
+    "questionNum": 95015,
+    "questionText": " സസ്യങ്ങളെക്കുറിച്ചുള്ള ശാസ്ത്ര പഠനശാഖയാണ്? ",
+    "answerText": " ബോട്ടണി  "
+  },
+  {
+    "questionNum": 95016,
+    "questionText": " The kingdom of Cochin was known as?",
+    "answerText": " Perumpadappu Swarupum"
+  },
+  {
+    "questionNum": 95017,
+    "questionText": " ക്ളോണിങ്ങിന്റെ പിതാവ് ആര്? ",
+    "answerText": " ഇയാൻ വിൽമുട്ട്  "
+  },
+  {
+    "questionNum": 95018,
+    "questionText": " ജവഹർലാൽനെഹ്‌റു അന്താരാഷ്ട്ര സ്റ്റേഡിയം എവിടെയാണ്? ",
+    "answerText": " കൊച്ചി  "
+  },
+  {
+    "questionNum": 95019,
+    "questionText": " സംഘകാലത്തുള്ള സാഹിത്യരചനകൾ ഏത് ഭാഷയിലായിരുന്നു? ",
+    "answerText": " തമിഴ്  "
+  },
+  {
+    "questionNum": 95020,
+    "questionText": " The most important ports of Kulasekharas?",
+    "answerText": " Kandalur; Quilon; Vizhinjam and Cranganore"
+  },
+  {
+    "questionNum": 95021,
+    "questionText": " പുകയില ഉത്‌പാദിപ്പിക്കുന്ന കേരളത്തിലെ ഏക ജില്ല ഏത്? ",
+    "answerText": " കാസർകോട്  "
+  },
+  {
+    "questionNum": 95022,
+    "questionText": " ബഷീറിന്റെ ബാല്യകാലസഖിയിലെ നായികാനായകന്മാരുടെ പേര് എന്ത്? ",
+    "answerText": " സുഹ്റയും മജീദും  "
+  },
+  {
+    "questionNum": 95023,
+    "questionText": " കേരള സാഹിത്യ അക്കാദമി സ്ഥാപിതമായ വർഷം ഏത്? ",
+    "answerText": 1956
+  },
+  {
+    "questionNum": 95024,
+    "questionText": " പയോറിയ ബാധിക്കുന്നത് ഏത് അവയവത്തിനാണ്? ",
+    "answerText": " പല്ല്, മോണ  "
+  },
+  {
+    "questionNum": 95025,
+    "questionText": " സുബാഷ്ചന്ദ്രബോസ് ഐ.എൻ.എ സ്ഥാപിച്ചത് എവിടെ വച്ചാണ്? ",
+    "answerText": " സിംഗപ്പൂർ  "
+  },
+  {
+    "questionNum": 95026,
+    "questionText": " ഭൂമിയിൽ ജീവനടിസ്ഥാനമായ മൂലകം ഏത്? ",
+    "answerText": " കാർബൺ  "
+  },
+  {
+    "questionNum": 95027,
+    "questionText": " ഭൂട്ടാന്റെ പാർലമെന്റ് ഏത് പേരിലാണ് അറിയപ്പെടുന്നത്? ",
+    "answerText": " ഷോഗ്ഡ്യു  "
+  },
+  {
+    "questionNum": 95028,
+    "questionText": " പ്രസിദ്ധമായ സൂര്യക്ഷേത്രം സ്ഥിതിചെയ്യുന്നതെവിടെ? ",
+    "answerText": " ഒറീസയിലെ കൊണാർക്കിൽ  "
+  },
+  {
+    "questionNum": 95029,
+    "questionText": " ആധുനിക വൈദ്യശാസ്ത്രത്തിന്റെ പിതാവ് ആര്? ",
+    "answerText": " ഹിപ്പോക്രാറ്റസ്  "
+  },
+  {
+    "questionNum": 95030,
+    "questionText": " അന്താരാഷ്ട്ര വനിതാദിനം എന്ന്? ",
+    "answerText": " മാർച്ച് 8  "
+  },
+  {
+    "questionNum": 95031,
+    "questionText": " പാണ്ഡ്യന്മാരുടെ തലസ്ഥാനം ഏതായിരുന്നു? ",
+    "answerText": " മധുര  "
+  },
+  {
+    "questionNum": 95032,
+    "questionText": " ബാക്ടീരിയോളജിയുടെ പിതാവായി അറിയപ്പെടുന്നതാര്? ",
+    "answerText": " റോബർട്ട് ഹുക്ക്  "
+  },
+  {
+    "questionNum": 95033,
+    "questionText": " ഈഴവ മെമ്മോറിയലിന് നേതൃത്വം കൊടുത്തതാര്? ",
+    "answerText": " ഡോ. പല്പു  "
+  },
+  {
+    "questionNum": 95034,
+    "questionText": " കാർബണിന്റെ ഏറ്റവും ശുദ്ധരൂപം ഏത്? ",
+    "answerText": " വജ്രം  "
+  },
+  {
+    "questionNum": 95035,
+    "questionText": " റൂർക്കേല ഇരുമ്പുരുക്ക് നിർമ്മാണശാല നിർമ്മാണത്തിന് സഹകരിച്ച രാജ്യം? ",
+    "answerText": " ജർമ്മനി  "
+  },
+  {
+    "questionNum": 95036,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും ലാഭകരമായ പൊതുമേഖലാ സ്റ്റീൽ പ്ളാന്റ്? ",
+    "answerText": " ഭിലായ് ദുർഗാപൂർ സ്റ്റീൽ പ്ളാന്റ് പശ്ചിമബംഗാളിൽ  "
+  },
+  {
+    "questionNum": 95037,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വൻകിട ഇരുമ്പുരുക്ക് നിർമ്മാണശാല? ",
+    "answerText": " കുൾട്ടി  "
+  },
+  {
+    "questionNum": 95038,
+    "questionText": " 1907ൽ ജംഷഡ്പൂരിൽ ടാറ്റ അയൺ ആൻഡ് സ്റ്റീൽ കമ്പനി സ്ഥാപിച്ചത്? ",
+    "answerText": " ജംഷഡ് ജി ടാറ്റ  "
+  },
+  {
+    "questionNum": 95039,
+    "questionText": " വടക്കു കിഴക്കൻ സംസ്ഥാനങ്ങളിൽ ഏറ്റവും വലുത്? ",
+    "answerText": " അരുണാചൽപ്രദേശ്  "
+  },
+  {
+    "questionNum": 95040,
+    "questionText": " ഓർക്കിഡുകളുടെ പറുദീസ, ബൊട്ടാണിസ്റ്റുകളുടെ പറുദീസ എന്നിങ്ങനെ അറിയപ്പെടുന്ന സംസ്ഥാനം? ",
+    "answerText": " അരുണാചൽപ്രദേശ്  "
+  },
+  {
+    "questionNum": 95041,
+    "questionText": " വടക്കു കിഴക്കൻ സംസ്ഥാനങ്ങളുടെ കവാടം എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " അസാം  "
+  },
+  {
+    "questionNum": 95042,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി എണ്ണ നിക്ഷേപം കണ്ടെത്തിയത്? ",
+    "answerText": " ദിഗ്ബോയ് (അസാം)  "
+  },
+  {
+    "questionNum": 95043,
+    "questionText": " കിഴക്കൻ ചക്രവാളത്തിലെ ഉദയസൂര്യൻ എന്നറിയപ്പെടുന്ന സംസ്ഥാനം? ",
+    "answerText": " ജാർഖണ്ഡ്  "
+  },
+  {
+    "questionNum": 95044,
+    "questionText": " വനാഞ്ചൽ, ആദിവാസി സംസ്ഥാനം എന്നിങ്ങനെ അറിയപ്പെടുന്നത്? ",
+    "answerText": " ജാർഖണ്ഡ്  "
+  },
+  {
+    "questionNum": 95045,
+    "questionText": " സാക്ഷരത ഏറ്റവും കുറഞ്ഞ സംസ്ഥാനം? ",
+    "answerText": " ബീഹാർ  "
+  },
+  {
+    "questionNum": 95046,
+    "questionText": " ഇന്ത്യയുടെ ഏറ്റവും പടിഞ്ഞാറേയറ്റത്തെ സംസ്ഥാനം? ",
+    "answerText": " ഗുജറാത്ത്  "
+  },
+  {
+    "questionNum": 95047,
+    "questionText": " കൃഷ്ണനദിയുടെ ഉത്ഭവം? ",
+    "answerText": " മഹാരാഷ്ട്രയിലെ മഹാബലേശ്വറിൽ  "
+  },
+  {
+    "questionNum": 95048,
+    "questionText": " The most important merchant guilds of the Kulasekharas?",
+    "answerText": " Manigramam; Anchuvannam; Nanadesikal and Valanjar"
+  },
+  {
+    "questionNum": 95049,
+    "questionText": " Periyapuranam was written by?",
+    "answerText": " Sekkilar"
+  },
+  {
+    "questionNum": 95050,
+    "questionText": " ഉത്തരായന രേഖ കടന്നുപോകുന്ന വൻകരകൾ? ",
+    "answerText": " വടക്കേ അമേരിക്ക, ആഫ്രിക്ക, ഏഷ്യ  "
+  },
+  {
+    "questionNum": 95051,
+    "questionText": " ഏറ്റവും നീളമേറിയ അക്ഷാംശരേഖ? ",
+    "answerText": " ഭൂമദ്ധ്യരേഖ  "
+  },
+  {
+    "questionNum": 95052,
+    "questionText": " ഭൂമദ്ധ്യരേഖ കടന്നുപോകുന്ന ഏക ഏഷ്യൻ രാജ്യം? ",
+    "answerText": " ഇൻഡോനേഷ്യ  "
+  },
+  {
+    "questionNum": 95053,
+    "questionText": " ദക്ഷിണായന രേഖയെ രണ്ടുതവണ മുറിച്ചുകടക്കുന്ന നദി? ",
+    "answerText": " ലിംപോപോ  "
+  },
+  {
+    "questionNum": 95054,
+    "questionText": " 66 1/2 ഡിഗ്രി ഉത്തര അക്ഷാംശരേഖ? ",
+    "answerText": " ആർട്ടിക് വൃത്തം  "
+  },
+  {
+    "questionNum": 95055,
+    "questionText": " The author of Natyasastra?",
+    "answerText": " Bharatha"
+  },
+  {
+    "questionNum": 95056,
+    "questionText": " ഇന്ത്യയിൽ നിന്ന് ഏറ്റവും കൂടുതൽ ഇരുമ്പയിര് കയറ്റുമതി ചെയ്യുന്ന തുറമുഖം? ",
+    "answerText": " മർമ്മഗോവ  "
+  },
+  {
+    "questionNum": 95057,
+    "questionText": " പുതിയ അന്താരാഷ്ട്ര തുറമുഖം കേരളത്തിൽ സ്ഥാപിക്കാനുദ്ദേശിക്കുന്നത്? ",
+    "answerText": " വിഴിഞ്ഞത്ത്  "
+  },
+  {
+    "questionNum": 95058,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും ആഴം കൂടിയ തുറമുഖം? ",
+    "answerText": " വിശാഖപട്ടണം  "
+  },
+  {
+    "questionNum": 95059,
+    "questionText": " വൈക്കം സത്യാഗ്രഹവുമായി ബന്ധപ്പെട്ട് ഗാന്ധിജി രണ്ടാമത് കേരളം സന്ദർശിച്ചത്? ",
+    "answerText": " 1925ൽ  "
+  },
+  {
+    "questionNum": 95060,
+    "questionText": " വിമോചന സമരത്തിന് നേതൃത്വം നൽകിയത്? ",
+    "answerText": " മന്നത്ത് പത്മനാഭൻ  "
+  },
+  {
+    "questionNum": 95061,
+    "questionText": " Tolan was a great poet during the age of?",
+    "answerText": " Kulasekharas"
+  },
+  {
+    "questionNum": 95062,
+    "questionText": " ഇന്ത്യൻ ബഹിരാകാശ ഗവേഷണ പദ്ധതിക്ക് തുടക്കം കുറിച്ചത്? ",
+    "answerText": " 1962ൽ  "
+  },
+  {
+    "questionNum": 95063,
+    "questionText": " വിക്രം സാരാഭായ് അന്തരിച്ചത്? ",
+    "answerText": " 1971ൽ കോവളത്തുവച്ച്  "
+  },
+  {
+    "questionNum": 95064,
+    "questionText": " ഭാരതത്തിന്റെ ആദ്യത്തെ ബഹിരാകാശ സഞ്ചാരി? ",
+    "answerText": " രാകേഷ് ശർമ്മ  "
+  },
+  {
+    "questionNum": 95065,
+    "questionText": " ബഹിരാകാശദിനം? ",
+    "answerText": " ഏപ്രിൽ 12  "
+  },
+  {
+    "questionNum": 95066,
+    "questionText": " Kramadipika is the work of?",
+    "answerText": " Tolan"
+  },
+  {
+    "questionNum": 95067,
+    "questionText": " അണുശക്തി വകുപ്പ് നിലവിൽ വന്നത്? ",
+    "answerText": 1954
+  },
+  {
+    "questionNum": 95068,
+    "questionText": " ഇന്ത്യൻ മിസൈൽ പദ്ധതിയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ഡോ. എ.പി.ജെ. അബ്ദുൾകലാം  "
+  },
+  {
+    "questionNum": 95069,
+    "questionText": " ഡൽഹി ആദ്യമായി കോൺഗ്രസ് സമ്മേളനത്തിന് വേദിയായ വർഷം? ",
+    "answerText": 1918
+  },
+  {
+    "questionNum": 95070,
+    "questionText": " സ്വാതന്ത്ര്യത്തിനുശേഷം ഏറ്റവും കൂടുതൽ തവണ കോൺഗ്രസ് സമ്മേളനം നടന്ന സ്ഥലം? ",
+    "answerText": " ഡൽഹി  "
+  },
+  {
+    "questionNum": 95071,
+    "questionText": " സോഷ്യലിസം കോൺഗ്രസിന്റെ ലക്ഷ്യമെന്നു പ്രഖ്യാപിച്ച ഐ.എൻ.സി. സമ്മേളനം? ",
+    "answerText": " 1955 ലെ ആവഡി സമ്മേളനം  "
+  },
+  {
+    "questionNum": 95072,
+    "questionText": " ഇംഗ്ളീഷ് വിദ്യാഭ്യാസത്തിന്റെ മാഗ്നകാർട്ട എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " 1854ലെ വുഡ്സ് ഡെസ്പാച്ച്  "
+  },
+  {
+    "questionNum": 95073,
+    "questionText": " തോമസ് റാലിയുടെ നേതൃത്വത്തിൽ യൂണിവേഴ്സിറ്റി കമ്മിഷനെ നിയമിച്ചത്? ",
+    "answerText": " 1902ൽ  "
+  },
+  {
+    "questionNum": 95074,
+    "questionText": " 10 + 2 + 3 വിദ്യാഭ്യാസരീതി ശുപാർശ ചെയ്ത കമ്മിഷൻ? ",
+    "answerText": " കോത്താരി കമ്മിഷൻ  "
+  },
+  {
+    "questionNum": 95075,
+    "questionText": " ദേശീയ ഗീതം ഇംഗ്ളീഷിൽ വിവർത്തനം ചെയ്തത്? ",
+    "answerText": " അരബിന്ദഘോഷ്  "
+  },
+  {
+    "questionNum": 95076,
+    "questionText": " ദേശീയഗാനം പാടാൻ അനുവദനീയമായ ഏറ്റവും കുറഞ്ഞ സമയം? ",
+    "answerText": " 52 സെക്കന്റ്  "
+  },
+  {
+    "questionNum": 95077,
+    "questionText": " ദേശീയ മുദ്രയുടെ ചുവട്ടിൽ ആലേഖനം ചെയ്തിരിക്കുന്ന 'സത്യമേവ ജയതേ' ഏത് ഉപനിഷത്തിൽ നിന്നും എടുത്തിട്ടുള്ളതാണ്? ",
+    "answerText": " മുണ്ഡകോപനിഷത്ത്  "
+  },
+  {
+    "questionNum": 95078,
+    "questionText": " ദേശീയ മുദ്രയുടെ ചുവട്ടിൽ ആലേഖനം ചെയ്തിരിക്കുന്ന 'സത്യമേവ ജയതേ' ഏത് ലിപിയിലാണ് കൊത്തിവച്ചിട്ടുള്ളത്? ",
+    "answerText": " ദേവാനഗരി ലിപി  "
+  },
+  {
+    "questionNum": 95079,
+    "questionText": " രാജ്യത്തെ ഔപചാരിക ചടങ്ങുകൾക്ക് ഉപയോഗിക്കുന്ന ദേശീയ പതാക നിർമ്മിക്കുന്നതിനുളള ലൈസൻസ് നൽകിയിരിക്കുന്ന സഹകരണ സംഘം? ",
+    "answerText": " ധർവാഡ് കോ - ഓപ്പറേറ്റീവ് സൊസൈറ്റി (കർണ്ണാടക)  "
+  },
+  {
+    "questionNum": 95080,
+    "questionText": " ശകവർഷം ആരംഭിച്ചത്? ",
+    "answerText": " എ.ഡി. 78  "
+  },
+  {
+    "questionNum": 95081,
+    "questionText": " ദേശീയ ഗാനത്തിന് സംഗീതം നൽകിയത് ആര്? ",
+    "answerText": " ക്യാപ്ടൻ രാംസിംഗ് ധാക്കൂർ  "
+  },
+  {
+    "questionNum": 95082,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ പതാകയുടെ നീളവും വീതിയും തമ്മിലുള്ള അനുപാതം എത്ര? ",
+    "answerText": " 3 : 2"
+  },
+  {
+    "questionNum": 95083,
+    "questionText": " അശോകചക്രം സ്വീകരിച്ചിരിക്കുന്നത്? ",
+    "answerText": " സാരനാഥിലെ അശോകസ്തംഭത്തിൽ നിന്ന്  "
+  },
+  {
+    "questionNum": 95084,
+    "questionText": " ശകവർഷം ദേശീയ പഞ്ചാംഗമായി ഇന്ത്യാ ഗവൺമെന്റ് അംഗീകരിച്ച വർഷം? ",
+    "answerText": " 1957 മാർച്ച് 22  "
+  },
+  {
+    "questionNum": 95085,
+    "questionText": " 'പാകിസ്ഥാൻ എന്ന ആശയംആദ്യം അവതരിപ്പിച്ചത്? ",
+    "answerText": " മുഹമ്മദ് ഇക്ബാൽ  "
+  },
+  {
+    "questionNum": 95086,
+    "questionText": " പാകിസ്ഥാൻ എന്ന വാക്കിന്റെ അർത്ഥം? ",
+    "answerText": " വിശുദ്ധരാജ്യം  "
+  },
+  {
+    "questionNum": 95087,
+    "questionText": " ഇന്ത്യയുമായി ഏറ്റവും കൂടുതൽ അതിർത്തി പങ്കുവയ്ക്കുന്ന രാജ്യം? ",
+    "answerText": " പാകിസ്ഥാൻ  "
+  },
+  {
+    "questionNum": 95088,
+    "questionText": " പാകിസ്ഥാന്റെ ആദ്യ ഗവർണർ ജനറൽ? ",
+    "answerText": " മുഹമ്മദ്അലി ജിന്ന  "
+  },
+  {
+    "questionNum": 95089,
+    "questionText": " പാകിസ്ഥാന്റെ നിലവിലുള്ള പ്രസിഡന്റ്? ",
+    "answerText": " മാംനൂൺ ഹുസൈൻ  "
+  },
+  {
+    "questionNum": 95090,
+    "questionText": " Sanakaranarayaniyam is a work on?",
+    "answerText": " Astronomy"
+  },
+  {
+    "questionNum": 95091,
+    "questionText": " പാകിസ്ഥാന്റെ തലസ്ഥാനം? ",
+    "answerText": " ഇസ്ളാമബാദ്  "
+  },
+  {
+    "questionNum": 95092,
+    "questionText": " പാകിസ്ഥാൻ ആണവ പരീക്ഷണം നടത്തുന്ന സ്ഥലം? ",
+    "answerText": " ചഗായ് കുന്നുകൾ  "
+  },
+  {
+    "questionNum": 95093,
+    "questionText": " Sankaranarayana adorned the court of?",
+    "answerText": " Sthanu Ravi Varman"
+  },
+  {
+    "questionNum": 95094,
+    "questionText": " അഫ്ഗാനിസ്ഥാൻ രാഷ്ട്രം സ്ഥാപിച്ചത്? ",
+    "answerText": " അഹമ്മദ് ഷാ, 1747ൽ  "
+  },
+  {
+    "questionNum": 95095,
+    "questionText": " അഫ്ഗാനിസ്ഥാനിൽ താത്‌കാലിക സർക്കാർ അധികാരമേറ്റ വർഷം ഏത്? ",
+    "answerText": " 2001 ഡിസംബർ 21  "
+  },
+  {
+    "questionNum": 95096,
+    "questionText": " അഫ്ഗാനിസ്ഥാനിലെ ആദ്യ വനിതാ ഗവർണർ? ",
+    "answerText": " ഹബീബ സൊറാബി  "
+  },
+  {
+    "questionNum": 95097,
+    "questionText": " ചൈനീസ് വിപ്ളവത്തിന്റെ പിതാവ്? ",
+    "answerText": " സൺ യാറ്റ് സെൻ  "
+  },
+  {
+    "questionNum": 95098,
+    "questionText": " ചൈനയുടെ ഔദ്യോഗിക വാർത്താ ഏജൻസി? ",
+    "answerText": " സിൻഹുവ  "
+  },
+  {
+    "questionNum": 95099,
+    "questionText": " ഇന്ത്യയുടെ ഏറ്റവും വലിയ അയൽ രാജ്യം? ",
+    "answerText": " ചൈന  "
+  },
+  {
+    "questionNum": 95100,
+    "questionText": " ഇപ്പോഴത്തെ ചൈനീസ് പ്രധാനമന്ത്രി? ",
+    "answerText": " ലി കെക്വിയാൻഗ്  "
+  },
+  {
+    "questionNum": 95101,
+    "questionText": " 'പീൾസ് റിപ്പബ്ളിക് ഒഫ് ചൈന' പ്രഖ്യാപിച്ചത്? ",
+    "answerText": " മാവോ സേ തൂങ്ങ്  "
+  },
+  {
+    "questionNum": 95102,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ സംസാരിക്കുന്ന ഭാഷ? ",
+    "answerText": " മണ്ഡാരിൻ (ചൈനീസ്)  "
+  },
+  {
+    "questionNum": 95103,
+    "questionText": " ബംഗ്ളാദേശിന്റെ തലസ്ഥാനം? ",
+    "answerText": " ധാക്ക  "
+  },
+  {
+    "questionNum": 95104,
+    "questionText": " ബംഗ്ളാദേശിന്റെ ആദ്യ പ്രധാനമന്ത്രി? ",
+    "answerText": " ഷേക്ക് മുജിബു റഹ്മാൻ  "
+  },
+  {
+    "questionNum": 95105,
+    "questionText": " ശ്രീലങ്ക ഒരു സ്വതന്ത്ര രാജ്യമായി മാറിയ ദിനം? ",
+    "answerText": " 1948 ഫെബ്രുവരി 4  "
+  },
+  {
+    "questionNum": 95106,
+    "questionText": " ശ്രീലങ്ക റിപ്പബ്ളിക്കായി മാറിയ ദിനം? ",
+    "answerText": " 1948 മേയ് 22  "
+  },
+  {
+    "questionNum": 95107,
+    "questionText": " ഗൾഫ് ഒഫ് മാന്നാർ, ആഡംസ് ബ്രിഡ്ജ്, പാക് കടലിടുക്ക് എന്നിവ ഏതൊക്കെ രാജ്യങ്ങൾക്കിടയിലാണ്? ",
+    "answerText": " ഇന്ത്യ - ശ്രീലങ്ക  "
+  },
+  {
+    "questionNum": 95108,
+    "questionText": " 2006ൽ അന്തരിച്ച എൽ.ടി.ടി.ഇ. വക്താവ്? ",
+    "answerText": " വേലുപ്പിള്ള പ്രഭാകരൻ  "
+  },
+  {
+    "questionNum": 95109,
+    "questionText": " ഭൂട്ടാനിൽ സംസാരിക്കുന്ന ഭാഷ? ",
+    "answerText": " സോങ്ഖ  "
+  },
+  {
+    "questionNum": 95110,
+    "questionText": " ലോകത്തിലാദ്യമായി പുകവലി നിരോധിച്ച രാജ്യം? ",
+    "answerText": " ഭൂട്ടാൻ  "
+  },
+  {
+    "questionNum": 95111,
+    "questionText": " The sanskrit drama Pradyumnabhyudayam was written by?",
+    "answerText": " Ravivarma kulasekhara"
+  },
+  {
+    "questionNum": 95112,
+    "questionText": " Leelathilakam is a work on?",
+    "answerText": " Grammar"
+  },
+  {
+    "questionNum": 95113,
+    "questionText": " നേപ്പാളിന്റെ തലസ്ഥാനം? ",
+    "answerText": " കാഠ്മണ്ഡു  "
+  },
+  {
+    "questionNum": 95114,
+    "questionText": " നേപ്പാളിന് മൂന്നു ചുറ്റും സ്ഥിതിചെയ്യുന്ന ഇന്ത്യൻ സംസ്ഥാനങ്ങൾ? ",
+    "answerText": " ഉത്തരഖണ്ഡ്, ഉത്തർപ്രദേശ്, ബീഹാർ, പശ്ചിമബംഗാൾ, സിക്കിം  "
+  },
+  {
+    "questionNum": 95115,
+    "questionText": " Accountants of the Zamorins were known as?",
+    "answerText": " Menokkis"
+  },
+  {
+    "questionNum": 95116,
+    "questionText": " The Chief Ministers of Zamorins were called?",
+    "answerText": " Sarvadhikaryatar"
+  },
+  {
+    "questionNum": 95117,
+    "questionText": " The Senior most of the Chief Ministers of Zamorins was?",
+    "answerText": " Mangat Achan"
+  },
+  {
+    "questionNum": 95118,
+    "questionText": " ജപ്പാന്റെ പാർലമെന്റ്? ",
+    "answerText": " ഡയറ്റ്  "
+  },
+  {
+    "questionNum": 95119,
+    "questionText": " ലിബിയയുടെ പാർലമെന്റ്? ",
+    "answerText": " ജനറൽ പീപ്പിൾസ് കോൺഗ്രസ്  "
+  },
+  {
+    "questionNum": 95120,
+    "questionText": " രാജ്‌ഘട്ടിൽ വച്ച് സത്യപ്രതിജ്ഞ ചെയ്ത മന്ത്രിസഭ? ",
+    "answerText": " മൊറാർജി ദേശായി മന്ത്രിസഭ  "
+  },
+  {
+    "questionNum": 95121,
+    "questionText": " The seven day literary assembly held every year under the Zamorin’s patronage in the Tali Temple of Calicut?",
+    "answerText": " Revati Pattathanam"
+  },
+  {
+    "questionNum": 95122,
+    "questionText": " യൂറോപ്പിലും ഏഷ്യയിലുമായി വ്യാപിച്ചുകിടക്കുന്ന രാജ്യം? ",
+    "answerText": " റഷ്യ  "
+  },
+  {
+    "questionNum": 95123,
+    "questionText": " പുരുഷന്മാരും സ്ത്രീകളും സംയുക്തമായി പങ്കെടുക്കുന്ന ടീം ചാമ്പ്യൻഷിപ്പാണ്? ",
+    "answerText": " ഹോഫ്മാൻ കപ്പ്  "
+  },
+  {
+    "questionNum": 95124,
+    "questionText": " ഇന്ത്യയുടെ 27-ാം സംസ്ഥാനമായ ഉത്തരാഖണ്ഡ് രൂപീകൃതമായത്? ",
+    "answerText": " നവംബർ 9 2000  "
+  },
+  {
+    "questionNum": 95125,
+    "questionText": " സംസ്ഥാനത്തിന്റെ ആദ്യ പേരായിരുന്ന ഉത്തരാഞ്ചലിലെ ഉത്തരാഖണ്ഡ് എന്നാക്കി മാറ്റിയ വർഷം? ",
+    "answerText": 2006
+  },
+  {
+    "questionNum": 95126,
+    "questionText": " മദ്ധ്യപ്രദേശിനെ വിഭജിച്ച് രൂപീകരിച്ച സംസ്ഥാനമാണ്? ",
+    "answerText": " ഛത്തീസ്ഗഢ്  "
+  },
+  {
+    "questionNum": 95127,
+    "questionText": " കിഴവൻരാജ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ധർമ്മരാജ  "
+  },
+  {
+    "questionNum": 95128,
+    "questionText": " ടിപ്പു സുൽത്താന്റെ ആക്രമണത്തെ പ്രതിരോധിക്കാനായി നിർമ്മിച്ച നെടുങ്കോട്ട പണിതത്? ",
+    "answerText": " ധർമ്മരാജാവ്  "
+  },
+  {
+    "questionNum": 95129,
+    "questionText": " തിരുവിതാംകൂറിന്റെ സുവർണകാലം എന്നറിയപ്പെട്ടിരുന്നത്? ",
+    "answerText": " സ്വാതി തിരുനാളിന്റെ ഭരണകാലം  "
+  },
+  {
+    "questionNum": 95130,
+    "questionText": " സംഗീതജ്ഞരിലെ രാജാവ് എന്നറിയപ്പെട്ടിരുന്ന തിരുവിതാംകൂർ രാജാവ്? ",
+    "answerText": " സ്വാതി തിരുനാൾ  "
+  },
+  {
+    "questionNum": 95131,
+    "questionText": " ആധുനിക തിരുവിതാംകൂറിന്റെ സ്രഷ്ടാവ് എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " മാർത്താണ്ഡവർമ്മ  "
+  },
+  {
+    "questionNum": 95132,
+    "questionText": " പുരാവസ്തു ഗവേഷണ വകുപ്പ് സ്ഥാപിച്ചത്? ",
+    "answerText": " ശ്രീമൂലം തിരുനാൾ  "
+  },
+  {
+    "questionNum": 95133,
+    "questionText": " പിന്നാക്ക സമുദായത്തിലെ കുട്ടികൾക്ക് സർക്കാർ സ്ക്കൂളുകളിൽ പ്രവേശനം അനുവദിച്ച ഭരണാധികാരി? ",
+    "answerText": " ശ്രീമൂലം തിരുനാൾ  "
+  },
+  {
+    "questionNum": 95134,
+    "questionText": " നാഗാലാന്റിന്റെ തലസ്ഥാനം? ",
+    "answerText": " കൊഹിമ  "
+  },
+  {
+    "questionNum": 95135,
+    "questionText": " നാഗാലാന്റിന്റെ ഔദ്യോഗിക മൃഗം? ",
+    "answerText": " മിഥുൻ എന്ന കാള  "
+  },
+  {
+    "questionNum": 95136,
+    "questionText": " Which kingdom came to be known as ‘Nediyiriuppu Swarupam’?",
+    "answerText": " Calicut"
+  },
+  {
+    "questionNum": 95137,
+    "questionText": " കുമാരനാശാൻ സ്മാരകം സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " തിരുവനന്തപുരം ജില്ലയിലെ തോന്നയ്ക്കലിൽ  "
+  },
+  {
+    "questionNum": 95138,
+    "questionText": " മൂലൂർ സ്മാരകം സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " പത്തനംതിട്ട ജില്ലയിലെ ഇലവുംതിട്ട  "
+  },
+  {
+    "questionNum": 95139,
+    "questionText": " മഹാകവി മോയിൻകുട്ടി വൈദ്യർ സ്മാരകം? ",
+    "answerText": " മലപ്പുറം ജില്ലയിലെ കൊണ്ടോട്ടി  "
+  },
+  {
+    "questionNum": 95140,
+    "questionText": " മുണ്ടശേരി സ്മാരകം? ",
+    "answerText": " ചെമ്പുക്കാവ് (തൃശൂർ)  "
+  },
+  {
+    "questionNum": 95141,
+    "questionText": " അപ്പൻ തമ്പുരാൻ സ്മാരകം? ",
+    "answerText": " അയ്യന്തോൾ (തൃശൂർ)  "
+  },
+  {
+    "questionNum": 95142,
+    "questionText": " ബാഡ്‌മിന്റൺ കളിയുമായി ബന്ധപ്പെട്ട കപ്പുകൾ? ",
+    "answerText": " ഊബർ കപ്പ്, തോമസ് കപ്പ്, യോണക്സ് കപ്പ്, കൊണിക്ക കപ്പ്  "
+  },
+  {
+    "questionNum": 95143,
+    "questionText": " ഒരു ഷട്ടിൽ കോക്കിൽ എത്ര തൂവലുകളുണ്ട്? ",
+    "answerText": 16
+  },
+  {
+    "questionNum": 95144,
+    "questionText": " പ്രശസ്തയായ ഇന്ത്യൻ ബാഡ്മിന്റൺ താരം? ",
+    "answerText": " സൈന നെഹ്വാൾ  "
+  },
+  {
+    "questionNum": 95145,
+    "questionText": " ഹോക്കി മാന്ത്രികൻ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ധ്യാൻചന്ദ്  "
+  },
+  {
+    "questionNum": 95146,
+    "questionText": " ഇന്ത്യ ലോകകപ്പ് ഹോക്കി ചാമ്പ്യൻമാരായത് എന്ന്? ",
+    "answerText": 1975
+  },
+  {
+    "questionNum": 95147,
+    "questionText": " ആദ്യമായി ലോകകപ്പ് ഹോക്കിക്ക് വേദിയായ ഇന്ത്യൻ നഗരം? ",
+    "answerText": " മുംബയ്  "
+  },
+  {
+    "questionNum": 95148,
+    "questionText": " ഇംഗ്ളണ്ടിന്റെയും ആസ്ട്രേലിയയുടെയും ദേശീയ കായിക വിനോദം? ",
+    "answerText": " ക്രിക്കറ്റ്  "
+  },
+  {
+    "questionNum": 95149,
+    "questionText": " മുന്തിരിയുടെ ശാസ്ത്രീയ നാമം? ",
+    "answerText": " വിറ്റിസ്വെനിഫെറ  "
+  },
+  {
+    "questionNum": 95150,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കൂടുതൽ പൈനാപ്പിൾ ഉത്പാദിപ്പിക്കുന്നത്? ",
+    "answerText": " എറണാകുളം ജില്ല  "
+  },
+  {
+    "questionNum": 95151,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ കൈതച്ചക്ക ഉത്‌പാദിപ്പിക്കുന്ന സംസ്ഥാനം? ",
+    "answerText": " ആസാം  "
+  },
+  {
+    "questionNum": 95152,
+    "questionText": " മാങ്ങയുടെ ജന്മദേശം? ",
+    "answerText": " ഇന്ത്യ  "
+  },
+  {
+    "questionNum": 95153,
+    "questionText": " ദൈവങ്ങളുടെ ഭക്ഷണം എന്നറിയപ്പെടുന്ന ഫലം? ",
+    "answerText": " മാമ്പഴം  "
+  },
+  {
+    "questionNum": 95154,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കൂടുതൽ മാങ്ങ ഉത്‌പാദിപ്പിക്കുന്നത് എവിടെ? ",
+    "answerText": " തിരുവനന്തപുരം ജില്ല  "
+  },
+  {
+    "questionNum": 95155,
+    "questionText": " During the period of the Zamorins of Calicut disputes regarding property were settled by adhoc committees called?",
+    "answerText": " Panchayats"
+  },
+  {
+    "questionNum": 95156,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കൂടുതൽ വാഴപ്പഴം ഉത്‌പാദിപ്പിക്കുന്ന ജില്ല? ",
+    "answerText": " മലപ്പുറം  "
+  },
+  {
+    "questionNum": 95157,
+    "questionText": " കേരളത്തിന്റെ വടക്കേ അറ്റത്ത് സ്ഥിതിചെയ്യുന്ന ജില്ല? ",
+    "answerText": " കാസർകോട്  "
+  },
+  {
+    "questionNum": 95158,
+    "questionText": " ഇടുക്കി ജില്ലയുടെ ആസ്ഥാനം ? ",
+    "answerText": " പൈനാവ്  "
+  },
+  {
+    "questionNum": 95159,
+    "questionText": " കേരളത്തിലെ മഴനിഴൽ പ്രദേശം എന്നറിയപ്പെടുന്ന ചിന്നാർ? ",
+    "answerText": " ഇടുക്കി  "
+  },
+  {
+    "questionNum": 95160,
+    "questionText": " Who was the most celebrated king of the early Zamorins of Calicut?",
+    "answerText": " Manavikrama"
+  },
+  {
+    "questionNum": 95161,
+    "questionText": " Whose court adorned by 18 celebrated royal poets called “Patinettarakavikal”?",
+    "answerText": " Manavikrama"
+  },
+  {
+    "questionNum": 95162,
+    "questionText": " Who wrote the Sanskrit works ‘Kokilasandesa’ and ‘Mallikamaruta’?",
+    "answerText": " Uddanda Sastrikal"
+  },
+  {
+    "questionNum": 95163,
+    "questionText": " Who describes Calicut as “one of the great ports of the districts of Malabar” where “Merchants from all parts of the globe are found”?",
+    "answerText": " Ibn Batuta"
+  },
+  {
+    "questionNum": 95164,
+    "questionText": " Abdur Razzak visited the kingdom of Zamorin of Calicut in?",
+    "answerText": 1443
+  },
+  {
+    "questionNum": 95165,
+    "questionText": " ശാകുന്തളത്തിന് കേരളവർമ്മ വലിയകോയിത്തമ്പുരാൻ എഴുതിയ വിവർത്തനം ഏത്? ",
+    "answerText": " അഭിജ്ഞാനശാകുന്തളം  "
+  },
+  {
+    "questionNum": 95166,
+    "questionText": " 'സാഹിത്യസാഹ്യം' എന്ന സാഹിത്യ നിരൂപണ ഗ്രന്ഥം രചിച്ചത് ആര്? ",
+    "answerText": " എ.ആർ.  "
+  },
+  {
+    "questionNum": 95167,
+    "questionText": " പ്രശസ്ത പത്രപ്രവർത്തകനായ സി.വി. കുഞ്ഞിരാമൻ എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " പഞ്ചവടി  "
+  },
+  {
+    "questionNum": 95168,
+    "questionText": " Who annexed Elayadathu Swarupam to Travancore in 1742?",
+    "answerText": " Marthanda Varma"
+  },
+  {
+    "questionNum": 95169,
+    "questionText": " ആദ്യത്തെ ഏകാങ്ക നാടകം രചിച്ചത് ആര്? ",
+    "answerText": " ഭട്ടനാട് രാമകൃഷ്ണപിള്ള, കമണ്ഡലു  "
+  },
+  {
+    "questionNum": 95170,
+    "questionText": " ആദ്യത്തെ ഏകാങ്ക നാടകമേത്? ",
+    "answerText": " മാലി (മാധവൻനായർ)  "
+  },
+  {
+    "questionNum": 95171,
+    "questionText": " പുരാണകൃതികളുടെ പുനരാഖ്യാനത്തിലൂടെ കുട്ടികളിൽ കഥാബോധനം ജനിപ്പിച്ച ബാലസാഹിത്യകാരൻ ആര്? ",
+    "answerText": " എസ്.കെ. പൊറ്റക്കാട്  "
+  },
+  {
+    "questionNum": 95172,
+    "questionText": " മലയാള സഞ്ചാര സാഹിത്യകാരന്മാരിൽ സമുന്നതൻ ആര്? ",
+    "answerText": " കുഞ്ചൻനമ്പ്യാർ  "
+  },
+  {
+    "questionNum": 95173,
+    "questionText": " 'മലയാള നിരൂപണശാഖയിലെ അതിപ്രാചീനൻ' എന്ന് ആരെയാണ് വിശേഷിപ്പിക്കുന്നത്? ",
+    "answerText": " ആനന്ദവർദ്ധനൻ  "
+  },
+  {
+    "questionNum": 95174,
+    "questionText": " ധ്വനി സമ്പ്രദായത്തിന്റെ ആചാര്യൻ എന്നറിയപ്പെടുന്നത് ആരെ? ",
+    "answerText": " പൂന്താനം  "
+  },
+  {
+    "questionNum": 95175,
+    "questionText": " പനമ്പാട്ടിന്റെ ഉപജ്ഞാതാവ് ആര്? ",
+    "answerText": " രാമപുരത്തുവാര്യർ  "
+  },
+  {
+    "questionNum": 95176,
+    "questionText": " Which was the original seat of the Venad rulers?",
+    "answerText": " Quilon"
+  },
+  {
+    "questionNum": 95177,
+    "questionText": " 'പാഠക'ക്കാർ ഉപയോഗിക്കുന്ന ഭാഷ ഏത്? ",
+    "answerText": " തച്ചന്റെ മകൻ  "
+  },
+  {
+    "questionNum": 95178,
+    "questionText": " ജി. യുടെ 'പെരുന്തച്ചനു' അനുബന്ധമായി വൈലോപ്പിള്ളി എഴുതിയ കാവ്യം ഏത്? ",
+    "answerText": " വള്ളത്തോൾ  "
+  },
+  {
+    "questionNum": 95179,
+    "questionText": " കഥകളിയുടെ പരിഷ്കരണത്തിനായി കലാമണ്ഡലം സ്ഥാപിച്ചത് ആര്? ",
+    "answerText": " ബാപ്പുജി  "
+  },
+  {
+    "questionNum": 95180,
+    "questionText": " ഗാന്ധിജിയെക്കുറിച്ച് വൈലോപ്പിള്ളി എഴുതിയ വിലാപകാവ്യം ഏത്? ",
+    "answerText": " ദേവ്  "
+  },
+  {
+    "questionNum": 95181,
+    "questionText": " പുന്നപ്ര വയലാറിന്റെ പശ്ചാത്തലത്തിൽ ഉലക്ക എന്ന നോവൽ എഴുതിയത് ആര്? ",
+    "answerText": " ശാന്ത  "
+  },
+  {
+    "questionNum": 95182,
+    "questionText": " സ്വഗതാഖ്യാനരൂപത്തിൽ കടമ്മനിട്ട എഴുതിയ കവിത ഏത്? ",
+    "answerText": " ചെറുകാട്  "
+  },
+  {
+    "questionNum": 95183,
+    "questionText": " 'മലങ്കാടൻ' എന്ന പേരിൽ കവിതകളെഴുതിയത് ആര്? ",
+    "answerText": " ധർമ്മരാജ,രാമരാജബഹദൂർ  "
+  },
+  {
+    "questionNum": 95184,
+    "questionText": " മാർത്താണ്ഡവർമ്മയ്ക്കുശേഷം സി.വി. രാമൻപിള്ള എഴുതിയ മറ്റ് രണ്ട് നോവലുകൾ ഏത്? ",
+    "answerText": " ചങ്ങമ്പുഴ കൃഷ്ണപിള്ള  "
+  },
+  {
+    "questionNum": 95185,
+    "questionText": " മലയാളത്തിലെ ഓർഫ്യൂസ് ആര്? ",
+    "answerText": " ചങ്ങമ്പുഴ കൃഷ്ണപിള്ള "
+  },
+  {
+    "questionNum": 95186,
+    "questionText": " സ്വന്തം കുടുംബജീവിത കഥ പറയുന്ന ബഷീറിന്റെ നോവൽ ഏത്? ",
+    "answerText": " എം.ടിയും എൻ.പി. മുഹമ്മദും  "
+  },
+  {
+    "questionNum": 95187,
+    "questionText": " മലയാളത്തിലെ രണ്ട് പ്രശസ്തമായ എഴുത്തുകാർ ഒരുമിച്ചെഴുതിയ നോവലാണ് അറബിപ്പൊന്ന്. ആരെല്ലാം ചേർന്നാണ് ഇത് എഴുതിയത്? ",
+    "answerText": " പി.ടി. നന്ദകുമാർ  "
+  },
+  {
+    "questionNum": 95188,
+    "questionText": " മലയാളത്തിലെ ജനകീയ നോവലിസ്റ്റ് എന്ന് അറിയപ്പെടുന്നത് ആര്? ",
+    "answerText": " തകഴി  "
+  },
+  {
+    "questionNum": 95189,
+    "questionText": " കേരള മോപ്പസാങ് എന്നറിയപ്പെടുന്ന എഴുത്തുകാരൻ ആര്? ",
+    "answerText": " തകഴി ശിവശങ്കരപ്പിള്ള "
+  },
+  {
+    "questionNum": 95190,
+    "questionText": " മലേഷ്യയുടെ പശ്ചാത്തലത്തിൽ വിലാസിനി എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " അവകാശികൾ "
+  },
+  {
+    "questionNum": 95191,
+    "questionText": " ഇന്ദുലേഖ എന്ന നോവലിലെ വികടകേസരി ആര്? ",
+    "answerText": " അഭയം  "
+  },
+  {
+    "questionNum": 95192,
+    "questionText": " രാജലക്ഷ്മി എന്ന കഥാകാരിയെ അടിസ്ഥാനമാക്കി പെരുമ്പടവം എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " ദൈവത്തിന്റെ വികൃതികൾ  "
+  },
+  {
+    "questionNum": 95193,
+    "questionText": " 'മയ്യഴിപ്പുഴയുടെ തീരങ്ങളിൽ' എന്ന നോവലിനു ശേഷം മുകുന്ദൻ എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " പാറപ്പുറം  "
+  },
+  {
+    "questionNum": 95194,
+    "questionText": " മലയാളത്തിൽ പട്ടാളക്കഥകളുടെ അവതാരകൻ ആര്? ",
+    "answerText": " പോഞ്ഞിക്കര റാഫിയുടെ സ്വർഗദൂതൻ  "
+  },
+  {
+    "questionNum": 95195,
+    "questionText": " മലയാളത്തിലെ പ്രഥമ ബോധധാരാ നോവൽ ഏത്? ",
+    "answerText": " ഒരു സങ്കീർത്തനം പോലെ...  "
+  },
+  {
+    "questionNum": 95196,
+    "questionText": " 'ഡോസ്തോവ്‌സ്ക്കി'യുടെ ജീവിതത്തെ അവലംബമാക്കി പെരുമ്പടവം എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " ലന്തൻ ബത്തേരിയിലെ ലുത്തിയാനികൾ  "
+  },
+  {
+    "questionNum": 95197,
+    "questionText": " എൻ.എസ്. മാധവന്റെ ആദ്യ നോവൽ ഏത്? ",
+    "answerText": " അരനാഴികനേരം  "
+  },
+  {
+    "questionNum": 95198,
+    "questionText": " താരാശങ്കർബാനർജിയുടെ ആരോഗ്യനികേതനത്തിന്റെ പ്രേരണയിൽ പാറപ്പുറം എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " പണി തീരാത്ത വീട്  "
+  },
+  {
+    "questionNum": 95199,
+    "questionText": " നന്തനാരുടെ ബാലസാഹിത്യ നോവൽ ഏത്? ",
+    "answerText": " ഉണ്ണിക്കുട്ടന്റെ ലോകം  "
+  },
+  {
+    "questionNum": 95200,
+    "questionText": " 'ബാലഗോപാലൻ' എന്ന മലയാളത്തിലെ പ്രഥമ ബാലനാടകത്തിന്റെ രചയിതാവ് ആര്? ",
+    "answerText": " കുട്ടമത്ത്  "
+  },
+  {
+    "questionNum": 95201,
+    "questionText": " മലയാളത്തിലെ ഒറ്റപ്പെട്ട സമ്പത്ത് എന്ന് വിശേഷിപ്പിക്കുന്നത് ആരുടെ കൃതികളെയാണ്? ",
+    "answerText": " വി.കെ. എൻ.  "
+  },
+  {
+    "questionNum": 95202,
+    "questionText": " ധ്വനി സമ്പ്രദായത്തിന്റെ ആചാര്യൻ ആര്? ",
+    "answerText": " ആനന്ദവർദ്ധനൻ  "
+  },
+  {
+    "questionNum": 95203,
+    "questionText": " ശ്രീനാരായണഗുരുവിന്റെ ജീവിതം പ്രമേയമാക്കി സുരേന്ദ്രൻ എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " ഗുരു  "
+  },
+  {
+    "questionNum": 95204,
+    "questionText": " ലളിതാംബിക അന്തർജ്ജനത്തിന്റെ ആത്മകഥാപരമായ കഥ ഏത്? ",
+    "answerText": " പ്രസാദം  "
+  },
+  {
+    "questionNum": 95205,
+    "questionText": " The traditional naval commanders of the zamorins were?",
+    "answerText": " Kunjali Marakkar"
+  },
+  {
+    "questionNum": 95206,
+    "questionText": " ഗ്രാന്റ് ട്രങ്ക് റോഡ് ഏതെല്ലാം നഗരങ്ങളെത്തമ്മിലാണ് ബന്ധിപ്പിക്കുന്നത്? ",
+    "answerText": " കൊൽക്കത്ത - അമൃത്സർ  "
+  },
+  {
+    "questionNum": 95207,
+    "questionText": " The first European navigator who reached India by sea route?",
+    "answerText": " Vasco Da Gama"
+  },
+  {
+    "questionNum": 95208,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ റബർ ഉത്‌പാദിപ്പിക്കുന്നതെവിടെ? ",
+    "answerText": " കേരളം  "
+  },
+  {
+    "questionNum": 95209,
+    "questionText": " മാർത്താണ്ഡവർമ്മയുടെ സർവസൈനാധിപൻ ആരായിരുന്നു? ",
+    "answerText": " രാമയ്യൻദളവ  "
+  },
+  {
+    "questionNum": 95210,
+    "questionText": " സാമൂതിരിമാരുടെ കാലത്തുണ്ടായ പ്രസിദ്ധമായ സംഗീതസദസ്? ",
+    "answerText": " രേവതി പട്ടത്താനം  "
+  },
+  {
+    "questionNum": 95211,
+    "questionText": " മനുഷ്യഹൃദയത്തിലെ മേലറകളെ അറിയപ്പെടുന്നതെങ്ങനെ? ",
+    "answerText": " ഓറിക്കിളുകൾ  "
+  },
+  {
+    "questionNum": 95212,
+    "questionText": " കേരളത്തെപ്പറ്റി പരാമർശിക്കുന്ന ഏറ്റവും പഴയകാല ഗണനാഗ്രന്ഥം എന്ന് കരുതപ്പെടുന്നത് ഏത്? ",
+    "answerText": " കാർത്യായന വാർത്തികം  "
+  },
+  {
+    "questionNum": 95213,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വൈസ്രോയി ആരായിരുന്നു? ",
+    "answerText": " കാനിംഗ്പ്രഭു  "
+  },
+  {
+    "questionNum": 95214,
+    "questionText": " നളചരിതം ആട്ടക്കഥയുടെ രചയിതാവാരാണ്? ",
+    "answerText": " ഉണ്ണായിവാര്യർ  "
+  },
+  {
+    "questionNum": 95215,
+    "questionText": " കണ രോഗം ബാധിക്കുന്നത് ഏത് അവയവത്തെയാണ്? ",
+    "answerText": " എല്ല്  "
+  },
+  {
+    "questionNum": 95216,
+    "questionText": " 'ചരിത്രത്തിന്റെ പിതാവ്' എന്നറിയപ്പെടുന്നതാര്? ",
+    "answerText": " ഹോറഡോട്ടസ്  "
+  },
+  {
+    "questionNum": 95217,
+    "questionText": " സിക്കുകാരുടെ തീർത്ഥാടനകേന്ദ്രമായ അമൃത്‌‌സർ എന്ന വിശുദ്ധ നഗരം പണിതതാരാണ്? ",
+    "answerText": " ഗുരുരാമദാസ്  "
+  },
+  {
+    "questionNum": 95218,
+    "questionText": " ഒഴുകുന്ന ദേശീയ ഉദ്യാനമായ കെയ്‌ബുൽ ലംജോ എവിടെയാണ്? ",
+    "answerText": " മണിപ്പൂരിൽ  "
+  },
+  {
+    "questionNum": 95219,
+    "questionText": " മണ്ണെണ്ണയിൽ സൂക്ഷിക്കുന്ന രണ്ട് ലോഹങ്ങൾ ഏവ? ",
+    "answerText": " സോഡിയം, പൊട്ടാസ്യം  "
+  },
+  {
+    "questionNum": 95220,
+    "questionText": " ഇരുമ്പിന്റെ ഏറ്റവും ശുദ്ധമായ രൂപമേത്? ",
+    "answerText": " റോട്ട് അയൺ  "
+  },
+  {
+    "questionNum": 95221,
+    "questionText": " മഹാഭാരതം രചിച്ചതാരാണ്? ",
+    "answerText": " വ്യാസൻ  "
+  },
+  {
+    "questionNum": 95222,
+    "questionText": " ഇന്ത്യയുടെ ഉത്തരസമതലങ്ങളിൽ അനുഭവപ്പെടുന്ന ഈർപ്പരഹിതവും അത്യധികം ചൂടേറിയതുമായ പ്രദേശിക വാതകം? ",
+    "answerText": " ലൂ  "
+  },
+  {
+    "questionNum": 95223,
+    "questionText": " 'മാലി' ആരുടെ തൂലികാനാമമാണ്? ",
+    "answerText": " മാധവൻനായർ  "
+  },
+  {
+    "questionNum": 95224,
+    "questionText": " കിളിപ്പാട്ട് പ്രസ്ഥാനത്തിന്റെ ഉപജ്ഞാതാവാരാണ് ? ",
+    "answerText": " എഴുത്തച്ഛൻ  "
+  },
+  {
+    "questionNum": 95225,
+    "questionText": " യുറേനിയത്തിന്റെ പ്രധാന അയിര് ഏത്? ",
+    "answerText": " പിച്ച്ബ്ളെന്റ്  "
+  },
+  {
+    "questionNum": 95226,
+    "questionText": " ഇ. ഗോപിനാഥ് ഏത് നിലയിലാണ് പ്രസിദ്ധനായത്? ",
+    "answerText": " നൃത്തവിദഗ്ദ്ധൻ  "
+  },
+  {
+    "questionNum": 95227,
+    "questionText": " ലോകത്തിൽ ഏറ്റവും വലിയ ലൈബ്രറി ഏത്? ",
+    "answerText": " യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് ലൈബ്രറി ഒഫ് കോൺഗ്രസ്  "
+  },
+  {
+    "questionNum": 95228,
+    "questionText": " പ്ളാനിംഗ് കമ്മിഷന്റെ ചെയർമാൻ ആര്? ",
+    "answerText": " പ്രധാനമന്ത്രി  "
+  },
+  {
+    "questionNum": 95229,
+    "questionText": " ദേശീയപാതയിലെ പച്ചനിറം എന്തിനെ സൂചിപ്പിക്കുന്നു? ",
+    "answerText": " വിശ്വാസത്തെയും ശൗര്യത്തെയും  "
+  },
+  {
+    "questionNum": 95230,
+    "questionText": " എബ്രഹാം ലിങ്കൺ അമേരിക്കയുടെ എത്രാമത്തെ പ്രസിഡന്റായിരുന്നു? ",
+    "answerText": 16
+  },
+  {
+    "questionNum": 95231,
+    "questionText": " പുലികേശൻ രണ്ടാമന്റെ ആക്രമണങ്ങളെക്കുറിച്ച് വിവരം നൽകുന്നത് ഏത് ലിഖിതങ്ങളാണ്? ",
+    "answerText": " അയ്ഹോൾ  "
+  },
+  {
+    "questionNum": 95232,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ പതാക ആദ്യം ഉയർത്തിയതാരാണ്? ",
+    "answerText": " മാഡം ഭിക്കാബി കാമ  "
+  },
+  {
+    "questionNum": 95233,
+    "questionText": " മനുഷ്യശരീരത്തിലെ ഏറ്റവും കടുപ്പമേറിയ പദാർത്ഥം ഏത്? ",
+    "answerText": " പല്ലിലെ ഇനാമൽ  "
+  },
+  {
+    "questionNum": 95234,
+    "questionText": " Vasco da Gama was sent to India by Portuguese king?",
+    "answerText": " Dom Manuel"
+  },
+  {
+    "questionNum": 95235,
+    "questionText": " സാരനാഥിൽ അശോകചക്രവർത്തി പണികഴിപ്പിച്ച സ്തംഭത്തിൽ നിന്നുമാണ്? ",
+    "answerText": " ഇന്ത്യയുടെ ദേശീയമുദ്ര സ്വീകരിച്ചിട്ടുള്ളത്  "
+  },
+  {
+    "questionNum": 95236,
+    "questionText": " കാനഡ കപ്പ് ഏത് കളിയുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു? ",
+    "answerText": " ഗോൾഫ്  "
+  },
+  {
+    "questionNum": 95237,
+    "questionText": " ദേശീയപാതയിലെ കാവിനിറം എന്തിനെ സൂചിപ്പിക്കുന്നു? ",
+    "answerText": " ധീരതയെ  "
+  },
+  {
+    "questionNum": 95238,
+    "questionText": " ഓംചേരി ആരുടെ തൂലികാനാമമാണ്? ",
+    "answerText": " എൻ. നാരായണപിള്ള  "
+  },
+  {
+    "questionNum": 95239,
+    "questionText": " Vasco-da Gama reached Kerala in a ship called?",
+    "answerText": " St. Gabriel"
+  },
+  {
+    "questionNum": 95240,
+    "questionText": " അടിമവംശം സ്ഥാപിച്ചതാരാണ് ? ",
+    "answerText": " കുത്തുബുദ്ദീൻ ഐബക്ക്  "
+  },
+  {
+    "questionNum": 95241,
+    "questionText": " അജാത ശത്രുവിന്റെ കാലത്ത് ഒന്നാം ബുദ്ധമത സമ്മേളനം നടന്നതെവിടെവച്ച്? ",
+    "answerText": " രാജഗൃഹം  "
+  },
+  {
+    "questionNum": 95242,
+    "questionText": " ഭാരതപ്പുഴയുടെ നീളമെത്ര? ",
+    "answerText": " 209 കി.മീ.  "
+  },
+  {
+    "questionNum": 95243,
+    "questionText": " ഗുരുമുഖി ലിഖിതത്തിന്റെ ഉപജ്ഞാതാവാര്? ",
+    "answerText": " സിക്കുകാരുടെ രണ്ടാമത്തെ ഗുരുവായ ഗുരു അംഗത്  "
+  },
+  {
+    "questionNum": 95244,
+    "questionText": " കേരളത്തിലെ ആദിമനിവാസികൾ ആരായിരുന്നു? ",
+    "answerText": " ദ്രാവിഡർ  "
+  },
+  {
+    "questionNum": 95245,
+    "questionText": " ഹൃദയമിടിപ്പ് വർദ്ധിക്കാൻ കാരണമായ ഹോർമോൺ? ",
+    "answerText": " അഡ്രീനാലിൻ  "
+  },
+  {
+    "questionNum": 95246,
+    "questionText": " വൃക്കയുടെ മുകളിലായി തൊപ്പി പോലെ കാണപ്പെടുന്ന ഗ്രന്ഥി? ",
+    "answerText": " അഡ്രീനൽ ഗ്ളാൻഡ്  "
+  },
+  {
+    "questionNum": 95247,
+    "questionText": " Who received Vasco Da Gama when he arrived at Calicut in May 1498?",
+    "answerText": " Zamorin of Calicut"
+  },
+  {
+    "questionNum": 95248,
+    "questionText": " അയഡിൻ അടങ്ങിയ ഹോർമോൺ? ",
+    "answerText": " തൈറോക്സിൻ  "
+  },
+  {
+    "questionNum": 95249,
+    "questionText": " അധിവൃക്കഗ്രന്ഥിയിലെ കോർട്ടക്സ് ഉത്പാദിപ്പിക്കുന്നത്? ",
+    "answerText": " കോർട്ടിസോൺ  "
+  },
+  {
+    "questionNum": 95250,
+    "questionText": " ഇൻസുലിന്റെ അഭാവംമൂലം ഉണ്ടാകുന്നത്? ",
+    "answerText": " പ്രമേഹം  "
+  },
+  {
+    "questionNum": 95251,
+    "questionText": " ഇൻസുലിൻ ഉത്‌പാദിപ്പിക്കുന്ന കോശം? ",
+    "answerText": " ബീറ്റാ സെല്ലുകൾ  "
+  },
+  {
+    "questionNum": 95252,
+    "questionText": " അഡ്രീനൽ ഗ്രന്ഥി ഉത്‌പാദിപ്പിക്കുന്ന മറ്റ് ഹോർമോണുകൾ? ",
+    "answerText": " നോർ അഡ്രിനാലിൻ, ആൽഡോസ്റ്റിറോൾ, ക്വാർട്ടിസോൾ  "
+  },
+  {
+    "questionNum": 95253,
+    "questionText": " അലർജി, ആസ്‌മ എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്ന ഗുളികകളിൽ അടങ്ങിയിരിക്കുന്നത്? ",
+    "answerText": " കോർട്ടിസോൾ  "
+  },
+  {
+    "questionNum": 95254,
+    "questionText": " കൊതുകുകൾ ഏത് ജന്തുവിഭാഗത്തിൽപ്പെടുന്നു? ",
+    "answerText": " ആർത്രോപോഡ  "
+  },
+  {
+    "questionNum": 95255,
+    "questionText": " ചതുപ്പുരോഗം എന്നറിയപ്പെടുന്ന മലേറിയ പരത്തുന്നത്? ",
+    "answerText": " അനോഫിലിസ് കൊതുകുകൾ  "
+  },
+  {
+    "questionNum": 95256,
+    "questionText": " കൊതുകിന്റെ ലാർവകൾ അറിയപ്പെടുന്നത്? ",
+    "answerText": " റിഗ്ലർ  "
+  },
+  {
+    "questionNum": 95257,
+    "questionText": " ലോക കൊതുക് നിവാരണ ദിനം? ",
+    "answerText": " ആഗസ്റ്റ് 20  "
+  },
+  {
+    "questionNum": 95258,
+    "questionText": " കേരള ലളിതാകലാ അക്കാദമി ആസ്ഥാനം? ",
+    "answerText": " തൃശൂർ  "
+  },
+  {
+    "questionNum": 95259,
+    "questionText": " Vasco-da Gama’s second visit to India was in?",
+    "answerText": 1502
+  },
+  {
+    "questionNum": 95260,
+    "questionText": " കേരള സംഗീത നാടക അക്കാദമിയുടെ ആദ്യ ചെയർമാൻ? ",
+    "answerText": " മങ്കു തമ്പുരാൻ  "
+  },
+  {
+    "questionNum": 95261,
+    "questionText": " ഒന്നാം ഭൗമ ഉച്ചകോടി നടന്നത്? ",
+    "answerText": " 1992 ജൂൺ  "
+  },
+  {
+    "questionNum": 95262,
+    "questionText": " സുസ്ഥിര വികസനുമായി ബന്ധപ്പെട്ട് നടന്ന അന്താരാഷ്ട്ര ഉച്ചകോടി? ",
+    "answerText": " രണ്ടാം ഭൗമ ഉച്ചകോടി, റിയോ + 10  "
+  },
+  {
+    "questionNum": 95263,
+    "questionText": " ഭൂമിയുടെ ഓസോൺ പാളിക്ക് നാശം വരുത്തുന്ന രാസവസ്തുക്കളുടെ പുറംതള്ളൽ കുറയ്ക്കാനുള്ള ഉടമ്പടി? ",
+    "answerText": " മോൺട്രിയൽ ഉടമ്പടി  "
+  },
+  {
+    "questionNum": 95264,
+    "questionText": " ബയോടെക്നോളജി ഉൾപ്പെടെയുള്ള ആധുനിക സാങ്കേതിക വിദ്യകൾ ഉണ്ടാക്കാനിടയുള്ള ഭീഷണിയിൽ നിന്ന് ജൈവവിവിദ്ധ്യത്തെ സംരക്ഷിക്കാനുദ്ദേശിച്ചുള്ള അന്താരാഷ്ട്ര കരാർ? ",
+    "answerText": " കാർട്ടാജിനാ പ്രോട്ടോക്കോൾ ഓൺ ബയോസേഫ്റ്റി  "
+  },
+  {
+    "questionNum": 95265,
+    "questionText": " അന്റാർട്ടിക്കയിൽ സമാധാനപരമായ ഗവേഷണങ്ങൾക്ക് വേണ്ടിയുള്ള ഉടമ്പടിയാണ്? ",
+    "answerText": " അന്റാർട്ടിക്കൻ ഉടമ്പടി  "
+  },
+  {
+    "questionNum": 95266,
+    "questionText": " വവ്വാൽ, ഡോൾഫിൻ എന്നീ ജീവികൾക്ക് തടസങ്ങൾ ഒഴിവാക്കി സഞ്ചരിക്കാനും, ഇരയുടെ സാന്നിദ്ധ്യമറിയാനും സഹായകമാകുന്ന ശബ്ദത്തിന്റെ പ്രതിഭാസം? ",
+    "answerText": " പ്രതിഫലനം  "
+  },
+  {
+    "questionNum": 95267,
+    "questionText": " ശബ്ദപരീക്ഷണങ്ങൾക്ക് ഉപയോഗിക്കുന്ന ഉപകരണം? ",
+    "answerText": " സോണാർ  "
+  },
+  {
+    "questionNum": 95268,
+    "questionText": " സാധാരണ ഊഷ്‌മാവിൽ വായുവിലൂടെയുള്ള ശബ്ദത്തിന്റെ പ്രവേഗം? ",
+    "answerText": " 340 M /s"
+  },
+  {
+    "questionNum": 95269,
+    "questionText": " കേൾവിക്കാരന്റെയോ ശബ്ദസ്രോതസിന്റെയോ അല്ലെങ്കിൽ രണ്ടിന്റെയുമോ ആപേക്ഷിക ചലനം നിമിത്തം ശബ്ദത്തിന്റെ ആവൃത്തി വ്യത്യാസപ്പെടുന്നതിനായി അനുഭവപ്പെടുന്ന പ്രതിഭാസം? ",
+    "answerText": " ഡോപ്ളർ ഇഫക്ട്  "
+  },
+  {
+    "questionNum": 95270,
+    "questionText": " 2005ൽ കെ. അയ്യപ്പപ്പണിക്കർക്ക് സരസ്വതി സമ്മാനം ലഭിച്ച കവിത? ",
+    "answerText": " അയ്യപ്പ പണിക്കരുടെ കൃതികൾ  "
+  },
+  {
+    "questionNum": 95271,
+    "questionText": " സുഗതകുമാരിയുടെ ആദ്യ കവിതാ സമാഹാരം? ",
+    "answerText": " മുത്തുച്ചിപ്പികൾ  "
+  },
+  {
+    "questionNum": 95272,
+    "questionText": " 1982-ൽ ഓടക്കുഴൽ അവാർഡും 1984-ൽ വയലാർ അവാർഡും ലഭിച്ച കൃതി? ",
+    "answerText": " അമ്പലമണി  "
+  },
+  {
+    "questionNum": 95273,
+    "questionText": " മാനസിക രോഗികളും അനാഥരുമായ സ്ത്രീകൾക്കും കുട്ടികൾക്കും വേണ്ടി അഭയ എന്ന പ്രസ്ഥാനം ആരംഭിച്ചത്? ",
+    "answerText": " സുഗതകുമാരി  "
+  },
+  {
+    "questionNum": 95274,
+    "questionText": " വൈദ്യുതി മോട്ടോർ കണ്ടുപിടിച്ചത്? ",
+    "answerText": " നിക്കോളാസ് ടെസ്ല  "
+  },
+  {
+    "questionNum": 95275,
+    "questionText": " emf അളക്കാനുള്ള ഉപകരണം? ",
+    "answerText": " വോൾട്ട് മീറ്റർ  "
+  },
+  {
+    "questionNum": 95276,
+    "questionText": " The agricultural products introduced in India by the Portuguese?",
+    "answerText": " Cashewnuts; Tobacco; Custardappie; Guava; Pineaple and Pappaya"
+  },
+  {
+    "questionNum": 95277,
+    "questionText": " ക്വാണ്ടം സിദ്ധാന്തത്തിന്റെ അടിസ്ഥാനത്തിൽ ഫോട്ടോ ഇലക്ട്രിക് പ്രഭാവം തൃപ്തികരമായി വിശദീകരിച്ച ശാസ്ത്രജ്ഞൻ? ",
+    "answerText": " ആൽബർട്ട് ഐൻസ്റ്റീൻ  "
+  },
+  {
+    "questionNum": 95278,
+    "questionText": " കൊല്ലവർഷം ആരംഭിച്ചത്? ",
+    "answerText": " രാജശേഖരവർമ്മയുടെ കാലത്ത്  "
+  },
+  {
+    "questionNum": 95279,
+    "questionText": " കൊല്ലവർഷത്തിലെ ആദ്യ മാസം? അവസാന മാസം? ",
+    "answerText": " ചിങ്ങം, കർക്കടകം  "
+  },
+  {
+    "questionNum": 95280,
+    "questionText": " ഗുപ്തവർഷം ആരംഭിച്ചത്? ",
+    "answerText": " എ.ഡി. 320  "
+  },
+  {
+    "questionNum": 95281,
+    "questionText": " ഹിജറാ വർഷം ആരംഭിച്ചത്? ",
+    "answerText": " എ.ഡി. 622  "
+  },
+  {
+    "questionNum": 95282,
+    "questionText": " കേരളത്തിലെ ആദ്യ രാജവംശമായ ആയ് രാജവംശത്തിന്റെ തലസ്ഥാനം? ",
+    "answerText": " പൊതിയിൽ മലയിലെ ആയ്ക്കുടി  "
+  },
+  {
+    "questionNum": 95283,
+    "questionText": " ആയ് വംശത്തിന്റെ പരദേവത? ",
+    "answerText": " ശ്രീപത്മനാഭൻ  "
+  },
+  {
+    "questionNum": 95284,
+    "questionText": " പ്രധാന ആയ് രാജാക്കന്മാർ? ",
+    "answerText": " കരുനന്തടക്കൻ, വിക്രമാദിത്യ വരഗുണൻ, ചടയൻ.  "
+  },
+  {
+    "questionNum": 95285,
+    "questionText": " വാട്ടർ ലൂ യുദ്ധത്തിൽ നെപ്പോളിയൻ സഞ്ചരിച്ചിരുന്ന കുതിര? ",
+    "answerText": " മാരെങ്ങോ  "
+  },
+  {
+    "questionNum": 95286,
+    "questionText": " The ‘Oath of the Coonan Cross’ against the appointment of Latin Bishop was in?",
+    "answerText": 1653
+  },
+  {
+    "questionNum": 95287,
+    "questionText": " നൈട്രജൻ ഹൈഡ്രൈഡാണ്? ",
+    "answerText": " എൻ.എച്ച് 3  "
+  },
+  {
+    "questionNum": 95288,
+    "questionText": " First European fort built in India?",
+    "answerText": " Fort Manual at Cochin by Albuquerque"
+  },
+  {
+    "questionNum": 95289,
+    "questionText": " Who gave the Portuguese the right to erect a factory at Calicut?",
+    "answerText": " Zamorin of Calicut"
+  },
+  {
+    "questionNum": 95290,
+    "questionText": " When did Francisco d’ Albuquerque arrive at Cochin?",
+    "answerText": " September 1503"
+  },
+  {
+    "questionNum": 95291,
+    "questionText": " ശരീരത്തിൽ ജലത്തിന്റെ അളവ് നിയന്ത്രിക്കുന്ന ഹോർമോൺ? ",
+    "answerText": " വാസോപ്രസിൻ  "
+  },
+  {
+    "questionNum": 95292,
+    "questionText": " ഇന്ത്യയുടെ ഭരണം ബ്രിട്ടീഷ് രാജ്ഞിയുടെ കീഴിലാക്കിയ നിയമം? ",
+    "answerText": " ലോർഡ് പാമേഴ്സ്റ്റൺ  "
+  },
+  {
+    "questionNum": 95293,
+    "questionText": " ബ്രിട്ടീഷ് ഇന്ത്യൻ അസോസിയേഷൻ സ്ഥാപിതമായ വർഷം? ",
+    "answerText": 1851
+  },
+  {
+    "questionNum": 95294,
+    "questionText": " വിക്ടോറിയ രാജ്ഞിയെ ഇന്ത്യയുടെ ചക്രവർത്തിയായി പ്രഖ്യാപിച്ചത്? ",
+    "answerText": " 1877ൽ  "
+  },
+  {
+    "questionNum": 95295,
+    "questionText": " By which vessel did the Portuguese naval squadron Francisco d’ Albuquerque arrive at Cochin?",
+    "answerText": " Duarte Pachecco"
+  },
+  {
+    "questionNum": 95296,
+    "questionText": " പഞ്ചവത്സര പദ്ധതികളിൽ ഏറ്റവും കൂടുതൽ വളർച്ച കൈവരിച്ച പദ്ധതി? ",
+    "answerText": " പത്താം പഞ്ചവത്സര പദ്ധതി  "
+  },
+  {
+    "questionNum": 95297,
+    "questionText": " ഇന്ത്യയിൽ ആദായ നികുതി നിയമം നിലവിൽ വന്നത്? ",
+    "answerText": " 1962 ഏപ്രിൽ 1  "
+  },
+  {
+    "questionNum": 95298,
+    "questionText": " നികുതിയെക്കുറിച്ച് വിവരിക്കുന്ന പ്രാചീന ഇന്ത്യൻ കൃതികൾ? ",
+    "answerText": " അർത്ഥശാസ്ത്രം മനുസ്മൃതി  "
+  },
+  {
+    "questionNum": 95299,
+    "questionText": " റിസർവ് ബാങ്കിനെ ദേശസാത്ക‌രിച്ച വർഷം? ",
+    "answerText": " 1949 ജനുവരി 1  "
+  },
+  {
+    "questionNum": 95300,
+    "questionText": " കൃഷിക്കും ഗ്രാമവികസനത്തിനുമായുള്ള ഭാരതത്തിലെ ദേശീയ ബാങ്ക്? ",
+    "answerText": " നബാർഡ്  "
+  },
+  {
+    "questionNum": 95301,
+    "questionText": " The second expeditions of the Portuguese to Kerala was led by?",
+    "answerText": " Pedro Alvarez Cabral"
+  },
+  {
+    "questionNum": 95302,
+    "questionText": " ഇന്ത്യൻ പക്ഷി നിരീക്ഷണ ദിനം? ",
+    "answerText": " നവംബർ 12  "
+  },
+  {
+    "questionNum": 95303,
+    "questionText": " കേരളത്തിലെ ആദ്യ പക്ഷിസങ്കേതം? ",
+    "answerText": " തട്ടേക്കാട്  "
+  },
+  {
+    "questionNum": 95304,
+    "questionText": " തട്ടേക്കാട് പക്ഷിസങ്കേതം? ",
+    "answerText": " എറണാകുളം  "
+  },
+  {
+    "questionNum": 95305,
+    "questionText": " അരിപ്പ പക്ഷിസങ്കേതം? ",
+    "answerText": " തിരുവനന്തപുരം  "
+  },
+  {
+    "questionNum": 95306,
+    "questionText": " സൈബീരിയൻ കൊക്കുകൾക്ക് പ്രസിദ്ധമായ കടലുണ്ടി പക്ഷിസങ്കേതം? ",
+    "answerText": " മലപ്പുറം  "
+  },
+  {
+    "questionNum": 95307,
+    "questionText": " Who was the first viceroy of the Portuguese possessions in the East?",
+    "answerText": " Francisco d’ Almeida"
+  },
+  {
+    "questionNum": 95308,
+    "questionText": " ഇന്ത്യയിൽ തന്നെ ഒരു ഗ്രാമപഞ്ചായത്തിൽ വൈദ്യുതി ഉത്‌പാദിപ്പിക്കുന്നത്? ",
+    "answerText": " മാങ്കുളം  "
+  },
+  {
+    "questionNum": 95309,
+    "questionText": " ഗാർഹിക ഉപഭോക്താക്കൾക്ക് സി.എഫ്.എൽ ബൾബുകൾ വിതരണം ചെയ്ത് വൈദ്യുതി ഉപഭോഗത്തിന്റെ അളവ് കുറയ്ക്കാൻ കെ.എസ്.ഇ.ബി 2010ൽ നടപ്പിലാക്കിയ പദ്ധതി? ",
+    "answerText": " ബചത് ലാബ് യോജന  "
+  },
+  {
+    "questionNum": 95310,
+    "questionText": " ഏറ്റവും വലിയ വനം ഡിവിഷൻ? ",
+    "answerText": " റാന്നി  "
+  },
+  {
+    "questionNum": 95311,
+    "questionText": " ഇന്ത്യയിൽ വനവിസ്തൃതിയുടെ അടിസ്ഥാനത്തിൽ കേരളത്തിന്റെ സ്ഥാനം? ",
+    "answerText": 14
+  },
+  {
+    "questionNum": 95312,
+    "questionText": " ഇന്ത്യൻ വനശാസ്ത്രത്തിന്റെ പിതാവ്? ",
+    "answerText": " ഡിട്രിച്ച് ബ്രാൻഡിസ്  "
+  },
+  {
+    "questionNum": 95313,
+    "questionText": " ഏറ്റവും കൂടുതൽ വനമുള്ള ഇന്ത്യൻ സംസ്ഥാനം? ",
+    "answerText": " മദ്ധ്യപ്രദേശ്  "
+  },
+  {
+    "questionNum": 95314,
+    "questionText": " ലോകത്തിൽ ഏറ്റവും കൂടുതൽ വനമുള്ള രാജ്യം? ",
+    "answerText": " റഷ്യ  "
+  },
+  {
+    "questionNum": 95315,
+    "questionText": " Which fort was named “Fort Angelo”?",
+    "answerText": " Cannanore"
+  },
+  {
+    "questionNum": 95316,
+    "questionText": " When did Francisco d’ Almeida leave India?",
+    "answerText": 1509
+  },
+  {
+    "questionNum": 95317,
+    "questionText": " രാഷ്ട്രപതി നിവാസ് ? ",
+    "answerText": " സിംല  "
+  },
+  {
+    "questionNum": 95318,
+    "questionText": " ആദ്യത്തെ ആക്ടിങ് പ്രസിഡന്റ്? ",
+    "answerText": " വി.വി. ഗിരി  "
+  },
+  {
+    "questionNum": 95319,
+    "questionText": " Who can be regarded as the greatest of the Portuguese statesman who came to the East?",
+    "answerText": " Alfonso d’ Albuquerque"
+  },
+  {
+    "questionNum": 95320,
+    "questionText": " Who attacked Pantalayani Kollam in 1525?",
+    "answerText": " Kutti Ali"
+  },
+  {
+    "questionNum": 95321,
+    "questionText": " കേരള ടൂറിസത്തിന്റെ പരസ്യവാചകം? ",
+    "answerText": " ദൈവത്തിന്റെ സ്വന്തം നാട്  "
+  },
+  {
+    "questionNum": 95322,
+    "questionText": " കേരളത്തിലെ ടൂറിസം ഗ്രാമം? ",
+    "answerText": " കുമ്പളങ്ങി  "
+  },
+  {
+    "questionNum": 95323,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ വിവരസാങ്കേതിക വിദ്യാഭ്യാസ ജില്ല? ",
+    "answerText": " പാലക്കാട്  "
+  },
+  {
+    "questionNum": 95324,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ഡി.എൻ.എ ബാർകോഡിങ് സെന്റർ? ",
+    "answerText": " തിരുവനന്തപുരം  "
+  },
+  {
+    "questionNum": 95325,
+    "questionText": " കുമാരനാശാന്റെ സീതാകാവ്യം ഏത്? ",
+    "answerText": " ചിന്താവിഷ്ടയായ സീത  "
+  },
+  {
+    "questionNum": 95326,
+    "questionText": " കാക്കനാടന്റെ മാസ്റ്റർ പീസ് നോവൽ ഏത്? ",
+    "answerText": " ഉഷ്ണമേഖല  "
+  },
+  {
+    "questionNum": 95327,
+    "questionText": " മുകുന്ദനെ ശ്രദ്ധേയനാക്കിയ നോവൽ ഏത്? ",
+    "answerText": " മയ്യഴിപ്പുഴയുടെ തീരങ്ങളിൽ  "
+  },
+  {
+    "questionNum": 95328,
+    "questionText": " മലയാളത്തിലെ ആക്ഷേപഹാസ്യകവിതകളുടെ സ്വന്തക്കാരൻ ആര്? ",
+    "answerText": " ചെമ്മനം ചാക്കോ  "
+  },
+  {
+    "questionNum": 95329,
+    "questionText": " എം. മുകുന്ദന്റെ 'മയ്യഴിപ്പുഴയുടെ തീരങ്ങളിൽ' എന്ന നോവലിലെ മുഖ്യകഥാപാത്രങ്ങൾ ആര്? ",
+    "answerText": " ദാസനും ചന്ദ്രികയും  "
+  },
+  {
+    "questionNum": 95330,
+    "questionText": " പാറപ്പുറത്തിന്റെ ബോധധാരാനോവൽ ഏത്? ",
+    "answerText": " അരനാഴികനേരം  "
+  },
+  {
+    "questionNum": 95331,
+    "questionText": " കർണ്ണനെ കേന്ദ്രകഥാപാത്രമായി പി.കെ. ബാലകൃഷ്ണൻ എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " ഇനി ഞാൻ ഉറങ്ങട്ടെ  "
+  },
+  {
+    "questionNum": 95332,
+    "questionText": " ജെ. പാറുക്കുട്ടിയുടെ ആദ്യ നോവൽ ഏത്? ",
+    "answerText": " സ്ത്രീശക്തി  "
+  },
+  {
+    "questionNum": 95333,
+    "questionText": " അതിരാണിപ്പാടത്തിന്റെ കഥ പറയുന്ന പൊറ്റക്കാടിന്റെ നോവൽ ഏത്? ",
+    "answerText": " ഒരു ദേശത്തിന്റെ കഥ  "
+  },
+  {
+    "questionNum": 95334,
+    "questionText": " ഭീമനെ കേന്ദ്രകഥാപാത്രമാക്കി എം.ടി. എഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " രണ്ടാംമൂഴം  "
+  },
+  {
+    "questionNum": 95335,
+    "questionText": " മാപ്പിള ലഹള പശ്ചാത്തലമാക്കി എഴുതപ്പെട്ട 'വിലാപം' എന്ന നോവൽ എഴുതിയതാര്? ",
+    "answerText": " പി. വത്സല  "
+  },
+  {
+    "questionNum": 95336,
+    "questionText": " രാജലക്ഷ്മിയുടെ അപൂർണമായ നോവൽ? ",
+    "answerText": " ഉച്ചവെയിലും ഇളം വെയിലും  "
+  },
+  {
+    "questionNum": 95337,
+    "questionText": " 'രാമു'വിനെ കേന്ദ്രകഥാപാത്രമാക്കി മലയാറ്റൂരെഴുതിയ നോവൽ ഏത്? ",
+    "answerText": " വേരുകൾ  "
+  },
+  {
+    "questionNum": 95338,
+    "questionText": " കെ.എം. തരകന്റെ ബോധധാരാ നോവൽ ഏത്? ",
+    "answerText": " ഓർമ്മകളുടെ രാത്രി  "
+  },
+  {
+    "questionNum": 95339,
+    "questionText": " 'വിമല' കേന്ദ്ര കഥാപാത്രമാകുന്ന എം.ടി.യുടെ നോവൽ ഏത്? ",
+    "answerText": " മഞ്ഞ്  "
+  },
+  {
+    "questionNum": 95340,
+    "questionText": " മലയാളത്തിലെ ഏറ്റവും വലിയ നോവൽ ഏത്? ",
+    "answerText": " അവകാശികൾ  "
+  },
+  {
+    "questionNum": 95341,
+    "questionText": " മലയാളത്തിലെ പട്ടാളകഥാകാരൻ ആര്? ",
+    "answerText": " നന്ദനാർ  "
+  },
+  {
+    "questionNum": 95342,
+    "questionText": " മലയാളത്തിൽ പട്ടാള കഥാവിഭാഗത്തിലെ പ്രമാണികൻ ആര്? ",
+    "answerText": " കോവിലൻ  "
+  },
+  {
+    "questionNum": 95343,
+    "questionText": " ഏറ്റവും കൂടുതൽ വേദികളിൽ അവതരിപ്പിക്കപ്പെട്ട എൻ.എൻ. പിള്ളയുടെ നാടകം ഏത്? ",
+    "answerText": " കാപാലിക  "
+  },
+  {
+    "questionNum": 95344,
+    "questionText": " ആശുപത്രിയുടെ പശ്ചാത്തലത്തിൽ എഴുതപ്പെട്ട ആദ്യ മലയാള നോവൽ ഏത്? ",
+    "answerText": " ജി. വിവേകാനന്ദന്റെ വാർഡ് നമ്പർ - 7  "
+  },
+  {
+    "questionNum": 95345,
+    "questionText": " ഓഹരി വിപണിയെ അടിസ്ഥാനമാക്കി മലയാളത്തിൽ രചിക്കപ്പെട്ട പ്രഥമ നോവൽ? എഴുതിയതാര്? ",
+    "answerText": " ഓഹരി, കെ. എൻ. മോഹനവർമ്മ  "
+  },
+  {
+    "questionNum": 95346,
+    "questionText": " Which fort was called “like a pistol held at the Zamorin’s throat”?",
+    "answerText": " Chaliyam fort"
+  },
+  {
+    "questionNum": 95347,
+    "questionText": " നമ്പൂതിരി സമുദായത്തിലെ അനാചാരങ്ങളിലേക്ക് വിരൽചൂണ്ടുന്ന രജനീരംഗം എന്ന കഥ എഴുതിയതാര്? ",
+    "answerText": " വി.ടി.  "
+  },
+  {
+    "questionNum": 95348,
+    "questionText": " ഋതുക്കളുടെ കവി ആര് ? ",
+    "answerText": " ചെറുശേരി  "
+  },
+  {
+    "questionNum": 95349,
+    "questionText": " Who built a fortress (Marakkar Kotta) at Kottakkal (Putupattanam)?",
+    "answerText": " Kunjali III"
+  },
+  {
+    "questionNum": 95350,
+    "questionText": " Who assumed the titles “King of the Moors” and “Lord of the Indian Seas”?",
+    "answerText": " Kunjali IV"
+  },
+  {
+    "questionNum": 95351,
+    "questionText": " മലയാളത്തിലെ വിഷാദത്തിന്റെ കവയിത്രി ആര്? ",
+    "answerText": " സുഗതകുമാരി  "
+  },
+  {
+    "questionNum": 95352,
+    "questionText": " ആധുനികതയുടെ അവതാരകൻ എന്നറിയപ്പെടുന്ന കവി ആര്? ",
+    "answerText": " മാധവൻ അയ്യപ്പത്ത്  "
+  },
+  {
+    "questionNum": 95353,
+    "questionText": " Which was the Christian counterpart of the Hindu Kathakali?",
+    "answerText": " Chavittunatakam"
+  },
+  {
+    "questionNum": 95354,
+    "questionText": " Which year the diocese of Cochin was founded?",
+    "answerText": 1557
+  },
+  {
+    "questionNum": 95355,
+    "questionText": " 'ശബ്ദ സുന്ദരൻ' എന്നറിയപ്പെടുന്നത് ആരെയാണ്? ",
+    "answerText": " വള്ളത്തോൾ  "
+  },
+  {
+    "questionNum": 95356,
+    "questionText": " Which year the ‘Synod of Diamper’ (Udayamperur) convened?",
+    "answerText": " June 1599"
+  },
+  {
+    "questionNum": 95357,
+    "questionText": " Who presided over the Synod of Diamper (1599)?",
+    "answerText": " Alexis De Menezes (Archbishop of Goa)"
+  },
+  {
+    "questionNum": 95358,
+    "questionText": " സ്പർശിച്ചാസ്വദിക്കാവുന്ന കവിതകൾ ഏത് കവയത്രിയുടേതാണ്? ",
+    "answerText": " സുഗതകുമാരി  "
+  },
+  {
+    "questionNum": 95359,
+    "questionText": " മലയാളത്തിൽ മിസ്റ്റിക് കവി എന്നറിയപ്പെടുന്നത് ആരെ? ",
+    "answerText": " ജി. ശങ്കരക്കുറുപ്പ്  "
+  },
+  {
+    "questionNum": 95360,
+    "questionText": " Who wrote the famous ‘Narayaniyam’?",
+    "answerText": " Melpattur"
+  },
+  {
+    "questionNum": 95361,
+    "questionText": " Whose place in Malayalam literature is comparable to that of Surdas in Hindi?",
+    "answerText": " Puntanam"
+  },
+  {
+    "questionNum": 95362,
+    "questionText": " വേങ്ങയിൽ കുഞ്ഞിരാമൻ എഴുതിയ മലയാളത്തിലെ ആദ്യത്തെ ചെറുകഥ ഏത് ? ",
+    "answerText": " വാസനാവികൃതി  "
+  },
+  {
+    "questionNum": 95363,
+    "questionText": " നളിനി എന്ന ഖണ്ഡകാവ്യത്തിന് ആശാൻ കൊടുത്ത മറ്റൊരു പേര് എന്ത്? ",
+    "answerText": " ഒരു സ്നേഹം  "
+  },
+  {
+    "questionNum": 95364,
+    "questionText": " Vasco Da Gama died at fort Cochin in?",
+    "answerText": " December 24; 1524"
+  },
+  {
+    "questionNum": 95365,
+    "questionText": " 'ഗാനഗന്ധർവൻ' കവിതയിൽ പാലാ നാരായണൻ നായർ ആരെക്കുറിച്ചാണ് എഴുതിയിരിക്കുന്നത്? ",
+    "answerText": " ചങ്ങമ്പുഴയെ  "
+  },
+  {
+    "questionNum": 95366,
+    "questionText": " കുഞ്ചൻനമ്പ്യാരുടെ ആദ്യ തുള്ളൽക്കൃതി ഏത്? ",
+    "answerText": " കല്യാണസൗഗന്ധികം  "
+  },
+  {
+    "questionNum": 95367,
+    "questionText": " Who wrote ‘Gita Govinda’?",
+    "answerText": " Jayadeva"
+  },
+  {
+    "questionNum": 95368,
+    "questionText": " When did the Dutch East India Company formed?",
+    "answerText": 1592
+  },
+  {
+    "questionNum": 95369,
+    "questionText": " വിഷാദത്തിന്റെ കഥാകാരി എന്നറിയപ്പെടുന്നത് ആര്? ",
+    "answerText": " രാജലക്ഷ്മി  "
+  },
+  {
+    "questionNum": 95370,
+    "questionText": " ഏറ്റവും കൂടുതൽ തവണ മുഖ്യമന്ത്രിയായി തിരഞ്ഞെടുക്കപ്പെട്ടത്? ",
+    "answerText": " കെ. കരുണാകരൻ "
+  },
+  {
+    "questionNum": 95371,
+    "questionText": " തുടർച്ചയായി ഏറ്റവും കൂടുതൽ കാലം മുഖ്യമന്ത്രിയായിരുന്ന വ്യക്തി? ",
+    "answerText": " സി. അച്ചുതമേനോൻ  "
+  },
+  {
+    "questionNum": 95372,
+    "questionText": " ഏറ്റവും അധികകാലം മന്ത്രിയായിരുന്ന വ്യക്തി? ",
+    "answerText": " കെ. എം. മാണി  "
+  },
+  {
+    "questionNum": 95373,
+    "questionText": " ഏറ്റവും കുറച്ചുകാലം നിയമസഭാംഗമായിരുന്ന വ്യക്തി? ",
+    "answerText": " സി. ഹരിദാസ് (നിലമ്പൂർ)  "
+  },
+  {
+    "questionNum": 95374,
+    "questionText": " നിയമസഭയിൽ അംഗമാകുകയോ നിയമസഭയെഅഭിമുഖീകരിക്കുകയോ ചെയ്യാതെ മന്ത്രിയായ വ്യക്തി? ",
+    "answerText": " കെ. മുരളീധരൻ  "
+  },
+  {
+    "questionNum": 95375,
+    "questionText": " കേരളമുഖ്യമന്ത്രിയായ ഏറ്റവും പ്രായം കുറഞ്ഞ വ്യക്തി? ",
+    "answerText": " എ.കെ. ആന്റണി  "
+  },
+  {
+    "questionNum": 95376,
+    "questionText": " കേരള നിയമസഭയിൽഏറ്റവും കൂടുതൽ തവണ ബഡ്ജറ്റ് അവതരിപ്പിച്ചത്? ",
+    "answerText": " കെ. എം.മാണി  "
+  },
+  {
+    "questionNum": 95377,
+    "questionText": " ആദ്യമായി സഭയ്ക്കു പുറത്തുവച്ച്‌സത്യപ്രതിജ്ഞ ചെയ്ത വ്യക്തി? ",
+    "answerText": " മത്തായി ചാക്കോ  "
+  },
+  {
+    "questionNum": 95378,
+    "questionText": " ഏറ്റവും കൂടുതൽ കാലം സ്പീക്കറായിരുന്ന വ്യക്തി? ",
+    "answerText": " വക്കം പുരുഷോത്തമൻ  "
+  },
+  {
+    "questionNum": 95379,
+    "questionText": " സുകുമാരൻ എന്ന തൂലികാനാമത്തിൽഎഴുതിയിരുന്ന കേരള മുഖ്യമന്ത്രി? ",
+    "answerText": " ഇ.കെ. നായനാർ  "
+  },
+  {
+    "questionNum": 95380,
+    "questionText": " കോടതിവിധിയിലൂടെനിയമസഭാംഗമായ വ്യക്തി? ",
+    "answerText": " വി.ആർ.കൃഷ്ണയ്യർ  "
+  },
+  {
+    "questionNum": 95381,
+    "questionText": " ഏറ്റവും കൂടുതൽ തവണ പ്രതിപക്ഷ നേതാവായ വ്യക്തി? ",
+    "answerText": " ഇ.എം.എസ് നമ്പൂതിരിപ്പാട്  "
+  },
+  {
+    "questionNum": 95382,
+    "questionText": " In 1650 the Dutch Government build a warehouse in?",
+    "answerText": " Kayamkulam"
+  },
+  {
+    "questionNum": 95383,
+    "questionText": " ഏറ്റവും കൂടുതൽ കാലം ഉപമുഖ്യമന്ത്രിയായിരുന്നത്? ",
+    "answerText": " അവുക്കാദർകുട്ടി നഹ  "
+  },
+  {
+    "questionNum": 95384,
+    "questionText": " കേരള ഗവർണറായശേഷംരാഷ്ട്രപതിയായ വ്യക്തി? ",
+    "answerText": " വി.വി. ഗിരി  "
+  },
+  {
+    "questionNum": 95385,
+    "questionText": " 19ാം നൂറ്റാണ്ടിൽ ജനിച്ചഒരേയൊരു കേരള മുഖ്യമന്ത്രി? ",
+    "answerText": " പട്ടം താണുപിള്ള  "
+  },
+  {
+    "questionNum": 95386,
+    "questionText": " കമ്മ്യൂണിസ്റ്റുകാരനല്ലാത്ത ആദ്യത്തെ കേരള മുഖ്യമന്ത്രി? ",
+    "answerText": " പട്ടം താണുപിള്ള  "
+  },
+  {
+    "questionNum": 95387,
+    "questionText": " രാജ്യസഭ, ലോക്സഭ, കൊച്ചി നിയമസഭ, തിരു കൊച്ചിനിയമസഭ, കേരള നിയമസഭ എന്നീ അഞ്ച് സഭകളിൽ അംഗമായിട്ടുള്ള ഏക വ്യക്തി? ",
+    "answerText": " കെ. കരുണാകരൻ  "
+  },
+  {
+    "questionNum": 95388,
+    "questionText": " ഏറ്റവും കൂടുതൽ അവിശ്വാസപ്രമേയങ്ങളെ നേരിട്ട മുഖ്യമന്ത്രി? ",
+    "answerText": " കെ. കരുണാകരൻ  "
+  },
+  {
+    "questionNum": 95389,
+    "questionText": " The treaty which granted the exclusive monopoly of pepper trade to the Dutch?",
+    "answerText": " Treaty of Travancore"
+  },
+  {
+    "questionNum": 95390,
+    "questionText": " കേരള സംസ്ഥാനത്ത്മന്ത്രിപദം വഹിച്ച ആദ്യ ദമ്പതിമാർ? ",
+    "answerText": " ടി.വി. തോമസും കെ. ആർ. ഗൗരിഅമ്മയും  "
+  },
+  {
+    "questionNum": 95391,
+    "questionText": " കേരളത്തിൽലോക്സഭയിലേക്ക് ആദ്യമായി ഉപതിരഞ്ഞെടുപ്പ് നടന്നത്? ",
+    "answerText": " മുകുന്ദപുരം  "
+  },
+  {
+    "questionNum": 95392,
+    "questionText": " രാജ്യസഭാംഗമായി നാമനിർദ്ദേശം ചെയ്യപ്പെട്ട മലയാളിയായ കാർട്ടൂണിസ്റ്റ് ? ",
+    "answerText": " അബു എബ്രഹാം  "
+  },
+  {
+    "questionNum": 95393,
+    "questionText": " കേരള മുഖ്യമന്ത്രിപദം വഹിച്ചശേഷം (മറ്റൊരു സംസ്ഥാനത്ത്) ഗവർണറായ വ്യക്തി? ",
+    "answerText": " പട്ടം താണുപിള്ള  "
+  },
+  {
+    "questionNum": 95394,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വനിതാജനപ്രതിനിധിഎന്ന പദവിക്ക് അർഹ? ",
+    "answerText": " മേരി പുന്നൻ ലൂക്കോസ്  "
+  },
+  {
+    "questionNum": 95395,
+    "questionText": " രാജ്യസഭാംഗമായ ആദ്യമലയാളി വനിത? ",
+    "answerText": " ഭാരതി ഉദയഭാനു  "
+  },
+  {
+    "questionNum": 95396,
+    "questionText": " ഗവർണർ പദത്തിലെത്തിയ (മറ്റൊരു സംസ്ഥാനത്ത്)ആദ്യ മലയാളി വനിത? ",
+    "answerText": " റിട്ട. ജസ്റ്റിസ് ഫാത്തിമാബീവി  "
+  },
+  {
+    "questionNum": 95397,
+    "questionText": " ഏറ്റവും കൂടുതൽ അവിശ്വാസപ്രമേയങ്ങൾ അവതരിപ്പിക്കപ്പെട്ട നിയമസഭ? ",
+    "answerText": " രണ്ടാം നിയമസഭ (1960 64)  "
+  },
+  {
+    "questionNum": 95398,
+    "questionText": " കേരള നിയമസഭയിൽ ഏറ്റവും കൂടുതൽകാലയളവിൽ അംഗമായിരുന്ന ആംഗ്‌ളോ ഇന്ത്യൻ പ്രതിനിധി? ",
+    "answerText": " സ്റ്റീഫൻ പാദുവ  "
+  },
+  {
+    "questionNum": 95399,
+    "questionText": " നിയമസഭാപ്രസംഗത്തിനിടെഅന്തരിച്ചത്? ",
+    "answerText": " കെ.ടി. ജോർജ്  "
+  },
+  {
+    "questionNum": 95400,
+    "questionText": " The Dutch forces sieged the Mattanchery Palace under the leadership of?",
+    "answerText": " Van Goens"
+  },
+  {
+    "questionNum": 95401,
+    "questionText": " കൂറുമാറ്റനിരോധന നിയമപ്രകാരം അയോഗ്യനാക്കപ്പെട്ട ആദ്യ നിയമസഭാംഗം? ",
+    "answerText": " ആർ. ബാലകൃഷ്ണപിള്ള  "
+  },
+  {
+    "questionNum": 95402,
+    "questionText": " When did the Dutch establish a factory at Masulipatanam?",
+    "answerText": 1605
+  },
+  {
+    "questionNum": 95403,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി ഇലക്ട്രോണിക് വോട്ടിംഗ് യന്ത്രം ഉപയോഗിച്ച് തിരഞ്ഞെടുപ്പ് നടന്നത്? ",
+    "answerText": " വടക്കൻ പറവൂർ  "
+  },
+  {
+    "questionNum": 95404,
+    "questionText": " തപാൽ സ്റ്റാമ്പിൽപ്രത്യക്ഷപ്പെട്ട ആദ്യ കേരള മുഖ്യമന്ത്രി? ",
+    "answerText": " ഇ.എം.എസ്  "
+  },
+  {
+    "questionNum": 95405,
+    "questionText": " രാജ്ഭവനു പുറത്തുവച്ച്അധികാരമേറ്റ ആദ്യ മുഖ്യമന്ത്രി? ",
+    "answerText": " വി. എസ്. അച്യുതാനന്ദൻ  "
+  },
+  {
+    "questionNum": 95406,
+    "questionText": " സുരേന്ദ്രൻ, എസ്. പരമേശ്വരൻ, കെ. കെ. വാസുദേവൻ, പി.എസ്. ചെറിയാൻ എന്നീ തൂലികാ നാമത്തിൽ എഴുതിയിരുന്ന കേരള മുഖ്യമന്ത്രി? ",
+    "answerText": " ഇ.എം.എസ്  "
+  },
+  {
+    "questionNum": 95407,
+    "questionText": " ഏത് കേരള മുഖ്യമന്ത്രിയാണ് എം. മുകുന്ദന്റെ 'കേശവന്റെ വിലാപങ്ങൾ' എന്ന നോവലിൽ കഥാപാത്രമാകുന്നത്? ",
+    "answerText": " ഇ. എം.എസ്  "
+  },
+  {
+    "questionNum": 95408,
+    "questionText": " കേരളത്തിലെഏറ്റവും നീളം കൂടിയ കടൽത്തീരം? ",
+    "answerText": " മുഴുപ്പിലങ്ങാട് ബീച്ച്  "
+  },
+  {
+    "questionNum": 95409,
+    "questionText": " വെനീസ്ഒഫ് ദി ഈസ്റ്റ് എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ആലപ്പുഴ  "
+  },
+  {
+    "questionNum": 95410,
+    "questionText": " വടക്കൻ കേരളത്തിലെ പ്രസിദ്ധമായഒരു കലാരൂപം? ",
+    "answerText": " തെയ്യം  "
+  },
+  {
+    "questionNum": 95411,
+    "questionText": " കേരളത്തിലെ സ്റ്റോക്ക്എക്‌സ്ചേഞ്ച് എവിടെ സ്ഥിതിചെയ്യുന്നു? ",
+    "answerText": " കൊച്ചി  "
+  },
+  {
+    "questionNum": 95412,
+    "questionText": " Who defeated the Dutch in the famous battle of Colachel?",
+    "answerText": " Marthanda Varma"
+  },
+  {
+    "questionNum": 95413,
+    "questionText": " Which treaty marked the complete humiliation of the Dutch and their eclipse as a political power in Kerala?",
+    "answerText": " Treaty of Mavelikara"
+  },
+  {
+    "questionNum": 95414,
+    "questionText": " ക്ഷേത്രപ്രവേശനവിളംബരം നടന്ന വർഷം? ",
+    "answerText": 1936
+  },
+  {
+    "questionNum": 95415,
+    "questionText": " ഭൂമിയിൽ രേഖപ്പെടുത്തിയിരിക്കുന്ന ഏറ്റവും താഴ്ന്ന ഊഴ്‌മാവ്? ",
+    "answerText": " 89.2 ഡിഗ്രി C  "
+  },
+  {
+    "questionNum": 95416,
+    "questionText": " പ്രഷർകുക്കറിൽ ജലം തിളയ്ക്കാനാവശ്യമായ ഊഷ്‌മാവ്? ",
+    "answerText": " 120 ഡിഗ്രി C  "
+  },
+  {
+    "questionNum": 95417,
+    "questionText": " സൂര്യന്റെ ഉപരിതലത്തിന്റെ ഊഷ്‌മാവ്? ",
+    "answerText": " 5500 ഡിഗ്രി C  "
+  },
+  {
+    "questionNum": 95418,
+    "questionText": " ഉയർന്ന താപനില അളക്കാൻ ഉപയോഗിക്കുന്നത്? ",
+    "answerText": " പൈറോമീറ്റർ  "
+  },
+  {
+    "questionNum": 95419,
+    "questionText": " ഐസ് ഉരുകുന്നത്? ",
+    "answerText": " 0 ഡിഗ്രി C  "
+  },
+  {
+    "questionNum": 95420,
+    "questionText": " പരീക്ഷണശാലകളിൽ ജൈവസാമ്പിളും മൃതശരീരവും മറ്റും സൂക്ഷിക്കാനുപയോഗിക്കുന്നത്? ",
+    "answerText": " ഫോർമാൽ ഡിഹൈഡ്  "
+  },
+  {
+    "questionNum": 95421,
+    "questionText": " ഫോട്ടോഗ്രാഫിയിൽ വ്യാപകമായി ഉപയോഗിക്കുന്ന ഹൈപ്പോയുടെ രാസനാമം? ",
+    "answerText": " സോഡിയം തയോസൾഫേറ്റ്  "
+  },
+  {
+    "questionNum": 95422,
+    "questionText": " ഗ്രിഡ് രോഗം എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " എയ്ഡ്സ്  "
+  },
+  {
+    "questionNum": 95423,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി എയ്‌ഡ്സ് റിപ്പോർട്ട് ചെയ്തത്? ",
+    "answerText": " ചെന്നൈ  "
+  },
+  {
+    "questionNum": 95424,
+    "questionText": " കേരളത്തിൽ ആദ്യമായി എയ്‌ഡ്സ് റിപ്പോർട്ട് ചെയ്തത്? ",
+    "answerText": " പത്തനംതിട്ട  "
+  },
+  {
+    "questionNum": 95425,
+    "questionText": " ലോക എയ്‌ഡ്സ് ദിനം? ",
+    "answerText": " ഡിസംബർ 1  "
+  },
+  {
+    "questionNum": 95426,
+    "questionText": " എയ്ഡ്സ് ബാധിതരോടുള്ള ഐക്യദാർഢ്യത്തിന്റെ ഭാഗമായി ഉപയോഗിക്കുന്നത്? ",
+    "answerText": " ചുവപ്പ് റിബൺ  "
+  },
+  {
+    "questionNum": 95427,
+    "questionText": " ലോകത്തിൽ ഏറ്റവും കൂടുതൽ എയിഡ്സ് ബാധിതരുള്ളത്? ",
+    "answerText": " സബ് സഹാറൻ  "
+  },
+  {
+    "questionNum": 95428,
+    "questionText": " ജീവമണ്ഡലത്തിന്റെ പാചകപ്പുര? ",
+    "answerText": " ഇലകൾ  "
+  },
+  {
+    "questionNum": 95429,
+    "questionText": " Who took Chinsura from the Dutch in 1759?",
+    "answerText": " Robert Clive"
+  },
+  {
+    "questionNum": 95430,
+    "questionText": " പ്രകാശ സംശ്ളേഷ സമയത്ത് സ്വീകരിക്കുന്ന വാതകം? ",
+    "answerText": " കാർബൺ ഡൈ ഓക്സൈഡ്  "
+  },
+  {
+    "questionNum": 95431,
+    "questionText": " പ്രകാശ സംശ്ളേഷണ സമയത്ത് ലഭിക്കുന്ന ഉത്‌പന്നം? ",
+    "answerText": " അന്നജം  "
+  },
+  {
+    "questionNum": 95432,
+    "questionText": " പ്രകാശ സംശ്ളേഷണ സമയത്ത് ഓസോൺ പുറന്തള്ളുന്ന സസ്യം? ",
+    "answerText": " തുളസി  "
+  },
+  {
+    "questionNum": 95433,
+    "questionText": " ഇലകൾക്ക് മഞ്ഞനിറം നൽകുന്നത്? ",
+    "answerText": " സാന്തോഫിൽ  "
+  },
+  {
+    "questionNum": 95434,
+    "questionText": " പുഷ്പങ്ങൾക്ക് നിറം നൽകുന്നത്? ",
+    "answerText": " ആന്തോസയനിൻ  "
+  },
+  {
+    "questionNum": 95435,
+    "questionText": " സസ്യങ്ങളുടെ വളർച്ച രേഖപ്പെടുത്താനുള്ള ഉപകരണം? ",
+    "answerText": " ക്രെസ്കോഗ്രാഫ്  "
+  },
+  {
+    "questionNum": 95436,
+    "questionText": " ഹരിതഗ്രഹപ്രഭാവം കണ്ടുപിടിച്ച ശാസ്ത്രജ്ഞൻ? ",
+    "answerText": " ജോസഫ് ഫോറിയർ  "
+  },
+  {
+    "questionNum": 95437,
+    "questionText": " ക്യോട്ടോ ഉടമ്പടി പ്രാബല്യത്തിൽ വന്നത്? ",
+    "answerText": " 2005 ഫെബ്രുവരി 16  "
+  },
+  {
+    "questionNum": 95438,
+    "questionText": " ക്യോട്ടോ പ്രോട്ടോകോൾ അംഗീകരിക്കാത്ത രാജ്യം? ",
+    "answerText": " അമേരിക്ക  "
+  },
+  {
+    "questionNum": 95439,
+    "questionText": " ലബോറട്ടറികളിൽ ഇൻഫ്രാറെഡ് സ്പെട്രോസ്കോപിയിലൂടെ തിരിച്ചറിയുന്നത്? ",
+    "answerText": " CO2ന്റെ സാന്നിദ്ധ്യം  "
+  },
+  {
+    "questionNum": 95440,
+    "questionText": " സസ്യങ്ങൾ രാത്രികാലത്ത് പുറത്തുവിടുന്ന വാതകം? ",
+    "answerText": " CO2"
+  },
+  {
+    "questionNum": 95441,
+    "questionText": " സ്ഥാനം കൊണ്ടോ സ്ട്രെയിൻ കൊണ്ടോ ഒരു വസ്തുവിന് ലഭിക്കുന്ന ഊർജം? ",
+    "answerText": " സ്ഥിതികോർജം  "
+  },
+  {
+    "questionNum": 95442,
+    "questionText": " ഭൂമിയിൽ എല്ലാ ഊർജത്തിന്റെയും ഉറവിടം? ",
+    "answerText": " സൂര്യൻ  "
+  },
+  {
+    "questionNum": 95443,
+    "questionText": " എനർജി കൺസർവേഷൻ ആക്ട് നിലവിൽ വന്നത്? ",
+    "answerText": " 2002 മാർച്ച്  "
+  },
+  {
+    "questionNum": 95444,
+    "questionText": " നമ്മുടെ ശരീരത്തിൽ സ്ഥിതികോർജം ഏറ്റവും കുറഞ്ഞിരിക്കുന്നത്? ",
+    "answerText": " തറയിൽ കിടക്കുമ്പോൾ  "
+  },
+  {
+    "questionNum": 95445,
+    "questionText": " ഉറുമ്പുകൾ നിരനിരയായി പോകുന്നതിന് കാരണം? ",
+    "answerText": " ഫിറമോൺ  "
+  },
+  {
+    "questionNum": 95446,
+    "questionText": " ആശയവിനിമയത്തിനായി നൃത്തം ചെയ്യുന്ന ജീവി? ",
+    "answerText": " തേനീച്ച  "
+  },
+  {
+    "questionNum": 95447,
+    "questionText": " ഏറ്റവും പ്രക്ഷുബ്ദ്ധമായ അന്തരീക്ഷത്തിലെ പ്രതിഭാസം? ",
+    "answerText": " ടൊർണാഡോ കൊടുങ്കാറ്റ്  "
+  },
+  {
+    "questionNum": 95448,
+    "questionText": " ബംഗാൾ ഉൾക്കടലിൽ രൂപംകൊള്ളുന്ന അതിശക്തമായ ചുഴലിക്കാറ്റാണ്? ",
+    "answerText": " ചക്രവാതം അഥവാ സൈക്ളോൺ  "
+  },
+  {
+    "questionNum": 95449,
+    "questionText": " 2008ൽ ബംഗാൾ ഉൾക്കടലിൽ രൂപംകൊണ്ട ചുഴലിക്കൊടുങ്കാറ്റ്? ",
+    "answerText": " നർഗീസ്  "
+  },
+  {
+    "questionNum": 95450,
+    "questionText": " സതേൺ റെയിൽവേ സോൺ സ്ഥാപിതമായത്? ",
+    "answerText": " 1951 ഏപ്രിൽ 16  "
+  },
+  {
+    "questionNum": 95451,
+    "questionText": " കൊങ്കൺ റെയിൽവേയുടെ നീളം? ",
+    "answerText": " 760 കി.മീ.  "
+  },
+  {
+    "questionNum": 95452,
+    "questionText": " യാത്രാ ട്രെയിൻ ആദ്യമായി കൊങ്കൺ റെയിൽവേയിലൂടെ ഓടിയത്? ",
+    "answerText": " 1998ജനുവരി 26  "
+  },
+  {
+    "questionNum": 95453,
+    "questionText": " ആദ്യ മലയാളിയായ റെയിൽവേ മന്ത്രി? ",
+    "answerText": " ജോൺ മത്തായി  "
+  },
+  {
+    "questionNum": 95454,
+    "questionText": " ഏറ്റവും വേഗത കുറഞ്ഞ ട്രെയിൻ? ",
+    "answerText": " നീലഗിരി മൗണ്ട് റെയിൽ  "
+  },
+  {
+    "questionNum": 95455,
+    "questionText": " ഏറ്റവും വലിയ വൻകര? ",
+    "answerText": " ഏഷ്യ  "
+  },
+  {
+    "questionNum": 95456,
+    "questionText": " Under whose personal supervision was ‘Hortus Malabaricus’ compiled?",
+    "answerText": " Van Rheede"
+  },
+  {
+    "questionNum": 95457,
+    "questionText": " Who trained Marthanda Varma’s army?",
+    "answerText": " Admiral D’ Lannoy"
+  },
+  {
+    "questionNum": 95458,
+    "questionText": " Where did the Dutch open a hospital for leprosy patients?",
+    "answerText": " Pallipuram"
+  },
+  {
+    "questionNum": 95459,
+    "questionText": " കരയിലെ ഏറ്റവും താഴ്ന്ന ഭാഗം? ",
+    "answerText": " ചാവു കടൽ  "
+  },
+  {
+    "questionNum": 95460,
+    "questionText": " നീളം കൂടിയ നദി? ",
+    "answerText": " നൈൽ  "
+  },
+  {
+    "questionNum": 95461,
+    "questionText": " ‘Hortus Malabaricus’ was an ancient plant encyclopedia written by?",
+    "answerText": " the Dutch"
+  },
+  {
+    "questionNum": 95462,
+    "questionText": " The first Dutch Admiral to reach Kerala?",
+    "answerText": " Admiral Steven Van Der Hagen"
+  },
+  {
+    "questionNum": 95463,
+    "questionText": " ഭൂമിയുടെ പിണ്ഡത്തിൽ ഏറ്റവും കൂടുതൽ സംഭാവന ചെയ്യുന്ന ലോഹം? ",
+    "answerText": " ഇരുമ്പ്  "
+  },
+  {
+    "questionNum": 95464,
+    "questionText": " ആന്ധ്രാകേസരി എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ടി. പ്രകാശം  "
+  },
+  {
+    "questionNum": 95465,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ശില്പ നഗരം? ",
+    "answerText": " കോഴിക്കോട്  "
+  },
+  {
+    "questionNum": 95466,
+    "questionText": " രണ്ടാം ബർദ്ദോളി എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " പയ്യന്നൂർ  "
+  },
+  {
+    "questionNum": 95467,
+    "questionText": " സ്വദേശാഭിമാനി രാമകൃഷ്ണപിള്ള, എ.കെ.ജി, നായനാർ എന്നിവരുടെ അന്ത്യവിശ്രമസ്ഥലം? ",
+    "answerText": " പയ്യാമ്പലം ബീച്ച്  "
+  },
+  {
+    "questionNum": 95468,
+    "questionText": " സംഘകാലത്ത് പുറൈനാട് എന്നറിയപ്പെട്ട പ്രദേശം? ",
+    "answerText": " പാലക്കാട്  "
+  },
+  {
+    "questionNum": 95469,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും കൂടുതൽ കർഷക തൊഴിലാളികൾ ഉള്ള ജില്ല? ",
+    "answerText": " പാലക്കാട്  "
+  },
+  {
+    "questionNum": 95470,
+    "questionText": " പട്ടികവർഗക്കാർ കൂടുതൽ ഉള്ള ജില്ല? ",
+    "answerText": " വയനാട്  "
+  },
+  {
+    "questionNum": 95471,
+    "questionText": " ഒന്നാം പഞ്ചവത്സര പദ്ധതിയുടെ നടത്തിപ്പിൽ മുഖ്യപങ്ക് വഹിച്ച മലയാളി? ",
+    "answerText": " കെ.എൻ. രാജ്  "
+  },
+  {
+    "questionNum": 95472,
+    "questionText": " ആർ.ബി.ഐ രൂപം കൊണ്ടത്? ",
+    "answerText": " 1935 ഏപ്രിൽ 1  "
+  },
+  {
+    "questionNum": 95473,
+    "questionText": " ഇന്ത്യയിൽ ദേശസാത്കരിക്കപ്പെട്ട ആദ്യ ബാങ്കാണ്? ",
+    "answerText": " ആർ.ബി.ഐ  "
+  },
+  {
+    "questionNum": 95474,
+    "questionText": " ആർ.ബി.ഐ നോട്ട് നിർമ്മാണം ആരംഭിച്ച വർഷം?‌ ",
+    "answerText": 1938
+  },
+  {
+    "questionNum": 95475,
+    "questionText": " The Dutch captured the Portuguese fortress of Quilon on?",
+    "answerText": " December 29; 1658 (2nd time - 1661)"
+  },
+  {
+    "questionNum": 95476,
+    "questionText": " ഐ.എം.എഫിൽ ഇന്ത്യയെ പ്രതിനിധീകരിക്കുന്നത്? ",
+    "answerText": " ആർ.ബി.ഐ  "
+  },
+  {
+    "questionNum": 95477,
+    "questionText": " ദേശസാത്കരിക്കപ്പെട്ട ആദ്യ ബാങ്ക്? ",
+    "answerText": " ആർ.ബി.ഐ  "
+  },
+  {
+    "questionNum": 95478,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ വാണിജ്യബാങ്കായ എസ്.ബി.ഐ ദേശസാത്‌കരിച്ചത്? ",
+    "answerText": " 1955 ജൂലായ് 1  "
+  },
+  {
+    "questionNum": 95479,
+    "questionText": " കേരള ഗ്രാമീണ ബാങ്കിന്റെ ആസ്ഥാനം? ",
+    "answerText": " മലപ്പുറം  "
+  },
+  {
+    "questionNum": 95480,
+    "questionText": " ഇൽത്തുമിഷ് ആവിഷ്കരിച്ച ഭൂനികുതി സമ്പ്രദായം? ",
+    "answerText": " ഇഖ്ത  "
+  },
+  {
+    "questionNum": 95481,
+    "questionText": " ജസിയ എന്ന മതനികുതി ആദ്യമായി ഏർപ്പെടുത്തിയത്? ",
+    "answerText": " ഫിറോസ്ഷാ തുഗ്ലക്ക്  "
+  },
+  {
+    "questionNum": 95482,
+    "questionText": " ജസിയ നിറുത്തലാക്കിയത്? ",
+    "answerText": " ഔറംഗസേബ്  "
+  },
+  {
+    "questionNum": 95483,
+    "questionText": " 1542ൽ രൂപ എന്ന നാണയസമ്പ്രദായത്തിന് തുടക്കം കുറിച്ചത്? ",
+    "answerText": " ഷേർഷ  "
+  },
+  {
+    "questionNum": 95484,
+    "questionText": " അക്‌ബർ ചക്രവർത്തി നടപ്പിലാക്കിയ സൈനിക വ്യവസ്ഥ? ",
+    "answerText": " മാൻ സബ്ദാരി  "
+  },
+  {
+    "questionNum": 95485,
+    "questionText": " നികുതിയെപ്പറ്റി പരാമർശിക്കുന്ന പ്രാചീന ഇന്ത്യൻ കൃതികൾ? ",
+    "answerText": " അർത്ഥശാസ്ത്രം, മനുസ്മൃതി  "
+  },
+  {
+    "questionNum": 95486,
+    "questionText": " മൂല്യവർദ്ധിത നികുതി ആദ്യമായി നടപ്പിലാക്കിയത്? ",
+    "answerText": " ഫ്രാൻസ്  "
+  },
+  {
+    "questionNum": 95487,
+    "questionText": " The Dutch captured Cochin in?",
+    "answerText": 1663
+  },
+  {
+    "questionNum": 95488,
+    "questionText": " ഗ്രാമത്തലവന് നികുതിപ്പിരിവിന്റെ ചുമതല നൽകിയ നികുതി സമ്പ്രദായം? ",
+    "answerText": " മഹൽവാരി  "
+  },
+  {
+    "questionNum": 95489,
+    "questionText": " അറ്റോമിക് എനർജി കമ്മിഷൻ സ്ഥാപിതമായത്? ",
+    "answerText": 1948
+  },
+  {
+    "questionNum": 95490,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ ആണവ പരീക്ഷണം നടന്നത്? ",
+    "answerText": " രാജസ്ഥാനിലെ പൊഖ്റാനിൽ  "
+  },
+  {
+    "questionNum": 95491,
+    "questionText": " ഇന്ത്യൻ ആണവ പദ്ധതികളുടെ പിതാവ്? ",
+    "answerText": " ഡോ.എച്ച്.ജെ.ഭാഭ  "
+  },
+  {
+    "questionNum": 95492,
+    "questionText": " Early names of Travancore?",
+    "answerText": " Trippapur Swaroopam or Thrivitamcode"
+  },
+  {
+    "questionNum": 95493,
+    "questionText": " രണ്ടാം പഴശി കലാപം? ",
+    "answerText": " 1800 - 1805"
+  },
+  {
+    "questionNum": 95494,
+    "questionText": " പഴശ്ശി ഡാം ? ",
+    "answerText": " കണ്ണൂർ  "
+  },
+  {
+    "questionNum": 95495,
+    "questionText": " The policy followed by Marthanda Varma?",
+    "answerText": " “blood and Iron”"
+  },
+  {
+    "questionNum": 95496,
+    "questionText": " Who was the Diwan of Marthanda Varma?",
+    "answerText": " Ramayyan Dalawa"
+  },
+  {
+    "questionNum": 95497,
+    "questionText": " പ്രഥമ സംസ്ഥാന മുഖ്യ വിവരാവകാശ കമ്മിഷണർ? ",
+    "answerText": " പാലാട്ട് മോഹൻദാസ്  "
+  },
+  {
+    "questionNum": 95498,
+    "questionText": " Marthanda Varma ascended the throne in?",
+    "answerText": 1729
+  },
+  {
+    "questionNum": 95499,
+    "questionText": " He had “a heart to resolve, a head to contrive and a hand to execute”. These words were about?",
+    "answerText": " Ramayyan Dalawa"
+  },
+  {
+    "questionNum": 95500,
+    "questionText": " The battle of Kulachel was between?",
+    "answerText": " The Dutch and Marthanda Varma"
+  },
+  {
+    "questionNum": 95501,
+    "questionText": " സരോജിനി നായിഡുവിന്റെ വീട്ടുപേര്? ",
+    "answerText": " The Golden Threshold"
+  },
+  {
+    "questionNum": 95502,
+    "questionText": " The battle of Kulachal was in the year?",
+    "answerText": " 10th August 1741"
+  },
+  {
+    "questionNum": 95503,
+    "questionText": " Tripatidanam is?",
+    "answerText": " dedicating the expanded state of Travancore to Sri Padmanabha"
+  },
+  {
+    "questionNum": 95504,
+    "questionText": " Tripatidanam took place on?",
+    "answerText": " January 3; 1750"
+  },
+  {
+    "questionNum": 95505,
+    "questionText": " Successor of Marthanda Varma?",
+    "answerText": " Karthika Tirunal Rama Varma also known as Dharmaraja"
+  },
+  {
+    "questionNum": 95506,
+    "questionText": " Who were the Chief Minsters of Dharmaraja?",
+    "answerText": " Ayyappan Marthanda Pillai and Rajakesava Das"
+  },
+  {
+    "questionNum": 95507,
+    "questionText": " ഭയത്തിന്റെയും വെറുപ്പിന്റെയും മേൽ വിജയം നേടിയ മനുഷ്യൻ എന്ന് നെഹ്‌റുവിനെ വിശേഷിപ്പിച്ചത്? ",
+    "answerText": " വിൻസ്റ്റൺ ചർച്ചിൽ  "
+  },
+  {
+    "questionNum": 95508,
+    "questionText": " Travancore came to be known as Dharmarajyam during the reign of?",
+    "answerText": " Dharma raja"
+  },
+  {
+    "questionNum": 95509,
+    "questionText": " Who developed Varkala as the nucleus of flourishing town?",
+    "answerText": " Ayyappan Marthanda Pillai"
+  },
+  {
+    "questionNum": 95510,
+    "questionText": " റഷ്യൻ പ്രസിഡന്റായ കൊസിഗിന്റെ സാന്നിദ്ധ്യത്തിൽ ഒപ്പുവച്ച കരാർ? ",
+    "answerText": " താഷ്കന്റ് കരാർ  "
+  },
+  {
+    "questionNum": 95511,
+    "questionText": " 'ഒരു കൊച്ചു കുരുവിയുടെ അവസാന വിജയം' എന്നറിയപ്പെട്ട കരാർ? ",
+    "answerText": " താഷ്കന്റ് കരാർ  "
+  },
+  {
+    "questionNum": 95512,
+    "questionText": " The first Chief Minister of Travancore who assumed the title Diwan?",
+    "answerText": " Raja Kesava Das"
+  },
+  {
+    "questionNum": 95513,
+    "questionText": " സാർക്ക് എന്ന ആശയം ആദ്യമായി കൊണ്ടുവന്നത്? ",
+    "answerText": " ബംഗ്ളാദേശ് പ്രസിഡന്റായിരുന്ന സിയ - വുൾ - റഹ്മാൻ  "
+  },
+  {
+    "questionNum": 95514,
+    "questionText": " 2014ൽ സാർക്ക് സമ്മേളനം? ",
+    "answerText": " കാഠ്മണ്ഡു  "
+  },
+  {
+    "questionNum": 95515,
+    "questionText": " The name ‘Raja Kesava Das’ was given to him by?",
+    "answerText": " Governor General Lord Mornington"
+  },
+  {
+    "questionNum": 95516,
+    "questionText": " ഹോംറൂൾ പ്രസ്ഥാനത്തിന് തുടക്കം കുറിച്ചത്? ",
+    "answerText": " 1916 ഏപ്രിലിൽ ബാലഗംഗാധര തിലകൻ  "
+  },
+  {
+    "questionNum": 95517,
+    "questionText": " തിലകന്റെ പ്രവർത്തനകേന്ദ്രങ്ങൾ? ",
+    "answerText": " ബോംബെ പ്രസിഡൻസിയും മദ്ധ്യേന്ത്യയും  "
+  },
+  {
+    "questionNum": 95518,
+    "questionText": " ''സ്വരാജ്യം എന്റെ ജന്മാവകാശമാണ് ഞാനത് നേടുകതന്നെ ചെയ്യും'' എന്ന മുദ്രാവാക്യം മുഴക്കിയത്? ",
+    "answerText": " ബാലഗംഗാധര തിലകൻ  "
+  },
+  {
+    "questionNum": 95519,
+    "questionText": " സൈമൺ കമ്മിഷനെതിരെ നടന്ന ലാത്തിച്ചാർജിൽ കൊല്ലപ്പെട്ടത്? ",
+    "answerText": " ലാലാ ലജ്പതറായി  "
+  },
+  {
+    "questionNum": 95520,
+    "questionText": " ഭൂദാന പ്രസ്ഥാനത്തിനുവേണ്ടി ഭൂമി വിട്ടുകൊടുത്ത ജന്മി? ",
+    "answerText": " രാംചന്ദ്ര റെഡ്ഡി  "
+  },
+  {
+    "questionNum": 95521,
+    "questionText": " 1924ൽ വൈക്കം സത്യാഗ്രഹത്തിന്റെ നിരീക്ഷകനായി കേരളത്തിൽ വന്നത്? ",
+    "answerText": " വിനോബ ഭാവെ  "
+  },
+  {
+    "questionNum": 95522,
+    "questionText": " മാഗ്സസെ പുരസ്കാരം ലഭിച്ച ആദ്യ ഇന്ത്യക്കാരൻ? ",
+    "answerText": " വിനോബഭാവെ  "
+  },
+  {
+    "questionNum": 95523,
+    "questionText": " Original name of Raja Kesava Das?",
+    "answerText": " Kesava Pillai"
+  },
+  {
+    "questionNum": 95524,
+    "questionText": " Alleppey was developed into a town and port by?",
+    "answerText": " Raja Kesava Das"
+  },
+  {
+    "questionNum": 95525,
+    "questionText": " Raja Kesava Das was respectfully referred to as?",
+    "answerText": " Valia Diwanji"
+  },
+  {
+    "questionNum": 95526,
+    "questionText": " യൂക്കാലിപ്റ്റസിന്റെ ശാസ്ത്രീയ നാമം? ",
+    "answerText": " യൂക്കലിപ്റ്റസ് ഗ്ളോബുലസ്  "
+  },
+  {
+    "questionNum": 95527,
+    "questionText": " The modern Chalai bazaar of Trivandrum city was constructed by?",
+    "answerText": " Raja Kesava Das"
+  },
+  {
+    "questionNum": 95528,
+    "questionText": " Who shifted the capital of Tranvancore from Padmanabhapuram to Trivandrum?",
+    "answerText": " Dharma Raja"
+  },
+  {
+    "questionNum": 95529,
+    "questionText": " Dharma Raja was respectfully called?",
+    "answerText": " Kizhavan Raja"
+  },
+  {
+    "questionNum": 95530,
+    "questionText": " Who was the first Englishman who came to Kerala?",
+    "answerText": " Ralph Fitch"
+  },
+  {
+    "questionNum": 95531,
+    "questionText": " ട്രാൻസ്‌ഫോർമറിന്റെ പ്രവർത്തന തത്വം? ",
+    "answerText": " മ്യൂച്ചൽ ഇൻഡക്ഷൻ  "
+  },
+  {
+    "questionNum": 95532,
+    "questionText": " ഇ.എം.എഫ്. അളക്കാനുള്ള ഉപകരണം? ",
+    "answerText": " വോൾട്ട് മീറ്റർ  "
+  },
+  {
+    "questionNum": 95533,
+    "questionText": " മോഡേൺ ബയോഫാമിങ്ങിന്റെ പിതാവ്? ",
+    "answerText": " സർ ആൽബർട്ട് ഹൊവാർഡ്  "
+  },
+  {
+    "questionNum": 95534,
+    "questionText": " Who assumed the title as the “Pioneer Englishman”?",
+    "answerText": " Ralph Fitch"
+  },
+  {
+    "questionNum": 95535,
+    "questionText": " സംസ്ഥാന സർക്കാർ നൽകുന്ന ഏറ്റവും ഉയർന്ന സാഹിത്യ ബഹുമതി? ",
+    "answerText": " എഴുത്തച്ഛൻ പുരസ്കാരം  "
+  },
+  {
+    "questionNum": 95536,
+    "questionText": " എഴുത്തച്ഛൻ പുരസ്കാരം നൽകിത്തുടങ്ങിയത്? ",
+    "answerText": " ശൂരനാട് കുഞ്ഞൻപിള്ള  "
+  },
+  {
+    "questionNum": 95537,
+    "questionText": " മൗനത്തിന്റെ കവി എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ആറ്റൂർ രവിവർമ്മ  "
+  },
+  {
+    "questionNum": 95538,
+    "questionText": " വള്ളത്തോൾ സാഹിത്യ സമിതി വള്ളത്തോൾ പുരസ്കാരം ഏർപ്പെടുത്തിയ വർഷം? ",
+    "answerText": 1991
+  },
+  {
+    "questionNum": 95539,
+    "questionText": " മലയാളത്തിലെ മികച്ച കൃതിക്ക് നൽകുന്ന അവാർഡ്? ",
+    "answerText": " വയലാർ അവാർഡ്  "
+  },
+  {
+    "questionNum": 95540,
+    "questionText": " കൂടുംകുളം ആണവോർജ്ജ വിരുദ്ധ പ്രസ്ഥാന നേതാവ്? ",
+    "answerText": " എസ്.പി. ഉദയകുമാർ  "
+  },
+  {
+    "questionNum": 95541,
+    "questionText": " Which year the Attingal revolt broke out?",
+    "answerText": 1721
+  },
+  {
+    "questionNum": 95542,
+    "questionText": " ഇന്ദിരാഗാന്ധി അറ്റോമിക ഗവേഷണകേന്ദ്രം സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " കൽപ്പാക്കം (തമിഴ്നാട്)  "
+  },
+  {
+    "questionNum": 95543,
+    "questionText": " ഇന്ത്യയുടെ ആണവ പരീക്ഷണത്തിന് വേദിയായ സ്ഥലം? ",
+    "answerText": " പൊഖ്റാൻ  "
+  },
+  {
+    "questionNum": 95544,
+    "questionText": " കാറ്റിൽ നിന്നും ഏറ്റവും കൂടുതൽ വൈദ്യുതി ഉത്‌പാദിപ്പിക്കുന്ന സംസ്ഥാനം? ",
+    "answerText": " തമിഴ്നാട്  "
+  },
+  {
+    "questionNum": 95545,
+    "questionText": " സൗരോർജ്ജ ഉത്‌പാദനവുമായി ബന്ധപ്പെട്ട കേന്ദ്ര ഗവൺമെന്റ് പദ്ധതി? ",
+    "answerText": " ജവഹർലാൽ നെഹ്റു സോളാർ മിഷൻ  "
+  },
+  {
+    "questionNum": 95546,
+    "questionText": " കൂടംകുളം ആണവ നിലയത്തിൽ ഉപയോഗിക്കുന്ന ഇന്ധനം? ",
+    "answerText": " സമ്പുഷ്ട യുറേനിയം  "
+  },
+  {
+    "questionNum": 95547,
+    "questionText": " മഹാത്മാഗാന്ധി ദേശീയ തൊഴിലുറപ്പുപദ്ധതിയുടെ ബ്രാൻഡ് അംബാസിഡർ? ",
+    "answerText": " സുഷീൽ കുമാർ  "
+  },
+  {
+    "questionNum": 95548,
+    "questionText": " ദേശീയ ഗ്രാമീണ തൊഴിലുറപ്പ് പദ്ധതി മികച്ച രീതിയിൽ നടപ്പിലാക്കിയതിനുള്ള പുരസ്കാരം 2011 - 12ൽ നേടിയത്? ",
+    "answerText": " ചെങ്കൽ  "
+  },
+  {
+    "questionNum": 95549,
+    "questionText": " ദാരിദ്ര്യരേഖയ്ക്കു താഴെയുള്ള കുടുംബങ്ങൾക്ക് പൊതുവിതരണ സമ്പ്രദായം വഴി കുറഞ്ഞ വിലയ്ക്ക് അരിയും ഗോതമ്പും വിതരണം ചെയ്യുന്ന പദ്ധതി? ",
+    "answerText": " അന്ത്യോദയ അന്നയോജന  "
+  },
+  {
+    "questionNum": 95550,
+    "questionText": " കോളേജ് ഒഫ് വെറ്റിനറി ആൻഡ് ആനിമൽ സയൻസ് സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " മണ്ണുത്തി  "
+  },
+  {
+    "questionNum": 95551,
+    "questionText": " കേരള ലൈവ്‌സ്റ്റോക്ക് ഡവലപ്‌മെന്റ് കോർപറേഷൻ? ",
+    "answerText": " പട്ടം, തിരുവനന്തപുരം  "
+  },
+  {
+    "questionNum": 95552,
+    "questionText": " മത്സ്യങ്ങൾക്കുള്ള ഇന്ത്യയിലെ ആദ്യത്തെ ആശുപത്രി? ",
+    "answerText": " കൊച്ചി  "
+  },
+  {
+    "questionNum": 95553,
+    "questionText": " നാഷണൽ ഫിഷറീസ് ഡെവലപ്‌മെന്റ് ബോർഡ്? ",
+    "answerText": " ഹൈദരാബാദ്  "
+  },
+  {
+    "questionNum": 95554,
+    "questionText": " സലീം അലി സെന്റർ ഫോർ ഓർണിത്തോളജി ആൻഡ് നാച്വറൽ ഹിസ്റ്ററി? ",
+    "answerText": " കോയമ്പത്തൂർ  "
+  },
+  {
+    "questionNum": 95555,
+    "questionText": " ലിബിയയിൽ പ്രക്ഷോഭത്തെ തുടർന്ന് സ്ഥാനഭ്രഷ്ടനാക്കപ്പെട്ട നേതാവ്? ",
+    "answerText": " മു അമർഗദ്ദാഫി  "
+  },
+  {
+    "questionNum": 95556,
+    "questionText": " അഴിമതിക്കെതിരെ ശക്തമായ ജനലോക്‌പാൽ ബിൽ ആവശ്യപ്പെട്ട് ഇന്ത്യയിൽ നിരാഹാര സമരം നടത്തിയ വ്യക്തി? ",
+    "answerText": " അണ്ണാഹസാരെ  "
+  },
+  {
+    "questionNum": 95557,
+    "questionText": " 2005ൽ ടുലീപ് വിപ്ളവം നടന്നത്? ",
+    "answerText": " കിർഗിസ്ഥാൻ  "
+  },
+  {
+    "questionNum": 95558,
+    "questionText": " സ്‌ബോഡനു അഭയം കൊടുത്ത രാജ്യം? ",
+    "answerText": " റഷ്യ  "
+  },
+  {
+    "questionNum": 95559,
+    "questionText": " സ്വതന്ത്ര സോഫ്ട്‌വെയർ പ്രസ്ഥാനത്തിന്റെ ഉപജ്ഞാതാവ്? ",
+    "answerText": " റിച്ചാർഡ് മാത്യൂസ് സ്റ്റാൾമാൻ  "
+  },
+  {
+    "questionNum": 95560,
+    "questionText": " സൂപ്പർ കംപ്യൂട്ടറിന്റെ പിതാവ് ? ",
+    "answerText": " സിമോർ ക്രേ  "
+  },
+  {
+    "questionNum": 95561,
+    "questionText": " ലോകത്തിലെ ഏറ്റവും വലിയ സ്വതന്ത്ര വിജ്ഞാനകോശം? ",
+    "answerText": " വിക്കിപീഡിയ  "
+  },
+  {
+    "questionNum": 95562,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ സൂപ്പർ കംപ്യൂട്ടർ? ",
+    "answerText": " പരം 8000  "
+  },
+  {
+    "questionNum": 95563,
+    "questionText": " വാട്സാപ്പിന്റെ സ്ഥാപകൻ? ",
+    "answerText": " ജാൻ കോം, ബ്രെയിൻ ആക്ടൻ  "
+  },
+  {
+    "questionNum": 95564,
+    "questionText": " കേരളത്തിൽ ആദ്യമായ ദേശീയ ഗെയിംസ് നടന്നത്? ",
+    "answerText": 1987
+  },
+  {
+    "questionNum": 95565,
+    "questionText": " 2015 ദേശീയ ഗെയിംസ് ചിഹ്നം? ",
+    "answerText": " അമ്മു എന്ന വേഴാമ്പൽ  "
+  },
+  {
+    "questionNum": 95566,
+    "questionText": " ദേശീയ ഗെയിംസിന്റെ പിതാവ്? ",
+    "answerText": " ഗുരുദത്ത് സോഥി  "
+  },
+  {
+    "questionNum": 95567,
+    "questionText": " ആദ്യ വിന്റർ ദേശീയ ഗെയിംസ് നടന്നത്? ",
+    "answerText": " ഗുൽമർഗ്  "
+  },
+  {
+    "questionNum": 95568,
+    "questionText": " ബലം, ചലനം, ഊർജ്ജോത്‌പാദനം,ഊർജ്ജവിനിയോഗം എന്നിവയെക്കുറിച്ചുള്ള പഠനം? ",
+    "answerText": " മെക്കാനിക്സ്  "
+  },
+  {
+    "questionNum": 95569,
+    "questionText": " ഭൂമിയിലെ ഊർജ്ജത്തിന്റെ ഉറവിടം? ",
+    "answerText": " സൂര്യൻ  "
+  },
+  {
+    "questionNum": 95570,
+    "questionText": " ടെലിവിഷനിൽ വൈദ്യുതോർജ്ജം എന്തായി മാറുന്നു? ",
+    "answerText": " ശബ്ദോർജ്ജം, പ്രകാശോർജ്ജം, താപോർജ്ജം  "
+  },
+  {
+    "questionNum": 95571,
+    "questionText": " ദേശീയോദ്യാന രൂപീകരണത്തിനായി വിജ്ഞാപനം പുറപ്പെടുവിക്കേണ്ടത്? ",
+    "answerText": " സംസ്ഥാന സർക്കാർ  "
+  },
+  {
+    "questionNum": 95572,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും വലിയ ദേശിയോദ്യാനം? ",
+    "answerText": " ഇരവികുളം  "
+  },
+  {
+    "questionNum": 95573,
+    "questionText": " Which revolt was the first organised revolt against British authority in Kerala?",
+    "answerText": " Anjengo revolt"
+  },
+  {
+    "questionNum": 95574,
+    "questionText": " യുനസ്കോ പൈതൃക പട്ടികയിൽ ഉൾപ്പെടുത്തിയ കേരളത്തിലെ ദേശീയോദ്യാനങ്ങൾ? ",
+    "answerText": " ഇരവികുളം സൈലന്റ്വാലി "
+  },
+  {
+    "questionNum": 95575,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വൈദ്യുതി ഉത്പാദന വിതരണം പ്രാവർത്തികമായത്? ",
+    "answerText": " 1897 - ഡാർജിലിംഗ് "
+  },
+  {
+    "questionNum": 95576,
+    "questionText": " പവർഗ്രിഡ് കോർപറേഷൻ ഒഫ് ഇന്ത്യ സ്ഥാപിതമായ വർഷം? ",
+    "answerText": " 1989 ഒക്ടോബർ 23 "
+  },
+  {
+    "questionNum": 95577,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ സൗരോർജ്ജ വൈദ്യുത കേന്ദ്രം? ",
+    "answerText": " ഗുജറാത്തിലെ ഭുജിനു സമീപമുള്ള മാധാപൂർ "
+  },
+  {
+    "questionNum": 95578,
+    "questionText": " ഏഷ്യയിലെ ഏറ്റവും വലിയ കാറ്റാടി യന്ത്ര വൈദ്യുതി ഫാം എവിടെ സ്ഥിതിചെയ്യുന്നു? ",
+    "answerText": " വാനകുസാവദേ, സത്താറ, മഹാരാഷ്ട്ര "
+  },
+  {
+    "questionNum": 95579,
+    "questionText": " ഇന്ത്യൻ സ്പേസ് റിസർച്ച് ഓർഗനൈസേഷൻ സ്ഥാപിതമായത്? ",
+    "answerText": " 1969, ആസ്ഥാനം ബാംഗ്ളൂർ "
+  },
+  {
+    "questionNum": 95580,
+    "questionText": " ഡിപ്പാർട്ട്മെന്റ് ഒഫ് സ്പേസ് നിലവിൽ വന്ന വർഷം? ",
+    "answerText": 1972
+  },
+  {
+    "questionNum": 95581,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ സാറ്റ്ലൈറ്റ് ലോഞ്ച് വെഹിക്കിൾ ഉപഗ്രഹ വിക്ഷേപിണി? ",
+    "answerText": " എസ്.എൽ.വി - 3 "
+  },
+  {
+    "questionNum": 95582,
+    "questionText": " ഇന്ത്യയിൽ നിന്ന് ബഹിരാകാശ യാത്ര ചെയ്ത ആദ്യ വ്യക്തി? ",
+    "answerText": " രാകേഷ് ശർമ്മ "
+  },
+  {
+    "questionNum": 95583,
+    "questionText": " ശ്രീഹരിക്കോട്ടയിൽ നിന്ന് വിക്ഷേപിച്ച ആദ്യ ഇന്ത്യൻ ഉപഗ്രഹം? ",
+    "answerText": " രോഹിണി "
+  },
+  {
+    "questionNum": 95584,
+    "questionText": " ഫാം റേഡിയോ സർവീസ് ആവശ്യങ്ങൾക്കായി ഇന്ത്യ വിക്ഷേപിച്ച ഉപഗ്രഹം? ",
+    "answerText": " ഹാംസാറ്റ് "
+  },
+  {
+    "questionNum": 95585,
+    "questionText": " ഇന്ത്യയുടെ പ്രഥമ ചന്ദ്ര പര്യവേക്ഷണ പദ്ധതി അറിയപ്പെടുന്നത്? ",
+    "answerText": " ചന്ദ്രയാൻ - ഒന്ന് "
+  },
+  {
+    "questionNum": 95586,
+    "questionText": " ചന്ദ്രയാൻ ഒന്ന് എത്ര ദിവസമാണ് പ്രവർത്തിച്ചത്? ",
+    "answerText": " 312 ദിവസം "
+  },
+  {
+    "questionNum": 95587,
+    "questionText": " British merchants exported pepper to England for the first time from Cochin in?",
+    "answerText": 1636
+  },
+  {
+    "questionNum": 95588,
+    "questionText": " ചന്ദ്രനിൽ ജലമുണ്ടെന്ന് കണ്ടെത്തിയ ചന്ദ്രയാൻ ഭാഗം? ",
+    "answerText": " മൂൺ മിനറോളജി മാപ്പർ "
+  },
+  {
+    "questionNum": 95589,
+    "questionText": " ചന്ദ്രയാൻ ഇടിച്ചിറങ്ങിയ ഭാഗം? ",
+    "answerText": " ഷാക്കിൽട്ടൺ ഗർത്തം "
+  },
+  {
+    "questionNum": 95590,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ സർവകലാശാല നിർമ്മിതമായ ഉപഗ്രഹം? ",
+    "answerText": " അനുസാറ്റ് "
+  },
+  {
+    "questionNum": 95591,
+    "questionText": " ഇന്ത്യൻ ബഹിരാകാശ വകുപ്പിന്റെ വാണിജ്യ സ്ഥാപനം? ",
+    "answerText": " ആൻട്രിക്സ് കോർപറേഷൻ "
+  },
+  {
+    "questionNum": 95592,
+    "questionText": " നാലുപഗ്രഹങ്ങളെ ഒരുമിച്ച് ഭ്രമണപഥത്തിലെത്തിച്ച ഇന്ത്യയുടെ ഉപഗ്രഹ വിക്ഷേപണ വാഹനം? ",
+    "answerText": " പി.എസ്.എൽ.വി സി - 7 "
+  },
+  {
+    "questionNum": 95593,
+    "questionText": " പ്രതികൂല കാലാവസ്ഥയിൽ പോലും ഭൂമിയുടെ പ്രതിച്ഛായ പകർത്താൻ കഴിവുള്ള ആദ്യത്തെ പര്യവേക്ഷണോപഗ്രഹം? ",
+    "answerText": " റിസാറ്റ് - 2 "
+  },
+  {
+    "questionNum": 95594,
+    "questionText": " ഇന്ത്യയുടെ ഉപഗ്രഹ വിക്ഷേപണ കേന്ദ്രം? ",
+    "answerText": " ആന്ധ്രപ്രദേശിലെ ശ്രീഹരിക്കോട്ട "
+  },
+  {
+    "questionNum": 95595,
+    "questionText": " പത്ത് ഉപഗ്രഹങ്ങളെ ഒരുമിച്ച് വിക്ഷേപിച്ച ഇന്ത്യയുടെ ഉപഗ്രഹ വിക്ഷേപണ വാഹനം? ",
+    "answerText": " പി.എസ്.എൽ.വി സി - 9 "
+  },
+  {
+    "questionNum": 95596,
+    "questionText": " തദ്ദേശിയ ക്രയോജനിക് സാങ്കേതിക വിദ്യ ഉപയോഗിച്ചുള്ള ഇന്ത്യയുടെ ആദ്യ ഉപഗൃഹ വിക്ഷേപണം പരാജയപ്പെട്ടു. ഏത് ഉപഗ്രഹമാണ് വിക്ഷേപിച്ചത്? ",
+    "answerText": " ജിസാറ്റ് - 4 "
+  },
+  {
+    "questionNum": 95597,
+    "questionText": " ഭാവിയിലേക്കുള്ള മിസൈൽ എന്ന് ശാസ്ത്രജ്ഞന്മാർ വിശേഷിപ്പിച്ചത്? ",
+    "answerText": " അസ്ത്ര "
+  },
+  {
+    "questionNum": 95598,
+    "questionText": " തുമ്പയിൽ നിന്ന് വിക്ഷേപിച്ച ആദ്യത്തെ റോക്കറ്റ് ഏത്? ",
+    "answerText": " നൈക്ക് അപ്പാച്ച "
+  },
+  {
+    "questionNum": 95599,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ട്രെയിൻ സർവീസ്? ",
+    "answerText": " 1853 ഏപ്രിൽ 16ന് ബോംബെ മുതൽ താനെ വരെ "
+  },
+  {
+    "questionNum": 95600,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേ എത്ര മേഖലകളായി തിരിച്ചിരിക്കുന്നു? ",
+    "answerText": 17
+  },
+  {
+    "questionNum": 95601,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേ യാത്രാ സംതൃപ്തി വർഷമായി ആചരിച്ചത്? ",
+    "answerText": " 2003 - 2004"
+  },
+  {
+    "questionNum": 95602,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേയുടെ വീൽ ആൻഡ് ആക്സിൽ പ്ളാന്റ് എവിടെ സ്ഥിതിചെയ്യുന്നു? ",
+    "answerText": " യെലഹെങ്ക, ബാംഗ്ളൂർ "
+  },
+  {
+    "questionNum": 95603,
+    "questionText": " ട്രെയിനുകൾ തമ്മിൽ കൂട്ടിമുട്ടി ഉണ്ടാകുന്ന അപകടങ്ങൾ ഒഴിവാക്കാനായി കൊങ്കൺ റെയിൽവേ ഒരുക്കിയ സംവിധാനം? ",
+    "answerText": " രക്ഷാ കവച് "
+  },
+  {
+    "questionNum": 95604,
+    "questionText": " സഞ്ചരിക്കുന്ന എയ്ഡ്സ് ബോധവത്കരണ യൂണിറ്റ്? ",
+    "answerText": " റെഡ് റിബൺ എക്സ്പ്രസ് "
+  },
+  {
+    "questionNum": 95605,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേയുടെ ചരിത്രത്തിലെ ആദ്യത്തെ എയർ കണ്ടീഷൻഡ് ഡബിൾ ഡക്കർ ചെയർകാർ നിർമ്മിച്ചത് ഏത് ഫാക്ടറിയിലാണ്? ",
+    "answerText": " കപൂർത്തല റെയിൽകോട്ട് ഫാക്ടറി (പഞ്ചാബ്) "
+  },
+  {
+    "questionNum": 95606,
+    "questionText": " ഇന്ത്യയിലെ ട്രെയിൻ ഡ്രൈവർമാരുടെ ഔദ്യോഗിക നാമം? ",
+    "answerText": " ലോക്കോ പൈലറ്റ്സ് "
+  },
+  {
+    "questionNum": 95607,
+    "questionText": " മഹാരാഷ്ട്ര സർക്കാരും വിനോദ സഞ്ചാര വകുപ്പും ചേർന്ന് ആരംഭിച്ച ആഡംബര തീവണ്ടി? ",
+    "answerText": " ഡെക്കാൻ ഒഡീസി "
+  },
+  {
+    "questionNum": 95608,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും ദീർഘദൂര സഞ്ചാരം നടത്തുന്ന ട്രെയിൻ? ",
+    "answerText": " ഹിമസാഗർ എക്സ്പ്രസ് (കന്യാകുമാരി - ജമ്മുതാവി) "
+  },
+  {
+    "questionNum": 95609,
+    "questionText": " കൊൽക്കത്തയെയും ബംഗ്ളാദേശിന്റെ തലസ്ഥാനമായ ഡാക്കയെയും ബന്ധിപ്പിക്കുന്ന ട്രെയിൻ സർവീസ്? ",
+    "answerText": " മൈത്രി എക്സ്പ്രസ് "
+  },
+  {
+    "questionNum": 95610,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വനിതാ എൻജിൻ ഡ്രൈവർ ആരാണ് ? ",
+    "answerText": " സുരേഖ ബോൺസ്ളേ "
+  },
+  {
+    "questionNum": 95611,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ സംസ്ഥാനങ്ങളിലൂടെ കടന്നുപോകുന്ന ട്രെയിൻ ഏത്? ",
+    "answerText": " ഹിമസാഗർ എക്സ്പ്രസ് "
+  },
+  {
+    "questionNum": 95612,
+    "questionText": " ലോകത്തിലെ ഏറ്റവും പഴക്കം ചെന്ന ആവിയന്ത്രം ഘടിപ്പിച്ച ട്രെയിൻ? ",
+    "answerText": " ഫെയറി ക്യൂൻ "
+  },
+  {
+    "questionNum": 95613,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ഡീലക്സ് ട്രെയിൻ? ",
+    "answerText": " ഡെക്കാൻ ക്യൂൻ "
+  },
+  {
+    "questionNum": 95614,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ മെട്രോ റെയിൽവേ ആരംഭിച്ചത് എവിടെ? ",
+    "answerText": " കൽക്കട്ട. "
+  },
+  {
+    "questionNum": 95615,
+    "questionText": " പഞ്ചശീല തത്വങ്ങളിൽ ഒപ്പുവച്ച പ്രധാനമന്ത്രി ആര് ? ",
+    "answerText": " ജവഹർലാൽ നെഹ്റു "
+  },
+  {
+    "questionNum": 95616,
+    "questionText": " ആസൂത്രണ കമ്മിഷൻ ചെയർമാൻ ആര്? ",
+    "answerText": " പ്രധാനമന്ത്രി "
+  },
+  {
+    "questionNum": 95617,
+    "questionText": " സംസ്ഥാനത്തിലെ പ്രഥമ പൗരൻ? ",
+    "answerText": " ഗവർണർ "
+  },
+  {
+    "questionNum": 95618,
+    "questionText": " സംസ്ഥാന നിയമസഭയുടെ ഉപരിസഭ? ",
+    "answerText": " സഭാ കൗൺസിൽ "
+  },
+  {
+    "questionNum": 95619,
+    "questionText": " മന്ത്രിസഭയുള്ള ദേശീയ സംസ്ഥാന പ്രദേശം? ",
+    "answerText": " ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 95620,
+    "questionText": " ഡൽഹിയെ ദേശീയ തലസ്ഥാന പ്രദേശമായി പ്രഖ്യാപിച്ച ഭേദഗതി? ",
+    "answerText": " 70-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 95621,
+    "questionText": " ലഫ്റ്റനന്റ് ഗവർണർ, ചീഫ് കമ്മീഷണേഴ്സ് അല്ലെങ്കിൽ അഡ്മിനിസ്ട്രേറ്റേഴ്സ് എന്നെല്ലാം വിളിക്കപ്പെടുന്നത്? ",
+    "answerText": " കേന്ദ്ര ഭരണ പ്രദേശങ്ങളിലെ ഭരണത്തലവന്മാർ "
+  },
+  {
+    "questionNum": 95622,
+    "questionText": " ജമ്മു കാശ്മീരിനെ മറ്റു സംസ്ഥാനങ്ങളുടെ പട്ടികയിൽ നിന്ന് ഒഴിവാക്കിയ വകുപ്പ് ? ",
+    "answerText": " 152-ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 95623,
+    "questionText": " First English factory in Kerala was setup at?",
+    "answerText": " Vizhinjam"
+  },
+  {
+    "questionNum": 95624,
+    "questionText": " ഭാഷാടിസ്ഥാനത്തിൽ രൂപം കൊണ്ട പ്രഥമ സംസ്ഥാനം? ",
+    "answerText": " ആന്ധ്രപ്രദേശ് "
+  },
+  {
+    "questionNum": 95625,
+    "questionText": " The first British Resident of Travancore?",
+    "answerText": " Col Macaulay"
+  },
+  {
+    "questionNum": 95626,
+    "questionText": " 71-ാം ഭേദഗതി പ്രകാരം 8-ാം ഷെഡ്യൂളിൽ ഉൾപ്പടെുത്തിയ 3 ഭാഷകൾ? ",
+    "answerText": " കൊങ്കണി, മണിപ്പൂരി, നേപ്പാളി "
+  },
+  {
+    "questionNum": 95627,
+    "questionText": " തെലുങ്ക് ഭാഷ സംസാരിക്കുന്നവർക്ക് പ്രത്യേക സംസ്ഥാനം വേണമെന്ന് ആവശ്യപ്പെട്ട് മരണം വരെ നിരാഹാരം അനുഷ്ഠിച്ചത് ആര്? ",
+    "answerText": " ശ്രീ പോറ്റി ശ്രീരാമലു "
+  },
+  {
+    "questionNum": 95628,
+    "questionText": " ഗവർണർ നിലവിലില്ലാത്ത അവസ്ഥയിൽ ആ സ്ഥാനം വഹിക്കുന്നത്? ",
+    "answerText": " ഹൈക്കോടതി ചീഫ് ജസ്റ്റിസ് "
+  },
+  {
+    "questionNum": 95629,
+    "questionText": " ഗവർണറാകുന്നതിനുള്ള ഏറ്റവും കുറഞ്ഞ പ്രായപരിധി? ",
+    "answerText": " 35 വയസ് "
+  },
+  {
+    "questionNum": 95630,
+    "questionText": " ഗവർണർ രാജിക്കത്ത് സമർപ്പിക്കുന്നത്? ",
+    "answerText": " രാഷ്ട്രപതിക്ക് "
+  },
+  {
+    "questionNum": 95631,
+    "questionText": " Whose period is known as the “Golden Era of Travancore”?",
+    "answerText": " Swathi Tirunal"
+  },
+  {
+    "questionNum": 95632,
+    "questionText": " സ്റ്റേറ്റ് ലിസ്റ്റിൽ ഉൾപ്പെട്ടിരിക്കുന്ന വിഷയങ്ങൾ എത്ര? ",
+    "answerText": 61
+  },
+  {
+    "questionNum": 95633,
+    "questionText": " യൂണിയൻ ലിസ്റ്റിൽ ആകെ എത്ര ഇനങ്ങളുണ്ട്? ",
+    "answerText": 99
+  },
+  {
+    "questionNum": 95634,
+    "questionText": " രാജ്യത്തെ നീതിന്യായ സമ്പ്രദായം ഉൾപ്പെട്ട ലിസ്റ്റ്? ",
+    "answerText": " യൂണിയൻ ലിസ്റ്റ് "
+  },
+  {
+    "questionNum": 95635,
+    "questionText": " കേന്ദ്ര സംസ്ഥാന ബന്ധത്തെക്കുറിച്ച് പഠിച്ച കമ്മിഷൻ ഏത്? ",
+    "answerText": " സർക്കാരിയ കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 95636,
+    "questionText": " ക്രിമിനൽ നിയമം ഉൾപ്പെടുത്തിയിരിക്കുന്നത്? ",
+    "answerText": " കൺകറന്റ് ലിസ്റ്റിൽ "
+  },
+  {
+    "questionNum": 95637,
+    "questionText": " വിദ്യാഭ്യാസം,വിവാഹം, വിവാഹമോചനം, വില നിയന്ത്രണം, പത്രങ്ങൾ മുതലായവ ഉൾപ്പെടുത്തുന്നത്? ",
+    "answerText": " കൺകറന്റ് ലിസ്റ്റിൽ "
+  },
+  {
+    "questionNum": 95638,
+    "questionText": " പാർലമെന്റ് മന്ദിരം സ്ഥിതിചെയ്യുന്നത് എവിടെ? ",
+    "answerText": " ഡൽഹിയിൽ "
+  },
+  {
+    "questionNum": 95639,
+    "questionText": " ഇന്ത്യയിലെ പ്രധാന പൊതുമേഖലാ സ്ഥാപനങ്ങളുടെ പ്രവർത്തനം വിലയിരുത്താനും കാര്യക്ഷമത പരിശോധിക്കാനും നിയുക്തമായ കമ്മിറ്റി? ",
+    "answerText": " കമ്മിറ്റി ഓൺ പബ്ളിക് അണ്ടർടേക്കിംഗ് "
+  },
+  {
+    "questionNum": 95640,
+    "questionText": " പാർലമെന്റിലെ ധനകാര്യ വിഭാഗം കൈകാര്യം ചെയ്യുന്ന കമ്മിറ്റി? ",
+    "answerText": " എസ്റ്റിമേറ്റ് കമ്മിറ്റി "
+  },
+  {
+    "questionNum": 95641,
+    "questionText": " എസ്റ്റിമേറ്റ് കമ്മിറ്റിയിലെ അംഗങ്ങളുടെ കാലാവധി? ",
+    "answerText": " ഒരു വർഷം "
+  },
+  {
+    "questionNum": 95642,
+    "questionText": " ഇന്ത്യൻ ഭരണഘടന ഭേദഗതി ചെയ്യാനുള്ള അധികാരം നിക്ഷിപ്തമായിരിക്കുന്നത്? ",
+    "answerText": " ഇന്ത്യൻ പാർലമെന്റ് "
+  },
+  {
+    "questionNum": 95643,
+    "questionText": " പാർലമെന്റിലെ സർക്കാരിന്റെമേധാവി ആരാണ്? ",
+    "answerText": " പ്രധാനമന്ത്രി "
+  },
+  {
+    "questionNum": 95644,
+    "questionText": " ലോക്സഭയിലെ ആദ്യ വനിതാ സ്പീക്കർ? ",
+    "answerText": " മീരാ കുമാർ "
+  },
+  {
+    "questionNum": 95645,
+    "questionText": " ലോക്സഭയിലെ പരമാവധി അംഗസംഖ്യ? ",
+    "answerText": 552
+  },
+  {
+    "questionNum": 95646,
+    "questionText": " ലോക്സഭാംഗമായി ആദ്യം സത്യപ്രതിജ്ഞ ചെയ്ത വ്യക്തി? ",
+    "answerText": " ജി.വി. മവ്ലങ്കർ "
+  },
+  {
+    "questionNum": 95647,
+    "questionText": " Maker of modern Kerala?",
+    "answerText": " Marthanda Varma"
+  },
+  {
+    "questionNum": 95648,
+    "questionText": " The framing of annual budget called ‘Pativukanakku’ was introduced by?",
+    "answerText": " Marthanda Varma"
+  },
+  {
+    "questionNum": 95649,
+    "questionText": " The “Bhadradeepam” and ‘Murajapam’ in the Pa dma n a bh a swami Temple was started by?",
+    "answerText": " Marthanda Varma"
+  },
+  {
+    "questionNum": 95650,
+    "questionText": " English education started in Travancore at the time of?",
+    "answerText": " Swathi Thirunal"
+  },
+  {
+    "questionNum": 95651,
+    "questionText": " Who was the chieftain of the erstwhile Malabar who fought against the British?",
+    "answerText": " Pazhassi Raja"
+  },
+  {
+    "questionNum": 95652,
+    "questionText": " Pazhassi Raja organised the guerilla warfare from the Wynadu hills with the help of?",
+    "answerText": " Kurichyar and Kurumbas"
+  },
+  {
+    "questionNum": 95653,
+    "questionText": " Pazhassi was killed on the bank of?",
+    "answerText": " Mavilathode"
+  },
+  {
+    "questionNum": 95654,
+    "questionText": " The only Muslim kingdom in Kerala was?",
+    "answerText": " Arakkal kingdom"
+  },
+  {
+    "questionNum": 95655,
+    "questionText": " The word ‘Yavana Priya’ relates to?",
+    "answerText": " Pepper"
+  },
+  {
+    "questionNum": 95656,
+    "questionText": " Who built Farooz town?",
+    "answerText": " Tipu Sultan"
+  },
+  {
+    "questionNum": 95657,
+    "questionText": " Malabar district became a province of Madras Presidency in?",
+    "answerText": 1812
+  },
+  {
+    "questionNum": 95658,
+    "questionText": " Who abolished slave trade in Travancore in 1812?",
+    "answerText": " Rani Lakshmibai"
+  },
+  {
+    "questionNum": 95659,
+    "questionText": " ശകവർഷത്തിലെ ആദ്യത്തേയും അവസാനത്തേയും മാസങ്ങൾ?  ",
+    "answerText": " ചൈത്രം ഫൽഗുനം  "
+  },
+  {
+    "questionNum": 95660,
+    "questionText": " ഗീതഗോവിന്ദത്തിന്റെ രചയിതാവ്?  ",
+    "answerText": " ജയദേവൻ  "
+  },
+  {
+    "questionNum": 95661,
+    "questionText": " ബനാറസ് ഹിന്ദുയൂണിവേഴ്സിറ്റിയുടെ സ്ഥാപകൻ?  ",
+    "answerText": " മദൻ മോഹൻ മാളവ്യ  "
+  },
+  {
+    "questionNum": 95662,
+    "questionText": " 1930 ലെ ശാരദ ആക്ട് എന്തിനെതയിരെയായിരുന്നു?  ",
+    "answerText": " ശൈശവവിവാഹം  "
+  },
+  {
+    "questionNum": 95663,
+    "questionText": " പാകിസ്ഥാൻ എന്ന വാക്ക് ആരുടെ സംഭാവനയാണ്?  ",
+    "answerText": " ചൗധരി റഹ്‌മത്ത് അലി  "
+  },
+  {
+    "questionNum": 95664,
+    "questionText": " ഇന്ത്യൻ ഭരണഘടനാ നിർമ്മാണ സമിതിയുടെ പ്രസിഡന്റ്?  ",
+    "answerText": " ഡോ. രാജേന്ദ്രപ്രസാദ്  "
+  },
+  {
+    "questionNum": 95665,
+    "questionText": " ശാകൻമാരിൽ ഏറ്റവും പ്രശസ്തനായ രാജാവ്?  ",
+    "answerText": " രുദ്രദാമൻ  "
+  },
+  {
+    "questionNum": 95666,
+    "questionText": " മഹായാന ബുദ്ധമതത്തെ പ്രോത്സാഹിപ്പിച്ച കുശാന രാജാവ്?  ",
+    "answerText": " കനിഷ്കൻ  "
+  },
+  {
+    "questionNum": 95667,
+    "questionText": " ജാതക കഥകൾ ആരെക്കുറിച്ചാണ് പ്രതിപാദിക്കുന്നത്?  ",
+    "answerText": " ബുദ്ധൻ  "
+  },
+  {
+    "questionNum": 95668,
+    "questionText": " ചേരൻമാരുടെ തലസ്ഥാനം?  ",
+    "answerText": " വഞ്ചി  "
+  },
+  {
+    "questionNum": 95669,
+    "questionText": " ഇന്ത്യൻ നെപ്പോളിയൻ എന്നറിയപ്പെടുന്ന രാജാവ്?  ",
+    "answerText": " സമുദ്രഗുപ്തൻ  "
+  },
+  {
+    "questionNum": 95670,
+    "questionText": " പല്ലവൻമാരുടെ തലസ്ഥാനം?  ",
+    "answerText": " കാഞ്ചി  "
+  },
+  {
+    "questionNum": 95671,
+    "questionText": " ചാലൂക്യൻമാരുടെ തലസ്ഥാനം?  ",
+    "answerText": " വാതാപി  "
+  },
+  {
+    "questionNum": 95672,
+    "questionText": " മൃച്ഛഘടികത്തിന്റെ കർത്താവ്?  ",
+    "answerText": " ശൂദ്രകൻ  "
+  },
+  {
+    "questionNum": 95673,
+    "questionText": " ഫ്രഞ്ചുവിപ്ളവം നടക്കുമ്പോൾ ഫ്രാൻസിലെ രാജാവ് ആരായിരുന്നു?  ",
+    "answerText": " ലൂയി പതിനാറാമൻ  "
+  },
+  {
+    "questionNum": 95674,
+    "questionText": " മലബാറിലെ തരുലതാദികളെപ്പറ്റി ഡച്ചുകാർ പ്രസിദ്ധപ്പെടുത്തിയ ഗ്രന്ഥം?  ",
+    "answerText": " ഹോർത്തൂസ് മലബാറിക്കസ്  "
+  },
+  {
+    "questionNum": 95675,
+    "questionText": " ഇന്ത്യയിൽ ആദായനികുതി നടപ്പിലാക്കിയ വർഷം?  ",
+    "answerText": 1860
+  },
+  {
+    "questionNum": 95676,
+    "questionText": " ബർമ്മ ബ്രിട്ടീഷ് ഇന്ത്യയുടെ പ്രവിശ്യയായ വർഷം?  ",
+    "answerText": 1885
+  },
+  {
+    "questionNum": 95677,
+    "questionText": " ഇന്ത്യയിൽ നിയമംമൂലം സതി നിറുത്തലാക്കിയ വർഷം?  ",
+    "answerText": 1829
+  },
+  {
+    "questionNum": 95678,
+    "questionText": " സാരേ ജഹാംസേ അച്ഛാ എന്ന ഗാനത്തിന്റെ കർത്താവ്?  ",
+    "answerText": " മുഹമ്മദ് ഇക്ബാൽ  "
+  },
+  {
+    "questionNum": 95679,
+    "questionText": " ആരുടെ ഭരണകാലത്താണ് ആലപ്പുഴ തുറമുഖം ആരംഭിച്ചത്?  ",
+    "answerText": " ധർമ്മരാജാ  "
+  },
+  {
+    "questionNum": 95680,
+    "questionText": " തിരുവിതാംകൂർ സർവകലാശാല സ്ഥാപിച്ച വർഷം?  ",
+    "answerText": 1937
+  },
+  {
+    "questionNum": 95681,
+    "questionText": " പാട്ടബാക്കി എന്ന കൃതിയുടെ കർത്താവ്?  ",
+    "answerText": " കെ. ദാമോദരൻ  "
+  },
+  {
+    "questionNum": 95682,
+    "questionText": " Herman Gundert belongs to which country?",
+    "answerText": " Germany"
+  },
+  {
+    "questionNum": 95683,
+    "questionText": " അജന്ത, എല്ലോറ, ഗുഹാക്ഷേത്രങ്ങൾ സ്ഥിതിചെയ്യുന്ന സംസ്ഥാനം?  ",
+    "answerText": " മഹാരാഷ്ട്ര  "
+  },
+  {
+    "questionNum": 95684,
+    "questionText": " സ്വാതന്ത്ര്യത്തിന്റെ പ്രതിമ സ്ഥിതിചെയ്യുന്ന രാജ്യം?  ",
+    "answerText": " അമേരിക്ക  "
+  },
+  {
+    "questionNum": 95685,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ യൂണിവേഴ്സിറ്റി സ്ഥാപിക്കപ്പെട്ടത് എവിടെയാണ്?  ",
+    "answerText": " കൽക്കത്ത  "
+  },
+  {
+    "questionNum": 95686,
+    "questionText": " ഗാന്ധിജി നിസ്സഹകരണപ്രസ്ഥാനം ആരംഭിച്ച വർഷം?  ",
+    "answerText": 1920
+  },
+  {
+    "questionNum": 95687,
+    "questionText": " ഏറ്റവും പഴക്കമുള്ള ദ്രാവിഡ ഭാഷ?  ",
+    "answerText": " തമിഴ്  "
+  },
+  {
+    "questionNum": 95688,
+    "questionText": " തിയോസഫിക്കൽ സൊസൈറ്റിയുടെ ആസ്ഥാനം?  ",
+    "answerText": " അഡയാർ  "
+  },
+  {
+    "questionNum": 95689,
+    "questionText": " മെസപ്പൊട്ടാമിയയുടെ പുതിയ പേര്?  ",
+    "answerText": " ഇറാഖ്  "
+  },
+  {
+    "questionNum": 95690,
+    "questionText": " In 1817 who made primary education compulsory in Travancore?",
+    "answerText": " Rani Gouri Bai"
+  },
+  {
+    "questionNum": 95691,
+    "questionText": " Under whose leadership was the Palghat fort captured by the British?",
+    "answerText": " Col. Stuart"
+  },
+  {
+    "questionNum": 95692,
+    "questionText": " നവോത്ഥാനത്തിന്റെ തുടക്കം കുറിച്ച രാജ്യം?  ",
+    "answerText": " ഇറ്റലി  "
+  },
+  {
+    "questionNum": 95693,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ നിയമമന്ത്രി?  ",
+    "answerText": " ഡോ. ബി.ആർ. അംബേദ്കർ  "
+  },
+  {
+    "questionNum": 95694,
+    "questionText": " ചരിത്രത്തിന്റെ പിതാവ് എന്നറിയപ്പെടുന്ന വ്യക്തി?  ",
+    "answerText": " ഹെറോഡോട്ടസ്  "
+  },
+  {
+    "questionNum": 95695,
+    "questionText": " ബുദ്ധന് ബോധോദയം കിട്ടിയ സ്ഥലം?  ",
+    "answerText": " ഗയ  "
+  },
+  {
+    "questionNum": 95696,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും പഴക്കമുള്ള നിയമസംഹിത?  ",
+    "answerText": " മനുസ്മൃതി  "
+  },
+  {
+    "questionNum": 95697,
+    "questionText": " ഗംഗൈക്കൊണ്ട ചോളൻ എന്നറിയപ്പെടുന്ന ഭരണാധികാരി?  ",
+    "answerText": " രാജേന്ദ്രചോളൻ  "
+  },
+  {
+    "questionNum": 95698,
+    "questionText": " The Seringapatam treaty was signed in?",
+    "answerText": 1792
+  },
+  {
+    "questionNum": 95699,
+    "questionText": " ഏറ്റവും പഴക്കമുള്ള വേദം?  ",
+    "answerText": " ഋഗ്വേദം  "
+  },
+  {
+    "questionNum": 95700,
+    "questionText": " ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസിന്റെ സ്ഥാപകൻ?  ",
+    "answerText": " എ.ഒ. ഹ്യും  "
+  },
+  {
+    "questionNum": 95701,
+    "questionText": " ജയ്‌ഹിന്ദ് എന്ന ആഹ്വാനം നൽകിയത്?  ",
+    "answerText": " സുബാഷ് ചന്ദ്രബോസ്  "
+  },
+  {
+    "questionNum": 95702,
+    "questionText": " താജ്മഹൽ നിർമ്മിച്ചത്?  ",
+    "answerText": " ഷാജഹാൻ ചക്രവർത്തി  "
+  },
+  {
+    "questionNum": 95703,
+    "questionText": " Where did the English establish their first trading centre?",
+    "answerText": " Surat"
+  },
+  {
+    "questionNum": 95704,
+    "questionText": " മഹാത്മാഗാന്ധിയുടെ സമാധിസ്ഥലം?  ",
+    "answerText": " രാജ് ഘട്ട്  "
+  },
+  {
+    "questionNum": 95705,
+    "questionText": " സതി സമ്പ്രദായം നിറുത്തലാക്കിയത്?  ",
+    "answerText": " ലോർഡ് വില്യംബന്റിക്  "
+  },
+  {
+    "questionNum": 95706,
+    "questionText": " ശാശ്വത ഭൂനികുതി വ്യവസ്ഥ ഏർപ്പെടുത്തിയത്?  ",
+    "answerText": " കോൺവാലീസ് പ്രഭു  "
+  },
+  {
+    "questionNum": 95707,
+    "questionText": " Where is the St. George fort situated?",
+    "answerText": " Chennai"
+  },
+  {
+    "questionNum": 95708,
+    "questionText": " അശോകന്റെ ജീവിതത്തിൽ വഴിത്തിരിവായ യുദ്ധം? ",
+    "answerText": " കലിംഗ "
+  },
+  {
+    "questionNum": 95709,
+    "questionText": " ആദ്യത്തെ മലയാളിയായ ലോക്‌സഭാ പ്രതിപക്ഷ നേതാവ്? ",
+    "answerText": " എ.കെ. ഗോപാലൻ "
+  },
+  {
+    "questionNum": 95710,
+    "questionText": " രാജ്യസഭയിലെ ഇപ്പോഴത്തെ പ്രതിപക്ഷ നേതാവ്? ",
+    "answerText": " അരുൺ ജയ്റ്റ്‌ലി "
+  },
+  {
+    "questionNum": 95711,
+    "questionText": " രാഷ്ട്രപതി, ഉപരാഷ്ട്രപതി തിരഞ്ഞെടുപ്പിൽ കെട്ടിവയ്ക്കേണ്ട തുക? ",
+    "answerText": " 15000 രൂപ "
+  },
+  {
+    "questionNum": 95712,
+    "questionText": " ധനബില്ലുകൾ പരിഗണനയ്ക്ക് വരുമ്പോൾ എത്ര ദിവസത്തിനകം രാജ്യസഭ ഇതു സംബന്ധിച്ച തീരുമാനമെടുക്കണം? ",
+    "answerText": " 14 ദിവസം "
+  },
+  {
+    "questionNum": 95713,
+    "questionText": " കേന്ദ്രമന്ത്രിസഭയിൽ എത്രവിധം മന്ത്രിമാരാണുള്ളത്? ",
+    "answerText": " മൂന്ന്, ക്യാബിനറ്റ് മന്ത്രിമാർ, സഹമന്ത്രിമാർ, ഉപമന്ത്രിമാർ. "
+  },
+  {
+    "questionNum": 95714,
+    "questionText": " Kerala Varma Pazhassi Raja belonged to which royal family?",
+    "answerText": " Kottayam"
+  },
+  {
+    "questionNum": 95715,
+    "questionText": " ചോദ്യോത്തരവേളയിൽ സാധാരണയായി എത്ര തരത്തിലുള്ള ചോദ്യങ്ങളാണ് അംഗങ്ങൾ മന്ത്രമാർക്ക് അയയ്ക്കുന്നത്? ",
+    "answerText": " മൂന്ന് "
+  },
+  {
+    "questionNum": 95716,
+    "questionText": " ലോക്‌സഭയിൽ ഒരംഗത്തിന് ഉന്നയിക്കാവുന്ന പരമാവധി നക്ഷത്രമുദ്രയുള്ള ചോദ്യങ്ങൾ? ",
+    "answerText": " മൂന്ന് "
+  },
+  {
+    "questionNum": 95717,
+    "questionText": " ഇന്ത്യയിൽ രാഷ്ട്രീയ കക്ഷികൾക്ക് അംഗീകാരം നൽകുന്നത്? ",
+    "answerText": " തിരഞ്ഞെടുപ്പ് കമ്മിഷണർ "
+  },
+  {
+    "questionNum": 95718,
+    "questionText": " ദേശീയ പാർട്ടിയായി അംഗീകാരം ലഭിക്കാൻ എത്ര സംസ്ഥാനങ്ങളിൽ നിന്നുള്ള പ്രാതിനിധ്യം വേണം? ",
+    "answerText": " നാല് "
+  },
+  {
+    "questionNum": 95719,
+    "questionText": " രാജ്യസഭയുടെ പ്രഥമ സമ്മേളനം തുടങ്ങിയ വർഷം? ",
+    "answerText": " 1952 മെയ് 13 "
+  },
+  {
+    "questionNum": 95720,
+    "questionText": " രാജ്യസഭ തുടക്കത്തിൽ അറിയപ്പെട്ടിരുന്നത്? ",
+    "answerText": " കൗൺസിൽ ഒഫ് സ്റ്റേറ്റ്സ് "
+  },
+  {
+    "questionNum": 95721,
+    "questionText": " രാജ്യസഭ എന്ന് പുനർ നാമകരണം ചെയ്ത വർഷം? ",
+    "answerText": " 1954 ആഗസ്റ്റ് 23 "
+  },
+  {
+    "questionNum": 95722,
+    "questionText": " Who assumed the title as ‘Kerala Simham’ (Lion of Kerala)?",
+    "answerText": " Pazhassi Raja"
+  },
+  {
+    "questionNum": 95723,
+    "questionText": " രാജ്യസഭയിലെ നോമിനേറ്റഡ് അംഗങ്ങൾ? ",
+    "answerText": 12
+  },
+  {
+    "questionNum": 95724,
+    "questionText": " രാജ്യസഭാംഗങ്ങളുടെ കാലാവധി? ",
+    "answerText": " ആറ് വർഷം "
+  },
+  {
+    "questionNum": 95725,
+    "questionText": " അധികാരം കൂടുതൽ ഉള്ള സഭ? ",
+    "answerText": " ലോക്‌സഭ "
+  },
+  {
+    "questionNum": 95726,
+    "questionText": " ഭരണഘടനയുടെ രക്ഷാകർത്താവ്? ",
+    "answerText": " സുപ്രീംകോടതി "
+  },
+  {
+    "questionNum": 95727,
+    "questionText": " ലോക്‌സഭയിൽ ഇംപീച്ച്മെന്റിന് വിധേയനായ ആദ്യത്തെ സുപ്രീംകോടതി ജഡ്ജ്? ",
+    "answerText": " ജസ്റ്റിസ് വി. രാമസ്വാമി "
+  },
+  {
+    "questionNum": 95728,
+    "questionText": " The last of the early revolts that broke out in Malabar against the British supremacy was?",
+    "answerText": " Kurichya Revolt"
+  },
+  {
+    "questionNum": 95729,
+    "questionText": " Where was Velu Thampi born?",
+    "answerText": " Talakkulam"
+  },
+  {
+    "questionNum": 95730,
+    "questionText": " Hussar Kachery at Kollam was organised by?",
+    "answerText": " Velu Thampi"
+  },
+  {
+    "questionNum": 95731,
+    "questionText": " The famous Kundara proclamation was issued in?",
+    "answerText": " January 1809"
+  },
+  {
+    "questionNum": 95732,
+    "questionText": " ഇന്ത്യയിലെ ആകെ ഹൈക്കോടതികൾ? ",
+    "answerText": 21
+  },
+  {
+    "questionNum": 95733,
+    "questionText": " നാഷണൽ ജുഡീഷ്യൽ അക്കാഡമിയുടെ ആദ്യ ചെയർമാൻ?‌ ",
+    "answerText": " എൻ.ആർ. മാധവമേനോൻ "
+  },
+  {
+    "questionNum": 95734,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ അധികാരപരിധിയുള്ള ഹൈക്കോടതി? ",
+    "answerText": " ഗുവാഹത്തി ഹൈക്കോടതി "
+  },
+  {
+    "questionNum": 95735,
+    "questionText": " നാഷണൽ ജുഡീഷ്യൽ അക്കാഡമിയുടെ ആസ്ഥാനം? ",
+    "answerText": " ഭോപ്പാൽ "
+  },
+  {
+    "questionNum": 95736,
+    "questionText": " വാദിയെയും പ്രതിയെയും കോടതിയിൽ വിളിച്ചുവരുത്തി അനുരഞ്ജനത്തിൽ പ്രേരിപ്പിച്ച് കേസുകൾ ഒത്തുതീർക്കുന്ന രീതി? ",
+    "answerText": " ലോക് അദാലത്ത് "
+  },
+  {
+    "questionNum": 95737,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി സ്ഥാപിച്ച ഹൈക്കോടതികൾ സ്ഥിതി ചെയ്യുന്നത്? ",
+    "answerText": " മുംബയ്, കൊൽക്കത്ത, ചെന്നൈ "
+  },
+  {
+    "questionNum": 95738,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി പാരിസ്ഥിതിക ബഞ്ച് സ്ഥാപിച്ചത്? ",
+    "answerText": " കൊൽക്കത്ത ഹൈക്കോടതി "
+  },
+  {
+    "questionNum": 95739,
+    "questionText": " Velu Thampi committed suicide at?",
+    "answerText": " Mannadi"
+  },
+  {
+    "questionNum": 95740,
+    "questionText": " കേരള ഹൈക്കോടതിക്ക് അധികാര പരിധിയുള്ള കേന്ദ്ര ഭരണപ്രദേശം? ",
+    "answerText": " ലക്ഷദ്വീപ് "
+  },
+  {
+    "questionNum": 95741,
+    "questionText": " The new Dalwa after Velu Thampi?",
+    "answerText": " Ummini Thampi"
+  },
+  {
+    "questionNum": 95742,
+    "questionText": " The weavers township of Balaramapuram was created by?",
+    "answerText": " Ummini Thampi"
+  },
+  {
+    "questionNum": 95743,
+    "questionText": " The first English Diwan of Travancore?",
+    "answerText": " Resident Col. Munro"
+  },
+  {
+    "questionNum": 95744,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ അടിയന്തരാവസ്ഥ പ്രഖ്യാപിക്കപ്പെട്ടത്? ",
+    "answerText": " 1962 ഒക്ടോബർ "
+  },
+  {
+    "questionNum": 95745,
+    "questionText": " തുടർച്ചയായി കൂടുതൽ കാലം അടിയന്തരാവസ്ഥ പ്രഖ്യാപിക്കപ്പെട്ട സംസ്ഥാനം? ",
+    "answerText": " പഞ്ചാബ് "
+  },
+  {
+    "questionNum": 95746,
+    "questionText": " ഇന്ത്യയിലെ ഒന്നാമത്തെ നിയമ ഓഫീസർ? ",
+    "answerText": " അറ്റോർണി ജനറൽ "
+  },
+  {
+    "questionNum": 95747,
+    "questionText": " ഇന്ത്യൻ സിവിൽ സർവ്വീസിൽ മാറ്റങ്ങൾ വരുത്താനായി കേന്ദ്രതലത്തിൽ രൂപീകൃതമായ കമ്മിറ്റി? ",
+    "answerText": " ഭരണപരിഷ്കരണ കമ്മിറ്റി "
+  },
+  {
+    "questionNum": 95748,
+    "questionText": " തെലുങ്കാന സമിതിയുടെ അധ്യക്ഷൻ? ",
+    "answerText": " ജസ്റ്റിസ് ബി.എൻ. ശ്രീകൃഷ്ണ "
+  },
+  {
+    "questionNum": 95749,
+    "questionText": " കേന്ദ്രവും സംസ്ഥാനങ്ങളും തമ്മിലുള്ള ധനപരമായ ബന്ധങ്ങൾ നിർണ്ണയിക്കുന്ന കണ്ണി? ",
+    "answerText": " ധനകാര്യകമ്മിഷൻ "
+  },
+  {
+    "questionNum": 95750,
+    "questionText": " ചെയർമാനുൾപ്പെടെ ധനകാര്യ കമ്മിഷനിലെ അംഗങ്ങളുടെ എണ്ണം? ",
+    "answerText": " അഞ്ച് "
+  },
+  {
+    "questionNum": 95751,
+    "questionText": " തിരഞ്ഞെടുപ്പ് കമ്മിഷണർക്ക് എത്ര വയസ്സുവരെ അധികാരത്തിൽ തുടരാം? ",
+    "answerText": 65
+  },
+  {
+    "questionNum": 95752,
+    "questionText": " വോട്ടർ പട്ടിക പ്രസിദ്ധീകരിക്കുന്നത് ആരാണ്? ",
+    "answerText": " മുഖ്യതിരഞ്ഞെടുപ്പ് കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 95753,
+    "questionText": " മുഖ്യ തിരഞ്ഞെടുപ്പ് കമ്മിഷണറെയും മറ്റ് കമ്മിഷണർമാരെയും നിയമിക്കുന്നത്? ",
+    "answerText": " രാഷ്‌ട്രപതി "
+  },
+  {
+    "questionNum": 95754,
+    "questionText": " കമ്മിഷന്റെ ചെയർമാനെ നിയമിക്കുന്നത്? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 95755,
+    "questionText": " ന്യൂനപക്ഷ കമ്മിഷൻ രൂപീകരിക്കപ്പെട്ടത്? ",
+    "answerText": " 1979 ജനുവരി "
+  },
+  {
+    "questionNum": 95756,
+    "questionText": " ഭരണഘടന ഭേദഗതിയെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന വകുപ്പ്? ",
+    "answerText": " 368-ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 95757,
+    "questionText": " മിനി കോൺസ്റ്റിറ്റ്യൂഷൻ എന്നറിയപ്പെടുന്ന ഭരണഘടനാ ഭേദഗതി? ",
+    "answerText": " 42 -ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 95758,
+    "questionText": " വോട്ടിംഗ് പ്രായം 18 വയസ്സായി ചുരുക്കിയ ഭേദഗതി? ",
+    "answerText": " അറുപത്തിയൊന്നാം ഭേദഗതി. "
+  },
+  {
+    "questionNum": 95759,
+    "questionText": " കേരളസംസ്ഥാനം രൂപീകൃതമായതെന്ന്? ",
+    "answerText": " 1956 നവംബർ 1 "
+  },
+  {
+    "questionNum": 95760,
+    "questionText": " കേരളത്തിലെ കോൺഗ്രസുകാരനായ ആദ്യ മുഖ്യമന്ത്രി? ",
+    "answerText": " ആർ.ശങ്കർ "
+  },
+  {
+    "questionNum": 95761,
+    "questionText": " സംസ്ഥാന ചരിത്രത്തിൽ ആദ്യത്തെ സാമ്പത്തിക ധവളപത്രം പുറത്തിറക്കിയ വർഷം? ",
+    "answerText": 2001
+  },
+  {
+    "questionNum": 95762,
+    "questionText": " കേരളാ പൊലീസിന്റെ യൂണിഫോം പാൻസാക്കാൻ തീരുമാനിച്ച വർഷം? ",
+    "answerText": 1982
+  },
+  {
+    "questionNum": 95763,
+    "questionText": " തൊഴിലാളികളുടെ മാഗ്നകാർട്ട എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " കേരള കർഷകത്തൊഴിലാളി നിയമം "
+  },
+  {
+    "questionNum": 95764,
+    "questionText": " യൂത്ത് ലീഗ് സ്ഥാപകൻ? ",
+    "answerText": " പൊന്നറ ശ്രീധരൻ "
+  },
+  {
+    "questionNum": 95765,
+    "questionText": " ഗാന്ധിജിയുടെ ആദ്യ കേരള സന്ദർശനം എന്നായിരുന്നു? ",
+    "answerText": 1920
+  },
+  {
+    "questionNum": 95766,
+    "questionText": " രണ്ടാം ബർദോളി എന്നറിയപ്പെടുന്ന സ്ഥലം? ",
+    "answerText": " പയ്യന്നൂർ "
+  },
+  {
+    "questionNum": 95767,
+    "questionText": " ഏറ്റവും കുറച്ചുകാലം കേരള മുഖ്യമന്ത്രിയായിരുന്നത്? ",
+    "answerText": " സി.എച്ച്. മുഹമ്മദ് കോയ "
+  },
+  {
+    "questionNum": 95768,
+    "questionText": " സംസ്ഥാനത്ത് ഏറ്റവും കൂടുതൽ കാലം മന്ത്രിയായിരുന്നത്? ",
+    "answerText": " കെ.എം.മാണി "
+  },
+  {
+    "questionNum": 95769,
+    "questionText": " ഫിക്കസ് ബംഗളൻസിസ് എന്ന ശാസ്ത്രീയനാമമുള്ള വൃക്ഷമേത്? ",
+    "answerText": " അരയാൽ "
+  },
+  {
+    "questionNum": 95770,
+    "questionText": " പാരദ്വീപ് തുറമുഖം ഏതു സംസ്ഥാനത്തിലാണ്? ",
+    "answerText": " ഒറീസ "
+  },
+  {
+    "questionNum": 95771,
+    "questionText": " നൂറുകിലോമീറ്ററിലധികം നീളമുള്ള എത്ര നദികളാണ് കേരളത്തിലുള്ളത്? ",
+    "answerText": " പതിനൊന്ന് "
+  },
+  {
+    "questionNum": 95772,
+    "questionText": " ഏതു രാജ്യത്തിന്റെ ദേശീയപുഷ്പമാണ് ചെമ്പരത്തിപ്പൂവ്? ",
+    "answerText": " ദക്ഷിണ കൊറിയ "
+  },
+  {
+    "questionNum": 95773,
+    "questionText": " ലണ്ടൻ ഏതു നദിയുടെ തീരത്താണ്? ",
+    "answerText": " തേംസ് "
+  },
+  {
+    "questionNum": 95774,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും വലിയ രണ്ടാമത്തെ കായലേത്? ",
+    "answerText": " അഷ്ടമുടിക്കായൽ "
+  },
+  {
+    "questionNum": 95775,
+    "questionText": " പരുത്തികൃഷിക്ക് ഏറ്റവുംഅനുയോജ്യമായ മണ്ണിനമേത്? ",
+    "answerText": " കരിമണ്ണ് "
+  },
+  {
+    "questionNum": 95776,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ കൃത്രിമ ഉപഗ്രഹമായ ആര്യഭട്ടയെ വിക്ഷേപിച്ചതെവിടെ നിന്നാണ്? ",
+    "answerText": " റഷ്യ "
+  },
+  {
+    "questionNum": 95777,
+    "questionText": " ഭൗമദിനമായി ആചരിക്കുന്നതേത്? ",
+    "answerText": " ഏപ്രിൽ 22 "
+  },
+  {
+    "questionNum": 95778,
+    "questionText": " നദികളൊന്നുമില്ലാത്ത ഭൂഖണ്ഡമേത്? ",
+    "answerText": " അന്റാർട്ടിക്ക "
+  },
+  {
+    "questionNum": 95779,
+    "questionText": " ആഫ്രിക്ക, യൂറോപ്പ് എന്നിവയെ വേർതിരിക്കുന്ന കടലിടുക്കേത്? ",
+    "answerText": " ജിബ്രാൾട്ടർ "
+  },
+  {
+    "questionNum": 95780,
+    "questionText": " അമേരിക്ക, കാനഡ എന്നിവയുടെ അതിർത്തിയിൽ സ്ഥിതിചെയ്യുന്ന വെള്ളച്ചാട്ടമേത്? ",
+    "answerText": " നയാഗ്ര "
+  },
+  {
+    "questionNum": 95781,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും നീളം കൂടിയ ദേശീയപാതയേത്? ",
+    "answerText": " എൻ.എച്ച.7 "
+  },
+  {
+    "questionNum": 95782,
+    "questionText": " പ്രയറി പുൽമേടുകൾ എവിടെയാണുള്ളത്? ",
+    "answerText": " വടക്കേ അമേരിക്ക "
+  },
+  {
+    "questionNum": 95783,
+    "questionText": " ലോകത്തിൽ ഏറ്റവും കൂടുതൽ അരിയുല്പാദിപ്പിക്കുന്ന രാജ്യം? ",
+    "answerText": " ചൈന "
+  },
+  {
+    "questionNum": 95784,
+    "questionText": " ആൽപ്സ് പർവതനിര ഏതുഭൂഖണ്ഡത്തിലാണ്? ",
+    "answerText": " യൂറോപ്പ് "
+  },
+  {
+    "questionNum": 95785,
+    "questionText": " നെയ്തുകാരുടെ പട്ടണം എന്നറിയപ്പെടുന്നതേത്? ",
+    "answerText": " പാനിപ്പത്ത് "
+  },
+  {
+    "questionNum": 95786,
+    "questionText": " ഏഷ്യൻ വികസനബാങ്കിന്റെ ആസ്ഥാനമെവിടെ? ",
+    "answerText": " മനില "
+  },
+  {
+    "questionNum": 95787,
+    "questionText": " The Secretariat System was introduced in Travancore by?",
+    "answerText": " Col. Munro"
+  },
+  {
+    "questionNum": 95788,
+    "questionText": " ഭരണഘടനാ നിർമ്മാണസഭയുടെ ആദ്യയോഗം ചേർന്ന തീയതി? ",
+    "answerText": " 1946 ഡിസംബർ 9 "
+  },
+  {
+    "questionNum": 95789,
+    "questionText": " ഭരണഘടനാ വ്യവസ്ഥപ്രകാരം ലോക്സഭയിൽ പരമാവധി എത്ര അംഗങ്ങൾ വരെയാകാം? ",
+    "answerText": 552
+  },
+  {
+    "questionNum": 95790,
+    "questionText": " ഭരണഘടനാ ഭേദഗതിയെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന അനുച്ഛേദം? ",
+    "answerText": 368
+  },
+  {
+    "questionNum": 95791,
+    "questionText": " ഏത് അനുച്ഛേദമാണ് ഗ്രാമപഞ്ചായത്തുകളുടെ രൂപവത്ക്കരണത്തെകുറിച്ച് പ്രതിപാദിക്കുന്നത്? ",
+    "answerText": 40
+  },
+  {
+    "questionNum": 95792,
+    "questionText": " തുല്യരിൽ ഒന്നാമൻ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " പ്രധാനമന്ത്രി "
+  },
+  {
+    "questionNum": 95793,
+    "questionText": " നാട്ടുരാജാക്കന്മാർക്ക് നൽകിയിരിക്കുന്ന പ്രിവിപഴ്സസ് നിർത്തലാക്കിയ പ്രധാനമന്ത്രി? ",
+    "answerText": " ഇന്ദിരാഗാന്ധി "
+  },
+  {
+    "questionNum": 95794,
+    "questionText": " നിയമത്തിനുമുന്നിൽ എല്ലാവർക്കും തുല്യത ഉറപ്പുവരുത്തുന്ന ഭരണഘടനാ അനുച്ഛേദം? ",
+    "answerText": 14
+  },
+  {
+    "questionNum": 95795,
+    "questionText": " ഭരണഘടനയുടെ എത്രാമത്തെ ഭാഗമാണ് രാഷ്ട്ര നയനിർദ്ദേശകതത്ത്വങ്ങളെകുറിച്ച് പ്രതിപാദിക്കുന്നത്? ",
+    "answerText": " നാലാം ഭാഗം "
+  },
+  {
+    "questionNum": 95796,
+    "questionText": " ലജിസ്ളേറ്റീവ് കൗൺസിൽ ഉള്ള ദക്ഷിണേന്ത്യൻ സംസ്ഥാനങ്ങൾ? ",
+    "answerText": " കർണാടകം, ആന്ധ്രാപ്രദേശ് "
+  },
+  {
+    "questionNum": 95797,
+    "questionText": " രാജ്യസഭയുടെ ഉപാധ്യക്ഷപദവിയിലെത്തിയ ആദ്യവനിത? ",
+    "answerText": " വയലറ്റ് ആൽവ "
+  },
+  {
+    "questionNum": 95798,
+    "questionText": " സാമ്പത്തിക അടിയന്തരാവസ്ഥ പ്രഖ്യാപിക്കാൻ രാഷ്ട്രപതിയെ അധികാരപ്പെടുത്തിയിരിക്കുന്ന അനുച്ഛേദം? ",
+    "answerText": 360
+  },
+  {
+    "questionNum": 95799,
+    "questionText": " ജുഡീഷ്യൽ റിവ്യൂ എന്ന ആശയം ഇന്ത്യ സ്വീകരിച്ചിരിക്കുന്നത് ഏത് രാജ്യത്തുനിന്നാണ്? ",
+    "answerText": " യു.എസ്.എ "
+  },
+  {
+    "questionNum": 95800,
+    "questionText": " അവശിഷ്ടാധികാരങ്ങൾ കേന്ദ്രത്തിൽ നിക്ഷിപ്തമാക്കുക എന്നആശയം ഇന്ത്യ സ്വീകരിച്ചിരിക്കുന്നത് ഏതു രാജ്യത്തുനിന്നാണ്? ",
+    "answerText": " കാനഡ "
+  },
+  {
+    "questionNum": 95801,
+    "questionText": " നിയമവാഴ്ച എന്ന ആശയം ഭരണഘടന കടം കൊണ്ടിരിക്കുന്നത് ഏതു രാജ്യത്തിൽ നിന്നാണ്? ",
+    "answerText": " ബ്രിട്ടൻ "
+  },
+  {
+    "questionNum": 95802,
+    "questionText": " ഭരണഘടനയിൽ മൗലിക കർത്തവ്യങ്ങളെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന ഭാഗം? ",
+    "answerText": " നാല് എ "
+  },
+  {
+    "questionNum": 95803,
+    "questionText": " ഇന്ത്യൻ പൗരത്വം എത്ര രീതിയിൽ ആർജിക്കാം? ",
+    "answerText": 5
+  },
+  {
+    "questionNum": 95804,
+    "questionText": " ഒന്നാമത്തെ ഭരണഘടനാഭേദഗതി ഏതു വർഷമായിരുന്നു? ",
+    "answerText": 1951
+  },
+  {
+    "questionNum": 95805,
+    "questionText": " The designation of the Karyakar was changed to Tahsildar as in British India by?",
+    "answerText": " Col. Munro"
+  },
+  {
+    "questionNum": 95806,
+    "questionText": " ഇന്ത്യൻ പാർലമെന്റിന്റെ ഉപരിസഭ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " രാജ്യസഭ "
+  },
+  {
+    "questionNum": 95807,
+    "questionText": " ലെജിസ്ളേറ്റീവ് അസംബ്ളിയുടെ ആദ്യ അധ്യക്ഷൻ? ",
+    "answerText": " സർഫ്രെഡറിക് വൈറ്റ് "
+  },
+  {
+    "questionNum": 95808,
+    "questionText": " ഓർഡിനൻസ് പുറപ്പെടുവിക്കാൻ രാഷ്ട്രപതിക്ക് അധികാരം നൽകുന്ന അനുച്ഛേദം? ",
+    "answerText": 123
+  },
+  {
+    "questionNum": 95809,
+    "questionText": " Slavery was abolished in Travancore by?",
+    "answerText": " Rani Gouri Lakshmi Bai in 1812"
+  },
+  {
+    "questionNum": 95810,
+    "questionText": " ഏത് സംസ്ഥാനത്താണ് ഇന്ത്യയിലെ ഏറ്റവും വിസ്തൃതമായ ജില്ല ഉള്ളത് ? ",
+    "answerText": " ഗുജറാത്ത് "
+  },
+  {
+    "questionNum": 95811,
+    "questionText": " എത്രാമത്തെ നിയമസഭയാണ് കേരളത്തിൽ നിലവിലുള്ളത്? ",
+    "answerText": " പതിനാലാമത്തെ "
+  },
+  {
+    "questionNum": 95812,
+    "questionText": " The direct management of Devaswoms by Government was introduced by?",
+    "answerText": " Col. Munro"
+  },
+  {
+    "questionNum": 95813,
+    "questionText": " Primary education was made compulsory in Travancore by?",
+    "answerText": " Rani Gauri Parvathi Bai in 1817"
+  },
+  {
+    "questionNum": 95814,
+    "questionText": " Swathi Tirunal was known as?",
+    "answerText": " Garbha Sriman"
+  },
+  {
+    "questionNum": 95815,
+    "questionText": " ‘Sucheendram Kaimukku’ was abolished by?",
+    "answerText": " Swathi Tirunal"
+  },
+  {
+    "questionNum": 95816,
+    "questionText": " English Education in Trivandrum was introdued by?",
+    "answerText": " Swathi Tirunal"
+  },
+  {
+    "questionNum": 95817,
+    "questionText": " Swathi Tirunal shifted the Hussur Kachery from Quilon to?",
+    "answerText": " Trivandrum"
+  },
+  {
+    "questionNum": 95818,
+    "questionText": " The first charity hospital at Trivandrum was introduced by?",
+    "answerText": " Swathi Tirunal"
+  },
+  {
+    "questionNum": 95819,
+    "questionText": " The first census of the state was conducted in?",
+    "answerText": " 1836 by Swathi Tirunal"
+  },
+  {
+    "questionNum": 95820,
+    "questionText": " The first Post - office in Travancore was opened in?",
+    "answerText": " 1857 at Alleppey by Utram Tirunal Marthanda Varma"
+  },
+  {
+    "questionNum": 95821,
+    "questionText": " The first modern factory for the manufacture of coir was opened at?",
+    "answerText": " Alleppey in 1859"
+  },
+  {
+    "questionNum": 95822,
+    "questionText": " The first Raja of Travancore to receive the title ‘Maharaja’ from the British crown?",
+    "answerText": " Ayilyam Tirunal (1860-80)"
+  },
+  {
+    "questionNum": 95823,
+    "questionText": " Thiruvananthapuram General Hospital was started in?",
+    "answerText": " 1864 during the reign of Ayilyam Thirunal"
+  },
+  {
+    "questionNum": 95824,
+    "questionText": " The Sirkar Anchal (Postal Service) was thrown open to the public in?",
+    "answerText": " 1861 (during the reign of AyilyamTirunal)"
+  },
+  {
+    "questionNum": 95825,
+    "questionText": " A full fledged Arts College was established at Trivandrum in?",
+    "answerText": 1866
+  },
+  {
+    "questionNum": 95826,
+    "questionText": " The first systematic census of Travancore was taken on?",
+    "answerText": " May 18; 1875 by Ayilyam Tirunal"
+  },
+  {
+    "questionNum": 95827,
+    "questionText": " The Pandarapattam proclamation was made in?",
+    "answerText": 1865
+  },
+  {
+    "questionNum": 95828,
+    "questionText": " The Janmi- Kudiyan proclamation was made in?",
+    "answerText": 1867
+  },
+  {
+    "questionNum": 95829,
+    "questionText": " Ayurveda College was started during the period of?",
+    "answerText": " Sri Mulam Tirunal (1885- 1924)"
+  },
+  {
+    "questionNum": 95830,
+    "questionText": " The Sri Mulam Popular Assembly (Praja Sabha) was formed in?",
+    "answerText": " 1904 by Sri Mulam Tirunal"
+  },
+  {
+    "questionNum": 95831,
+    "questionText": " The last Diwan of Travancore?",
+    "answerText": " Sir C.P. Ramaswami Ayyar"
+  },
+  {
+    "questionNum": 95832,
+    "questionText": " The functions of the Police and the Magistracy were separated during the reign of?",
+    "answerText": " Visakham Tirunal"
+  },
+  {
+    "questionNum": 95833,
+    "questionText": " Setu Lakshmi Bai acted as Regent from?",
+    "answerText": " 1924 to 1931"
+  },
+  {
+    "questionNum": 95834,
+    "questionText": " The English East India Company established a Spice plantation in?",
+    "answerText": 1797
+  },
+  {
+    "questionNum": 95835,
+    "questionText": " Who was the first Malayalee President of the Indian National Congress?",
+    "answerText": " C. Sankaran Nair"
+  },
+  {
+    "questionNum": 95836,
+    "questionText": " Who started ‘Mathrubhumi’ in 1923?",
+    "answerText": " K.P. Kesava Menon"
+  },
+  {
+    "questionNum": 95837,
+    "questionText": " Who was the editor of the publication ‘Al Amin’?",
+    "answerText": " Muhammad Abdur Rahiman"
+  },
+  {
+    "questionNum": 95838,
+    "questionText": " The Government passed the Malabar Tenancy Act in?",
+    "answerText": 1930
+  },
+  {
+    "questionNum": 95839,
+    "questionText": " Kerala’s first Railway line was built between?",
+    "answerText": " Beypore-Tirur"
+  },
+  {
+    "questionNum": 95840,
+    "questionText": " The last ruling Raja of Travancore?",
+    "answerText": " Sri Chitra Tirunal Balarama Varma"
+  },
+  {
+    "questionNum": 95841,
+    "questionText": " The Temple Entry Proclamation was made in?",
+    "answerText": 1936
+  },
+  {
+    "questionNum": 95842,
+    "questionText": " Who issued the famous Temple Entry Proclamation?",
+    "answerText": " Chithira Thirunal Balarama Varma"
+  },
+  {
+    "questionNum": 95843,
+    "questionText": " Which social reformer is known as Pulayaraja?",
+    "answerText": " Ayyankali"
+  },
+  {
+    "questionNum": 95844,
+    "questionText": " The birth place of Shankaracharya was at?",
+    "answerText": " Kalady"
+  },
+  {
+    "questionNum": 95845,
+    "questionText": " When did Vaikam Satyagraha broke out?",
+    "answerText": 1924
+  },
+  {
+    "questionNum": 95846,
+    "questionText": " Who assumed the title as “the father of political movement” in Modern Travancore?",
+    "answerText": " G. Parameswaran Pillai"
+  },
+  {
+    "questionNum": 95847,
+    "questionText": " “Malayali Memorial” was submitted on?",
+    "answerText": " January 1; 1891"
+  },
+  {
+    "questionNum": 95848,
+    "questionText": " The Malayali Memorial was signed by?",
+    "answerText": " 10;028 person"
+  },
+  {
+    "questionNum": 95849,
+    "questionText": " The brain behind the Malayali Memorial was?",
+    "answerText": " Barister G.P. Pillai"
+  },
+  {
+    "questionNum": 95850,
+    "questionText": " The Ezhava Memorial was submitted on?",
+    "answerText": " September 3; 1896"
+  },
+  {
+    "questionNum": 95851,
+    "questionText": " The Editor of the ‘Swadesabhimani’?",
+    "answerText": " K. Ramakrishna Pillai"
+  },
+  {
+    "questionNum": 95852,
+    "questionText": " The owner of the Swadeshabhimani?",
+    "answerText": " Vakkam Abdul Khadir Maulavi"
+  },
+  {
+    "questionNum": 95853,
+    "questionText": " Rama Krishna Pillai died in political exile at?",
+    "answerText": " Cannanore in April 1916"
+  },
+  {
+    "questionNum": 95854,
+    "questionText": " Who was the leader of the “Ezhava Memorial”?",
+    "answerText": " Dr. Palpu"
+  },
+  {
+    "questionNum": 95855,
+    "questionText": " Which movement started as a protest against the Constitutional reforms of 1932?",
+    "answerText": " Nivarthana movement"
+  },
+  {
+    "questionNum": 95856,
+    "questionText": " Who was the first President of the Travancore State Congress?",
+    "answerText": " Pattom A. Thanu Pillai"
+  },
+  {
+    "questionNum": 95857,
+    "questionText": " Punnapra-Vayalar upheaval broke out in?",
+    "answerText": 1946
+  },
+  {
+    "questionNum": 95858,
+    "questionText": " The Punnapra Vayalar upheaval was against the?",
+    "answerText": " proposal for an irremovable executive on the ‘American Model’."
+  },
+  {
+    "questionNum": 95859,
+    "questionText": " Who proposed the American Model?",
+    "answerText": " Sir C.P. Ramaswami Ayyar"
+  },
+  {
+    "questionNum": 95860,
+    "questionText": " The first popular ministry of Travancore was installed in office on?",
+    "answerText": " 24-Mar-48"
+  },
+  {
+    "questionNum": 95861,
+    "questionText": " First popular ministry of Tranvancore was headed by?",
+    "answerText": " Pattom A. Thanu Pillai"
+  },
+  {
+    "questionNum": 95862,
+    "questionText": " The agitation organised against the privatisation of electric supply in Cochin town?",
+    "answerText": " Electricity Agitation"
+  },
+  {
+    "questionNum": 95863,
+    "questionText": " Electricity Agitation broke out in?",
+    "answerText": 1936
+  },
+  {
+    "questionNum": 95864,
+    "questionText": " Cochin State Praja Mandal was formed in?",
+    "answerText": 1941
+  },
+  {
+    "questionNum": 95865,
+    "questionText": " Nivarthana Movement is otherwise known as?",
+    "answerText": " Abstention Movement"
+  },
+  {
+    "questionNum": 95866,
+    "questionText": " The first Chief Minister of Cochin?",
+    "answerText": " E Ikkanda Warrier"
+  },
+  {
+    "questionNum": 95867,
+    "questionText": " The integration of Travancore and Cochin took place on?",
+    "answerText": " 1-Jul-49"
+  },
+  {
+    "questionNum": 95868,
+    "questionText": " The first popular ministry in Travancore - Cochin was headed by?",
+    "answerText": " T.K. Narayana Pillai"
+  },
+  {
+    "questionNum": 95869,
+    "questionText": " Who founded the NSS?",
+    "answerText": " Mannath Padmanabhan"
+  },
+  {
+    "questionNum": 95870,
+    "questionText": " Who was the leader of the Vimochana Samaram?",
+    "answerText": " the NSS leader Mannath Padmanabhan"
+  },
+  {
+    "questionNum": 95871,
+    "questionText": " The Nair Service Society (NSS) was founded on?",
+    "answerText": " 31-Oct-14"
+  },
+  {
+    "questionNum": 95872,
+    "questionText": " The last Chief Minister of Travancore Cochin State?",
+    "answerText": " Panampalli Govinda Menon"
+  },
+  {
+    "questionNum": 95873,
+    "questionText": " The state of Kerala came into existence on?",
+    "answerText": " 1-Nov-56"
+  },
+  {
+    "questionNum": 95874,
+    "questionText": " The first general election to the Kerala State Legislature were held in?",
+    "answerText": " 1957 (February and March)"
+  },
+  {
+    "questionNum": 95875,
+    "questionText": " The agitation known as Vimochana Samaram or Liberation Struggle began on?",
+    "answerText": " 12-Jun-59"
+  },
+  {
+    "questionNum": 95876,
+    "questionText": " Chattampi Swamikal was born at?",
+    "answerText": " Kannanmoola in Trivandrum"
+  },
+  {
+    "questionNum": 95877,
+    "questionText": " At which place Chattampi Swamikal attained ‘Samadhi’?",
+    "answerText": " Panmana"
+  },
+  {
+    "questionNum": 95878,
+    "questionText": " Attingal Rebellion took place in?",
+    "answerText": 1721
+  },
+  {
+    "questionNum": 95879,
+    "questionText": " Kulachal Battle took place in?",
+    "answerText": 1741
+  },
+  {
+    "questionNum": 95880,
+    "questionText": " Kundara Proclamation took place in?",
+    "answerText": 1809
+  },
+  {
+    "questionNum": 95881,
+    "questionText": " Kurichyar Rebllion took place in?",
+    "answerText": 1812
+  },
+  {
+    "questionNum": 95882,
+    "questionText": " Channar Lahala took place in?",
+    "answerText": 1859
+  },
+  {
+    "questionNum": 95883,
+    "questionText": " Malayali Memorial took place in?",
+    "answerText": 1891
+  },
+  {
+    "questionNum": 95884,
+    "questionText": " Ezhava Memorial took place in?",
+    "answerText": 1896
+  },
+  {
+    "questionNum": 95885,
+    "questionText": " Mapla Rebllion, Wagon Tragedy took place in?",
+    "answerText": 1921
+  },
+  {
+    "questionNum": 95886,
+    "questionText": " Vaikkom Satyagraha took place in?",
+    "answerText": 1924
+  },
+  {
+    "questionNum": 95887,
+    "questionText": " Civil disobedience Movement took place in?",
+    "answerText": 1930
+  },
+  {
+    "questionNum": 95888,
+    "questionText": " Guruvayoor Satyagraha took place in?",
+    "answerText": 1931
+  },
+  {
+    "questionNum": 95889,
+    "questionText": " Nivarthana Agitation took place in?",
+    "answerText": 1932
+  },
+  {
+    "questionNum": 95890,
+    "questionText": " Temple Entry Proclamation took place in?",
+    "answerText": 1936
+  },
+  {
+    "questionNum": 95891,
+    "questionText": " State Congress Movement took place in?",
+    "answerText": 1938
+  },
+  {
+    "questionNum": 95892,
+    "questionText": " Kayyur Rebellion took place in?",
+    "answerText": " . 1941"
+  },
+  {
+    "questionNum": 95893,
+    "questionText": " First Air Service?",
+    "answerText": " Thiruvanathapuram-Mumbai"
+  },
+  {
+    "questionNum": 95894,
+    "questionText": " First Electrified Town?",
+    "answerText": " Thiruvananthapuram The"
+  },
+  {
+    "questionNum": 95895,
+    "questionText": " First women who got National Award for best Actress?",
+    "answerText": " Saradha"
+  },
+  {
+    "questionNum": 95896,
+    "questionText": " The first Person who got Vayalar Award?",
+    "answerText": " Lalithambika Antharjanam"
+  },
+  {
+    "questionNum": 95897,
+    "questionText": " The first European navigator who reached in Kerala?",
+    "answerText": " Vasco-da-Gama"
+  },
+  {
+    "questionNum": 95898,
+    "questionText": " The first Kerala cricket player who played in Indian cricket team?",
+    "answerText": " Tinu Yohannan"
+  },
+  {
+    "questionNum": 95899,
+    "questionText": " The first private T.V channel?",
+    "answerText": " Asianet"
+  },
+  {
+    "questionNum": 95900,
+    "questionText": " First Cinema Studio?",
+    "answerText": " Udhaya Studio (Allapuzha)"
+  },
+  {
+    "questionNum": 95901,
+    "questionText": " First Teak plantation?",
+    "answerText": " Nilambur"
+  },
+  {
+    "questionNum": 95902,
+    "questionText": " First Ltd Company?",
+    "answerText": " Punalur Paper Mill"
+  },
+  {
+    "questionNum": 95903,
+    "questionText": " First Women Governor?",
+    "answerText": " Jyothi Venkitachellam"
+  },
+  {
+    "questionNum": 95904,
+    "questionText": " First women high court judje?",
+    "answerText": " jestice anna chandy"
+  },
+  {
+    "questionNum": 95905,
+    "questionText": " First Mosque?",
+    "answerText": " Cheraman Juma Masjid; Kodugalloor"
+  },
+  {
+    "questionNum": 95906,
+    "questionText": " First Electronic Park?",
+    "answerText": " Technopark (Trivandrum)"
+  },
+  {
+    "questionNum": 95907,
+    "questionText": " First Jail?",
+    "answerText": " Kozikode(1837)"
+  },
+  {
+    "questionNum": 95908,
+    "questionText": " First Malayalam filim got Presidents goldmedal?",
+    "answerText": " Chemmeen"
+  },
+  {
+    "questionNum": 95909,
+    "questionText": " First person who got Saraswathy Samman?",
+    "answerText": " Balamaniyamma"
+  },
+  {
+    "questionNum": 95910,
+    "questionText": " First Political Drama?",
+    "answerText": " Pattabhakki"
+  },
+  {
+    "questionNum": 95911,
+    "questionText": " First malayalee chief justice of Supreame Court?",
+    "answerText": " Justice K.G.Balakrishnan"
+  },
+  {
+    "questionNum": 95912,
+    "questionText": " Whose famous saying is “One Caste, one Religion, one God for man”?",
+    "answerText": " Sree Narayana Guru"
+  },
+  {
+    "questionNum": 95913,
+    "questionText": " Sree Narayana Guru attained Samadhi at?",
+    "answerText": " Varkala in 1928"
+  },
+  {
+    "questionNum": 95914,
+    "questionText": " Who was the founder of the Sidhasramam at Alathur?",
+    "answerText": " Brahmananda Sivayogi"
+  },
+  {
+    "questionNum": 95915,
+    "questionText": " Who was the founder of the organisation called “Samatva Samajam”?",
+    "answerText": " Vaikunta Swami"
+  },
+  {
+    "questionNum": 95916,
+    "questionText": " When did S.N.D.P. Yogam come in to existence?",
+    "answerText": " 15-May-03"
+  },
+  {
+    "questionNum": 95917,
+    "questionText": " The first annual session of SNDP Yogam was held in?",
+    "answerText": " 1904 at Aruvipuram"
+  },
+  {
+    "questionNum": 95918,
+    "questionText": " Who started the newspaper called “Sujananandini”?",
+    "answerText": " Kesavan Asan"
+  },
+  {
+    "questionNum": 95919,
+    "questionText": " Kerala Kaumudi was started by?",
+    "answerText": " C.V. Kunhiraman from Mayyanad in 1911"
+  },
+  {
+    "questionNum": 95920,
+    "questionText": " Real name of Chattampi Swamikal?",
+    "answerText": " Kunjan Pillai"
+  },
+  {
+    "questionNum": 95921,
+    "questionText": " Founder of the Vidhya Poshini Sabha?",
+    "answerText": " Sahodaran Ayyappan"
+  },
+  {
+    "questionNum": 95922,
+    "questionText": " Pattini Jatha was led by?",
+    "answerText": " AK Gopalan in July 1936 from Kannur to Chennai"
+  },
+  {
+    "questionNum": 95923,
+    "questionText": " Yachana Yathra was led by?",
+    "answerText": " VT Bhattathrippadu in 1931 from Trichur to Chandragiri"
+  },
+  {
+    "questionNum": 95924,
+    "questionText": " Vaikkam Sathyagraha lasted for?",
+    "answerText": " 20 months"
+  },
+  {
+    "questionNum": 95925,
+    "questionText": " Gandhiji called Ayyankali?",
+    "answerText": " Pulaya Raja"
+  },
+  {
+    "questionNum": 95926,
+    "questionText": " Chattampi Swami Memorial is situated at?",
+    "answerText": " Panmana"
+  },
+  {
+    "questionNum": 95927,
+    "questionText": " Gandhiji visited Sree Narayana Guru in?",
+    "answerText": " 1925 at Sivagiri"
+  },
+  {
+    "questionNum": 95928,
+    "questionText": " The organisation formed by the Namboothiris for social reform?",
+    "answerText": " Yogakshema Movement"
+  },
+  {
+    "questionNum": 95929,
+    "questionText": " Yogakshema Movement was started in?",
+    "answerText": 1908
+  },
+  {
+    "questionNum": 95930,
+    "questionText": " Guruvayur Satyagraha was started on?",
+    "answerText": " 1-Nov-31"
+  },
+  {
+    "questionNum": 95931,
+    "questionText": " Who formed the “Sahodara Sangham”?",
+    "answerText": " K. Ayyappan"
+  },
+  {
+    "questionNum": 95932,
+    "questionText": " Who was the leader of the ‘Guruvayur Satyagraha’?",
+    "answerText": " K. Kelappan"
+  },
+  {
+    "questionNum": 95933,
+    "questionText": " Who founded the “Sadhu Jana Paripalana Yogam”?",
+    "answerText": " Ayyankali"
+  },
+  {
+    "questionNum": 95934,
+    "questionText": " Who popularised Arabic- Malayalam by publishing an Arabic- Malayalam monthly called ‘Al-Islam’?",
+    "answerText": " Vakkam Abdul Khadir Maulavi"
+  },
+  {
+    "questionNum": 95935,
+    "questionText": " When was the Nanjanad Vellala Act passed?",
+    "answerText": 1926
+  },
+  {
+    "questionNum": 95936,
+    "questionText": " Which was hailed as “the Magna Carta of the Travancore ryots”?",
+    "answerText": " Pandara Pattom Proclamation"
+  },
+  {
+    "questionNum": 95937,
+    "questionText": " The Chief Minister who became the Chief Minister for the maximum number of times?",
+    "answerText": " K. Karunakaran (4 times)"
+  },
+  {
+    "questionNum": 95938,
+    "questionText": " The Chief Minister who ruled for the longest term?",
+    "answerText": " E.K. Nayanar"
+  },
+  {
+    "questionNum": 95939,
+    "questionText": " The first Chief Minister who completed the term of five years?",
+    "answerText": " C. Achuthamenon"
+  },
+  {
+    "questionNum": 95940,
+    "questionText": " The oldest person to become the Chief Minister?",
+    "answerText": " V.S. Achuthanandan"
+  },
+  {
+    "questionNum": 95941,
+    "questionText": " First Chief Minister of Kerala who lost power through article 356?",
+    "answerText": " EMS Namboothiripad"
+  },
+  {
+    "questionNum": 95942,
+    "questionText": " Only person to head the Ministeries of Travancore, Thiru-Kochi and Kerala?",
+    "answerText": " Pattam A. Thanu Pillai"
+  },
+  {
+    "questionNum": 95943,
+    "questionText": " First to become Chief Minister after holding the post of Speaker?",
+    "answerText": " C. H. Muhammed Koya"
+  },
+  {
+    "questionNum": 95944,
+    "questionText": " First Raja Sabha Member to become Kerala Chief Minister?",
+    "answerText": " C. Achuthamenon"
+  },
+  {
+    "questionNum": 95945,
+    "questionText": " First Central Cabinet Minister from Kerala?",
+    "answerText": " Dr. John Mathai (1947 -50)"
+  },
+  {
+    "questionNum": 95946,
+    "questionText": " First woman Central Minister from Kerala?",
+    "answerText": " Lakshmi N. Menon"
+  },
+  {
+    "questionNum": 95947,
+    "questionText": " Present Kerala Secretariat building was built in?",
+    "answerText": 1869
+  },
+  {
+    "questionNum": 95948,
+    "questionText": " Kerala Pradesh Congress Committee was formed in?",
+    "answerText": " 1925 with K. Madhavan as its Secretary"
+  },
+  {
+    "questionNum": 95949,
+    "questionText": " The first trade union in Kerala?",
+    "answerText": " The Travancore Labour Association (1922)"
+  },
+  {
+    "questionNum": 95950,
+    "questionText": " Kerala History Museum is located at?",
+    "answerText": " Edappalli; Ernakulam"
+  },
+  {
+    "questionNum": 95951,
+    "questionText": " The church where Vasco da Gama was buried at Kochi.?",
+    "answerText": " St. Francis Church"
+  },
+  {
+    "questionNum": 95952,
+    "questionText": " The first church built by the Europeans in India is.......... at Kochi.?",
+    "answerText": " St. Francis Church"
+  },
+  {
+    "questionNum": 95953,
+    "questionText": " The first rubberised road in Kerala connects Kottayam and......?",
+    "answerText": " Kumali"
+  },
+  {
+    "questionNum": 95954,
+    "questionText": " The headquarters of Kerala Live Stock Development Corporation?",
+    "answerText": " Thiruvananthapuram"
+  },
+  {
+    "questionNum": 95955,
+    "questionText": " Charalkkunnu is a hill station in ...... district.?",
+    "answerText": " Pathanamthitta"
+  },
+  {
+    "questionNum": 95956,
+    "questionText": " Who wrote ‘Thudikkunna Thalukal’?",
+    "answerText": " Changampuzha"
+  },
+  {
+    "questionNum": 95957,
+    "questionText": " Who became the first president of Travancore Communist Party?",
+    "answerText": " KC George"
+  },
+  {
+    "questionNum": 95958,
+    "questionText": " Who wrote ‘Adukkalayilninnu Parliamentilekk’?",
+    "answerText": " Bharati Udayabhanu"
+  },
+  {
+    "questionNum": 95959,
+    "questionText": " The districts that lead in the production of spices are Idukky and......?",
+    "answerText": " Wayanad"
+  },
+  {
+    "questionNum": 95960,
+    "questionText": " introduced Land Reforms Bill in Kerala legislative assembly?",
+    "answerText": " KR Gowri"
+  },
+  {
+    "questionNum": 95961,
+    "questionText": " Who was the last chief minister of TravancoreCochin?",
+    "answerText": " Panampilly Govindamenon"
+  },
+  {
+    "questionNum": 95962,
+    "questionText": " Father of Nuclear Physics?",
+    "answerText": " Ernest Rutherford"
+  },
+  {
+    "questionNum": 95963,
+    "questionText": " Father of Indian Nuclear Programme?",
+    "answerText": " Homi.J. Bhabha"
+  },
+  {
+    "questionNum": 95964,
+    "questionText": " Two types of Units are?",
+    "answerText": " Fundamental Units and Derived Units"
+  },
+  {
+    "questionNum": 95965,
+    "questionText": " Fundamental units can be expressed in 3 kinds of measuring systems such as?",
+    "answerText": " CGS; MKS and FPS"
+  },
+  {
+    "questionNum": 95966,
+    "questionText": " The Units which are derived from fundamental units?",
+    "answerText": " Derived Units"
+  },
+  {
+    "questionNum": 95967,
+    "questionText": " Modified form of MKS System?",
+    "answerText": " SI (System International)"
+  },
+  {
+    "questionNum": 95968,
+    "questionText": " Globally approved form of unit system is?",
+    "answerText": " SI system"
+  },
+  {
+    "questionNum": 95969,
+    "questionText": " Physical quantities are divided into?",
+    "answerText": " Scalar quantity & Vector quantity"
+  },
+  {
+    "questionNum": 95970,
+    "questionText": " Physical quantity having only magnitude, but no direction?",
+    "answerText": " Scalar quantity eg : Mass; Length; Time etc"
+  },
+  {
+    "questionNum": 95971,
+    "questionText": " Physical quantity having both magnitude and direction?",
+    "answerText": " Vector quantity eg: Velocity; Momentum; Force etc"
+  },
+  {
+    "questionNum": 95972,
+    "questionText": " 99% of matter in the Universe is in?",
+    "answerText": " Plasma form"
+  },
+  {
+    "questionNum": 95973,
+    "questionText": " Fifth state of matter?",
+    "answerText": " Bose Einstein condensate"
+  },
+  {
+    "questionNum": 95974,
+    "questionText": " Bose Einstein condensate was first predicted by?",
+    "answerText": " Sathyendra Nath Bose and Albert Einstein"
+  },
+  {
+    "questionNum": 95975,
+    "questionText": " The pure Bose Einstein was first created by?",
+    "answerText": " Eric Cornell and Carl Wieman"
+  },
+  {
+    "questionNum": 95976,
+    "questionText": " The quark model of matter was discovered by?",
+    "answerText": " Murray Gell Mann and George Sick"
+  },
+  {
+    "questionNum": 95977,
+    "questionText": " The particle made up of quarks and Gluons?",
+    "answerText": " Hadrons"
+  },
+  {
+    "questionNum": 95978,
+    "questionText": " Most stable form of hadrons are?",
+    "answerText": " Protons and Neutrons"
+  },
+  {
+    "questionNum": 95979,
+    "questionText": " The energy carriers in the matter?",
+    "answerText": " Bosons$"
+  },
+  {
+    "questionNum": 95980,
+    "questionText": " Bosons which carry electromagnetic force are?",
+    "answerText": " Photons"
+  },
+  {
+    "questionNum": 95981,
+    "questionText": " Bosons which carry weak nuclear force?",
+    "answerText": " W & Z Bosons"
+  },
+  {
+    "questionNum": 95982,
+    "questionText": " Bosons which carry strong nuclear force are?",
+    "answerText": " Gluons"
+  },
+  {
+    "questionNum": 95983,
+    "questionText": " Higgs Boson was discovered on?",
+    "answerText": " 2012 july 4"
+  },
+  {
+    "questionNum": 95984,
+    "questionText": " Particle which is known as 'God particle'?",
+    "answerText": " Higgs Boson"
+  },
+  {
+    "questionNum": 95985,
+    "questionText": " The particle which gives the property of mass to the matter?",
+    "answerText": " Higgs Boson"
+  },
+  {
+    "questionNum": 95986,
+    "questionText": " The particle which is considered the building blocks of all life?",
+    "answerText": " Higgs Boson"
+  },
+  {
+    "questionNum": 95987,
+    "questionText": " Higgs Boson was discovered at?",
+    "answerText": " CERN"
+  },
+  {
+    "questionNum": 95988,
+    "questionText": " The Indian scientist related to the term Boson?",
+    "answerText": " Sathyendra Nath Bose"
+  },
+  {
+    "questionNum": 95989,
+    "questionText": " Unit of work is?",
+    "answerText": " louie or Nm"
+  },
+  {
+    "questionNum": 95990,
+    "questionText": " In CGS System the unit of work is?",
+    "answerText": " erg "
+  },
+  {
+    "questionNum": 95991,
+    "questionText": " The rate of doing work is called?",
+    "answerText": " Power "
+  },
+  {
+    "questionNum": 95992,
+    "questionText": " Unit of power is?",
+    "answerText": " Watt or joule/sec"
+  },
+  {
+    "questionNum": 95993,
+    "questionText": " Power is a?",
+    "answerText": " scalar quantity"
+  },
+  {
+    "questionNum": 95994,
+    "questionText": " Power is Measured in?",
+    "answerText": " Horse power "
+  },
+  {
+    "questionNum": 95995,
+    "questionText": " The capacity to do a work is called?",
+    "answerText": " Energy"
+  },
+  {
+    "questionNum": 95996,
+    "questionText": " Unit of energy is?",
+    "answerText": " Joule"
+  },
+  {
+    "questionNum": 95997,
+    "questionText": " The energy developed on a body when a work done on that?",
+    "answerText": " Mechanical energy"
+  },
+  {
+    "questionNum": 95998,
+    "questionText": " Two types of Mechanical energy are -?",
+    "answerText": " Kinetic energy and Potential energy"
+  },
+  {
+    "questionNum": 95999,
+    "questionText": " Energy possessed by a body due to its motion is called?",
+    "answerText": " Kinetic Energy"
+  },
+  {
+    "questionNum": 96000,
+    "questionText": " If velocity is doubled, kinetic energy become?",
+    "answerText": " Four times"
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "questionNum": 96001,
+    "questionText": " If the mass of a moving body is doubled, its kinetic energy is?",
+    "answerText": " Doubled"
+  },
+  {
+    "questionNum": 96002,
+    "questionText": " Energy possessed by a body, by virtue of its position is called?",
+    "answerText": " Potential Energy "
+  },
+  {
+    "questionNum": 96003,
+    "questionText": " Energy stored in a compressed string is?",
+    "answerText": " Potential Energy"
+  },
+  {
+    "questionNum": 96004,
+    "questionText": " Energy stored in a water reservoir is?",
+    "answerText": " Potential Energy"
+  },
+  {
+    "questionNum": 96005,
+    "questionText": " Potential energy of an object at a ground level is?",
+    "answerText": " Zero"
+  },
+  {
+    "questionNum": 96006,
+    "questionText": " Potential energy increases as the height?",
+    "answerText": " Increases"
+  },
+  {
+    "questionNum": 96007,
+    "questionText": " When a free falling object approaches the earth, its potential energy?",
+    "answerText": " Decreases"
+  },
+  {
+    "questionNum": 96008,
+    "questionText": " Law of Conservation of Energy is put forward by?",
+    "answerText": " Albert Einstein (E =mc2 (m = mass; C = Velocity of light)"
+  },
+  {
+    "questionNum": 96009,
+    "questionText": " Einstein proposed the Special Theory of Relativity in?",
+    "answerText": 1905
+  },
+  {
+    "questionNum": 96010,
+    "questionText": " Einstein proposed the General Theory of Relativity in?",
+    "answerText": 1915
+  },
+  {
+    "questionNum": 96011,
+    "questionText": " The change in posltion of an object over time is called?",
+    "answerText": " Motion"
+  },
+  {
+    "questionNum": 96012,
+    "questionText": " Actual length travelled by a body is called?",
+    "answerText": " Distance"
+  },
+  {
+    "questionNum": 96013,
+    "questionText": " Shortest distance from the initial to the final position of a body is called?",
+    "answerText": " Displacement."
+  },
+  {
+    "questionNum": 96014,
+    "questionText": " The study of particles or bodies when they are at rest or in motion is dealt with?",
+    "answerText": " Mechanics"
+  },
+  {
+    "questionNum": 96015,
+    "questionText": " Mechanics is divided into two, they are?",
+    "answerText": " Statics & Dynamics"
+  },
+  {
+    "questionNum": 96016,
+    "questionText": " കേരളത്തിലെ ആദ്യ കർഷകസംഘം രൂപം കൊണ്ടതെവിടെ? ",
+    "answerText": " മലബാറിൽ "
+  },
+  {
+    "questionNum": 96017,
+    "questionText": " മനുഷ്യവർഗത്തെപ്പറ്റി ശാസ്ത്രീയമായി പഠിക്കുന്ന പഠനശാഖ ഏത്? ",
+    "answerText": " ആന്ത്രോപ്പോളജി "
+  },
+  {
+    "questionNum": 96018,
+    "questionText": " ഊഷ്മാവ് അളക്കാൻ ഉപയോഗിക്കുന്ന ഉപകരണം ഏത്? ",
+    "answerText": " തെർമോമീറ്റർ "
+  },
+  {
+    "questionNum": 96019,
+    "questionText": " മിന്നാമിനുങ്ങിന്റെ ശരീരത്തിൽ നിന്ന് പ്രകാശം വരുന്നതിനു കാരണമായ രാസവസ്തു ഏത്? ",
+    "answerText": " ലൂസിഫറിൻ "
+  },
+  {
+    "questionNum": 96020,
+    "questionText": " ഭൂദാന പ്രസ്ഥാനം നയിച്ചതാര്? ",
+    "answerText": " വിനോബാഭാവെ "
+  },
+  {
+    "questionNum": 96021,
+    "questionText": " പ്രസിഡന്റിന്റെ സ്വർണ മെഡൽ നേടിയ ആദ്യ മലയാള ചിത്രം ഏത്? ",
+    "answerText": " ചെമ്മീൻ "
+  },
+  {
+    "questionNum": 96022,
+    "questionText": " കേരളത്തിൽ നിന്നുള്ള ലോക്സഭാംഗങ്ങളുടെ എണ്ണം എത്ര? ",
+    "answerText": 20
+  },
+  {
+    "questionNum": 96023,
+    "questionText": " തീപ്പെട്ടിയുടെ വശങ്ങളിൽ ഉപയോഗിക്കുന്ന രാസവസ്തു ഏത്? ",
+    "answerText": " ചുവന്ന ഫോസ്ഫറസ് "
+  },
+  {
+    "questionNum": 96024,
+    "questionText": " ശ്രീലങ്കയുടെ പഴയ പേര് എന്ത്? ",
+    "answerText": " സിലോൺ "
+  },
+  {
+    "questionNum": 96025,
+    "questionText": " വന്ദേമാതരം രചിച്ചത് ആര്? ",
+    "answerText": " ബങ്കിംചന്ദ്ര ചാറ്റർജി "
+  },
+  {
+    "questionNum": 96026,
+    "questionText": " പഞ്ചസാര തന്മാത്രയിൽ അടങ്ങിയിട്ടുള്ള മൂലകം ഏത്? ",
+    "answerText": " നൈട്രജൻ "
+  },
+  {
+    "questionNum": 96027,
+    "questionText": " പ്രകാശ് പദുകോൺ ഏത് കളിയുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു? ",
+    "answerText": " ബാഡ്മിന്റൺ "
+  },
+  {
+    "questionNum": 96028,
+    "questionText": " എല്ലാ ആസിഡുകളിലും അടങ്ങിയിട്ടുള്ളത് ഏത്? ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96029,
+    "questionText": " രക്തസമ്മർദ്ദം അളക്കുന്ന ഉപകരണം ഏത്? ",
+    "answerText": " സ്പിഗ്മോ മാനോമീറ്റർ "
+  },
+  {
+    "questionNum": 96030,
+    "questionText": " ഭൂമികുലുക്കം രേഖപ്പെടുത്തുന്ന സ്കെയിൽ ഏത്? ",
+    "answerText": " റിക്ടർ സ്കെയിൽ "
+  },
+  {
+    "questionNum": 96031,
+    "questionText": " രാജസ്ഥാൻ മരുഭൂമിയുടെ അടിയിലൂടെ ഒഴുകുന്ന നദി ഏത്? ",
+    "answerText": " സരസ്വതി "
+  },
+  {
+    "questionNum": 96032,
+    "questionText": " പാചകവാതകത്തിന്റെ പ്രധാന കണിക ഏത്? ",
+    "answerText": " ബ്യൂട്ടൈൻ "
+  },
+  {
+    "questionNum": 96033,
+    "questionText": " സസ്യകോശങ്ങളുടെ ഭിത്തി നിർമ്മാണത്തിനുപയോഗിച്ചിട്ടുള്ളത് എന്ത്? ",
+    "answerText": " സെല്ലുലോസ് "
+  },
+  {
+    "questionNum": 96034,
+    "questionText": " അയോഡിന്റെ കുറവുമൂലം ഉണ്ടാകുന്ന രോഗം ഏത്? ",
+    "answerText": " ഗോയിറ്റർ "
+  },
+  {
+    "questionNum": 96035,
+    "questionText": " പസഫിക് സമുദ്രത്തിന് ആ പേര് നാമകരണം ചെയ്തതാര്? ",
+    "answerText": " മഗല്ലൻ "
+  },
+  {
+    "questionNum": 96036,
+    "questionText": " ഏഷ്യയിലെ ഏറ്റവും വലിയ റെയിൽവേ ശൃംഖല ഏതു രാജ്യത്താണ്? ",
+    "answerText": " ഇന്ത്യയിൽ "
+  },
+  {
+    "questionNum": 96037,
+    "questionText": " അശുദ്ധരക്തം വഹിക്കുന്ന ഏക ധമനി ഏത്? ",
+    "answerText": " ശ്വാസകോശധമിനി "
+  },
+  {
+    "questionNum": 96038,
+    "questionText": " അലക്സാൺഡ്രിയ നഗരം ഏത് നദിയുടെ തീരത്താണ്? ",
+    "answerText": " നൈൽ, ഈജിപ്ത് "
+  },
+  {
+    "questionNum": 96039,
+    "questionText": " കൊച്ചി എണ്ണശുദ്ധീകരണശാല ഏത് രാജ്യത്തിന്റെ സഹായത്തോടെയാണ് സ്ഥാപിച്ചത്? ",
+    "answerText": " അമേരിക്ക "
+  },
+  {
+    "questionNum": 96040,
+    "questionText": " രത്നക്കല്ലുകളുടെ നിക്ഷേപമുള്ള കേരളത്തിലെ ജില്ല ഏത്? ",
+    "answerText": " തിരുവനന്തപുരം "
+  },
+  {
+    "questionNum": 96041,
+    "questionText": " കേരളത്തിലെ വൃന്ദാവനം ഏത്? ",
+    "answerText": " മലമ്പുഴ ഉദ്യാനം "
+  },
+  {
+    "questionNum": 96042,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ ഗീതം ഏത്? ",
+    "answerText": " വന്ദേമാതരം "
+  },
+  {
+    "questionNum": 96043,
+    "questionText": " ലോക്സഭ പിരിച്ചുവിടാൻ അധികാരമുള്ളത് ആർക്ക്? ",
+    "answerText": " രാഷ്ട്രപതിക്ക് "
+  },
+  {
+    "questionNum": 96044,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും പുരാതനമായ തേക്കിൻ തോട്ടം ഏത്? ",
+    "answerText": " കനോലി പ്ളാന്റ്, നിലമ്പൂർ "
+  },
+  {
+    "questionNum": 96045,
+    "questionText": " ലയൺസ് ക്ളബ് സ്ഥാപിച്ചതാര്? ",
+    "answerText": " മെൽവിൻ ജോൺ "
+  },
+  {
+    "questionNum": 96046,
+    "questionText": " കേരളത്തിലെ ഏലം ഗവേഷണ കേന്ദ്രം എവിടെ? ",
+    "answerText": " പാമ്പാടുംപാറ "
+  },
+  {
+    "questionNum": 96047,
+    "questionText": " ഏറ്റവും ചെറിയ ആറ്റം ഏത്? ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96048,
+    "questionText": " റിമോട്ടുകളിൽ നിന്നും പുറപ്പെടുന്ന വികിരണം? ",
+    "answerText": " ഇൻഫ്രാറെഡ് "
+  },
+  {
+    "questionNum": 96049,
+    "questionText": " ആരെല്ലാം അടങ്ങുന്നതാണ് പാർലമെന്റ്? ",
+    "answerText": " പ്രസിഡന്റ്, രാജ്യസഭ, ലോക്സഭ "
+  },
+  {
+    "questionNum": 96050,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ റയിൽപ്പാത നിർമ്മിച്ചത് എവിടെ? ",
+    "answerText": " ബോംബെ - താന "
+  },
+  {
+    "questionNum": 96051,
+    "questionText": " തിമിംഗലത്തിന്റെ ത്വക്കിനടിയിലെ കൊഴുപ്പിന് പറയുന്ന പേരെന്ത്? ",
+    "answerText": " ബ്ളബ്ബർ "
+  },
+  {
+    "questionNum": 96052,
+    "questionText": " ജീവന്റെ ഭൗതികാടിസ്ഥാനം എന്നറിയപ്പെടുന്ന വസ്തു ഏത്? ",
+    "answerText": " പ്രോട്ടോപ്ളാസം "
+  },
+  {
+    "questionNum": 96053,
+    "questionText": " എൻ.സി.സി ദിനം എന്ന്? ",
+    "answerText": " നവംബർ 24. "
+  },
+  {
+    "questionNum": 96054,
+    "questionText": " ദേശീയ മനുഷ്യാവകാശ കമ്മിഷൻ നിലവിൽ വന്നത്? ",
+    "answerText": " 1993 സെപ്തംബർ 28 "
+  },
+  {
+    "questionNum": 96055,
+    "questionText": " കമ്മിഷന്റെ ചെയർമാനെ നിയമിക്കുന്നതാര്? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 96056,
+    "questionText": " സംസ്ഥാന മനുഷ്യാവകാശ കമ്മിഷന്റെ പ്രഥമ ചെയർമാൻ ആര്? ",
+    "answerText": " ജസ്റ്റിസ് എം.എം. പരീതുപിള്ള "
+  },
+  {
+    "questionNum": 96057,
+    "questionText": " The study of objects of-rest is called?",
+    "answerText": " Statics"
+  },
+  {
+    "questionNum": 96058,
+    "questionText": " 2011–2014 ലെ ദേശീയ വനിതാ കമ്മീഷൻ ചെയർപേഴ്സൺ ആര്? ",
+    "answerText": " മമത ശർമ്മ "
+  },
+  {
+    "questionNum": 96059,
+    "questionText": " കേരള സംസ്ഥാന വനിതാ കമ്മിഷൻ നിലവിൽ വന്നത് എന്ന്? ",
+    "answerText": " 1996 മാർച്ച് 14 "
+  },
+  {
+    "questionNum": 96060,
+    "questionText": " ന്യൂനപക്ഷ കമ്മിഷൻ രൂപീകരിക്കപ്പെട്ടത് എന്ന്? ",
+    "answerText": " 1979 ജനുവരി "
+  },
+  {
+    "questionNum": 96061,
+    "questionText": " ദേശീയ ന്യൂനപക്ഷ കമ്മിഷന്റെ ഇപ്പോഴത്തെ ചെയർമാൻ ആര്? ",
+    "answerText": " ജസ്റ്റിസ് രംഗനാഥ് മിശ്ര "
+  },
+  {
+    "questionNum": 96062,
+    "questionText": " ആദ്യത്തെ ഭരണഘടനാഭേദഗതി ബിൽ നിലവിൽ വന്നത് എന്ന്? ",
+    "answerText": 1951
+  },
+  {
+    "questionNum": 96063,
+    "questionText": " 6 മുതൽ 14 വയസുവരെയുള്ള കുട്ടികൾക്ക് സൗജന്യവും നിർബന്ധിതവുമായ വിദ്യാഭ്യാസം നൽകാൻ വ്യവസ്ഥ ചെയ്ത ഭേദഗതി ഏത്? ",
+    "answerText": " 86-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96064,
+    "questionText": " ലോക്സഭയിലെ അംഗസംഖ്യ 525 ൽ നിന്ന് 545 ആയി വർദ്ധിപ്പിച്ച ഭേദഗതി? ",
+    "answerText": " 31-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96065,
+    "questionText": " സ്വത്തവകാശം നിയമാവകാശം മാത്രമാക്കിയ ഭേദഗതി ഏത്? ",
+    "answerText": " 44-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96066,
+    "questionText": " കേരള ഭൂപരിഷ്കരണ നിയമങ്ങളെ ഭരണഘടനയുടെ ഒൻപതാം പട്ടികയിൽ ഉൾപ്പെടുത്തിയ ഭേദഗതി ഏത്? ",
+    "answerText": " 29-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96067,
+    "questionText": " സിക്കിമിനെ ഇന്ത്യയുടെ 22-ാം സംസ്ഥാനമായി പ്രഖ്യാപിച്ച ഭേദഗതി ഏത്? ",
+    "answerText": " 36-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96068,
+    "questionText": " 44-ാം ഭരണഘടനാഭേദഗതി പ്രകാരം 1978-ൽ ഏത് ഗവൺമെന്റാണ് സ്വത്തവകാശം മൗലികാവകാശങ്ങളുടെ പട്ടികയിൽ നിന്ന് നീക്കം ചെയ്തത്? ",
+    "answerText": " ജനതാ ഗവൺമെന്റ് "
+  },
+  {
+    "questionNum": 96069,
+    "questionText": " കൂറുമാറ്റ നിരോധന നിയമം നിലവിൽ വന്ന ഭേദഗതി ഏത്? ",
+    "answerText": " 52-ാം ഭേദഗതി "
+  },
+  {
+    "questionNum": 96070,
+    "questionText": " ഭരണഘടന പാസാക്കിയപ്പോൾ നിലവിലുണ്ടായിരുന്ന വകുപ്പുകൾ എത്ര? ",
+    "answerText": 395
+  },
+  {
+    "questionNum": 96071,
+    "questionText": " 2007-ലെ സുപ്രീംകോടതി വിധിപ്രകാരം ഭരണഘടനയുടെ ഏത് പട്ടികയിലെ നിയമങ്ങളാണ് കോടതിക്ക് പരിശോധിക്കാവുന്നത്? ",
+    "answerText": " 9-ാം പട്ടിക "
+  },
+  {
+    "questionNum": 96072,
+    "questionText": " ദേശീയ സ് മാരകങ്ങളുടെ സംരക്ഷണം ഉറപ്പുവരുത്തുന്ന വകുപ്പ്? ",
+    "answerText": " 49- ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 96073,
+    "questionText": " ഹൈക്കോടതി ജഡ്ജിയെക്കുറിച്ച് നിഷ്കർഷിക്കുന്ന വകുപ്പ് ഏത്? ",
+    "answerText": " 217-ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 96074,
+    "questionText": " സംസ്ഥാന പി.എസ്.സിയെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന വകുപ്പ് ഏത്? ",
+    "answerText": " 315-ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 96075,
+    "questionText": " പഞ്ചായത്തുകളുടെ രൂപീകരണത്തെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന വകുപ്പ് ഏത്? ",
+    "answerText": " 40-ാം വകുപ്പ് "
+  },
+  {
+    "questionNum": 96076,
+    "questionText": " 19-ാം ലാ കമ്മിഷൻ ചെയർമാൻ ആര്? ",
+    "answerText": " ജസ്റ്റിസ് പി.വി. റെഡ്ഢി "
+  },
+  {
+    "questionNum": 96077,
+    "questionText": " കേരള നിയമസഭയിലെ ഏറ്റവും പ്രായം കൂടിയ അംഗം? ",
+    "answerText": " വി.എസ്. അച്യുതാനന്ദൻ "
+  },
+  {
+    "questionNum": 96078,
+    "questionText": " പഞ്ചായത്തിലെ വോട്ടവകാശമുള്ള എല്ലാവരും ഉൾപ്പെടുന്ന സമിതി ഏത്? ",
+    "answerText": " ഗ്രാമസഭ "
+  },
+  {
+    "questionNum": 96079,
+    "questionText": " ആംഡ് ഫോഴ്സ് ട്രൈബ്യൂണലിന്റെ ആസ്ഥാനം? ",
+    "answerText": " ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 96080,
+    "questionText": " 2010-ലെ വേൾഡ് സ്റ്റേറ്റ്സ്മാൻ അവാർഡിന് അർഹനായത്? ",
+    "answerText": " ഡോ. മൻമോഹൻസിംഗ് "
+  },
+  {
+    "questionNum": 96081,
+    "questionText": " രാഷ്ട്രപതിയെ ഇംപീച്ച് ചെയ്യാൻ എത്ര പേർ ഒപ്പിട്ട ഹർജി നൽകണം? ",
+    "answerText": " പാർലമെന്റിന്റെ അംഗസംഖ്യയുടെ നാലിലൊന്ന് "
+  },
+  {
+    "questionNum": 96082,
+    "questionText": " സുപ്രീംകോടതിയുടെ ഭരണഘടനാബഞ്ചിൽ ഉണ്ടായിരിക്കാറുള്ള ജഡ്ജിമാരുടെ എണ്ണം? ",
+    "answerText": " ഏഴ് "
+  },
+  {
+    "questionNum": 96083,
+    "questionText": " ഒരാളെ ഒന്നിൽ കൂടുതൽ സംസ്ഥാനത്തെ ഗവർണറായി നിയമിക്കാമോ? ",
+    "answerText": " നിയമിക്കാം "
+  },
+  {
+    "questionNum": 96084,
+    "questionText": " ഇന്ത്യയിൽ ഗ്രാമസഭാ വർഷമായി ആചരിച്ചത്? ",
+    "answerText": " 1990 - 2000"
+  },
+  {
+    "questionNum": 96085,
+    "questionText": " ഇന്റർ പാർലമെന്ററി യൂണിയന്റെ ആദ്യ വനിതാ പ്രസിഡന്റ്? ",
+    "answerText": " നജ്മ ഹെപ്തുള്ള "
+  },
+  {
+    "questionNum": 96086,
+    "questionText": " പ്രധാനമന്ത്രിയുടെ ഔദ്യോഗിക വസതി? ",
+    "answerText": " 7 റേസ് കോഴ്സ് റോഡ് "
+  },
+  {
+    "questionNum": 96087,
+    "questionText": " ഫിഫ്ത്ത് എസ്റ്റേറ്റ് എന്ന പദം സൂചിപ്പിക്കുന്നത്? ",
+    "answerText": " അഭിപ്രായ സർവെ "
+  },
+  {
+    "questionNum": 96088,
+    "questionText": " ലോക്സഭയിൽ അവിശ്വാസപ്രമേയം കൊണ്ടുവരാൻ എത്ര അംഗങ്ങളുടെ അംഗീകാരം വേണം? ",
+    "answerText": 50
+  },
+  {
+    "questionNum": 96089,
+    "questionText": " മൗലിക കർത്തവ്യങ്ങൾ ഭരണഘടനയിൽ ഉൾപ്പെടുത്താൻ ശുപാർശ ചെയ്ത കമ്മിഷൻ? ",
+    "answerText": " സ്വരൺസിംഗ് കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 96090,
+    "questionText": " 2007-ലെ രാഷ്ട്രപതി തിരഞ്ഞെടുപ്പിൽ പ്രതിഭാപാട്ടീലിനെതിരെ മത്സരിച്ച സ്ഥാനാർത്ഥി? ",
+    "answerText": " ഭൈറോൺസിംഗ് ഷെഖാവത്ത് "
+  },
+  {
+    "questionNum": 96091,
+    "questionText": " ഇന്ത്യയുടെ 12-ാമത് രാഷ്ട്രപതി? ",
+    "answerText": " പ്രതിഭാ പാട്ടീൽ "
+  },
+  {
+    "questionNum": 96092,
+    "questionText": " 15-ാം ലോക്സഭയിലെ പ്രതിപക്ഷ നേതാവ്? ",
+    "answerText": " സുഷമ സ്വരാജ് "
+  },
+  {
+    "questionNum": 96093,
+    "questionText": " ആന്ധ്രാപ്രദേശിന്റെ ആസ്ഥാനം? ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 96094,
+    "questionText": " The study of moving objects is called?",
+    "answerText": " Dynamics"
+  },
+  {
+    "questionNum": 96095,
+    "questionText": " സത്യസായിബാബയുടെ ആശ്രമം? ",
+    "answerText": " പുട്ടപർത്തി "
+  },
+  {
+    "questionNum": 96096,
+    "questionText": " ലാൽബഹദൂർ ശാസ്ത്രി ഫുട്ബാൾ സ്റ്റേഡിയം സ്ഥിതിചെയ്യുന്നതെവിടെ? ",
+    "answerText": " ആന്ധ്രപ്രദേശ് "
+  },
+  {
+    "questionNum": 96097,
+    "questionText": " നാഷണൽ റിമോട്ട് സെൻസിംഗ് ഏജൻസിയുടെ ആസ്ഥാനം? ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 96098,
+    "questionText": " ചാർമിനാർ എക്സ്പ്രസ് ഏതെല്ലാം സ്ഥലങ്ങളെ തമ്മിൽ ബന്ധിപ്പിക്കുന്നു? ",
+    "answerText": " ഹൈദരാബാദ് - ചെന്നൈ "
+  },
+  {
+    "questionNum": 96099,
+    "questionText": " The product of mass and velocity of a body?",
+    "answerText": " Momentum "
+  },
+  {
+    "questionNum": 96100,
+    "questionText": " Unit of Momentum is?",
+    "answerText": " kg m/s"
+  },
+  {
+    "questionNum": 96101,
+    "questionText": " A Karate player in order to break a brick hits quickly because of?",
+    "answerText": " Momentum"
+  },
+  {
+    "questionNum": 96102,
+    "questionText": " Issac Newton propounded his law of motion is his book?",
+    "answerText": " Principia Mathematica"
+  },
+  {
+    "questionNum": 96103,
+    "questionText": " Propulsion of rocket is explained by which law of motion?",
+    "answerText": " Newton’s Third law of motion"
+  },
+  {
+    "questionNum": 96104,
+    "questionText": " Swimming is explained by which law of motion?",
+    "answerText": " Newton’s Third law of motion"
+  },
+  {
+    "questionNum": 96105,
+    "questionText": " Flying of Birds is explained by which law of motion?",
+    "answerText": " Newton’s Third law of motion"
+  },
+  {
+    "questionNum": 96106,
+    "questionText": " A property of a body which is unable to change its state by itself in the absense of external force called?",
+    "answerText": " Inertia"
+  },
+  {
+    "questionNum": 96107,
+    "questionText": " The Law of inertia was discovered by?",
+    "answerText": " Galileo"
+  },
+  {
+    "questionNum": 96108,
+    "questionText": " Which are the three types of inertia?",
+    "answerText": " Inertia of Rest; Inertia of Motion and Inertia of Direction"
+  },
+  {
+    "questionNum": 96109,
+    "questionText": " An athlete runs some distance before taking a long jump is example of?",
+    "answerText": " Inertia of motion"
+  },
+  {
+    "questionNum": 96110,
+    "questionText": " As the train starts moving, a man sitting inside leans backward is an example of?",
+    "answerText": " Inertia of rest"
+  },
+  {
+    "questionNum": 96111,
+    "questionText": " Rotating wheel of an automobile throw out mud tangentially outward is an example of?",
+    "answerText": " Inertia of direction"
+  },
+  {
+    "questionNum": 96112,
+    "questionText": " If a rotating body spins on its axis, its motion is called?",
+    "answerText": " Spin motion or rotation motion"
+  },
+  {
+    "questionNum": 96113,
+    "questionText": " When an object travels around another object it is known as?",
+    "answerText": " Revolution"
+  },
+  {
+    "questionNum": 96114,
+    "questionText": " The motion of an object in a vertical plane under the influence of gravitational force is known as?",
+    "answerText": " Projectile motion"
+  },
+  {
+    "questionNum": 96115,
+    "questionText": " ഏത് കലാരൂപത്തിൽ വെട്ടത്തുരാജാവ് വരുത്തിയ പരിഷ്ക്കാരങ്ങളാണ് വെട്ടത്തു സമ്പ്രദായംഎന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " കഥകളി "
+  },
+  {
+    "questionNum": 96116,
+    "questionText": " Projectile path is known as?",
+    "answerText": " Trajectory"
+  },
+  {
+    "questionNum": 96117,
+    "questionText": " A projectile reaches maximum range, when angle of projection is at?",
+    "answerText": 450
+  },
+  {
+    "questionNum": 96118,
+    "questionText": " The path of the projectile is always a?",
+    "answerText": " Parabola"
+  },
+  {
+    "questionNum": 96119,
+    "questionText": " An influence that changes the state of rest in a straight line of a body is called?",
+    "answerText": " Force F= ma "
+  },
+  {
+    "questionNum": 96120,
+    "questionText": " Unit of Force is?",
+    "answerText": " Newton or Kg m/s2"
+  },
+  {
+    "questionNum": 96121,
+    "questionText": " CGS unit of Force is -?",
+    "answerText": " Dyne"
+  },
+  {
+    "questionNum": 96122,
+    "questionText": " Strongest force in the universe is?",
+    "answerText": " Nuclear force"
+  },
+  {
+    "questionNum": 96123,
+    "questionText": " Weakest force in the universe, ?",
+    "answerText": " Gravitational Force"
+  },
+  {
+    "questionNum": 96124,
+    "questionText": " Force acting for a short time?",
+    "answerText": " Impulsive force"
+  },
+  {
+    "questionNum": 96125,
+    "questionText": " Force which acts on a body moving in a circular path and it is directed towards centre is called?",
+    "answerText": " Centripetal force"
+  },
+  {
+    "questionNum": 96126,
+    "questionText": " The force required by a Vehicle moving round a curved road is?",
+    "answerText": " Centripetal force"
+  },
+  {
+    "questionNum": 96127,
+    "questionText": " Force that acts on a body moving in a circular path and is directed away from the centre is called?",
+    "answerText": " Centrifugal force"
+  },
+  {
+    "questionNum": 96128,
+    "questionText": " The force that helps to separate cream from milk is?",
+    "answerText": " Centrifugal force"
+  },
+  {
+    "questionNum": 96129,
+    "questionText": " Capability of rotating objects around a fixed axis is called?",
+    "answerText": " Torque"
+  },
+  {
+    "questionNum": 96130,
+    "questionText": " Force that resists the movement of one surface over another is called?",
+    "answerText": " Frictional Force"
+  },
+  {
+    "questionNum": 96131,
+    "questionText": " The substances which reduce the frictional force between moving surfaces?",
+    "answerText": " Lubricants eg : Grease; Oil; Graphite"
+  },
+  {
+    "questionNum": 96132,
+    "questionText": " Force acts in a direction opposite to the direction of motion is?",
+    "answerText": " Static friction"
+  },
+  {
+    "questionNum": 96133,
+    "questionText": " Force occurs when two objects are moving relative to each other or rub together is?",
+    "answerText": " Kinetic friction"
+  },
+  {
+    "questionNum": 96134,
+    "questionText": " Force acts when two bodies role one another?",
+    "answerText": " Rolling friction"
+  },
+  {
+    "questionNum": 96135,
+    "questionText": " Force of attraction between unlike molecules is termed as?",
+    "answerText": " Adhesion"
+  },
+  {
+    "questionNum": 96136,
+    "questionText": " Water drop sticks on glass surface is an example of ….force?",
+    "answerText": " Adhesion"
+  },
+  {
+    "questionNum": 96137,
+    "questionText": " Force of attraction between like molecules is termed as?",
+    "answerText": " Cohesion"
+  },
+  {
+    "questionNum": 96138,
+    "questionText": " Water molecules join together is an example of ….force?",
+    "answerText": " Cohesion"
+  },
+  {
+    "questionNum": 96139,
+    "questionText": " Frictional force acting between parallel layers of a liquid is called?",
+    "answerText": " Viscosity"
+  },
+  {
+    "questionNum": 96140,
+    "questionText": " Unit of viscosity is?",
+    "answerText": " Poise"
+  },
+  {
+    "questionNum": 96141,
+    "questionText": " With increase in temperature, viscosity .?",
+    "answerText": " Decreases"
+  },
+  {
+    "questionNum": 96142,
+    "questionText": " Viscosity of gas is less than viscosity of?",
+    "answerText": " Liquid"
+  },
+  {
+    "questionNum": 96143,
+    "questionText": " Viscosity of an ideal fluid is?",
+    "answerText": " Zero"
+  },
+  {
+    "questionNum": 96144,
+    "questionText": " ഐക്യരാഷ്ട്ര സഭയിൽ അംഗമല്ലാത്ത സ്വതന്ത്ര രാജ്യങ്ങൾ? ",
+    "answerText": " തയ്വാൻ, വത്തിക്കാൻ, കൊസേവ "
+  },
+  {
+    "questionNum": 96145,
+    "questionText": " സ്കാൻഡിനേവിയൻ രാജ്യങ്ങളുടെ മറ്റൊരു പേര്? ",
+    "answerText": " നോർഡിക് രാജ്യങ്ങൾ "
+  },
+  {
+    "questionNum": 96146,
+    "questionText": " . ഫേസ്ബുക്ക് സ്ഥാപിതമായത്? ",
+    "answerText": " 2004 ഫെബ്രുവരി 4 "
+  },
+  {
+    "questionNum": 96147,
+    "questionText": " ഹോട്ട്മെയിലിന്റെ ഉപജ്ഞാതാവ്? ",
+    "answerText": " സബീർ ഭാട്ടിയ "
+  },
+  {
+    "questionNum": 96148,
+    "questionText": " വിക്കിലിക്സിന്റെ സ്ഥാപകൻ ? ",
+    "answerText": " ജൂലിയൻ അസാൻജ് "
+  },
+  {
+    "questionNum": 96149,
+    "questionText": " വിക്കിലിക്സിന്റെ ആപ്തവാക്യം? ",
+    "answerText": " അഴിമതിക്കെതിരെ കുരിശ് യുദ്ധം "
+  },
+  {
+    "questionNum": 96150,
+    "questionText": " ദേശീയ വിജ്ഞാന കമ്മിഷൻ നിലവിൽ വന്നത്? ",
+    "answerText": " 2005 ജൂൺ 13 "
+  },
+  {
+    "questionNum": 96151,
+    "questionText": " നെല്ലിന്റെ ജന്മദേശം? ",
+    "answerText": " ആഫ്രിക്ക "
+  },
+  {
+    "questionNum": 96152,
+    "questionText": " അമോണിയ നേരിട്ടുപയോഗിക്കുന്ന സസ്യം? ",
+    "answerText": " നെല്ല് "
+  },
+  {
+    "questionNum": 96153,
+    "questionText": " കേന്ദ്ര നെല്ലുഗവേഷണ കേന്ദ്രം? ",
+    "answerText": " കട്ടക്ക് "
+  },
+  {
+    "questionNum": 96154,
+    "questionText": " ആഗോള താപനത്തിനെതിരെ എവറസ്റ്റ് കൊടുമുടിയുടെ ബേസ് ക്യാംപിൽ മന്ത്രിസഭായോഗം നടത്തിയ രാജ്യം? ",
+    "answerText": " നേപ്പാൾ "
+  },
+  {
+    "questionNum": 96155,
+    "questionText": " നേപ്പാൾ പാർലമെന്റ് ? ",
+    "answerText": " നാഷണൽ പഞ്ചായത്ത് "
+  },
+  {
+    "questionNum": 96156,
+    "questionText": " നേപ്പാളിന്റെ നാണയം? ",
+    "answerText": " നേപ്പാൾ രൂപ "
+  },
+  {
+    "questionNum": 96157,
+    "questionText": " നേപ്പാളിന്റെ ദേശീയ പക്ഷി? ",
+    "answerText": " ഹിമാലയൻ മൊണാൽ "
+  },
+  {
+    "questionNum": 96158,
+    "questionText": " Liquids having low viscosity are called?",
+    "answerText": " Mobile liquids eg : Water; Kerosene; Alcohol; Petro"
+  },
+  {
+    "questionNum": 96159,
+    "questionText": " സ്പാനിഷ് ആഭ്യന്തര യുദ്ധത്തെ പശ്ചാത്തലമാക്കി പിക്കാസോ വരച്ച ചിത്രം? ",
+    "answerText": " ഗൂർണിക്ക "
+  },
+  {
+    "questionNum": 96160,
+    "questionText": " Fluids flow with zero viscosity is called?",
+    "answerText": " Super fluids eg : Honey; Coaltar; Glycerine etc"
+  },
+  {
+    "questionNum": 96161,
+    "questionText": " ഇ.കെ. നായനാരുടെ ആത്മകഥ? ",
+    "answerText": " മൈ സ്ട്രഗിൾ "
+  },
+  {
+    "questionNum": 96162,
+    "questionText": " എസ്.എൻ.ഡി.പിയുടെ ഇപ്പോഴത്തെ മുഖപത്രം? ",
+    "answerText": " യോഗനാദം "
+  },
+  {
+    "questionNum": 96163,
+    "questionText": " ലോഹനാശനം തടയാനായി ഇരുമ്പിനെ സിങ്ക് പൂശുന്ന പ്രക്രിയ? ",
+    "answerText": " ഗാൽവനൈസേഷൻ "
+  },
+  {
+    "questionNum": 96164,
+    "questionText": " The property of a liquid by which the free surface of liquid acts like a stretched membrane?",
+    "answerText": " Surface tension"
+  },
+  {
+    "questionNum": 96165,
+    "questionText": " അന്തരീക്ഷവുമായി ഏറ്റവും കുറച്ച് മാത്രം പ്രതിവർത്തിക്കുന്ന ലോഹം? ",
+    "answerText": " ടിൻ "
+  },
+  {
+    "questionNum": 96166,
+    "questionText": " സമുദ്രത്തിന്റെ ആഴം രേഖപ്പെടുത്താൻ ഉപയോഗിക്കുന്ന ഉപകരണം? ",
+    "answerText": " ഫാത്തോ മീറ്റർ "
+  },
+  {
+    "questionNum": 96167,
+    "questionText": " Surface tension is caused due to?",
+    "answerText": " Unbalanced molecular cohesive force"
+  },
+  {
+    "questionNum": 96168,
+    "questionText": " സമുദ്ര നിരപ്പിൽ നിന്നും ഒരു പ്രദേശത്തിന്റെ ഉയരം അളക്കുന്നതിനുള്ള ഉപകരണം? ",
+    "answerText": " അൾട്ടി മീറ്റർ "
+  },
+  {
+    "questionNum": 96169,
+    "questionText": " ജലത്തിനടിയിലെ ശബ്ദം അളക്കാനുപയോഗിക്കുന്ന ഉപകരണം? ",
+    "answerText": " ഹൈഡ്രോഫോൺ "
+  },
+  {
+    "questionNum": 96170,
+    "questionText": " ലിറ്റിൽ ബ്രെയിൻ എന്നറിയപ്പെടുന്ന തലച്ചോറിന്റെ ഭാഗം? ",
+    "answerText": " സെറിബെല്ലം "
+  },
+  {
+    "questionNum": 96171,
+    "questionText": " മദ്യം ബാധിക്കുന്ന തലച്ചോറിലെ ഭാഗം? ",
+    "answerText": " സെറിബെല്ലം "
+  },
+  {
+    "questionNum": 96172,
+    "questionText": " കാൽസ്യത്തിന്റെ ഏറ്റവും പ്രധാനപ്പെട്ട ധാതു? ",
+    "answerText": " കാൽസ്യം കാർബണേറ്റ് "
+  },
+  {
+    "questionNum": 96173,
+    "questionText": " ദേശീയ വനനയം നിലവിൽ വന്നത്? ",
+    "answerText": 1988
+  },
+  {
+    "questionNum": 96174,
+    "questionText": " ഇന്ദിരാഗാന്ധി നാഷണൽ ഫോറസ്റ്റ് അക്കാദമി സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " ഡെറാഡൂൺ "
+  },
+  {
+    "questionNum": 96175,
+    "questionText": " നന്ദവംശത്തെ പരാജയപ്പെടുത്തി മൗര്യസാമ്രാജ്യം സ്ഥാപിക്കാൻ ചന്ദ്രഗുപ്തമൗര്യനെ സഹായിച്ച ബ്രാഹ്മണൻ? ",
+    "answerText": " വിഷ്ണുഗുപ്തൻ "
+  },
+  {
+    "questionNum": 96176,
+    "questionText": " അർത്ഥശാസ്ത്രം ഇംഗ്ളീഷിലേക്ക് വിവർത്തനം ചെയ്തത്? ",
+    "answerText": " ശ്യാമശാസ്ത്രി "
+  },
+  {
+    "questionNum": 96177,
+    "questionText": " കുശാന വംശത്തിലെ പ്രധാന രാജാവായ കനിഷ്കന്റെ സദസിലെ ബുദ്ധമതപണ്ഡിതനാണ്? ",
+    "answerText": " അശ്വഘോഷൻ "
+  },
+  {
+    "questionNum": 96178,
+    "questionText": " ഏറ്റവും കൂടുതൽ മലിനീകരിക്കപ്പെടുന്ന നദി? ",
+    "answerText": " ഗംഗ "
+  },
+  {
+    "questionNum": 96179,
+    "questionText": " ഇന്ത്യയിൽ പഞ്ചായത്തീരാജ് നിയമം നിലവിൽ വന്നത്? ",
+    "answerText": " 1993ഏപ്രിൽ 24 "
+  },
+  {
+    "questionNum": 96180,
+    "questionText": " കേരള നിയമസഭാംഗമായി സത്യപ്രതിജ്ഞ ചെയ്ത ആദ്യ വ്യക്തി? ",
+    "answerText": " റോസമ്മ പുന്നൂസ് "
+  },
+  {
+    "questionNum": 96181,
+    "questionText": " ഏറ്റവും കൂടുതൽ വനിതാ പ്രാതിനിദ്ധ്യം ഉണ്ടായിരുന്നത്? ",
+    "answerText": " 13 പേർ "
+  },
+  {
+    "questionNum": 96182,
+    "questionText": " കേരളത്തിൽ നിന്ന് പാർലമെന്റംഗമായ ആദ്യ വനിത? ",
+    "answerText": " ആനിമസ്ക്രീൻ "
+  },
+  {
+    "questionNum": 96183,
+    "questionText": " അന്റാർട്ടിക്കയിലാദ്യമായി കാലുകുത്തിയത് ? ",
+    "answerText": " ജോൺ ഡേവിസ്, ജോൺ മക്പോർലൻ "
+  },
+  {
+    "questionNum": 96184,
+    "questionText": " രാഷ്ട്രപതി ഇലക്ഷനിൽ കെ.ആർ. നാരായണൻ തോൽപ്പിച്ചത്? ",
+    "answerText": " ടി.എൻ. ശേഷനെ "
+  },
+  {
+    "questionNum": 96185,
+    "questionText": " Surface tension is inversely proportional to temperature and?",
+    "answerText": " Pressure"
+  },
+  {
+    "questionNum": 96186,
+    "questionText": " ഇന്ത്യൻ പ്രസിഡന്റ് പദവിയിലെത്തിയ ശാസ്ത്രജ്ഞൻ? ",
+    "answerText": " എ.പി.ജെ. അബ്ദുൾകലാം "
+  },
+  {
+    "questionNum": 96187,
+    "questionText": " രാഷ്ട്രപതി തിരഞ്ഞെടുപ്പിൽ മത്സരിച്ച ആദ്യ മലയാളി? ",
+    "answerText": " വി.ആർ.കൃഷ്ണയ്യർ "
+  },
+  {
+    "questionNum": 96188,
+    "questionText": " 1975 ലെ വിവാദമായ അടിയന്തരാവസ്ഥ പ്രഖ്യാപിച്ചത്? ",
+    "answerText": " ഫക്രുദ്ദീൻ അലി അഹമ്മദ് "
+  },
+  {
+    "questionNum": 96189,
+    "questionText": " മണ്ടേലയുടെ ബാല്യകാല പേര്? ",
+    "answerText": " ഹോലീഹ്ഷാഹ്ഷ "
+  },
+  {
+    "questionNum": 96190,
+    "questionText": " മണ്ടേല തടവിലായിരുന്ന ജയിൽ? ",
+    "answerText": " റോബൻ ദ്വീപിലെ ജയിൽ "
+  },
+  {
+    "questionNum": 96191,
+    "questionText": " രക്തസാക്ഷികളുടെ രാജകുമാരൻ? ",
+    "answerText": " ഭഗത് സിങ് "
+  },
+  {
+    "questionNum": 96192,
+    "questionText": " നൗ ജവാൻ സഭയുടെ സ്ഥാപകൻ? ",
+    "answerText": " ഭഗത് സിങ് "
+  },
+  {
+    "questionNum": 96193,
+    "questionText": " ഇൻക്വിലാബ് സിന്ദാബാദ് എന്ന മുദ്രാവാക്യത്തിന് രൂപം നൽകിയത്? ",
+    "answerText": " മുഹമ്മദ് ഇക്ബാൽ "
+  },
+  {
+    "questionNum": 96194,
+    "questionText": " ''സാരെ ജഹാംസെ അച്ഛാ'' എന്ന് ഉറുദുവിൽ എഴുതപ്പെട്ട ഗീതത്തിന്റെ കർത്താവ്? ",
+    "answerText": " മുഹമ്മദ് ഇക്ബാൽ "
+  },
+  {
+    "questionNum": 96195,
+    "questionText": " പാകിസ്ഥാൻ എന്ന ആശയം ആദ്യമായി അവതരിപ്പിച്ചത്? ",
+    "answerText": " മുഹമ്മദ് ഇക്ബാൽ "
+  },
+  {
+    "questionNum": 96196,
+    "questionText": " പഞ്ചാബിന്റെ അമ്മ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " വിദ്യാവതി "
+  },
+  {
+    "questionNum": 96197,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ അച്ചടിശാല? ",
+    "answerText": " ജസ്യൂട്ട് പ്രസ് "
+  },
+  {
+    "questionNum": 96198,
+    "questionText": " Surface tension of hot water is less than that of?",
+    "answerText": " Cold water"
+  },
+  {
+    "questionNum": 96199,
+    "questionText": " ലോകത്തിൽ അച്ചടിക്കപ്പെട്ട ആദ്യ പുസ്തകം? ",
+    "answerText": " ഹിരാകസൂത്രം "
+  },
+  {
+    "questionNum": 96200,
+    "questionText": " അച്ചടിയന്ത്രം കണ്ടുപിടിച്ചത്? ",
+    "answerText": " ഗുട്ടൻബർഗ് "
+  },
+  {
+    "questionNum": 96201,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ പ്രതികൾ അച്ചടിക്കപ്പെട്ട പുസ്തകം? ",
+    "answerText": " ബൈബിൾ "
+  },
+  {
+    "questionNum": 96202,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വനിതാ വിദേശകാര്യ സെക്രട്ടറി? ",
+    "answerText": " ചൊക്കില അയ്യർ "
+  },
+  {
+    "questionNum": 96203,
+    "questionText": " ഇന്ത്യൻ ബഹിരാകാശ പദ്ധതിയുടെ പിതാവ്? ",
+    "answerText": " വിക്രം സാരാഭായ് "
+  },
+  {
+    "questionNum": 96204,
+    "questionText": " അമേരിക്കൻ ബഹിരാകാശ ഏജൻസി? ",
+    "answerText": " നാസ "
+  },
+  {
+    "questionNum": 96205,
+    "questionText": " ബഹിരാകാശ ശാസ്ത്രത്തിന്റെ പിതാവ്? ",
+    "answerText": " സ്യോൾക്കോവ്സ്കി "
+  },
+  {
+    "questionNum": 96206,
+    "questionText": " അമേരിക്ക വിക്ഷേപിച്ച ആദ്യ കൃത്രിമോപഗ്രഹം? ",
+    "answerText": " എക്സ്പ്ലോറർ 1, "
+  },
+  {
+    "questionNum": 96207,
+    "questionText": " നാസയുടെ ബഹിരാകാശ യാത്രികൻ? ",
+    "answerText": " ആസ്ട്രോണട്ട് "
+  },
+  {
+    "questionNum": 96208,
+    "questionText": " ബഹിരാകാശത്ത് എത്തിയ ആദ്യ ജീവി? ",
+    "answerText": " ലെയ്ക എന്ന നായ "
+  },
+  {
+    "questionNum": 96209,
+    "questionText": " ബഹിരാകാശത്തിലെ കൊളംബസ്? ",
+    "answerText": " യൂറി ഗഗാറിൻ "
+  },
+  {
+    "questionNum": 96210,
+    "questionText": " ബഹിരാകാശത്ത് നടന്ന ആദ്യ വ്യക്തി? ",
+    "answerText": " അലക്സി ലിയനോവ് "
+  },
+  {
+    "questionNum": 96211,
+    "questionText": " സ്പേസ് ഷട്ടിൽ പൈലറ്റായ ആദ്യ വനിത? ",
+    "answerText": " എയ്ലിൻ കോളിൻസ് "
+  },
+  {
+    "questionNum": 96212,
+    "questionText": " ബഹിരാകാശ യാത്ര നടത്തിയ രണ്ടാമത്തെ ഇന്ത്യൻ വംശജ? ",
+    "answerText": " സുനിത വില്യംസ് "
+  },
+  {
+    "questionNum": 96213,
+    "questionText": " ബഹിരാകാശത്ത് ആദ്യമായി മാരത്തോൺ ഓട്ടം നടത്തിയത്? ",
+    "answerText": " സുനിത വില്യംസ് "
+  },
+  {
+    "questionNum": 96214,
+    "questionText": " 1995ൽ ആദ്യമായി ഗാന്ധി സമാധാന പുരസ്കാരം നേടിയ താൻസാനിയൻ പ്രസിഡന്റ്? ",
+    "answerText": " ജൂലിയസ് നെരേര "
+  },
+  {
+    "questionNum": 96215,
+    "questionText": " ആദ്യത്തെ ജവഹർലാൽ നെഹ്റു അവാർഡ് ജേതാവ്? ",
+    "answerText": " യു.എൻ. മുൻ സെക്രട്ടറി ജനറൽ യുതാണ്ട് "
+  },
+  {
+    "questionNum": 96216,
+    "questionText": " ഇന്ത്യയിൽ നിന്നും ഭാരത രത്ന അവാർഡ് ലഭിച്ചിട്ടുള്ള 5 വനിതകൾ? ",
+    "answerText": " മദർ തെരേസ, ഇന്ദിരാഗാന്ധി,അരുണ അസഫ് അലി ,എം.സ്. സുബ്ബു്ലക്ഷ്മി,ലത മങ്കേഷ്‌കർ "
+  },
+  {
+    "questionNum": 96217,
+    "questionText": " കേരളത്തിലെ ഔഷധസസ്യങ്ങളെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന ആദ്യ ഡച്ച് കൃതിയാണ്? ",
+    "answerText": " ഹോർത്തൂസ് മലബാറിക്കസ് "
+  },
+  {
+    "questionNum": 96218,
+    "questionText": " ഹോർത്തൂസ് മലബാറിക്കസ് മലയാളത്തിലേക്ക് വിവർത്തനം ചെയ്തത്? ",
+    "answerText": " കെ.എസ്. മണിലാൽ "
+  },
+  {
+    "questionNum": 96219,
+    "questionText": " ഇന്ത്യൻ സ്വാതന്ത്ര്യ സമരചരിത്രത്തിലെ ഏറ്റവും പ്രായം കുറഞ്ഞ രക്തസാക്ഷി? ",
+    "answerText": " ഖുദ്ദിറാം ബോസ് "
+  },
+  {
+    "questionNum": 96220,
+    "questionText": " Insects walking over the water surface can be explained by?",
+    "answerText": " Surface tension of water"
+  },
+  {
+    "questionNum": 96221,
+    "questionText": " പ്രകാശം വൈദ്യുത കാന്തിക തരംഗമാണെന്ന് സ്ഥിരീകരിച്ചത്? ",
+    "answerText": " ഹെൻറിച്ച് ഹെർട്സ് "
+  },
+  {
+    "questionNum": 96222,
+    "questionText": " തരംഗദൈർഘ്യം കുറഞ്ഞ നിറം? ",
+    "answerText": " വയലറ്റ് "
+  },
+  {
+    "questionNum": 96223,
+    "questionText": " Spherical shape of rain drops can be explained by?",
+    "answerText": " Surface tension of water"
+  },
+  {
+    "questionNum": 96224,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള രാജ്യം ഏത്? ",
+    "answerText": " ചൈന "
+  },
+  {
+    "questionNum": 96225,
+    "questionText": " ജനസംഖ്യ ഏറ്റവും കൂടുതലുള്ള ഭൂഖണ്ഡം ഏത്? ",
+    "answerText": " ഏഷ്യ "
+  },
+  {
+    "questionNum": 96226,
+    "questionText": " ലോകത്ത് ജനസംഖ്യ ഏറ്റവും കൂടിയ നഗരം? ",
+    "answerText": " ടോക്കിയോ (ജപ്പാൻ) "
+  },
+  {
+    "questionNum": 96227,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ ജനസാന്ദ്രതയുള്ള രാജ്യം ഏത്? ",
+    "answerText": " മൊണോക്കോ "
+  },
+  {
+    "questionNum": 96228,
+    "questionText": " ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള തെക്കേ അമേരിക്കൻ രാജ്യം? ",
+    "answerText": " ബ്രസീൽ "
+  },
+  {
+    "questionNum": 96229,
+    "questionText": " ലോകത്തിലെ സ്ത്രീപുരുഷാനുപാതം? ",
+    "answerText": " 1000 / 1010"
+  },
+  {
+    "questionNum": 96230,
+    "questionText": " ലോക ജനസംഖ്യ 500 കോടി തികച്ച കുഞ്ഞിന്റെ പേര്? ",
+    "answerText": " മാതേജ് ഗാസ്പർ "
+  },
+  {
+    "questionNum": 96231,
+    "questionText": " ജനസംഖ്യാദിനായി ആചരിക്കുന്നത് എന്ന്? ",
+    "answerText": " ജൂലായ് 11 "
+  },
+  {
+    "questionNum": 96232,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ അനുയായികളുള്ള മതം? ",
+    "answerText": " ക്രിസ്തുമതം "
+  },
+  {
+    "questionNum": 96233,
+    "questionText": " ആയുർദൈർഘ്യത്തിൽ മുൻപന്തിയിൽ നിൽക്കുന്ന രാജ്യം? ",
+    "answerText": " ജപ്പാൻ "
+  },
+  {
+    "questionNum": 96234,
+    "questionText": " 2009ലെ കണക്കനുസരിച്ച് ലോകത്തെ ശരാശരി ആയുർദൈർഘ്യം? ",
+    "answerText": " 66.6 വയസ് "
+  },
+  {
+    "questionNum": 96235,
+    "questionText": " കേരളത്തിലെ ശരാശരി ആയുർദൈർഘ്യം? ",
+    "answerText": " 70.9 വയസ് "
+  },
+  {
+    "questionNum": 96236,
+    "questionText": " വൃദ്ധദിനമായി ആചരിക്കുന്നത്? ",
+    "answerText": " ഒക്ടോബർ 1 "
+  },
+  {
+    "questionNum": 96237,
+    "questionText": " ആയുർദൈർഘ്യത്തിൽ മുൻപന്തിയിൽ നിൽക്കുന്ന ഇന്ത്യൻ സംസ്ഥാനം? ",
+    "answerText": " കേരളം "
+  },
+  {
+    "questionNum": 96238,
+    "questionText": " 'വേൾഡ്സ് ലോക്കൽ ബാങ്ക്' എന്ന മുദ്രാവാക്യം ഏത് ബാങ്കിന്റേതാണ്? ",
+    "answerText": " എച്ച്.എസ്.ബി.സി "
+  },
+  {
+    "questionNum": 96239,
+    "questionText": " മൂലധന വിപണിയിൽ ഒന്നാം സ്ഥാനമുള്ള ബാങ്ക്? ",
+    "answerText": " ഐ.സി.ബി.സി "
+  },
+  {
+    "questionNum": 96240,
+    "questionText": " പലിശ ഈടാക്കുകയോ നൽകുകയോ ചെയ്യാത്ത ബാങ്കിംഗ് സമ്പ്രദായം? ",
+    "answerText": " ഇസ്ളാമിക് ബാങ്കിംഗ് "
+  },
+  {
+    "questionNum": 96241,
+    "questionText": " ബാങ്കുകൾ പരസ്പരം വായ്പകൾ കൊടുക്കുകയും വാങ്ങിക്കുകയും ചെയ്യുന്ന ധനവിപണി? ",
+    "answerText": " ഇന്റർ ബാങ്ക് മാർക്കറ്റ് "
+  },
+  {
+    "questionNum": 96242,
+    "questionText": " 2006ലെ നോബൽ സമ്മാന ജേതാവ് (സമാധാനം) മുഹമ്മദ് യൂനുസ് സ്ഥാപിച്ച ബാങ്ക്? ",
+    "answerText": " ബംഗ്ളാദേശ് ഗ്രാമീൺ ബാങ്ക് "
+  },
+  {
+    "questionNum": 96243,
+    "questionText": " ആദ്യമായി ട്രാവലേഴ്സ് ചെക്ക് പുറപ്പെടുവിച്ച ബാങ്ക്? ",
+    "answerText": " ദി അമേരിക്കൻ എക്സ്പ്രസ് "
+  },
+  {
+    "questionNum": 96244,
+    "questionText": " ഫെഡറൽ റിസർവ് സിസ്റ്റം ഏത് രാജ്യത്തിന്റെ സെൻട്രൽ ബാങ്ക് സംവിധാനമാണ്? ",
+    "answerText": " യു.എസ്.എ "
+  },
+  {
+    "questionNum": 96245,
+    "questionText": " ' പണം ചെയ്യുന്നതെന്താണോ അതാണ് പണം' എന്നു പറഞ്ഞ സാമ്പത്തിക ശാസ്ത്രജ്ഞൻ ആര്? ",
+    "answerText": " വാക്കർ "
+  },
+  {
+    "questionNum": 96246,
+    "questionText": " 'ബാഡ് മണി ഡ്രൈവ്സ് ഗുഡ് മണി ഔട്ട് ഒഫ് സർക്കുലേഷൻ' എന്ന നിയമം ആരുടേതാണ്? ",
+    "answerText": " തോമസ് ഗ്രേഷാം "
+  },
+  {
+    "questionNum": 96247,
+    "questionText": " ലോഹവിലയേക്കാൾ മുഖവില കൂടിയ നാണയമാണ്? ",
+    "answerText": " ടോക്കൺ നാണയം "
+  },
+  {
+    "questionNum": 96248,
+    "questionText": " യൂറോനോട്ട് രൂപകല്പന ചെയ്തത് ആര്? ",
+    "answerText": " റോബർട്ട് കുലീന "
+  },
+  {
+    "questionNum": 96249,
+    "questionText": " യൂറോ അംഗീകരിക്കാത്ത യൂറോപ്യൻ യൂണിയനിലെ രാജ്യങ്ങൾ? ",
+    "answerText": " ബ്രിട്ടൻ, ഡെന്മാർക്ക്, സ്വീഡൻ "
+  },
+  {
+    "questionNum": 96250,
+    "questionText": " 1969-ൽ നിലവിൽ വന്ന അന്താരാഷ്ട്ര നാണയ നിധിയുടെ കറൻസി? ",
+    "answerText": " സ്പെഷ്യൽ ഡ്രോയിംഗ് റൈറ്റ്സ് "
+  },
+  {
+    "questionNum": 96251,
+    "questionText": " രാജ്യങ്ങൾ തമ്മിൽ നാണയ വിനിമയം നടത്തുന്ന നിരക്ക്? ",
+    "answerText": " വിദേശനാണ്യ വിനിമയ നിരക്ക് "
+  },
+  {
+    "questionNum": 96252,
+    "questionText": " എ.ടി.എമ്മുകളുടെ മുൻഗാമി എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ഡോക്യുടെൽ മെഷീൻ "
+  },
+  {
+    "questionNum": 96253,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി എ.ടി.എം. നടപ്പിലാക്കിയ ബാങ്ക്? ",
+    "answerText": " ദി ഹോങ്കോങ് ആൻഡ് ഷാങ്ഹ്വായി ബാങ്കിംഗ് കോർപറേഷൻ "
+  },
+  {
+    "questionNum": 96254,
+    "questionText": " പണത്തിന്റെ മൂല്യം കുറഞ്ഞതുമൂലം സാധനങ്ങൾക്ക് വിലക്കയറ്റമുണ്ടാകുന്ന അവസ്ഥ? ",
+    "answerText": " പണപ്പെരുപ്പം "
+  },
+  {
+    "questionNum": 96255,
+    "questionText": " Capillary phenomenon is due to?",
+    "answerText": " surface tension"
+  },
+  {
+    "questionNum": 96256,
+    "questionText": " പ്രദാനം (സപ്ളൈ) കൂടുതലുള്ള കറൻസി? ",
+    "answerText": " സോഫ്റ്റ് കറൻസി "
+  },
+  {
+    "questionNum": 96257,
+    "questionText": " Rise of water level in plants is due to?",
+    "answerText": " surface tension"
+  },
+  {
+    "questionNum": 96258,
+    "questionText": " ചൈനയുടെ സാമ്പത്തിക തലസ്ഥാനം? ",
+    "answerText": " ഷാങ്ഹ്വായി "
+  },
+  {
+    "questionNum": 96259,
+    "questionText": " Ability of a body to return to its original shape is called?",
+    "answerText": " Elasticity"
+  },
+  {
+    "questionNum": 96260,
+    "questionText": " The force per unit area is called?",
+    "answerText": " Pressure "
+  },
+  {
+    "questionNum": 96261,
+    "questionText": " 2008ലെ ലോക സാമ്പത്തിക പ്രതിസന്ധിയെ തുടർന്ന് പാപ്പരായി പ്രഖ്യാപിച്ച യു.എസ്. ബാങ്ക്? ",
+    "answerText": " ലീമാൻ ബ്രദേഴ്സ് "
+  },
+  {
+    "questionNum": 96262,
+    "questionText": " ലോകത്തിലാദ്യമായി സ്റ്റോക്കുകളും ബോണ്ടുകളും പുറത്തിറക്കിയ സ്ഥാപനം? ",
+    "answerText": " ഡച്ച് ഈസ്റ്റിന്ത്യാ കമ്പനി "
+  },
+  {
+    "questionNum": 96263,
+    "questionText": " ന്യൂയോർക്ക് സ്റ്റോക്ക് എക്സ്ചേഞ്ച് സ്ഥിതിചെയ്യുന്നതെവിടെ? ",
+    "answerText": " അമേരിക്കയിലെ വാൾസ്ട്രീറ്റിൽ "
+  },
+  {
+    "questionNum": 96264,
+    "questionText": " തൃശൂർ പൂരം നടക്കുന്നതെവിടെ?  ",
+    "answerText": " തേക്കിൻകാട് മൈതാനിയിൽ "
+  },
+  {
+    "questionNum": 96265,
+    "questionText": " ഇന്ത്യ സ്വാതന്ത്ര്യം നേടിയത്?  ",
+    "answerText": " 1947 ആഗസ്റ്റ് 15 "
+  },
+  {
+    "questionNum": 96266,
+    "questionText": " ഇന്ത്യയ്ക്ക് സ്വാതന്ത്ര്യം ലഭിക്കുമ്പോൾ ബ്രിട്ടനിലെ പ്രധാനമന്ത്രി ആര്?  ",
+    "answerText": " ക്ളമന്റ് ആറ്റ്ലി "
+  },
+  {
+    "questionNum": 96267,
+    "questionText": " ഇന്ത്യൻ നാഷണൽ ആർമി എവിടെവച്ചാണ് രൂപം കൊണ്ടത്?  ",
+    "answerText": " സിംഗപ്പൂർ "
+  },
+  {
+    "questionNum": 96268,
+    "questionText": " ഫോർവേഡ് ബ്ളോക്കിന്റെ സ്ഥാപകൻ ആരാണ്?  ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 96269,
+    "questionText": " 'തകരുന്ന ബാങ്കിൽ മാറ്റാൻ നൽകിയ കാലഹരണപ്പെട്ട ചെക്ക്' എന്ന് ഗാന്ധിജി വിശേഷിപ്പിച്ചത്?  ",
+    "answerText": " ക്രിപ്സ് മിഷൻ "
+  },
+  {
+    "questionNum": 96270,
+    "questionText": " ക്വിറ്റ് ഇന്ത്യാ പ്രക്ഷോഭത്തിന്റെ നായിക എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " അരുണ അസഫ് അലി "
+  },
+  {
+    "questionNum": 96271,
+    "questionText": " The SI Unit of pressure=?",
+    "answerText": " Pascal or N/m2"
+  },
+  {
+    "questionNum": 96272,
+    "questionText": " Unit of thrust is?",
+    "answerText": " Newton"
+  },
+  {
+    "questionNum": 96273,
+    "questionText": " സുഭാഷ് ചന്ദ്രബോസ് ഫോർവേഡ് ബ്ളോക്ക് എന്ന രാഷ്ട്രീയപാർട്ടി രൂപീകരിച്ചത്?  ",
+    "answerText": " 1939 ൽ "
+  },
+  {
+    "questionNum": 96274,
+    "questionText": " അലിഗഢ് സർവകലാശാല സ്ഥാപിച്ചത് ആരാണ്?  ",
+    "answerText": " സർ സയ്യദ് അഹമ്മദ്ഖാൻ "
+  },
+  {
+    "questionNum": 96275,
+    "questionText": " ഗാന്ധിജിയുടെ മനഃസാക്ഷി സൂക്ഷിപ്പുകാരൻ എന്നറിയപ്പെട്ടിരുന്നത്?  ",
+    "answerText": " സി. രാജഗോപാലാചാരി "
+  },
+  {
+    "questionNum": 96276,
+    "questionText": " ഗാന്ധിജിയെ 'മഹാത്മ' എന്ന് അഭിസംബോധന ചെയ്തത്?  ",
+    "answerText": " രവീന്ദ്രനാഥ ടാഗോർ "
+  },
+  {
+    "questionNum": 96277,
+    "questionText": " എനിക്ക് രക്തം തരൂ, ഞാൻ നിങ്ങൾക്ക് സ്വാതന്ത്ര്യം തരാം എന്ന വാക്കുകൾ ആരുടേതാണ്?  ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 96278,
+    "questionText": " ഗാന്ധിജിയെ 'രാഷ്ട്രപിതാവ്' എന്ന് അഭിസംബോധന ചെയ്തത്?  ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 96279,
+    "questionText": " ബംഗാൾ വിഭജനകാലത്തെ ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസ് പ്രസിഡന്റ്?  ",
+    "answerText": " ഗോപാലകൃഷ്ണ ഗോഖലെ "
+  },
+  {
+    "questionNum": 96280,
+    "questionText": " വല്ലഭായ് പട്ടേലിന് സർദാർ എന്ന പദവി നൽകിയത്?  ",
+    "answerText": " ഗാന്ധിജി "
+  },
+  {
+    "questionNum": 96281,
+    "questionText": " സ്വതന്ത്ര ഇന്ത്യയിൽ ആദ്യമായി വധശിക്ഷയ്ക്ക് വിധേയനയായ വ്യക്തി?  ",
+    "answerText": " നാഥുറാം വിനായക് ഗോഡ്സെ "
+  },
+  {
+    "questionNum": 96282,
+    "questionText": " സുഭാഷ് ചന്ദ്രബോസിനെ നേതാജി എന്ന് അഭിസംബോധന ചെയ്തത്?  ",
+    "answerText": " മഹാത്മാഗാന്ധി "
+  },
+  {
+    "questionNum": 96283,
+    "questionText": " തിമൂർ ഇന്ത്യ ആക്രമിച്ചത്?  ",
+    "answerText": " എ.ഡി. 1398 "
+  },
+  {
+    "questionNum": 96284,
+    "questionText": " CGS unit of thrust is?",
+    "answerText": " dyne /cm2"
+  },
+  {
+    "questionNum": 96285,
+    "questionText": " 'വിപരീതങ്ങളുടെ മിശ്രിതം' എന്ന് വിശേഷിപ്പിക്കപ്പെട്ടത്?  ",
+    "answerText": " മുഹമ്മദ് ബിൻ തുഗ്ളക്ക് "
+  },
+  {
+    "questionNum": 96286,
+    "questionText": " ആര്യവംശം ദക്ഷിണേന്ത്യയിൽ വ്യാപിപ്പിച്ച ജ്ഞാനി?  ",
+    "answerText": " അഗസ്ത്യമുനി "
+  },
+  {
+    "questionNum": 96287,
+    "questionText": " നിലവിൽ ഏറ്റവും പഴക്കം ചെന്ന ഗുപ്തക്ഷേത്രം എവിടെ സ്ഥിതിചെയ്യുന്നു?  ",
+    "answerText": " സാഞ്ചിയിൽ "
+  },
+  {
+    "questionNum": 96288,
+    "questionText": " ഹിന്ദുസ്ഥാൻ റിപ്പബ്ളിക്കൻ അസോസിയേഷൻ സ്ഥാപിച്ചത്?  ",
+    "answerText": " 1924ൽ "
+  },
+  {
+    "questionNum": 96289,
+    "questionText": " 1739-ൽ നാദിർഷ ഇന്ത്യ ആക്രമിച്ചത് ആരുടെ ഭരണകാലത്താണ്?  ",
+    "answerText": " മുഹമ്മദ് ഷാ "
+  },
+  {
+    "questionNum": 96290,
+    "questionText": " ബാബർ ഗദ്യവും പദ്യവും രചിച്ചത് ഏത് ഭാഷയിലാണ്?  ",
+    "answerText": " തുർക്കി "
+  },
+  {
+    "questionNum": 96291,
+    "questionText": " ഇന്ത്യയിൽ ഇന്നും നിലനിൽക്കുന്ന ആദ്യത്തെ താഴികക്കുടം?  ",
+    "answerText": " അലൈ ദർവാസ "
+  },
+  {
+    "questionNum": 96292,
+    "questionText": " 1835-ൽ കൊൽക്കത്തയിൽ മെഡിക്കൽ കോളേജ് സ്ഥാപിച്ചത്?  ",
+    "answerText": " വില്യം ബെന്റിക് പ്രഭു "
+  },
+  {
+    "questionNum": 96293,
+    "questionText": " 1920-ൽ ഓൾ ഇന്ത്യ ട്രേഡ് യൂണിയൻ കോൺഗ്രസ് (എ.ഐ.ടി.യു.സി) രൂപീകരിച്ചത് ആര്?  ",
+    "answerText": " എൻ.എം. ജോഷി "
+  },
+  {
+    "questionNum": 96294,
+    "questionText": " പോർട്ടുഗീസുകാർ ഗോവ പിടിച്ചടക്കിയത് എവിടത്തെ ഭരണാധികാരികളിൽ നിന്നാണ്?  ",
+    "answerText": " ബിജാപ്പൂർ "
+  },
+  {
+    "questionNum": 96295,
+    "questionText": " 'ഇന്ത്യയുടെ സമരം' ആരുടെ ആത്മകഥയാണ്?  ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 96296,
+    "questionText": " ഐ.എൻ.എയുടെ ഇന്ത്യ ആക്രമണ പദ്ധതിയുടെ പേര്?  ",
+    "answerText": " ഓപ്പറേഷൻ യു "
+  },
+  {
+    "questionNum": 96297,
+    "questionText": " വോൾക്കർ കമ്മിറ്റി വിവാദത്തെത്തുടർന്ന് വകുപ്പില്ലാതായ കേന്ദ്രമന്ത്രി?  ",
+    "answerText": " നട്വർ സിംഗ് "
+  },
+  {
+    "questionNum": 96298,
+    "questionText": " തപാൽ സ്റ്റാമ്പ് പുറപ്പെടുവിച്ച ആദ്യത്തെ ഇന്ത്യൻ നാട്ടുരാജ്യം?  ",
+    "answerText": " കത്തിയാവാഡ് "
+  },
+  {
+    "questionNum": 96299,
+    "questionText": " ത്രിപുരയിലെ ഹൈക്കോടതി സ്ഥിതിചെയ്യുന്നതെവിടെ?  ",
+    "answerText": " ഗുവാഹട്ടി "
+  },
+  {
+    "questionNum": 96300,
+    "questionText": " ഇംഗ്ളണ്ടിലെ ആദ്യ ഇന്ത്യൻ ഹൈക്കമ്മിഷണർ ആര്?  ",
+    "answerText": " വി.കെ. കൃഷ്ണമേനോൻ "
+  },
+  {
+    "questionNum": 96301,
+    "questionText": " ന്യൂനപക്ഷ വിഭാഗങ്ങളുടെ സാമൂഹിക സാമ്പത്തിക സ്ഥിതി അവലോകനം ചെയ്യാൻ നിയുക്തമായ കമ്മിറ്റി?  ",
+    "answerText": " സച്ചാർ കമ്മിറ്റി "
+  },
+  {
+    "questionNum": 96302,
+    "questionText": " ലോക്‌സഭയിൽ ചോദ്യം ചോദിക്കാൻ 10 എം.പിമാർ കോഴ വാങ്ങിയ സംഭവം അന്വേഷിച്ച കമ്മിഷൻ ഏത്?  ",
+    "answerText": " ബൻസൽ കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 96303,
+    "questionText": " രാജ്യത്തെ ആദ്യ തുറമുഖാധിഷ്ഠിത പ്രത്യേക സാമ്പത്തിക മേഖല നിലവിൽ വന്നത് എവിടെയാണ്?  ",
+    "answerText": " കൊച്ചിയിൽ "
+  },
+  {
+    "questionNum": 96304,
+    "questionText": " 1960-ലെ ഹരിതവിപ്ളവത്തിന്റെ ആരംഭം ഏത് സംസ്ഥാനത്തായിരുന്നു?  ",
+    "answerText": " പഞ്ചാബ് "
+  },
+  {
+    "questionNum": 96305,
+    "questionText": " ലോകത്തിലെ ഏറ്റവും വലിയ ഓപ്പൺ എയർ തിയേറ്ററായ രവീന്ദ്രരംഗശാല സ്ഥിതിചെയ്യുന്നതെവിടെ?  ",
+    "answerText": " ഡൽഹി "
+  },
+  {
+    "questionNum": 96306,
+    "questionText": " കോഹിനൂർ രത്നം കണ്ടെടുത്ത ഖനി?  ",
+    "answerText": " ഗോൽക്കൊണ്ട "
+  },
+  {
+    "questionNum": 96307,
+    "questionText": " ലോകപ്രസിദ്ധിയാർജ്ജിച്ച കേരളത്തിന്റെ തനതായ കലാരൂപം ഏത്?  ",
+    "answerText": " കഥകളി "
+  },
+  {
+    "questionNum": 96308,
+    "questionText": " കൊച്ചി വിമാനത്താവളം ഏത് വകുപ്പിന്റെ നിയന്ത്രണത്തിലാണ്?  ",
+    "answerText": " രാജ്യരക്ഷാവകുപ്പിന്റെ "
+  },
+  {
+    "questionNum": 96309,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ സംസാരിക്കപ്പെടുന്ന ഭാഷ?  ",
+    "answerText": " ഹിന്ദി "
+  },
+  {
+    "questionNum": 96310,
+    "questionText": " ദ്രാവിഡ ഭാഷയിൽ അടങ്ങിയിട്ടുള്ള ഭാഷകൾ ഏതെല്ലാം?  ",
+    "answerText": " തമിഴ്, കന്നട, മലയാളം, തെലുങ്ക് "
+  },
+  {
+    "questionNum": 96311,
+    "questionText": " ഇന്ത്യയിലെ ആകെ ഔദ്യോഗിക ഭാഷകൾ?  ",
+    "answerText": 22
+  },
+  {
+    "questionNum": 96312,
+    "questionText": " ഏറ്റവും ഒടുവിൽ ഔദ്യോഗിക ഭാഷയായി അംഗീകാരം കിട്ടിയ ഭാഷകൾ ഏതെല്ലാം?  ",
+    "answerText": " ബോഡോ, ഡ്രോഗ്രി, സാന്താലി, മിഥാലി "
+  },
+  {
+    "questionNum": 96313,
+    "questionText": " 1992ലെ 71-ാം ഭരണഘടനാഭേദഗതിയിലൂടെ ഉൾപ്പെടുത്തിയ ഭാഷകൾ?  ",
+    "answerText": " കൊങ്കിണി, നേപ്പാളി, മണിപ്പൂരി "
+  },
+  {
+    "questionNum": 96314,
+    "questionText": " 1967ലെ 21-ാം ഭരണഘടനാഭേദഗതിയിലൂടെ ഉൾപ്പെടുത്തിയ ഭാഷ?  ",
+    "answerText": " സിന്ധ്രി "
+  },
+  {
+    "questionNum": 96315,
+    "questionText": " സംസ്കൃതം സംസാരിക്കുന്ന കർണാടകയിലെ ഗ്രാമം?  ",
+    "answerText": " മാത്തൂർ "
+  },
+  {
+    "questionNum": 96316,
+    "questionText": " ലിപി ഇല്ലാത്ത ഭാഷകൾ?  ",
+    "answerText": " കൊങ്കിണി, തുളു "
+  },
+  {
+    "questionNum": 96317,
+    "questionText": " ഭാരതത്തിലെ ഏറ്റവും പ്രാചീന ലിപി?  ",
+    "answerText": " ബ്രാഹ്മി "
+  },
+  {
+    "questionNum": 96318,
+    "questionText": " ഇന്ത്യയിൽ സംസാരിക്കപ്പെടുന്നതിൽ രണ്ടാം സ്ഥാനത്തുള്ള ഭാഷ?  ",
+    "answerText": " ബംഗാളി "
+  },
+  {
+    "questionNum": 96319,
+    "questionText": " ഹാൽക്കേ പുരസ്കാര ജേതാവായ ആദ്യ മലയാളി?  ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 96320,
+    "questionText": " വാനിറ്റി ഫെയർ സംവിധാനം ചെയ്തത്?  ",
+    "answerText": " മീരാ നായർ "
+  },
+  {
+    "questionNum": 96321,
+    "questionText": " 'ആലം ആര' നിർമ്മിച്ചത്?  ",
+    "answerText": " ആദിർഷിർ ഇറാനി "
+  },
+  {
+    "questionNum": 96322,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ 70 എം.എം. ചിത്രം?  ",
+    "answerText": " എറൗണ്ട് ദി വേൾഡ് "
+  },
+  {
+    "questionNum": 96323,
+    "questionText": " ഇന്ത്യൻ സിനിമയുടെ പിതാവെന്നറിയപ്പെടുന്നതാര്?  ",
+    "answerText": " ദാദാസാഹേബ് ഫാൽക്കേ "
+  },
+  {
+    "questionNum": 96324,
+    "questionText": " രാജാഹരിശ്ചന്ദ്ര നിർമ്മിച്ചത്?  ",
+    "answerText": " ദാദാസാഹേബ് ഫാൽക്കേ "
+  },
+  {
+    "questionNum": 96325,
+    "questionText": " Force acts more on objects having?",
+    "answerText": " Low Surface area"
+  },
+  {
+    "questionNum": 96326,
+    "questionText": " മികച്ച അഭിനേത്രിക്ക് നൽകിയിരുന്ന ദേശീയ ചലച്ചിത്ര അവാർഡ്?  ",
+    "answerText": " ഉർവശി അവാർഡ് "
+  },
+  {
+    "questionNum": 96327,
+    "questionText": " മികച്ച അഭിനേതാവിന് നൽകിയിരുന്ന ദേശീയ ചലച്ചിത്ര അവാർഡ്?  ",
+    "answerText": " ഭരത് അവാർഡ് "
+  },
+  {
+    "questionNum": 96328,
+    "questionText": " 2009ലെ മികച്ച ചിത്രത്തിനുള്ള ദേശീയ പുരസ്കാരം ലഭിച്ച കുട്ടിസ്രാങ്കിന്റെ സംവിധായകൻ?  ",
+    "answerText": " ഷാജി എൻ. കരുൺ "
+  },
+  {
+    "questionNum": 96329,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ വർണചിത്രം?  ",
+    "answerText": " സൈരന്ധ്രി "
+  },
+  {
+    "questionNum": 96330,
+    "questionText": " 2005ലെ കാൻ ചലച്ചിത്രോത്സവത്തിൽ ജൂറി അംഗമായി തിരഞ്ഞെടുക്കപ്പെട്ട ഇന്ത്യക്കാരി?  ",
+    "answerText": " നന്ദിതാ ദാസ് "
+  },
+  {
+    "questionNum": 96331,
+    "questionText": " ഓസ്കാർ അവാർഡ് ലഭിച്ച ആദ്യ മലയാളി?  ",
+    "answerText": " റസൂൽ പൂക്കുട്ടി "
+  },
+  {
+    "questionNum": 96332,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യത്തെ രാജ്യാന്തര ചലച്ചിത്രോത്സവം നടന്നത്?  ",
+    "answerText": " 1951 ൽ "
+  },
+  {
+    "questionNum": 96333,
+    "questionText": " സ്ത്രീകൾ അഭിനയിച്ച ആദ്യ ഇന്ത്യൻ ചിത്രം?  ",
+    "answerText": " മോഹിനി ഭസ്മാസുർ "
+  },
+  {
+    "questionNum": 96334,
+    "questionText": " ഇന്ത്യയിൽ സിനിമാപരസ്യം ആദ്യമായി പ്രസിദ്ധീകരിച്ച പത്രം?  ",
+    "answerText": " ടൈംസ് ഒഫ് ഇന്ത്യ "
+  },
+  {
+    "questionNum": 96335,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ ഫിലിം സ്റ്റുഡിയോ?  ",
+    "answerText": " രാമോജി ഫിലിം സ്റ്റുഡിയോ (ഹൈദരാബാദ്) "
+  },
+  {
+    "questionNum": 96336,
+    "questionText": " ഏറ്റവും അധികം സിനിമാ തിയേറ്ററുകളുള്ള ഇന്ത്യൻ സംസ്ഥാനം?  ",
+    "answerText": " ആന്ധ്രപ്രദേശ് "
+  },
+  {
+    "questionNum": 96337,
+    "questionText": " Atmospheric pressure =….?",
+    "answerText": " 760mm of Mercury"
+  },
+  {
+    "questionNum": 96338,
+    "questionText": " ബ്രിട്ടീഷ് രാജ്ഞി ഓർഡർ ഒഫ് മെറിറ്റ് നൽകി ആദരിച്ച ആദ്യ ഇന്ത്യൻ നടൻ?  ",
+    "answerText": " ഓംപുരി "
+  },
+  {
+    "questionNum": 96339,
+    "questionText": " Unit of Atmospheric pressure?",
+    "answerText": " Bar 1 bar = 10^5 pascal"
+  },
+  {
+    "questionNum": 96340,
+    "questionText": " Pressure at sea level is taken as the?",
+    "answerText": " Standard Atmospheric Pressure"
+  },
+  {
+    "questionNum": 96341,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ചലച്ചിത്ര പ്രദർശനശാല?  ",
+    "answerText": " എൽഫിൻസ്റ്റൺ പിക്ചർ പാലസ് "
+  },
+  {
+    "questionNum": 96342,
+    "questionText": " രാജ്യസഭയിലേക്ക് നോമിനേറ്റ് ചെയ്യപ്പെട്ട ആദ്യ വനിതാ ചലച്ചിത്രതാരം?  ",
+    "answerText": " നർഗീസ് ദത്ത് "
+  },
+  {
+    "questionNum": 96343,
+    "questionText": " ചിൽഡ്രൻസ് ഫിലിം സൊസൈറ്റി ഒഫ് ഇന്ത്യയുടെ നിലവിലുള്ള ചെയർപേഴ്സൺ?  ",
+    "answerText": " മുകേഷ് കാനാ "
+  },
+  {
+    "questionNum": 96344,
+    "questionText": " Barometer is used to calculate?",
+    "answerText": " Atmospheric Pressure"
+  },
+  {
+    "questionNum": 96345,
+    "questionText": " ഐക്യരാഷ്ട്ര സംഘടന വനിതാവർഷമായി ആചരിച്ചത്?  ",
+    "answerText": 1975
+  },
+  {
+    "questionNum": 96346,
+    "questionText": " The liquid used in Barometer?",
+    "answerText": " Mercury"
+  },
+  {
+    "questionNum": 96347,
+    "questionText": " യു.എൻ. വിമണിന്റെ ആസ്ഥാനം?  ",
+    "answerText": " ന്യൂയോർക്ക് സിറ്റി "
+  },
+  {
+    "questionNum": 96348,
+    "questionText": " 2012ലെ വനിതാദിനാചരണത്തിന്റെ മുദ്രാവാക്യം?  ",
+    "answerText": " വനിതകളെ ശാക്തീകരിക്കൂ, ദാരിദ്രവും പട്ടിണിയും ഇല്ലാതാക്കൂ "
+  },
+  {
+    "questionNum": 96349,
+    "questionText": " ആൻഡമാൻ നിക്കോബാർ ദ്വീപുകൾ സ്ഥിതിചെയ്യുന്ന കടൽ?  ",
+    "answerText": " ബംഗാൾ ഉൾക്കടൽ "
+  },
+  {
+    "questionNum": 96350,
+    "questionText": " നോർത്ത് ആൻഡമാനേയും സൗത്ത് ആൻഡമാനേയും വേർതിരിക്കുന്നത്?  ",
+    "answerText": " ഡങ്കൺ പാസേജ് "
+  },
+  {
+    "questionNum": 96351,
+    "questionText": " 2014-ൽ യുനെസ്‌കോയുടെ പൈതൃക പട്ടികയിൽ ഇടം നേടിയ സ്മാരകം ?  ",
+    "answerText": " ഇറാക്കിലെ അർബിൽ കോട്ട "
+  },
+  {
+    "questionNum": 96352,
+    "questionText": " സുന്ദർബെൻസ് ഡെൽറ്റ സ്ഥിതിചെയ്യുന്ന സംസ്ഥാനം?  ",
+    "answerText": " പശ്ചിമബംഗാൾ "
+  },
+  {
+    "questionNum": 96353,
+    "questionText": " Sudden fall of mercury level in Barometer indicates?",
+    "answerText": " Storm"
+  },
+  {
+    "questionNum": 96354,
+    "questionText": " 2014 യൂത്ത് ഒളിമ്പിക്സിന്റെ ബ്രാൻഡ് അംബാസിഡർ?  ",
+    "answerText": " യെലേന ഇസിൻബയേവ "
+  },
+  {
+    "questionNum": 96355,
+    "questionText": " 2013ലെ ഐ.സി.സി ചാമ്പ്യൻസ് ട്രോഫി വേദി?  ",
+    "answerText": " ഇംഗ്ളണ്ട് "
+  },
+  {
+    "questionNum": 96356,
+    "questionText": " 2014ലെ 20 - 20 വേൾഡ് കപ്പ് വേദി?  ",
+    "answerText": " ബംഗ്ളാദേശ് "
+  },
+  {
+    "questionNum": 96357,
+    "questionText": " 2015 ക്രിക്കറ്റ് വേൾഡ് കപ്പ് നടന്നതെവിടെ?  ",
+    "answerText": " ഓസ്ട്രേലിയ, ന്യൂസിലാൻഡ് "
+  },
+  {
+    "questionNum": 96358,
+    "questionText": " Rising level of mercury in Barometer indicates?",
+    "answerText": " Calm climate"
+  },
+  {
+    "questionNum": 96359,
+    "questionText": " Force of attraction between any two bodies in the universe is called?",
+    "answerText": " Gravitation"
+  },
+  {
+    "questionNum": 96360,
+    "questionText": " Law of gravitation was discovered by?",
+    "answerText": " Sir Isaac Newton"
+  },
+  {
+    "questionNum": 96361,
+    "questionText": " Weakest force in nature?",
+    "answerText": " Gravitational Force"
+  },
+  {
+    "questionNum": 96362,
+    "questionText": " 2013ലെ ഫാൽക്കെ അവാർഡ് ജേതാവ്?  ",
+    "answerText": " ഗുൽസാർ "
+  },
+  {
+    "questionNum": 96363,
+    "questionText": " The force keeps the earth and other planetary objects in their orbits around the sun?",
+    "answerText": " Gravitational Force"
+  },
+  {
+    "questionNum": 96364,
+    "questionText": " ദാദാസാഹിബ് ഫാൽക്കെയും ഭാരതരത്നവും ലഭിച്ച ആദ്യ ഇന്ത്യക്കാരൻ?  ",
+    "answerText": " സത്യജിത് റായ് "
+  },
+  {
+    "questionNum": 96365,
+    "questionText": " ലജ്ജ എന്ന കൃതിയുടെ കർത്താവ്?  ",
+    "answerText": " തസ്ലീമ നസ്റീൻ "
+  },
+  {
+    "questionNum": 96366,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ വിദൂര സംവേദന ഉപഗ്രഹം?  ",
+    "answerText": " ഐ.ആർ.എസ്. 1 എ "
+  },
+  {
+    "questionNum": 96367,
+    "questionText": " കൽപ്പന ചൗളയുടെ സ്മരണാർത്ഥം നാമകരണം ചെയ്ത ഇന്ത്യയുടെ ആദ്യത്തെ കാലാവസ്ഥാ ഉപഗ്രഹം?  ",
+    "answerText": " മെറ്റ് സാറ്റ് - 1 "
+  },
+  {
+    "questionNum": 96368,
+    "questionText": " അഞ്ചു ഉപഗ്രഹങ്ങളെ ഭ്രമണപഥത്തിലെത്തിച്ച ഇന്ത്യയുടെ വിക്ഷേപണ വാഹനം?  ",
+    "answerText": " പി.എസ്.എൽ.വി സി - 23 "
+  },
+  {
+    "questionNum": 96369,
+    "questionText": " ഇന്ത്യ നിർമ്മിച്ച ഏറ്റവും ഭാരം കൂടിയ ഉപഗ്രഹം?  ",
+    "answerText": " GSAT - 10"
+  },
+  {
+    "questionNum": 96370,
+    "questionText": " വെനിസ്വേലയുടെ നാണയം?  ",
+    "answerText": " ബൊളീവർ "
+  },
+  {
+    "questionNum": 96371,
+    "questionText": " ഉപഗ്രഹങ്ങളില്ലാത്ത 2 ഗ്രഹങ്ങൾ?  ",
+    "answerText": " ബുധൻ, ശുക്രൻ "
+  },
+  {
+    "questionNum": 96372,
+    "questionText": " സൂര്യനോട് ഏറ്റവും അടുത്തുള്ള ഗ്രഹം?  ",
+    "answerText": " ബുധൻ "
+  },
+  {
+    "questionNum": 96373,
+    "questionText": " ഏറ്റവും തണുപ്പുള്ള ഗ്രഹം?  ",
+    "answerText": " നെപ്റ്റ്യൂൺ "
+  },
+  {
+    "questionNum": 96374,
+    "questionText": " ഏറ്റവും സാന്ദ്രത കൂടിയ ഗ്രഹം?  ",
+    "answerText": " ഭൂമി "
+  },
+  {
+    "questionNum": 96375,
+    "questionText": " വസ്തുക്കൾക്ക് ഏറ്റവും ഭാരം കൂടുതലുള്ള ഗ്രഹം?  ",
+    "answerText": " വ്യാഴം "
+  },
+  {
+    "questionNum": 96376,
+    "questionText": " ഏറ്റവും ദൈർഘ്യം കുറഞ്ഞ ദിനരാത്രങ്ങളുള്ള ഗ്രഹം?  ",
+    "answerText": " വ്യാഴം "
+  },
+  {
+    "questionNum": 96377,
+    "questionText": " വേഗത്തിൽ വളരുന്ന സസ്യം?  ",
+    "answerText": " മുള "
+  },
+  {
+    "questionNum": 96378,
+    "questionText": " പ്രകാശത്തിനു നേരെ വളരാനുള്ള സസ്യങ്ങളുടെ പ്രവണത?  ",
+    "answerText": " ഫോട്ടോട്രോപ്പിസം "
+  },
+  {
+    "questionNum": 96379,
+    "questionText": " The acceleration with which the freely falling bodies are attracted towards the earth is called the?",
+    "answerText": " Acceleration due to gravity (g)"
+  },
+  {
+    "questionNum": 96380,
+    "questionText": " ആകർഷകമായ വലയങ്ങളുള്ള ഗ്രഹം?  ",
+    "answerText": " ശനി "
+  },
+  {
+    "questionNum": 96381,
+    "questionText": " വലിയ ചുവന്ന പൊട്ട് കാണപ്പെടുന്ന ഗ്രഹം?  ",
+    "answerText": " വ്യാഴം "
+  },
+  {
+    "questionNum": 96382,
+    "questionText": " ഏറ്റവും വേഗത്തിൽ കാറ്റ് വീശുന്ന ഗ്രഹം?  ",
+    "answerText": " നെപ്ട്യൂൺ "
+  },
+  {
+    "questionNum": 96383,
+    "questionText": " റോമാക്കാരുടെ പ്രണയദേവതയുടെ പേര് നൽകിയിരിക്കുന്ന ഗ്രഹം?  ",
+    "answerText": " ശുക്രൻ "
+  },
+  {
+    "questionNum": 96384,
+    "questionText": " ഗന്ധകം എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " സൾഫർ "
+  },
+  {
+    "questionNum": 96385,
+    "questionText": " സൾഫറിന്റെ അറ്റോമിക നമ്പർ?  ",
+    "answerText": 16
+  },
+  {
+    "questionNum": 96386,
+    "questionText": " എലിവിഷത്തിൽ അടങ്ങിയിരിക്കുന്ന രാസവസ്തു?  ",
+    "answerText": " സിങ്ക് ഫോസ്ഫൈഡ് "
+  },
+  {
+    "questionNum": 96387,
+    "questionText": " ചീഞ്ഞ മുട്ടയുടെ ഗന്ധമുള്ള സംയുക്തം?  ",
+    "answerText": " ഹൈഡ്രജൻ സൾഫൈഡ് "
+  },
+  {
+    "questionNum": 96388,
+    "questionText": " റേഡിയോ ആക്ടീവ് ഐസോടോപ്പ് ഇല്ലാത്ത മൂലകം?  ",
+    "answerText": " സൾഫർ "
+  },
+  {
+    "questionNum": 96389,
+    "questionText": " മഹാനദി ഉത്ഭവിക്കുന്നത് ഛത്തീസ്ഗഢിലെ റായ്‌പൂർ ജില്ലയിൽ നിന്നാണ്. നീളം?  ",
+    "answerText": " 858 കി.മീ "
+  },
+  {
+    "questionNum": 96390,
+    "questionText": " ഒറീസയുടെ ദുഃഖം?  ",
+    "answerText": " മഹാനദി "
+  },
+  {
+    "questionNum": 96391,
+    "questionText": " മഹാനദിയുടെ പ്രധാന പോഷക നദികൾ?  ",
+    "answerText": " ഷിയോനാഥ്, ആങ്, തേയ്ൻ "
+  },
+  {
+    "questionNum": 96392,
+    "questionText": " Weight of freely falling body?",
+    "answerText": " Zero"
+  },
+  {
+    "questionNum": 96393,
+    "questionText": " ആന്ധ്രപ്രദേശിലെ നാഗാർജുനസാഗർ അണക്കെട്ട്?  ",
+    "answerText": " കൃഷ്ണാനദിയിലാണ് "
+  },
+  {
+    "questionNum": 96394,
+    "questionText": " ജതശങ്കരി എന്നറിയപ്പെടുന്ന നദി?  ",
+    "answerText": " നർമ്മദ "
+  },
+  {
+    "questionNum": 96395,
+    "questionText": " At the Center of earth Acceleration due to gravity (g) is?",
+    "answerText": " zero"
+  },
+  {
+    "questionNum": 96396,
+    "questionText": " ദേശീയ പതാകയുടെ നീളവും വീതിയും തമ്മിലുള്ള അനുപാതം?  ",
+    "answerText": " 3: 2"
+  },
+  {
+    "questionNum": 96397,
+    "questionText": " Acceleration due to gravity (g) is maximum at?",
+    "answerText": " polar regions"
+  },
+  {
+    "questionNum": 96398,
+    "questionText": " Acceleration due to gravity (g) is minimum at?",
+    "answerText": " Equatorial regions"
+  },
+  {
+    "questionNum": 96399,
+    "questionText": " Universal Law of Gravitation was put forward by?",
+    "answerText": " Sir Isaac Newton"
+  },
+  {
+    "questionNum": 96400,
+    "questionText": " ഇന്ത്യൻ ദേശീയ പതാകയുടെ സമാന നിറങ്ങളുള്ള ദേശീയ പതാകയുള്ള രാജ്യങ്ങൾ?  ",
+    "answerText": " നൈജർ,ഐവറികോസ്റ്റ്, ഇറ്റലി "
+  },
+  {
+    "questionNum": 96401,
+    "questionText": " ഇന്ത്യയിലെ ഏക അംഗീകൃത പതാക നിർമ്മാണശാല?  ",
+    "answerText": " കർണാടകയിലെ ഹൂബ്ളി "
+  },
+  {
+    "questionNum": 96402,
+    "questionText": " ഐ.എൻ.സിയുടെ എത്രാമത്തെ സമ്മേളനമാണ് ത്രിപുരയിൽ നടന്നത്?  ",
+    "answerText": 52
+  },
+  {
+    "questionNum": 96403,
+    "questionText": " 1939ലെ ത്രിപുര സമ്മേളനത്തിൽ വിജയിച്ചത്?  ",
+    "answerText": " സുഭാഷ് ചന്ദ്രബോസ് "
+  },
+  {
+    "questionNum": 96404,
+    "questionText": " ഇന്ത്യയ്ക്ക് സ്വാതന്ത്ര്യം ലഭിക്കുമ്പോൾ കോൺഗ്രസ് പ്രസിഡന്റ്?  ",
+    "answerText": " ജെ.ബി.കൃപാലിനി "
+  },
+  {
+    "questionNum": 96405,
+    "questionText": " ഗാന്ധിജി ആദ്യമായി ഐ.എൻ.സി പ്രസിഡന്റാവുന്നത്?  ",
+    "answerText": " 1924 ബൽഗാം സമ്മേളനം "
+  },
+  {
+    "questionNum": 96406,
+    "questionText": " ബാരൺ ദ്വീപ് സ്ഥിതിചെയ്യുന്നത്?  ",
+    "answerText": " ആൻഡമാൻ നിക്കോബാർ ദ്വീപിൽ "
+  },
+  {
+    "questionNum": 96407,
+    "questionText": " ലാവ പ്രവാഹം സൃഷ്ടിക്കുന്ന ഭൂവൽക്കത്തിലെ ദ്വാരമാണ്?  ",
+    "answerText": " അഗ്നിപർവത ദ്വാരം "
+  },
+  {
+    "questionNum": 96408,
+    "questionText": " The 'g' is maximum on Jupiter and minimum on the planet?",
+    "answerText": " Mercury"
+  },
+  {
+    "questionNum": 96409,
+    "questionText": " സജീവ അഗ്നിപർവതങ്ങളില്ലാത്ത വൻകര?  ",
+    "answerText": " ഓസ്ട്രേലിയ ) "
+  },
+  {
+    "questionNum": 96410,
+    "questionText": " ഹോർത്തൂസ് മലബാറിക്കസിന്റെ രചനയ്ക്ക് സഹായിച്ച ഈഴവ വൈദ്യൻ?  ",
+    "answerText": " ഇട്ടി അച്ചുതൻ "
+  },
+  {
+    "questionNum": 96411,
+    "questionText": " The book Sooryakanthi  is written by ?",
+    "answerText": " G.Sankarakurup"
+  },
+  {
+    "questionNum": 96412,
+    "questionText": " ഹോർത്തൂസ് മലബാറിക്കസിൽ പ്രതിപാദിക്കുന്ന ആദ്യ വൃക്ഷം?  ",
+    "answerText": " തെങ്ങ് "
+  },
+  {
+    "questionNum": 96413,
+    "questionText": " ഹോർത്തൂസ് മലബാറിക്കസ് മലയാളത്തിലും ഇംഗ്ളീഷിലും തർജ്ജമ ചെയ്തത്?  ",
+    "answerText": " പ്രൊഫ.കെ.എസ്. മണിലാൽ "
+  },
+  {
+    "questionNum": 96414,
+    "questionText": " പെരിപ്ളസ് ഒഫ് എറിത്രിയൻ സിയുടെ കർത്താവ്?  ",
+    "answerText": " അജ്ഞാതനാണ് "
+  },
+  {
+    "questionNum": 96415,
+    "questionText": " Astronaut cannot drink lemonade with the help of a straw because?",
+    "answerText": " There is no atmosphere on the moon"
+  },
+  {
+    "questionNum": 96416,
+    "questionText": " അടിമവംശ സ്ഥാപകൻ?  ",
+    "answerText": " കുത്തബ്ദീൻ ഐബക് "
+  },
+  {
+    "questionNum": 96417,
+    "questionText": " ഇൽബാരി വംശം, മാമലൂക്ക് വംശം എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " അടിമവംശം "
+  },
+  {
+    "questionNum": 96418,
+    "questionText": " മുഹമ്മദ് ഗോറിയുടെ അടിമയാണ്?  ",
+    "answerText": " കുത്തബ്ദീൻ ഐബക് "
+  },
+  {
+    "questionNum": 96419,
+    "questionText": " അടിമയുടെ അടിമ,ദൈവഭൂമിയുടെ സംരക്ഷകൻ എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " ഇൽത്തുമിഷ് "
+  },
+  {
+    "questionNum": 96420,
+    "questionText": " ഇൽത്തുമിഷിന്റെ കാലത്ത് ഇന്ത്യ ആക്രമിച്ച മംഗോൾ നേതാവ്?  ",
+    "answerText": " ചെങ്കിസ്ഖാൻ "
+  },
+  {
+    "questionNum": 96421,
+    "questionText": " ദൈവത്തിന്റെ പ്രതിപുരുഷൻ എന്ന് സ്വയം വിശേഷിപ്പിച്ചത്?  ",
+    "answerText": " ഗിയാസുദീൻ ബാൽബൻ "
+  },
+  {
+    "questionNum": 96422,
+    "questionText": " ബാൽബന്റെ ശവകുടീരം സ്ഥിതിചെയ്യുന്നത്?  ",
+    "answerText": " മെഹറൂളിയിൽ "
+  },
+  {
+    "questionNum": 96423,
+    "questionText": " Minimum speed which a body must have to escape from the earth's gravitational force is called?",
+    "answerText": " Escape Velocity"
+  },
+  {
+    "questionNum": 96424,
+    "questionText": " 1904ൽ യൂണിവേഴ്സിറ്റി ആക്ട് പാസാക്കിയത്?  ",
+    "answerText": " കഴ്സൺ "
+  },
+  {
+    "questionNum": 96425,
+    "questionText": " ഇന്ത്യൻ തദ്ദേശ സ്വയംഭരണത്തിന്റെ പിതാവ്?  ",
+    "answerText": " റിപ്പൺ "
+  },
+  {
+    "questionNum": 96426,
+    "questionText": " ബംഗാൾ ടൈഗർ എന്ന് സ്വയം വിശേഷിപ്പിച്ച വൈസ്രോയി?  ",
+    "answerText": " വെല്ലസ്ളി "
+  },
+  {
+    "questionNum": 96427,
+    "questionText": " ഇന്ദിരാഗാന്ധി കനാൽ നിർമ്മാണം ആരംഭിച്ചത്?  ",
+    "answerText": 1958
+  },
+  {
+    "questionNum": 96428,
+    "questionText": " കനാൽ നിർമ്മാണത്തിന് തുടക്കം കുറിച്ചത്?  ",
+    "answerText": " മെസപ്പൊട്ടോമിയ "
+  },
+  {
+    "questionNum": 96429,
+    "questionText": " ബംഗാൾ വിഭജനം?  ",
+    "answerText": " 1905 ഒക്ടോബർ 16 "
+  },
+  {
+    "questionNum": 96430,
+    "questionText": " ബംഗാൾ വിഭജനം റദ്ദ് ചെയ്തത്?  ",
+    "answerText": " ഹാർഡിഞ്ച് ll "
+  },
+  {
+    "questionNum": 96431,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ റെയിൽവേ പാത?  ",
+    "answerText": " ബോംബെ - താനെ "
+  },
+  {
+    "questionNum": 96432,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ റെയിൽവേ സ്റ്റേഷൻ?  ",
+    "answerText": " ബോറി ബന്ദർ "
+  },
+  {
+    "questionNum": 96433,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേ ദേശസാത്‌കരിച്ചത്?  ",
+    "answerText": 1951
+  },
+  {
+    "questionNum": 96434,
+    "questionText": " Escape velocity of moon?",
+    "answerText": " 2.4 km/s"
+  },
+  {
+    "questionNum": 96435,
+    "questionText": " ദേശീയ മനുഷ്യാവകാശ കമ്മിഷൻ സ്ഥാപിതമായത്?  ",
+    "answerText": " 1993 സെപ്തംബർ 28 "
+  },
+  {
+    "questionNum": 96436,
+    "questionText": " ദേശീയ മനുഷ്യാവകാശ കമ്മിഷനെ നിയമിക്കുന്നത്?  ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 96437,
+    "questionText": " Escape velocity of earth?",
+    "answerText": " 11.2km/s"
+  },
+  {
+    "questionNum": 96438,
+    "questionText": " Escape velocity of planet Jupiter?",
+    "answerText": " 60km/s"
+  },
+  {
+    "questionNum": 96439,
+    "questionText": " മനുഷ്യാവകാശങ്ങളെക്കുറിച്ച് പഠന ഗവേഷണങ്ങൾ നടത്തുന്ന ആഗോള സംഘടന?  ",
+    "answerText": " ഹ്യൂമൺ റൈറ്റ്സ് വാച്ച് "
+  },
+  {
+    "questionNum": 96440,
+    "questionText": " ലോകത്താദ്യമായി നികുതി ഏർപ്പെടുത്തിയ രാജ്യം?  ",
+    "answerText": " ഈജിപ്ത് "
+  },
+  {
+    "questionNum": 96441,
+    "questionText": " നികുതി ചുമത്തപ്പെടുന്ന ആൾ നേരിട്ടു നൽകുന്ന നികുതി?  ",
+    "answerText": " പ്രത്യക്ഷ നികുതി "
+  },
+  {
+    "questionNum": 96442,
+    "questionText": " ഒരാൾക്കുമേൽ ചുമത്തപ്പെടുന്ന നികുതി ഭാഗികമായോ പൂർണമായോ മറ്റൊരാൾ നൽകേണ്ടിവരുന്നതാണ്?  ",
+    "answerText": " പരോക്ഷ നികുതി "
+  },
+  {
+    "questionNum": 96443,
+    "questionText": " നികുതികളെക്കുറിച്ച് പഠിച്ച സ്വതന്ത്ര ഇന്ത്യയിലെ ആദ്യ കമ്മിഷൻ?  ",
+    "answerText": " ജോൺ മത്തായി കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 96444,
+    "questionText": " കേന്ദ്ര സർക്കാരിന് ഏറ്റവും കൂടുതൽ വരുമാനം നേടിത്തരുന്ന നികുതി?  ",
+    "answerText": " എക്സൈസ് നികുതി "
+  },
+  {
+    "questionNum": 96445,
+    "questionText": " Escape velocity of planet Mercury?",
+    "answerText": " 4.2km/s"
+  },
+  {
+    "questionNum": 96446,
+    "questionText": " റവന്യൂ ഭരണവും നീതിന്യായസമ്പ്രദായവും വേർപെടുത്തിയത്?  ",
+    "answerText": " കോൺവാലീസ് "
+  },
+  {
+    "questionNum": 96447,
+    "questionText": " മൂന്നാം മൈസൂർ യുദ്ധകാലത്ത് ഗവർണർ ജനറൽ?  ",
+    "answerText": " കോൺവാലീസ് "
+  },
+  {
+    "questionNum": 96448,
+    "questionText": " ബംഗാൾ കടുവ എന്ന് സ്വയം വിശേഷിപ്പിച്ച ഗവർണർ ജനറൽ?  ",
+    "answerText": " വെല്ലസ്ളി "
+  },
+  {
+    "questionNum": 96449,
+    "questionText": " സൈനിക സഹായ വ്യവസ്ഥയിൽ ഒപ്പുവച്ച ആദ്യ നാട്ടുരാജ്യം?  ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 96450,
+    "questionText": " 'എന്റെ പൂർവികന്മാരെ പോലെ തന്നെ തോക്കുകൊണ്ടും വാളുകൊണ്ടും ഇന്ത്യ ഭരിക്കും' എന്നു പറഞ്ഞ വൈസ്രോയി?  ",
+    "answerText": " കഴ്സൺ പ്രഭു "
+  },
+  {
+    "questionNum": 96451,
+    "questionText": " ഭരണഘടന നിർമ്മാണസഭ രൂപംകൊണ്ടത്?  ",
+    "answerText": " 1946 ഡിസംബർ 6 "
+  },
+  {
+    "questionNum": 96452,
+    "questionText": " ഭരണഘടന നിർമ്മാണസഭയിൽ ആദ്യം സംസാരിച്ചത്?  ",
+    "answerText": " ആചാര്യ കൃപലാനി "
+  },
+  {
+    "questionNum": 96453,
+    "questionText": " ഭരണഘടന നിർമ്മാണസഭയുടെ സ്ഥിരം അദ്ധ്യക്ഷൻ?  ",
+    "answerText": " ഡോ.രാജേന്ദ്രപ്രസാദ് "
+  },
+  {
+    "questionNum": 96454,
+    "questionText": " ഭരണഘടന നിർമ്മാണസഭയിലെ മലയാളികളുടെ എണ്ണം?  ",
+    "answerText": 17
+  },
+  {
+    "questionNum": 96455,
+    "questionText": " ഭരണഘടന എന്ന ആശയം മുന്നോട്ടുവച്ചത്?  ",
+    "answerText": " എം.എൻ.റോയ് "
+  },
+  {
+    "questionNum": 96456,
+    "questionText": " ഇന്ത്യൻ ഭരണഘടന നിലവിൽ വന്നത്?  ",
+    "answerText": " 1950 ജനുവരി 26 "
+  },
+  {
+    "questionNum": 96457,
+    "questionText": " Escape velocity of the planets increases with its?",
+    "answerText": " Mass"
+  },
+  {
+    "questionNum": 96458,
+    "questionText": " സംസ്ഥാന പുനഃസംഘടനാ കമ്മിഷനിൽ അംഗമായിരുന്ന മലയാളി?  ",
+    "answerText": " സർദാർ കെ.എം. പണിക്കർ "
+  },
+  {
+    "questionNum": 96459,
+    "questionText": " Scientific study of light?",
+    "answerText": " Optics"
+  },
+  {
+    "questionNum": 96460,
+    "questionText": " Light is an?",
+    "answerText": " Electromagnetic Wave &. Transverse wave;"
+  },
+  {
+    "questionNum": 96461,
+    "questionText": " ആണവ നിലയത്തിന്റെ പേരിൽ ജനകീയ സമരങ്ങൾ നടക്കുന്ന ജയ്‌താപ്പൂർ ഏത് സംസ്ഥാനത്താണ്?  ",
+    "answerText": " മഹാരാഷ്ട്ര "
+  },
+  {
+    "questionNum": 96462,
+    "questionText": " ഹൈഡ് നിയമം 123 കരാർ എന്തുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു?  ",
+    "answerText": " ഇന്ത്യ - യു.എസ് ആണവ കരാർ "
+  },
+  {
+    "questionNum": 96463,
+    "questionText": " പൗരത്വ നിയമം നിലവിൽ വന്നത്?  ",
+    "answerText": 1955
+  },
+  {
+    "questionNum": 96464,
+    "questionText": " റിസർവ് ബാങ്ക് ദേശസാത്‌കരിച്ചത്?  ",
+    "answerText": " 1949 ജനുവരി 1 "
+  },
+  {
+    "questionNum": 96465,
+    "questionText": " ഇന്ത്യയിലെ ബാങ്കുകളുടെ ബാങ്ക്, കേന്ദ്ര ബാങ്ക് എന്നിങ്ങനെ അറിയപ്പെടുന്നത്?  ",
+    "answerText": " റിസർവ് ബാങ്ക് "
+  },
+  {
+    "questionNum": 96466,
+    "questionText": " റിസർവ് ബാങ്കിന്റെ ആദ്യ ഗവർണർ?  ",
+    "answerText": " ഓസ്ബോൺ ആർക്കൽ സ്മിത്ത് "
+  },
+  {
+    "questionNum": 96467,
+    "questionText": " ഇന്ത്യയിൽ ഒരു രൂപ ഒഴികെയുള്ള കറൻസി നോട്ടുകൾ പുറത്തിറക്കുന്നത്?  ",
+    "answerText": " ആർ.ബി.ഐ "
+  },
+  {
+    "questionNum": 96468,
+    "questionText": " ഒരു രൂപ നോട്ട് പുറത്തിറക്കുന്നത്?  ",
+    "answerText": " ധനകാര്യമന്ത്രാലയം "
+  },
+  {
+    "questionNum": 96469,
+    "questionText": " ഏറ്റവുമധികം കാലം മുഖ്യമന്ത്രിയായിരുന്ന വ്യക്തി?  ",
+    "answerText": " ഇ.കെ.നായനാർ, "
+  },
+  {
+    "questionNum": 96470,
+    "questionText": " ഏറ്റവും കുറച്ചുകാലം മുഖ്യമന്ത്രിയായിരുന്ന വ്യക്തി?  ",
+    "answerText": " സി.എച്ച്.മുഹമ്മദ് കോയ "
+  },
+  {
+    "questionNum": 96471,
+    "questionText": " ഏറ്റവും കുറച്ചുകാലം മന്ത്രിയായിരുന്നത്?  ",
+    "answerText": " എം.പി. വിരേന്ദ്രകുമാർ "
+  },
+  {
+    "questionNum": 96472,
+    "questionText": " കേരള നിയമസഭയിലേക്ക് എതിരില്ലാതെ തിരഞ്ഞെടുക്കപ്പെട്ട വ്യക്തി?  ",
+    "answerText": " എം. ഉമേഷ് റാവു "
+  },
+  {
+    "questionNum": 96473,
+    "questionText": " ഏറ്റവും പ്രായംകൂടിയ നിയമസഭാംഗം?  ",
+    "answerText": " വി.എസ്. അച്യുതാനന്ദൻ "
+  },
+  {
+    "questionNum": 96474,
+    "questionText": " ഏറ്റവും കുറഞ്ഞ പ്രായത്തിൽ നിയമസഭാംഗമായ വ്യക്തി?  ",
+    "answerText": " ആർ.ബാലകൃഷ്ണപിള്ള "
+  },
+  {
+    "questionNum": 96475,
+    "questionText": " ഒരേ മണ്ഡലത്തിൽ നിന്ന് ഏറ്റവുമധികം തവണ വിജയിച്ച വ്യക്തി?  ",
+    "answerText": " കെ.എം.മാണി "
+  },
+  {
+    "questionNum": 96476,
+    "questionText": " കാസ്റ്റിംഗ് വോട്ട് ചെയ്ത ആദ്യ സ്പീക്കർ?  ",
+    "answerText": " എ.സി.ജോസ് "
+  },
+  {
+    "questionNum": 96477,
+    "questionText": " ഏറ്റവും കുറഞ്ഞ കാലം സ്പീക്കറായിരുന്ന വ്യക്തി?  ",
+    "answerText": " എ.എ. അസീസ് "
+  },
+  {
+    "questionNum": 96478,
+    "questionText": " മുഖ്യമന്ത്രിയായ ശേഷം ഉപമുഖ്യമന്ത്രിയായ വ്യക്തി?  ",
+    "answerText": " സി.എച്ച്. മുഹമ്മദ് കോയ "
+  },
+  {
+    "questionNum": 96479,
+    "questionText": " കോടതിവിധിയിലൂടെ നിയമസഭാംഗത്വം നഷ്ടപ്പെട്ട വ്യക്തി?  ",
+    "answerText": " റോസമ്മ പുന്നൂസ് "
+  },
+  {
+    "questionNum": 96480,
+    "questionText": " മുഖ്യമന്ത്രിയായശേഷം പ്രതിപക്ഷനേതാവായ വ്യക്തി?  ",
+    "answerText": " ഇ.എം.എസ്. നമ്പൂതിരിപ്പാട് "
+  },
+  {
+    "questionNum": 96481,
+    "questionText": " കേരളത്തിലെ ആദ്യ കോൺഗ്രസ് മുഖ്യമന്ത്രി?  ",
+    "answerText": " ആർ.ശങ്കർ "
+  },
+  {
+    "questionNum": 96482,
+    "questionText": " കേരള ഗവർണറായ ആദ്യ മലയാളി?  ",
+    "answerText": " വി.വിശ്വനാഥൻ "
+  },
+  {
+    "questionNum": 96483,
+    "questionText": " കേരള മുഖ്യമന്ത്രി, നിയമസഭ സ്പീക്കർ, മന്ത്രി എന്നീ പദവികൾ വഹിച്ച ഏക വ്യക്തി?  ",
+    "answerText": " സി.എച്ച്. മുഹമ്മദ് കോയ "
+  },
+  {
+    "questionNum": 96484,
+    "questionText": " മുഖ്യമന്ത്രിസ്ഥാനത്തുനിന്ന് ഗവർണർ സ്ഥാനത്തെത്തിയ ഏക വ്യക്തി?  ",
+    "answerText": " പട്ടം താണുപിള്ള "
+  },
+  {
+    "questionNum": 96485,
+    "questionText": " തിരുവിതാംകൂറിന്റെ പ്രധാനമന്ത്രി, തിരു - കൊച്ചി മുഖ്യമന്ത്രി, കേരള മുഖ്യമന്ത്രി എന്നീ പദവികൾ വഹിച്ച ഏക വ്യക്തി?  ",
+    "answerText": " പട്ടം താണുപിള്ള "
+  },
+  {
+    "questionNum": 96486,
+    "questionText": " മന്ത്രി, മുഖ്യമന്ത്രി,പ്രതിപക്ഷനേതാവ് എന്നീ പദവികൾ ഒരേ നിയമസഭാകാലത്ത് നിർവഹിച്ച വ്യക്തി?  ",
+    "answerText": " പി.കെ. വാസുദേവൻ നായർ "
+  },
+  {
+    "questionNum": 96487,
+    "questionText": " തുടർച്ചയായി രണ്ടു തവണ കേരള മുഖ്യമന്ത്രിയായ ആദ്യ വ്യക്തി?  ",
+    "answerText": " സി.അച്യുതമേനോൻ "
+  },
+  {
+    "questionNum": 96488,
+    "questionText": " കേരളത്തിലാദ്യമായി നിയമസഭയിലേക്ക് ഉപതിരഞ്ഞെടുപ്പ് നടന്നത്?  ",
+    "answerText": " ദേവികുളം മണ്ഡലത്തിൽ "
+  },
+  {
+    "questionNum": 96489,
+    "questionText": " രാജ്യസഭാംഗമായി നാമനിർദ്ദേശം ചെയ്യപ്പെട്ട ആദ്യ മലയാളി?  ",
+    "answerText": " സർദാർ കെ.എം. പണിക്കർ "
+  },
+  {
+    "questionNum": 96490,
+    "questionText": " Light travels through air or vacuum at a speed of 3?",
+    "answerText": " x 108m/s"
+  },
+  {
+    "questionNum": 96491,
+    "questionText": " ഇ.കെ.നായനാർ പൂർത്തിയാക്കാത്ത പുസ്തകം?  ",
+    "answerText": " അധികാരത്തിന്റെ കൊടുമുടികളും താഴ്വരകളും "
+  },
+  {
+    "questionNum": 96492,
+    "questionText": " കൊച്ചി നിയമസഭയിൽ അംഗമായ ആദ്യ വനിത?  ",
+    "answerText": " തോട്ടയ്ക്കാട് മാധവിയമ്മ "
+  },
+  {
+    "questionNum": 96493,
+    "questionText": " കേരള ഗവർണർ പദവിയിലെത്തിയ വനിതകൾ?  ",
+    "answerText": " ജ്യോതി വെങ്കിടാചലം, രാംദുലാരി സിൻഹ, ഷീലാ ദീക്ഷിത് "
+  },
+  {
+    "questionNum": 96494,
+    "questionText": " കേരളത്തിൽ നിന്ന് പാർലമെന്റിലേക്ക് തിരഞ്ഞെടുക്കപ്പെടുന്ന അംഗങ്ങളുട എണ്ണം?  ",
+    "answerText": 29
+  },
+  {
+    "questionNum": 96495,
+    "questionText": " കേരള മുഖ്യമന്ത്രിയായ ശേഷം കേന്ദ്രമന്ത്രിസ്ഥാനത്തെത്തുന്ന ആദ്യവ്യക്തി?  ",
+    "answerText": " എ.കെ.ആന്റണി "
+  },
+  {
+    "questionNum": 96496,
+    "questionText": " സിനിമാരംഗത്തുനിന്നുള്ള കേരളത്തിലെ ആദ്യമന്ത്രി?  ",
+    "answerText": " കെ.ബി. ഗണേഷ് കുമാർ "
+  },
+  {
+    "questionNum": 96497,
+    "questionText": " ഏറ്റവും കൂടിയ ഭൂരിപക്ഷത്തിൽ എം.എൽ.എ ആയത്?  ",
+    "answerText": " എം.ചന്ദ്രൻ "
+  },
+  {
+    "questionNum": 96498,
+    "questionText": " പദവിയിലിരിക്കെ അന്തരിച്ച ആദ്യ മന്ത്രി?  ",
+    "answerText": " വി.കെ. വേലപ്പൻ "
+  },
+  {
+    "questionNum": 96499,
+    "questionText": " കേരള നിയമസഭയിലെആദ്യ ആംഗ്ലോ ഇന്ത്യൻ പ്രതിനിധി?  ",
+    "answerText": " വില്യം ഹാമിൽട്ടൺ ഡിക്രൂസ് "
+  },
+  {
+    "questionNum": 96500,
+    "questionText": " കേരള നിയമസഭയിലെ ആദ്യ സെക്രട്ടറി?  ",
+    "answerText": " വി. കൃഷ്ണമൂർത്തി "
+  },
+  {
+    "questionNum": 96501,
+    "questionText": " തൊഴിലില്ലായ്മ വേതനം, ചാരായ നിരോധനം എന്നിവ ഏർപ്പെടുത്തിയ മുഖ്യമന്ത്രി?  ",
+    "answerText": " എ.കെ.ആന്റണി "
+  },
+  {
+    "questionNum": 96502,
+    "questionText": " കേരളത്തിൽ ബഡ്ജറ്റ് അവതരിപ്പിച്ച ആദ്യ മുഖ്യമന്ത്രി?  ",
+    "answerText": " ആർ.ശങ്കർ "
+  },
+  {
+    "questionNum": 96503,
+    "questionText": " ഏറ്റവും പ്രായം കുറഞ്ഞ മന്ത്രി?  ",
+    "answerText": " പി.കെ.ജയലക്ഷ്മി "
+  },
+  {
+    "questionNum": 96504,
+    "questionText": " ഇ.എം.എസും പെൺകുട്ടിയും എന്ന കൃതി ആരുടേതാണ്?  ",
+    "answerText": " ബെന്യാമിൻ "
+  },
+  {
+    "questionNum": 96505,
+    "questionText": " Order of speed of light?",
+    "answerText": " water < glass.< air < vacuum"
+  },
+  {
+    "questionNum": 96506,
+    "questionText": " കേരളത്തിന്റെ പ്രഥമ വിദ്യാഭ്യാസ മന്ത്രി?  ",
+    "answerText": " ജോസഫ് മുണ്ടശ്ശേരി "
+  },
+  {
+    "questionNum": 96507,
+    "questionText": " കേരളത്തിലെ പ്രധാന തുറമുഖം?  ",
+    "answerText": " കൊച്ചി "
+  },
+  {
+    "questionNum": 96508,
+    "questionText": " ഒന്നാം കേരള നിയമസഭയിലെ ഡെപ്യൂട്ടി സ്പീക്കർ?  ",
+    "answerText": " കെ.ഒ. ഐഷാഭായ് "
+  },
+  {
+    "questionNum": 96509,
+    "questionText": " കേരളത്തിലെ ആദ്യ വനിതാ വൈസ് ചാൻസലർ?  ",
+    "answerText": " ഡോ.ജാൻസി ജെയിംസ് "
+  },
+  {
+    "questionNum": 96510,
+    "questionText": " Velocity of light is greater than the?",
+    "answerText": " Sound"
+  },
+  {
+    "questionNum": 96511,
+    "questionText": " ഉർവശി അവാർഡ് നേടിയ ആദ്യ മലയാള നടി?  ",
+    "answerText": " ശാരദ "
+  },
+  {
+    "questionNum": 96512,
+    "questionText": " കേരളത്തിലെആദ്യ മെഡിക്കൽ കോളേജ്?  ",
+    "answerText": " തിരുവനന്തപുരം "
+  },
+  {
+    "questionNum": 96513,
+    "questionText": " ശബരിമല സ്ഥിതിചെയ്യുന്ന ജില്ല?  ",
+    "answerText": " പത്തനം തിട്ട "
+  },
+  {
+    "questionNum": 96514,
+    "questionText": " തെങ്ങിന്റെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " കോക്കസ് ന്യൂസിഫെറ "
+  },
+  {
+    "questionNum": 96515,
+    "questionText": " മുളയുടെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " ബാംബൂസ് ബാബോസ് "
+  },
+  {
+    "questionNum": 96516,
+    "questionText": " മഞ്ഞനിറം നൽകുന്ന വർണകണം?  ",
+    "answerText": " സാന്തോഫിൽ "
+  },
+  {
+    "questionNum": 96517,
+    "questionText": " രാജവെമ്പാലയുടെ ശാസ്ത്രീയനാമം?  ",
+    "answerText": " ഓഫിയോഫറസ് ഹന്ന "
+  },
+  {
+    "questionNum": 96518,
+    "questionText": " ഹരിതകനിർമ്മിതിക്കാവശ്യമായത്?  ",
+    "answerText": " സൂര്യപ്രകാശം "
+  },
+  {
+    "questionNum": 96519,
+    "questionText": " പൂച്ചയുടെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " ഫെലിസ് ഡൊമസ്റ്റിക്ക "
+  },
+  {
+    "questionNum": 96520,
+    "questionText": " ചെമ്പരത്തിയുടെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " ഹൈബിസ്കസ് റോസ സൈനൻസിസ് "
+  },
+  {
+    "questionNum": 96521,
+    "questionText": " 2009 ലെ ക്ളിന്റൺ ഗ്ളോബൽ സിറ്റിസൺ അവാർഡ് ലഭിച്ചതാർക്ക്?  ",
+    "answerText": " രുചിര ഗുപ്ത "
+  },
+  {
+    "questionNum": 96522,
+    "questionText": " തിമിംഗലത്തെക്കുറിച്ച് പഠിക്കുന്ന ശാസ്ത്രശാഖ?  ",
+    "answerText": " സെറ്റോളജി "
+  },
+  {
+    "questionNum": 96523,
+    "questionText": " ആയുസ് ഏറ്റവും കൂടുതലുള്ള ജീവി?  ",
+    "answerText": " ആമ "
+  },
+  {
+    "questionNum": 96524,
+    "questionText": " Light reaches earth from sun in?",
+    "answerText": " 8 minutes 20semnds (500 seconds)"
+  },
+  {
+    "questionNum": 96525,
+    "questionText": " തിമിംഗലത്തിന്റെ കൊഴുപ്പിന് പറയുന്ന പേര്?  ",
+    "answerText": " ബ്ളബ്ബർ "
+  },
+  {
+    "questionNum": 96526,
+    "questionText": " ഏറ്റവും വലിയ തലച്ചോറുള്ള ജീവി?  ",
+    "answerText": " സ്പേം തിമിംഗലം "
+  },
+  {
+    "questionNum": 96527,
+    "questionText": " ആൺകൊതുകിന്റെ പ്രധാന ഭക്ഷണം?  ",
+    "answerText": " പഴച്ചാറും തേനും "
+  },
+  {
+    "questionNum": 96528,
+    "questionText": " കെരാറ്റോ പ്ളാസിറ്റിയിൽ മാറ്റിവയ്ക്കപ്പെടുന്നത്?  ",
+    "answerText": " സ്ഫടികദ്രവം, കോർണിയ, ദൃഷ്ടിപടലം "
+  },
+  {
+    "questionNum": 96529,
+    "questionText": " റേഡിയേഷൻ വളരെ കുറച്ച് മാത്രം ബാധിക്കുന്ന മനുഷ്യാവയവം?  ",
+    "answerText": " തലച്ചോറ് "
+  },
+  {
+    "questionNum": 96530,
+    "questionText": " നിശാന്ധതയ്ക്കു കാരണം ?  ",
+    "answerText": " ജീവകം എ "
+  },
+  {
+    "questionNum": 96531,
+    "questionText": " ശരീരത്തിലെ ഏറ്റവും വലിയ ജ്ഞാനേന്ദ്രിയം?  ",
+    "answerText": " ത്വക്ക് "
+  },
+  {
+    "questionNum": 96532,
+    "questionText": " എക്സിമ, സോറിയാസിസ് എന്നീ രോഗങ്ങൾ ബാധിക്കുന്നത്?  ",
+    "answerText": " ത്വക്കിനെ "
+  },
+  {
+    "questionNum": 96533,
+    "questionText": " സ്വാദ് മുകുളങ്ങൾ കാണുന്ന നാക്കിലെ ഭാഗം?  ",
+    "answerText": " പാപ്പില്ല "
+  },
+  {
+    "questionNum": 96534,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " സാരനാഥിലെ സിംഹമുദ്ര "
+  },
+  {
+    "questionNum": 96535,
+    "questionText": " പഞ്ചേന്ദ്രിയങ്ങൾ?  ",
+    "answerText": " മൂക്ക്, നാക്ക്, ചെവി, കണ്ണ്, ത്വക്ക് "
+  },
+  {
+    "questionNum": 96536,
+    "questionText": " കാഴ്ചശക്തി ഇല്ലാത്ത കണ്ണിലെ ഭാഗം?  ",
+    "answerText": " അന്ധബിന്ദു "
+  },
+  {
+    "questionNum": 96537,
+    "questionText": " ദീർഘദൃഷ്ടി പരിഹരിക്കുന്ന ലെൻസ്?  ",
+    "answerText": " ബൈ കോൺവെക്സ് ലെൻസ് "
+  },
+  {
+    "questionNum": 96538,
+    "questionText": " കണ്ണുനീരിന്റെ അണുനാശക ഗുണത്തിനു കാരണമാകുന്ന രാഗാഗ്നി?  ",
+    "answerText": " ലൈസോസൈം "
+  },
+  {
+    "questionNum": 96539,
+    "questionText": " മസ്തിഷ്കത്തിലെ രണ്ടാമത്തെ വലിയ ഭാഗം?  ",
+    "answerText": " സെറിബല്ലം "
+  },
+  {
+    "questionNum": 96540,
+    "questionText": " അകലെയുള്ള വസ്തുക്കളെ മാത്രം വ്യക്തമായി കാണാൻ കഴിയുന്നത്?  ",
+    "answerText": " ദീർഘദൃഷ്ടി "
+  },
+  {
+    "questionNum": 96541,
+    "questionText": " സുഷുമ്‌നാ നാഡികളുടെ എണ്ണം?  ",
+    "answerText": " 31 ജോഡി "
+  },
+  {
+    "questionNum": 96542,
+    "questionText": " ദേശീയ ചിഹ്നത്തിന് ഏത് വർഷമാണ് അംഗീകാരം ലഭിച്ചത്?  ",
+    "answerText": " 1950 ജനുവരി 26 "
+  },
+  {
+    "questionNum": 96543,
+    "questionText": " തലച്ചോറിനടിയിൽ ഹൈപ്പോതലാമസിനടുത്തായി സ്ഥിതിചെയ്യുന്ന ഗ്രന്ഥി?  ",
+    "answerText": " പിയൂഷഗ്രന്ഥി "
+  },
+  {
+    "questionNum": 96544,
+    "questionText": " സുഷുമ്നയുടെ ഏകദേശ നീളം?  ",
+    "answerText": " 45 സെ.മീ. "
+  },
+  {
+    "questionNum": 96545,
+    "questionText": " സ്വതന്ത്ര നാഡീവ്യവസ്ഥയുടെ ഭാഗങ്ങൾ?  ",
+    "answerText": " സിംപതറ്റിക് വ്യൂഹവും പാരാസിംപതറ്റിക് വ്യൂഹവും "
+  },
+  {
+    "questionNum": 96546,
+    "questionText": " ഏറ്റവും നീളം കൂടിയ നാഡി?  ",
+    "answerText": " സയാറ്റിക് നാഡി "
+  },
+  {
+    "questionNum": 96547,
+    "questionText": " വെൻട്രിക്കിളിലും സുഷുമ്നക്കുള്ളിലും നിറഞ്ഞിരിക്കുന്ന ദ്രാവകം?  ",
+    "answerText": " സെറിബ്രോ സ്പൈനൽ ദ്രാവകം "
+  },
+  {
+    "questionNum": 96548,
+    "questionText": " ശരീരത്തിന് മൊത്തമായോ ഭാഗികമായോ ചലനശേഷി ഇല്ലാതാകുകയോ പ്രതികരണശേഷി നഷ്ടപ്പെടുകയോ ചെയ്യുന്ന അവസ്ഥ?  ",
+    "answerText": " തളർവാതം "
+  },
+  {
+    "questionNum": 96549,
+    "questionText": " കൺഭിത്തിയിലെ മൂന്നു പാളികൾ?  ",
+    "answerText": " ദൃഡപടലം, രക്തപടലം, ദൃഷ്ടിപടലം "
+  },
+  {
+    "questionNum": 96550,
+    "questionText": " പൂച്ചയ്ക്ക് മനുഷ്യനെക്കാൾ രാത്രിയിൽ കാഴ്ചശക്തിയുള്ളതിനു കാരണം?  ",
+    "answerText": " മനുഷ്യന്റെ റെറ്റിനയിലുള്ളതിനേക്കാൾ റോഡുകോശങ്ങൾ ഉണ്ട് "
+  },
+  {
+    "questionNum": 96551,
+    "questionText": " മത്സ്യങ്ങളെക്കുറിച്ച് പഠിക്കുന്ന ശാസ്ത്രശാഖ?  ",
+    "answerText": " ഇക്തിയോളജി "
+  },
+  {
+    "questionNum": 96552,
+    "questionText": " പ്രസിവിക്കുന്ന പാമ്പ്?  ",
+    "answerText": " അണലി "
+  },
+  {
+    "questionNum": 96553,
+    "questionText": " ഏറ്റവും ചെറിയ ഉരഗം?  ",
+    "answerText": " ചെറിയ ജെക്കോ "
+  },
+  {
+    "questionNum": 96554,
+    "questionText": " ശ്രീബുദ്ധൻ തന്റെ ധർമ്മചക്രപ്രവർത്തനമെന്ന് പ്രിസദ്ധമായ ആദ്യത്തെ പ്രബോധനം നടത്തിയത് എവിടെയാണ്?  ",
+    "answerText": " സാരനാഥ് "
+  },
+  {
+    "questionNum": 96555,
+    "questionText": " മരം കയറുന്ന മത്സ്യം?  ",
+    "answerText": " അനാബസ് "
+  },
+  {
+    "questionNum": 96556,
+    "questionText": " നാഡീകോശത്തിന്റെ പ്രത്യേകത?  ",
+    "answerText": " സ്വയം വിഭജിക്കുവാൻ ശേഷിയില്ല "
+  },
+  {
+    "questionNum": 96557,
+    "questionText": " പറക്കുന്ന ഓന്ത്?  ",
+    "answerText": " ഫ്ളൈയിംഗ് ഡ്രാഗൺ "
+  },
+  {
+    "questionNum": 96558,
+    "questionText": " രണ്ട് ന്യൂറോണുകളിൽ തമ്മിൽ പരസ്പരം ബന്ധപ്പെടുന്ന ഭാഗം?  ",
+    "answerText": " സീനാപ്സ് "
+  },
+  {
+    "questionNum": 96559,
+    "questionText": " കാനഡയുടെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " വൈറ്റ് ലില്ലി "
+  },
+  {
+    "questionNum": 96560,
+    "questionText": " ഈജിപ്തിന്റെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " താമര "
+  },
+  {
+    "questionNum": 96561,
+    "questionText": " ഐവറികോസ്റ്റിന്റെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " ആന "
+  },
+  {
+    "questionNum": 96562,
+    "questionText": " 'തവിട്ടുകരടി' ദേശീയ ചിഹ്നമായ രാജ്യമേത്?  ",
+    "answerText": " റഷ്യ "
+  },
+  {
+    "questionNum": 96563,
+    "questionText": " 'ഒലിവ് ശാഖ' ദേശീയ ചിഹ്നമായ രാജ്യം?  ",
+    "answerText": " ഗ്രീസ് "
+  },
+  {
+    "questionNum": 96564,
+    "questionText": " തുർക്കിയുടെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " ക്രസന്റും നക്ഷത്രവും "
+  },
+  {
+    "questionNum": 96565,
+    "questionText": " അയർലണ്ടിന്റെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " ഷംറോക്ക് "
+  },
+  {
+    "questionNum": 96566,
+    "questionText": " നെതർലൻഡ്സ്, നോർവെ, ബെൽജിയം എന്നീ രാജ്യങ്ങളുടെ ദേശീയ ചിഹ്നം?  ",
+    "answerText": " സിംഹം "
+  },
+  {
+    "questionNum": 96567,
+    "questionText": " സാരനാഥ് സ്തൂപം സ്ഥാപിച്ച ചക്രവർത്തി?  ",
+    "answerText": " അശോകൻ "
+  },
+  {
+    "questionNum": 96568,
+    "questionText": " ദേശീയ പുഷ്പം?  ",
+    "answerText": " താമര "
+  },
+  {
+    "questionNum": 96569,
+    "questionText": " ദേശീയ ഗീതം:  ",
+    "answerText": " വന്ദേമാതരം "
+  },
+  {
+    "questionNum": 96570,
+    "questionText": " ദേശീയ ഗാനത്തിന്റെ രചയിതാവ് ആര്?  ",
+    "answerText": " രവീന്ദ്രനാഥടാഗോർ "
+  },
+  {
+    "questionNum": 96571,
+    "questionText": " വന്ദേമാതരം ഏത് ഗ്രന്ഥത്തിൽ നിന്നും എടുത്തതാണ്?  ",
+    "answerText": " ബങ്കിംചന്ദ്രചാറ്റർജിയുടെ നോവലായ ആനന്ദമഠം "
+  },
+  {
+    "questionNum": 96572,
+    "questionText": " ദേശീയ ഫലം?  ",
+    "answerText": " മാങ്ങ "
+  },
+  {
+    "questionNum": 96573,
+    "questionText": " ഇന്ത്യയുടെ പൈതൃക മൃഗം?  ",
+    "answerText": " ആന "
+  },
+  {
+    "questionNum": 96574,
+    "questionText": " വന്ദേമാതരത്തിന് സംഗീതം നൽകിയിരിക്കുന്നത് ആര്?  ",
+    "answerText": " രവീന്ദ്രനാഥ ടാഗോർ "
+  },
+  {
+    "questionNum": 96575,
+    "questionText": " ഇന്ത്യൻ ദേശീയ പതാക ആദ്യരൂപം തയ്യാറാക്കിയത്?  ",
+    "answerText": " പിംഗല വെങ്കയ്യ "
+  },
+  {
+    "questionNum": 96576,
+    "questionText": " ദേശീയ മുദ്ര ഇന്ത്യാ ഗവൺമെന്റ് അംഗീകരിച്ച വർഷം?  ",
+    "answerText": " 1950 ജനുവരി 26 "
+  },
+  {
+    "questionNum": 96577,
+    "questionText": " ദേശീയ മുദ്രയിൽ കാണപ്പെടുന്ന മൃഗങ്ങൾ?  ",
+    "answerText": " സിംഹം, ആന, കുതിര, കാള "
+  },
+  {
+    "questionNum": 96578,
+    "questionText": " ആദ്യത്തെയും അവസാനത്തെയും വരികൾ മാത്രം ഉൾപ്പെടുത്തിയ ദേശീയ ഗാനത്തിന്റെ ഹ്രസ്വരൂപം ആലപിക്കാൻ വേണ്ട സമയം?  ",
+    "answerText": " 20 സെക്കൻഡ് "
+  },
+  {
+    "questionNum": 96579,
+    "questionText": " ജനഗണമന ചിട്ടപ്പെടുത്തിയിരിക്കുന്നത് ഏത് രാഗത്തിലാണ്?  ",
+    "answerText": " ശങ്കരാഭരണം "
+  },
+  {
+    "questionNum": 96580,
+    "questionText": " ആദ്യമായി ദേശീയ ഗാനം പ്രസിദ്ധീകരിച്ചത്?  ",
+    "answerText": " 1912ൽ രബീന്ദ്രനാഥടാഗോർ എഡിറ്ററായിരുന്ന തത്ത്വബോധിനി പത്രികയിലായിരുന്നു ഭാരതവിധാത എന്ന പേരിൽ "
+  },
+  {
+    "questionNum": 96581,
+    "questionText": " ഭരണഘടന നിർമ്മാണസഭ ദേശീയ പതാകയുടെ മാതൃകയ്ക്ക് അംഗീകാരം നൽകിയ വർഷം?  ",
+    "answerText": " 1947 ജൂലായ് 22 "
+  },
+  {
+    "questionNum": 96582,
+    "questionText": " പാകിസ്ഥാൻ എന്ന പേര് നിർദ്ദേശിച്ചത്?  ",
+    "answerText": " റഹ്മത്ത് അലി "
+  },
+  {
+    "questionNum": 96583,
+    "questionText": " പാകിസ്ഥാന്റെ ആദ്യ വനിതാ സ്പീക്കർ?  ",
+    "answerText": " ഫാമിദാ മിർസ "
+  },
+  {
+    "questionNum": 96584,
+    "questionText": " പാകിസ്ഥാന്റെ ഏറ്റവും കൂടുതൽ അതിർത്തി പങ്കുവയ്ക്കുന്ന ഇന്ത്യൻ സംസ്ഥാനം?  ",
+    "answerText": " രാജസ്ഥാൻ "
+  },
+  {
+    "questionNum": 96585,
+    "questionText": " പാകിസ്ഥാന്റെ പ്രധാനമന്ത്രി?  ",
+    "answerText": " നവാസ് ഷെരീഫ് "
+  },
+  {
+    "questionNum": 96586,
+    "questionText": " ദേശീയഗാനമായ 'ജനഗണമന എവിടെയാണ് ആദ്യമായി ആലപിച്ചത്?  [Desheeyagaanamaaya 'janaganamana evideyaanu aadyamaayi aalapicchath? ]",
+    "answerText": " 1911 ഡിസംബർ 27 ന് ഇന്ത്യൻ നാഷണൽ കോൺഗ്രസിന്റെ കൊൽക്കത്ത സമ്മേളനത്തിൽ "
+  },
+  {
+    "questionNum": 96587,
+    "questionText": " പാകിസ്ഥാന്റെ ആണവശാസ്ത്രത്തിന്റെ പിതാവ്?  ",
+    "answerText": " അബ്ദുൾ ഖാദിർ ഖാൻ "
+  },
+  {
+    "questionNum": 96588,
+    "questionText": " എത്ര വർഷങ്ങൾക്കു ശേഷമാണ് കാർവാൻ ഇ - അമാൻ പുനരാരംഭിച്ചത്?  ",
+    "answerText": 54
+  },
+  {
+    "questionNum": 96589,
+    "questionText": " ഏതു പേരിലാണ് വന്ദേമാതരം ഇംഗ്ളീഷിലേക്ക് പരിഭാഷപ്പെടുത്തിയത്?  ",
+    "answerText": " ദി മോർണിംഗ് സോംഗ് ഒഫ് ഇന്ത്യ "
+  },
+  {
+    "questionNum": 96590,
+    "questionText": " അഫ്‌ഗാനിസ്ഥാൻ സ്വതന്ത്ര രാഷ്ട്രമായി മാറിയ വർഷം?  ",
+    "answerText": 1919
+  },
+  {
+    "questionNum": 96591,
+    "questionText": " അഫ്‌ഗാനിസ്ഥാന്റെ പാർലമെന്റ്?  ",
+    "answerText": " ലോയ ജിർഗ "
+  },
+  {
+    "questionNum": 96592,
+    "questionText": " അഫ്‌ഗാനിസ്ഥാന്റെ ദേശീയ ഗാനം?  ",
+    "answerText": " മിലിസുരദ് "
+  },
+  {
+    "questionNum": 96593,
+    "questionText": " 2008ലെ ഒളിമ്പിക്സ് വേദി?  ",
+    "answerText": " ബീജിംഗ് "
+  },
+  {
+    "questionNum": 96594,
+    "questionText": " ഏറ്റവും വലിയ കരസേനയുള്ള രാജ്യം?  ",
+    "answerText": " ചൈന "
+  },
+  {
+    "questionNum": 96595,
+    "questionText": " ഇന്ത്യയും ചൈനയും തമ്മിലുള്ള അതിർത്തിയുടെ നീളം?  ",
+    "answerText": " 3500 മീറ്റർ "
+  },
+  {
+    "questionNum": 96596,
+    "questionText": " പീപ്പിൾസ് റിപ്പബ്ളിക് ഒഫ് ചൈന നിലവിൽ വന്നതെന്ന്?  ",
+    "answerText": " 1949 ഒക്ടോബർ 1 "
+  },
+  {
+    "questionNum": 96597,
+    "questionText": " ബംഗ്ളാദേശ് സ്വതന്ത്രമായ വർഷം?  ",
+    "answerText": " 1971 ഡിസംബർ 16 "
+  },
+  {
+    "questionNum": 96598,
+    "questionText": " ബംഗ്ളാദേശ് പ്രധാനമന്ത്രി?  ",
+    "answerText": " ഷെയ്ക്ക് ഹസീന "
+  },
+  {
+    "questionNum": 96599,
+    "questionText": " റോസ് വിപ്ളവം നടന്ന രാജ്യം?  ",
+    "answerText": " ജോർജിയ "
+  },
+  {
+    "questionNum": 96600,
+    "questionText": " അമേരിക്കൻ രഹസ്യാന്വേഷണ ഏജൻസികൾ ലോകരാജ്യങ്ങളിൽ നിന്നും ഇന്റർനെറ്റ് ഫോൺ രഹസ്യങ്ങൾ ചോർത്തിയെന്ന വിവരം പുറത്തുവിട്ട അമേരിക്കക്കാരനാണ്?  ",
+    "answerText": " എഡോഡ് സ്നോഡൻ "
+  },
+  {
+    "questionNum": 96601,
+    "questionText": " സിസ്റ്റം സോഫ്ട്‌വെയറിന് ഉദാഹരണം?  ",
+    "answerText": " ഓപ്പറേറ്റിംഗ് സിസ്റ്റം "
+  },
+  {
+    "questionNum": 96602,
+    "questionText": " കമ്പ്യൂട്ടർ പ്രവർത്തിക്കുമ്പോൾ ആദ്യം പ്രവർത്തനസജ്ജമാകുന്ന സോഫ്‌റ്റ്‌വെയർ?  ",
+    "answerText": " ഓപ്പറേറ്റിംഗ് സിസ്റ്റം "
+  },
+  {
+    "questionNum": 96603,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ ഗീതമായ 'വന്ദേമാതരം ഏതു നോവലിലാണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്?  [Inthyayude desheeya geethamaaya 'vandemaatharam ethu neaavalilaanu ulppedutthiyirikkunnath? ]",
+    "answerText": " ആനന്ദ് മഠ് "
+  },
+  {
+    "questionNum": 96604,
+    "questionText": " ഹോട്ട്‌മെയിലിന്റെ സ്ഥാപകൻ?  ",
+    "answerText": " സബീർ ഭാട്ടിയ, ജാക്ക് സ്മിത്ത് "
+  },
+  {
+    "questionNum": 96605,
+    "questionText": " ഇന്റർനെറ്റ് എക്സ്‌പ്ളോറർ നിലവിൽ വന്നത്?  ",
+    "answerText": 1995
+  },
+  {
+    "questionNum": 96606,
+    "questionText": " ഓർക്കൂട്ടിന്റെ സ്ഥാപകൻ?  ",
+    "answerText": " ഓർക്കൂട്ട് ബെയ്ക്കുട്ടൻ "
+  },
+  {
+    "questionNum": 96607,
+    "questionText": " ആദ്യത്തെ മിനി കമ്പ്യൂട്ടർ?  ",
+    "answerText": " PDP"
+  },
+  {
+    "questionNum": 96608,
+    "questionText": " ആദ്യത്തെ ദേശീയ ഗെയിംസ് നടന്നത്?  ",
+    "answerText": " 1924ൽ "
+  },
+  {
+    "questionNum": 96609,
+    "questionText": " സ്വാതന്ത്ര്യം ലഭിച്ചതിനുശേഷം നടന്ന ആദ്യ ദേശീയ ഗെയിംസ്?  ",
+    "answerText": " 1948, ലക്നൗ "
+  },
+  {
+    "questionNum": 96610,
+    "questionText": " 2017ലെ ദേശീയ ഗെയിംസ്?  ",
+    "answerText": " ഗോവയിൽ "
+  },
+  {
+    "questionNum": 96611,
+    "questionText": " ദേശീയ ഗെയിംസിന്റെ മുദ്രാവാക്യം?  ",
+    "answerText": " ഐക്യത, സമാധാനം, സഹകരണം "
+  },
+  {
+    "questionNum": 96612,
+    "questionText": " മെക്കാനിക്സിന്റെ പിതാവ്?  ",
+    "answerText": " ഗലീലിയോ "
+  },
+  {
+    "questionNum": 96613,
+    "questionText": " പ്രവൃത്തി ചെയ്യാനുള്ള കഴിവാണ്?  ",
+    "answerText": " ഊർജ്ജം "
+  },
+  {
+    "questionNum": 96614,
+    "questionText": " ഇരവികുളം നാഷണൽ പാർക്ക് ബഫർ സോണായി പ്രഖ്യാപിച്ചത്?  ",
+    "answerText": 2007
+  },
+  {
+    "questionNum": 96615,
+    "questionText": " കേരളത്തിൽ ഏറ്റവും അവസാനം നിലവിൽ വന്ന ദേശീയ ഉദ്യാനം?  ",
+    "answerText": " അമരമ്പലം "
+  },
+  {
+    "questionNum": 96616,
+    "questionText": " സാംക്രമിക രോഗം പകർത്തുന്നത്?  ",
+    "answerText": " സൂക്ഷ്മാണുക്കൾ "
+  },
+  {
+    "questionNum": 96617,
+    "questionText": " വന്ദേമാതരം ആദ്യമായി ആലപിച്ച വർഷം?  ",
+    "answerText": 1896
+  },
+  {
+    "questionNum": 96618,
+    "questionText": " നാഷണൽ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഒഫ് അഗ്രികൾച്ചർ സ്ഥിതിചെയ്യുന്നത്?  ",
+    "answerText": " ജയ്പൂർ "
+  },
+  {
+    "questionNum": 96619,
+    "questionText": " ഏതു ഭാഷയിലാണ് വന്ദേമാതരം രചിച്ചിരിക്കുന്നത്?  ",
+    "answerText": " സംസ്കൃതം "
+  },
+  {
+    "questionNum": 96620,
+    "questionText": " കേരളത്തിലെ ആദ്യത്തെ ഡീസൽ താപവൈദ്യുത നിലയം?  ",
+    "answerText": " ബ്രഹ്മപുരം "
+  },
+  {
+    "questionNum": 96621,
+    "questionText": " ദുർഗേശനന്ദിനി എന്ന നോവൽ രചിച്ചത് ആരാണ്?  ",
+    "answerText": " ബങ്കിം ചന്ദ്ര ചാറ്റർജി "
+  },
+  {
+    "questionNum": 96622,
+    "questionText": " ചീമേനി താപവൈദ്യുത നിലയത്തിൽ ഉപയോഗിക്കുന്ന ഇന്ധനം?  ",
+    "answerText": " പ്രകൃതി വാതകം "
+  },
+  {
+    "questionNum": 96623,
+    "questionText": " എൻ.ടി.പി.സിയുടെ കീഴിലുള്ള കേരളത്തിലെ താപവൈദ്യുത നിലയം?  ",
+    "answerText": " കായംകുളം താപവൈദ്യുത നിലയം "
+  },
+  {
+    "questionNum": 96624,
+    "questionText": " ബി.ടി വഴുതന നിരോധിച്ച ആദ്യ ഇന്ത്യൻ സംസ്ഥാനം?  ",
+    "answerText": " ഉത്തരാഖണ്ഡ് "
+  },
+  {
+    "questionNum": 96625,
+    "questionText": " ജനിതകമാറ്റം വരുത്തിയ പച്ചക്കറി ഇനങ്ങളിൽ ആദ്യത്തേതാണ്?  ",
+    "answerText": " വഴുതന "
+  },
+  {
+    "questionNum": 96626,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ കലണ്ടർ അംഗീകരിക്കപ്പെട്ട വർഷം?  ",
+    "answerText": " 1957 മാർച്ച് 22 "
+  },
+  {
+    "questionNum": 96627,
+    "questionText": " ആദ്യ ദേശീയ കർഷക നയം നിലവിൽ വന്നത്?  ",
+    "answerText": 2000
+  },
+  {
+    "questionNum": 96628,
+    "questionText": " രാഷ്ട്രീയ കൃഷിവികാസ് യോജന ആരംഭിച്ചത്?  ",
+    "answerText": 2007
+  },
+  {
+    "questionNum": 96629,
+    "questionText": " ഇന്ത്യയിൽ ബഹിരാകാശ കമ്മിഷനും ബഹിരാകാശ വകുപ്പും നിലവിൽ വന്നത്?  ",
+    "answerText": 1972
+  },
+  {
+    "questionNum": 96630,
+    "questionText": " തുമ്പ റോക്കറ്റ് വിക്ഷേപണകേന്ദ്രം നിലവിൽ വന്നത്?  ",
+    "answerText": 1963
+  },
+  {
+    "questionNum": 96631,
+    "questionText": " ശാസ്ത്രലോകത്തെ മഹാത്മാഗാന്ധി എന്ന് എ.പി.ജെ. അബ്ദുൾകലാം വിശേഷിപ്പിച്ചത്?  ",
+    "answerText": " വിക്രംസാരാഭായ് "
+  },
+  {
+    "questionNum": 96632,
+    "questionText": " ഐ.എസ്.ആർ.ഒ സ്പേസ് ആപ്ളിക്കേഷൻ സെന്റർ?  ",
+    "answerText": " അഹമ്മദാബാദ് "
+  },
+  {
+    "questionNum": 96633,
+    "questionText": " ദേശീയ കലണ്ടറിലെ ഒന്നാമത്തെ മാസം ഏതാണ്?  ",
+    "answerText": " ചൈത്രം "
+  },
+  {
+    "questionNum": 96634,
+    "questionText": " പ്രകാശത്തിന്റെ ഏറ്റവും കൂടുതൽ വേഗത?  ",
+    "answerText": " ശൂന്യതയിൽ "
+  },
+  {
+    "questionNum": 96635,
+    "questionText": " പ്രകാശം ഒരു മാദ്ധ്യമത്തിൽ നിന്ന് മറ്റൊന്നിലേക്ക് കടക്കുമ്പോൾ അതിന്റെ പാതയ്ക്ക് ഉണ്ടാകുന്ന വ്യതിയാനം?  ",
+    "answerText": " അപവർത്തനം "
+  },
+  {
+    "questionNum": 96636,
+    "questionText": " ഒരു അതാര്യവസ്തുവിനെ ചുറ്റി പ്രകാശം വളഞ്ഞുസഞ്ചരിക്കുന്ന പ്രതിഭാസം?  ",
+    "answerText": " ഡിഫ്രാക്ഷൻ "
+  },
+  {
+    "questionNum": 96637,
+    "questionText": " അശോകചക്രത്തിന് എത്ര ആരക്കാലുകളണ്ട്?  ",
+    "answerText": 24
+  },
+  {
+    "questionNum": 96638,
+    "questionText": " പ്രകാശവേഗത ആദ്യമായി കണക്കാക്കിയി വ്യക്തി?  ",
+    "answerText": " റോമർ. "
+  },
+  {
+    "questionNum": 96639,
+    "questionText": " ഭൂവൽക്കത്തിൽ ഏറ്റവും സുലഭമായി കാണപ്പെടുന്ന ലോഹം?  ",
+    "answerText": " അലൂമിനിയം "
+  },
+  {
+    "questionNum": 96640,
+    "questionText": " ആൽക്കലൈൻ എർത്ത് ലോഹങ്ങൾ എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " ബെറിലിയം, മഗ്നീഷ്യം, കാൽസ്യം, സ്ട്രോൺഷ്യം, ബേരിയം, റേഡിയം "
+  },
+  {
+    "questionNum": 96641,
+    "questionText": " വിമാനനിർമ്മാണത്തിനുപയോഗിക്കുന്ന ലോഹസങ്കരം?  ",
+    "answerText": " ഡ്യൂറാലുമിൻ "
+  },
+  {
+    "questionNum": 96642,
+    "questionText": " ടോർച്ച്‌സെല്ലിൽ ഉപയോഗിക്കുന്ന ലോഹം?  ",
+    "answerText": " സിങ്ക് "
+  },
+  {
+    "questionNum": 96643,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ പതാകയുടെ നീളവും വീതിയും ഏത് അനുപാതത്തിലാണ്?  ",
+    "answerText": " 1970-01-01 03:02:00"
+  },
+  {
+    "questionNum": 96644,
+    "questionText": " മോട്ടോർ കാറുകളുടെ ആക്സിൽ നിർമ്മിക്കാനുപയോഗിക്കുന്ന ലോഹസങ്കരം?  ",
+    "answerText": " ക്രോംവനേഡിയം സ്റ്റീൽ "
+  },
+  {
+    "questionNum": 96645,
+    "questionText": " അർബുദ ചികിത്സയ്ക്കുപയോഗിക്കുന്ന റേഡിയം കണ്ടുപിടിച്ചത്?  ",
+    "answerText": " മാഡം ക്യൂറി "
+  },
+  {
+    "questionNum": 96646,
+    "questionText": " ഭാവിയിലെ ഇന്ധനം?  ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96647,
+    "questionText": " ലിഗ്‌നൈറ്റിൽ അടങ്ങിയിട്ടുള്ള കാർബണിന്റെ ശതമാനം?  ",
+    "answerText": " 38 ശതമാനം "
+  },
+  {
+    "questionNum": 96648,
+    "questionText": " ഇന്ധനമായി ഉപയോഗിക്കുന്ന ഒരു മൂലകം?  ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96649,
+    "questionText": " ഉരുക്കി വേർതിരിക്കൽ വഴി ശുദ്ധീകരിക്കുന്ന ഒരു ലോഹമാണ്?  ",
+    "answerText": " ടിൻ "
+  },
+  {
+    "questionNum": 96650,
+    "questionText": " സ്റ്റെർലിംഗ് സിൽവറിൽ അടങ്ങിയിരിക്കുന്നത്?  ",
+    "answerText": " 92.5 % സിൽവറും 7.5 % കോപ്പറും "
+  },
+  {
+    "questionNum": 96651,
+    "questionText": " ലോഹങ്ങൾ വെൽഡ് ചെയ്യാനായി ഉപയോഗിക്കുന്ന മിശ്രിത വാതകങ്ങൾ?  ",
+    "answerText": " ഓക്സിജൻ, അസൈറ്റിലിൻ "
+  },
+  {
+    "questionNum": 96652,
+    "questionText": " കരിമരുന്നിൽ കലർത്തുന്ന രാസവസ്തുക്കൾ?  ",
+    "answerText": " കാർബൺ, സൾഫർ, പൊട്ടാസ്യം നൈട്രേറ്റ്, അലൂമിനിയം പൗഡർ "
+  },
+  {
+    "questionNum": 96653,
+    "questionText": " ഹരിത ഇന്ധനം?  ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96654,
+    "questionText": " ഇലക്ട്രോണുകൾ കാണപ്പെടുന്നതെവിടെ?  ",
+    "answerText": " ആറ്റത്തിലെ ഓർബിറ്റിൽ അഥവാ ഷെല്ലിൽ "
+  },
+  {
+    "questionNum": 96655,
+    "questionText": " ആറ്റത്തിന്റെ ന്യൂക്ളിയസിൽ കാണപ്പെടുന്ന കണികകളെ വിളിക്കുന്ന പൊതുവായ പേര്?  ",
+    "answerText": " ന്യൂക്ളിയോണുകൾ "
+  },
+  {
+    "questionNum": 96656,
+    "questionText": " കപ്പാസിറ്റൻസിന്റെ യൂണിറ്റ് ?  ",
+    "answerText": " ഫാരഡ് "
+  },
+  {
+    "questionNum": 96657,
+    "questionText": " ആപേക്ഷിക ആർദ്രത അളക്കുന്ന ഉപകരണം?  ",
+    "answerText": " ഹൈഗ്രോമീറ്റർ "
+  },
+  {
+    "questionNum": 96658,
+    "questionText": " ഗാർഹിക സർക്യൂട്ടിൽ സ്വിച്ചുകൾ ഘടിപ്പിച്ചിരിക്കുന്നത് ഏത് ലൈനിലാണ് ?  ",
+    "answerText": " ഫേസ് ലൈനിൽ "
+  },
+  {
+    "questionNum": 96659,
+    "questionText": " ടെലിഫോൺ കണ്ടുപിടിച്ചത്?  ",
+    "answerText": " ഗ്രഹാം ബെൽ "
+  },
+  {
+    "questionNum": 96660,
+    "questionText": " ദ്രവ്യത്തിന്റെ അടിസ്ഥാനപരമായ മൗലിക കണം?  ",
+    "answerText": " ഇലക്ട്രോൺ "
+  },
+  {
+    "questionNum": 96661,
+    "questionText": " ആറ്റത്തിന്റെ കേന്ദ്രഭാഗം?  ",
+    "answerText": " ന്യൂക്ളിയസ് "
+  },
+  {
+    "questionNum": 96662,
+    "questionText": " മാസ് നമ്പറിനെ സൂചിപ്പിക്കുന്ന അക്ഷരം?  ",
+    "answerText": " A"
+  },
+  {
+    "questionNum": 96663,
+    "questionText": " ആറ്റോമിക സംഖ്യയെ സൂചിപ്പിക്കുന്ന അക്ഷരം?  ",
+    "answerText": " Z"
+  },
+  {
+    "questionNum": 96664,
+    "questionText": " ഒരാറ്റത്തിന്റെ ന്യൂക്ളിയസിലുള്ള പ്രോട്ടോണുകളുടെയും ന്യൂട്രോണുകളുടെയും ആകെ എണ്ണമാണ്?  ",
+    "answerText": " മാസ് നമ്പർ "
+  },
+  {
+    "questionNum": 96665,
+    "questionText": " ഗോളാകൃതിയിലുള്ള ഓർബിറ്റൽ ഉള്ളത്?  ",
+    "answerText": " 'S' ഓർബിറ്റലിന് "
+  },
+  {
+    "questionNum": 96666,
+    "questionText": " ന്യൂക്ളിയസിനു ചുറ്റും ഇലക്ട്രോണുകൾ സ്ഥിതിചെയ്യാൻ കൂടുതൽ സാദ്ധ്യതയുള്ള മേഖലയാണ്?  ",
+    "answerText": " ഓർബിറ്റൽ "
+  },
+  {
+    "questionNum": 96667,
+    "questionText": " ഏറ്റവും കുറച്ച് ഐസോടോപ്പുകൾ ഉള്ള മൂലകം ഏത്?  ",
+    "answerText": " ഹൈഡ്രജൻ "
+  },
+  {
+    "questionNum": 96668,
+    "questionText": " ത്വക്കിന് നിറവ്യത്യാസം വരുത്തിയ അമ്ളം?  ",
+    "answerText": " നൈട്രിക് അമ്ളം "
+  },
+  {
+    "questionNum": 96669,
+    "questionText": " രസതന്ത്രത്തിൽ അളവ് സമ്പ്രദായം ഏർപ്പെടുത്തിയത്?  ",
+    "answerText": " ലാവോസിയ "
+  },
+  {
+    "questionNum": 96670,
+    "questionText": " യുറേനിയം കണ്ടുപിടിച്ച ശാസ്ത്രജ്ഞൻ?  ",
+    "answerText": " മാർട്ടിൻ ക്ളാപ്രോത്ത് "
+  },
+  {
+    "questionNum": 96671,
+    "questionText": " അച്ചാറുകൾ കേടുകൂടാതെ സൂക്ഷിക്കാൻ ഉപയോഗിക്കുന്നത്?  ",
+    "answerText": " വിനിഗർ (വിനാഗിരി) "
+  },
+  {
+    "questionNum": 96672,
+    "questionText": " അയഡിൻ ലായനി ചേർക്കുമ്പോൾ നീലനിറം കിട്ടുന്ന വസ്തു ഏത്?  ",
+    "answerText": " അന്നജം "
+  },
+  {
+    "questionNum": 96673,
+    "questionText": " കേരളത്തിന്റെ കടൽത്തീരത്ത് സുലഭമായ ഒരു ന്യൂക്ളിയർ ഇന്ധനമാണ്?  ",
+    "answerText": " തോറിയം "
+  },
+  {
+    "questionNum": 96674,
+    "questionText": " അഗ്നിശമന വസ്തുക്കളിൽ ഉപയോഗിക്കുന്ന പദാർത്ഥം ഏത്?  ",
+    "answerText": " പൈറീൻ "
+  },
+  {
+    "questionNum": 96675,
+    "questionText": " വൈൻ ഡേറ്റിംഗ് നടത്താനുപയോഗിക്കുന്നത്?  ",
+    "answerText": " ട്രിഷിയം "
+  },
+  {
+    "questionNum": 96676,
+    "questionText": " ഓക്സിജൻ നാമകരണം ചെയ്തത്?  ",
+    "answerText": " ലാവോസിയ "
+  },
+  {
+    "questionNum": 96677,
+    "questionText": " പിച്ച് ബ്ളൻഡിലടങ്ങിയിരിക്കുന്ന റേഡിയോ ആക്ടിവിറ്റി മൂലകം?  ",
+    "answerText": " യുറേനിയം "
+  },
+  {
+    "questionNum": 96678,
+    "questionText": " ട്രാൻസ്‌മ്യൂട്ടേഷൻ വിജയത്തിലെത്തിച്ച ശാസ്ത്രജ്ഞൻ ആര്?  ",
+    "answerText": " റൂഥർ ഫോർഡ് "
+  },
+  {
+    "questionNum": 96679,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ ഗോതമ്പ് ഉത്‌പാദിപ്പിക്കുന്ന സംസ്ഥാനം?  ",
+    "answerText": " ഉത്തർപ്രദേശ് "
+  },
+  {
+    "questionNum": 96680,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ തേയില ഉത്‌പാദിപ്പിക്കുന്ന സംസ്ഥാനം?  ",
+    "answerText": " അസാം "
+  },
+  {
+    "questionNum": 96681,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ കാപ്പി ഉത്‌പാദനത്തിൽ രണ്ടാം സ്ഥാനം?  ",
+    "answerText": " കേരളം "
+  },
+  {
+    "questionNum": 96682,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി ദേശീയ അടിയന്തരാവസ്ഥ നിലവിൽ വന്നത്?  ",
+    "answerText": 1962
+  },
+  {
+    "questionNum": 96683,
+    "questionText": " ആദ്യ ദേശീയ അടിയന്തരാവസ്ഥ പ്രഖ്യാപിച്ച രാഷ്ട്രപതി?  ",
+    "answerText": " ഡോ. എസ്. രാധാകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 96684,
+    "questionText": " 356-ാം വകുപ്പ് പ്രകാരം കേരളത്തിൽ രാഷ്ട്രപതി ഭരണം നിലവിൽ വന്നത്?  ",
+    "answerText": " 1959 ജൂലായ് 31 "
+  },
+  {
+    "questionNum": 96685,
+    "questionText": " ദേശീയ പതാകയിലെ നിറങ്ങൾക്ക് വ്യാഖ്യാനം നൽകിയത് ആരാണ്?  ",
+    "answerText": " ഡോ. എസ്. രാധാകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 96686,
+    "questionText": " അക്ഷാംശരേഖകളുടെ എണ്ണം?  ",
+    "answerText": 181
+  },
+  {
+    "questionNum": 96687,
+    "questionText": " ഇന്ത്യൻ ദേശീയ പതാകയുടെ രൂപകല്പന ആരാണ് നടത്തിയത്?  ",
+    "answerText": " പിങ്കലി വെങ്കയ്യ "
+  },
+  {
+    "questionNum": 96688,
+    "questionText": " രേഖാംശരേഖകളുടെ എണ്ണം?  ",
+    "answerText": 360
+  },
+  {
+    "questionNum": 96689,
+    "questionText": " എല്ലാ വർഷവും ചുവപ്പുകോട്ടയിൽ ദേശീയ പതാക ഉയർത്താൻ ആരംഭിച്ചത് ഏതു വർഷം മുതലാണ്?  ",
+    "answerText": 1948
+  },
+  {
+    "questionNum": 96690,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ പതാക ആദ്യമായി ബഹിരാകാശത്തെത്തുന്നത് എന്നാണ്?  ",
+    "answerText": 1971
+  },
+  {
+    "questionNum": 96691,
+    "questionText": " വളഞ്ഞുപുളഞ്ഞു പോകുന്ന ഏക രേഖാംശരേഖ?  ",
+    "answerText": " അന്തർദേശീയ ദിനാംഗ രേഖ "
+  },
+  {
+    "questionNum": 96692,
+    "questionText": " നമ്മുടെ ദേശീയ പതാകയ്ക്ക് എന്നാണ് അംഗീകാരം ലഭിച്ചത്?  ",
+    "answerText": " 1947 ജൂലായ് 22 ന് "
+  },
+  {
+    "questionNum": 96693,
+    "questionText": " ഗംഗയ്ക്കു കുറുകെ ബംഗാളിൽ നിർമ്മിച്ച തടയണ?  ",
+    "answerText": " ഫറാക്ക ബാരേജ് "
+  },
+  {
+    "questionNum": 96694,
+    "questionText": " Substances which do not pass light through them are called?",
+    "answerText": " Opaque substances eg : paper; storie"
+  },
+  {
+    "questionNum": 96695,
+    "questionText": " ഗംഗയുടെ തീരത്തുള്ള പ്രധാന പട്ടണങ്ങൾ?  ",
+    "answerText": " ഹരിദ്വാർ, കാൺപൂർ, പാറ്റ്ന, വാരാണസി "
+  },
+  {
+    "questionNum": 96696,
+    "questionText": " ഭരണഘടനയുടെ എട്ടാം ഷെഡ്യൂളിൽ എത്ര ഭാഷകളാണ് ഉൾപ്പെടുത്തിയിരിക്കുന്നത്?  ",
+    "answerText": 22
+  },
+  {
+    "questionNum": 96697,
+    "questionText": " കേരള ഹൈക്കോടതി ആസ്ഥാനം?  ",
+    "answerText": " എറണാകുളം. "
+  },
+  {
+    "questionNum": 96698,
+    "questionText": " അറബിക്കടലിൽ സ്ഥിതിചെയ്യുന്ന ലക്ഷദ്വീപിൽ നിന്നുള്ള ആകെ ദ്വീപുകൾ?  ",
+    "answerText": 36
+  },
+  {
+    "questionNum": 96699,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ ഔദ്യോഗിക ഭാഷ കമ്മീഷൻ രൂപീകൃതമായത്?  ",
+    "answerText": 1955
+  },
+  {
+    "questionNum": 96700,
+    "questionText": " കേരളത്തിലും കർണാടക തീരങ്ങളിലും കാലവർഷത്തിനു മുമ്പായി ലഭിക്കുന്ന മഴ?  ",
+    "answerText": " മാംഗോഷവർ "
+  },
+  {
+    "questionNum": 96701,
+    "questionText": " സിന്ധിഭാഷയെ എട്ടാം ഷെഡ്യൂളിൽ ഉൾപ്പെടുത്തിയ ഭരണഘടനാ ഭേദഗതി?  ",
+    "answerText": " 21-ാം ഭരണഘടനാ ഭേദഗതി "
+  },
+  {
+    "questionNum": 96702,
+    "questionText": " 1992 ലെ ഭരണഘടനാ ഭേദഗതി പ്രകാരം 8-ാം ഷെഡ്യൂളിൽ ഉൾപ്പെടുത്തപ്പെട്ടിട്ടുള്ള ഭാഷകൾ ഏതെല്ലാമാണ്?  ",
+    "answerText": " കൊങ്കണി, മണിപ്പൂരി, നേപ്പാളി "
+  },
+  {
+    "questionNum": 96703,
+    "questionText": " ആൽമരത്തിന്റെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " ഫൈക്കസ് ബംഗാളൻസിസ് "
+  },
+  {
+    "questionNum": 96704,
+    "questionText": " ഹേമന്തകാലത്ത് യൂറോപ്പിൽ അനുഭവപ്പെടുന്ന അതിശൈത്യമായ പ്രാദേശികവാതം?  ",
+    "answerText": " മിസ്ട്രൽ "
+  },
+  {
+    "questionNum": 96705,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ പൊതുമേഖലാ സ്ഥാപനമാണ്?  ",
+    "answerText": " ഇന്ത്യൻ റെയിൽവെ "
+  },
+  {
+    "questionNum": 96706,
+    "questionText": " ഹിന്ദുക്കളുടെ പുണ്യവൃക്ഷമായി അറിയപ്പെടുന്നത്?  ",
+    "answerText": " ആൽ "
+  },
+  {
+    "questionNum": 96707,
+    "questionText": " ഇന്റഗ്രൽ കോച്ച് ഫാക്ടറി?  ",
+    "answerText": " പെരമ്പൂർ "
+  },
+  {
+    "questionNum": 96708,
+    "questionText": " Substances which allow light to pass through them are called?",
+    "answerText": " Transparent substances eg : glass"
+  },
+  {
+    "questionNum": 96709,
+    "questionText": " ഇന്ത്യൻ റെയിൽവേ മ്യൂസിയം?  ",
+    "answerText": " ചാണക്യപുരി, ഡൽഹി "
+  },
+  {
+    "questionNum": 96710,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും നീളം കൂടിയ റെയിൽവേപാലം?  ",
+    "answerText": " വല്ലാർപാടം "
+  },
+  {
+    "questionNum": 96711,
+    "questionText": " ലോകത്ത് ആദ്യമായി മാവ് കൃഷി ആരംഭിച്ചത് എവിടെയാണ്?  ",
+    "answerText": " ഇന്ത്യ "
+  },
+  {
+    "questionNum": 96712,
+    "questionText": " താമരയുടെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " നിലംബോ ന്യൂസിഫെറ "
+  },
+  {
+    "questionNum": 96713,
+    "questionText": " Wave theory of light was proposed by?",
+    "answerText": " Christian Huygens"
+  },
+  {
+    "questionNum": 96714,
+    "questionText": " വിപ്ളവകാലത്തെ ബ്രിട്ടനിലെ രാജ്ഞി?  ",
+    "answerText": " വിക്ടോറിയ "
+  },
+  {
+    "questionNum": 96715,
+    "questionText": " ഡൽഹി പിടിച്ചടക്കിയ വിപ്ളവകാരികൾ ഇന്ത്യയുടെ ചക്രവർത്തിയായി വാഴിച്ചത്?  ",
+    "answerText": " ബഹദൂർഷാ ll നെ "
+  },
+  {
+    "questionNum": 96716,
+    "questionText": " ശിപായി ലഹള സമയത്തെ വൈസ്രോയി?  ",
+    "answerText": " കാനിംഗ് പ്രഭു "
+  },
+  {
+    "questionNum": 96717,
+    "questionText": " താമരയുടെ ശരാശരി ആയുസ് എത്ര വർഷമാണ്?  ",
+    "answerText": " രണ്ടു വർഷം "
+  },
+  {
+    "questionNum": 96718,
+    "questionText": " Electromagnetic theory of light was proposed by?",
+    "answerText": " James Clark Maxwell"
+  },
+  {
+    "questionNum": 96719,
+    "questionText": " ഇന്ത്യൻ സുപ്രീംകോടതി ജഡ്ജിയായ ആദ്യ വനിത?  ",
+    "answerText": " ഫാത്തിമാബീവി "
+  },
+  {
+    "questionNum": 96720,
+    "questionText": " ഇന്ത്യയിൽ നോബൽ സമ്മാനം നേടിയ ആദ്യ വനിത?  ",
+    "answerText": " മദർ തെരേസ "
+  },
+  {
+    "questionNum": 96721,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി സാഹിത്യ അക്കാദമി നേടിയ വനിത?  ",
+    "answerText": " അമൃതാപ്രീതം "
+  },
+  {
+    "questionNum": 96722,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ഹൈക്കോടതി ജഡ്ജി?  ",
+    "answerText": " അന്നാ ചാണ്ടി "
+  },
+  {
+    "questionNum": 96723,
+    "questionText": " ബ്രസീലിയൻ പ്രസിഡന്റായ ആദ്യ വനിത?  ",
+    "answerText": " ദിൽമറൂസെഫ് "
+  },
+  {
+    "questionNum": 96724,
+    "questionText": " ഒളിമ്പിക്സിൽ ബാഡ്‌മിന്റണിൽ മെഡൽ നേടിയ ആദ്യ ഇന്ത്യക്കാരി?  ",
+    "answerText": " സൈന നെഹ്വാൾ "
+  },
+  {
+    "questionNum": 96725,
+    "questionText": " മയൂരസന്ദേശം രചിച്ചത് ആരാണ്?  ",
+    "answerText": " കേരളവർമ്മ വലിയകോയിത്തമ്പുരാൻ "
+  },
+  {
+    "questionNum": 96726,
+    "questionText": " കേരളത്തിൽ ആദ്യമായി ഐ.പി.എസ് നേടിയ വനിത?  ",
+    "answerText": " ആർ. ശ്രീലേഖ "
+  },
+  {
+    "questionNum": 96727,
+    "questionText": " എൻ.സി.ഇ.ആർ.ടിയുടെ ആസ്ഥാനം?  ",
+    "answerText": " ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 96728,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ വനിതാ യൂണിവേഴ്സിറ്റി ഏതാണ്?  ",
+    "answerText": " എസ്.റ്റി.ഡി. വിമൻസ് യൂണിവേഴ്സിറ്റി പൂനെ "
+  },
+  {
+    "questionNum": 96729,
+    "questionText": " നാഷണൽ കൗൺസിൽ ഒഫ് എഡ്യൂക്കേഷൻ റിസർച്ച് ആൻഡ് ട്രെയിനിംഗ് (എൻ.സി.ഇ.ആർ.ടി) സ്ഥാപിതമായ വർഷം?  ",
+    "answerText": 1961
+  },
+  {
+    "questionNum": 96730,
+    "questionText": " ഇപ്പോഴത്തെ യു.ജി.സി ചെയർമാൻ?  ",
+    "answerText": " ഡോ. വേദപ്രകാശ് "
+  },
+  {
+    "questionNum": 96731,
+    "questionText": " ഇന്ത്യക്കാരനായ ആദ്യ വൈസ് ചാൻസലർ?  ",
+    "answerText": " ഗോരോദാസ് ബാനർജി "
+  },
+  {
+    "questionNum": 96732,
+    "questionText": " പ്രാഥമിക വിദ്യാഭ്യാസത്തിന്റെ പുരോഗതി ലക്ഷ്യം വച്ച് ആരംഭിച്ച പദ്ധതി ഏതാണ്?  ",
+    "answerText": " ഓപ്പറേഷൻ ബ്ളാക്ക് ബോർഡ് "
+  },
+  {
+    "questionNum": 96733,
+    "questionText": " ഏഷ്യയിലെ ആദ്യത്തെ മെഡിക്കൽ കോളേജ്?  ",
+    "answerText": " കൊൽക്കത്ത മെഡിക്കൽ കോളേജ് "
+  },
+  {
+    "questionNum": 96734,
+    "questionText": " കടുവയുടെ ശാസ്ത്രീയ നാമം?  ",
+    "answerText": " പാൻതെറ ടൈഗ്രസ് "
+  },
+  {
+    "questionNum": 96735,
+    "questionText": " ഇന്ദിരാഗാന്ധി നാഷണൽ ഓപ്പൺ യൂണിവേഴ്സിറ്റി (ഇഗ്‌നോ) സ്ഥാപിതമായ വർഷം?  ",
+    "answerText": " 1985, ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 96736,
+    "questionText": " ദേശീയ സാക്ഷരതാ മിഷൻ നിലവിൽ വന്നത് ഏതു വർഷം?  ",
+    "answerText": 1988
+  },
+  {
+    "questionNum": 96737,
+    "questionText": " 10 + 2 + 3 വിദ്യാഭ്യാസ പരിപാടി നിർദ്ദേശിച്ച കമ്മിഷൻ?  ",
+    "answerText": " കോത്താരി കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 96738,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ഐ.ടി യൂണിവേഴ്സിറ്റി ഏത്?  ",
+    "answerText": " ജെ.പി.യൂണിവേഴ്സിറ്റി "
+  },
+  {
+    "questionNum": 96739,
+    "questionText": " ദാരിദ്ര്യരേഖയുടെ താഴെയുള്ളവരുടെ മക്കൾക്ക് 9-ാം ക്ളാസ് വരെയുള്ള പഠനകാലത്ത് പ്രതിമാസം 100 രൂപ നൽകുന്ന പദ്ധതി?  ",
+    "answerText": " ശിക്ഷ സഹയോഗ് യോജന "
+  },
+  {
+    "questionNum": 96740,
+    "questionText": " കടുവയുടെ ശരാശരി ആയുസ്?  ",
+    "answerText": " 20 വർഷം "
+  },
+  {
+    "questionNum": 96741,
+    "questionText": " രാജ്യത്തെ ആദ്യത്തെ പ്രവാസി സർവകലാശാല?  ",
+    "answerText": " ബാംഗ്ലൂർ യൂണിവേഴ്സിറ്റി "
+  },
+  {
+    "questionNum": 96742,
+    "questionText": " ആൾ ഇന്ത്യ റേഡിയോ സർവീസ് 'ആകാശവാണി' എന്ന് പേര് മാറ്റിയത് എന്ന്?  ",
+    "answerText": 1957
+  },
+  {
+    "questionNum": 96743,
+    "questionText": " ആൾ ഇന്ത്യ റേഡിയോ എന്നറിയപ്പെടുന്നത് എന്നുമുതലാണ്?  ",
+    "answerText": " 1936 മുതൽ "
+  },
+  {
+    "questionNum": 96744,
+    "questionText": " റേഡിയോ പ്രക്ഷേപണം ഇന്ത്യാഗവൺമെന്റ് ബ്രോഡ് കാസ്റ്റിംഗ് സർവീസ് എന്ന പേരിൽ ഏറ്റെടുത്തത് എന്നാണ്?  ",
+    "answerText": " 1930 ഏപ്രിൽ 1 "
+  },
+  {
+    "questionNum": 96745,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ടി.വി. സെന്റർ?  ",
+    "answerText": " ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 96746,
+    "questionText": " ഐ.എസ്.ആർ.ഒ, കേന്ദ്ര ശാസ്ത്ര സാങ്കേതിക മന്ത്രാലയം എന്നിവ ചേർന്ന് തുടങ്ങിയ ടിവി ചാനൽ?  ",
+    "answerText": " ജിജ്ഞാസ "
+  },
+  {
+    "questionNum": 96747,
+    "questionText": " ഇന്ത്യയിൽ ടെലിവിഷൻ ശൃംഖല സംപ്രേഷണം ആരംഭിച്ച വർഷം?  ",
+    "answerText": " 1959 സെപ്തംബർ 15 "
+  },
+  {
+    "questionNum": 96748,
+    "questionText": " ദൂരദർശന്റെ ദേശീയ സംപ്രേഷണം ആരംഭിച്ച വർഷം?  ",
+    "answerText": 1982
+  },
+  {
+    "questionNum": 96749,
+    "questionText": " വെബ് ടി.വി. നിലവിൽ വന്നത്?  ",
+    "answerText": 1996
+  },
+  {
+    "questionNum": 96750,
+    "questionText": " ടെലിവിഷൻ ഡി.റ്റി.എച്ച് സേവനം നിലവിൽ വന്നത്?  ",
+    "answerText": " 2004 ഡിംബർ 16, ഡൽഹി "
+  },
+  {
+    "questionNum": 96751,
+    "questionText": " പ്രസാർഭാരതിയുടെ ആദ്യ ചെയർമാൻ ആര്?  ",
+    "answerText": " നിഖിൽ ചക്രവർത്തി "
+  },
+  {
+    "questionNum": 96752,
+    "questionText": " പ്രസാർഭാരതിയുടെ നിലവിലുള്ള ചെയർമാൻ ആര്?  ",
+    "answerText": " മൃണാൾ പാണ്ഡെ "
+  },
+  {
+    "questionNum": 96753,
+    "questionText": " റേഡിയോ സിറ്റി എന്നറിയപ്പെടുന്ന നഗരം ഏത്?  ",
+    "answerText": " ബാംഗ്ളൂർ "
+  },
+  {
+    "questionNum": 96754,
+    "questionText": " ബംഗാൾ ഗസറ്റ് പ്രസിദ്ധീകരണം ആരംഭിച്ച വർഷം?  ",
+    "answerText": " 1780, കൊൽക്കത്ത "
+  },
+  {
+    "questionNum": 96755,
+    "questionText": " ഏറ്റവും കൂടുതൽ പത്രങ്ങൾ പ്രസിദ്ധീകരിക്കുന്ന സംസ്ഥാനം?  ",
+    "answerText": " ഉത്തർപ്രദേശ് "
+  },
+  {
+    "questionNum": 96756,
+    "questionText": " ഇന്ത്യൻ പത്രപ്രവർത്തനത്തിന്റെ വന്ദ്യവയോധികൻ എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " തുഷാർ കാന്തി ഘോഷ് "
+  },
+  {
+    "questionNum": 96757,
+    "questionText": " ഇന്ത്യൻ പത്രപ്രവർത്തനത്തിന്റെ പിതാവ് എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " ചലപതി റാവു "
+  },
+  {
+    "questionNum": 96758,
+    "questionText": " പത്രങ്ങളുടെ പ്രചാരം പരിശോധിക്കുന്നത് ആരാണ്?  ",
+    "answerText": " എ.ബി.സി "
+  },
+  {
+    "questionNum": 96759,
+    "questionText": " ലോകത്ത് ഏറ്റവുമധികംപ്രചാരമുള്ള ഇംഗ്ളീഷ് പത്രം?  ",
+    "answerText": " ടൈംസ് ഒഫ് ഇന്ത്യ "
+  },
+  {
+    "questionNum": 96760,
+    "questionText": " സൂപ്പർബ്രാന്റ് പദവി ലഭിച്ച ആദ്യ പത്രം?  ",
+    "answerText": " മലയാള മനോരമ "
+  },
+  {
+    "questionNum": 96761,
+    "questionText": " ഏറ്റവും പ്രചാരമുള്ള പ്രാദേശിക ഭാഷാ പത്രം?  ",
+    "answerText": " മലയാള മനോരമ "
+  },
+  {
+    "questionNum": 96762,
+    "questionText": " ഗാന്ധിജി തുടങ്ങിയ പത്രങ്ങൾ?  ",
+    "answerText": " ഇന്ത്യൻ ഒപ്പിനിയൻ, യങ് ഇന്ത്യ, ഹരിജൻ "
+  },
+  {
+    "questionNum": 96763,
+    "questionText": " ഇന്ത്യയുടെ ഹൈടെക് സിറ്റി എന്നറിയപ്പെടുന്നത് ഏതു സ്ഥലത്തെയാണ്?  ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 96764,
+    "questionText": " 1967 മുതൽ 1972 വരെ ഇന്ത്യയുടെ ദേശീയ മൃഗം ഏതായിരുന്നു?  ",
+    "answerText": " സിംഹം "
+  },
+  {
+    "questionNum": 96765,
+    "questionText": " ഇന്ത്യയുടെ രണ്ടാമത്തെ ഉപഗ്രഹം?  ",
+    "answerText": " ഭാസ്കര I "
+  },
+  {
+    "questionNum": 96766,
+    "questionText": " ഉപഗ്രഹ വിക്ഷേപണത്തിനായി ഇന്ത്യ തയ്യാറാക്കിയ ആദ്യ റോക്കറ്റ്?  ",
+    "answerText": " എസ്.എൽ.വി -3 "
+  },
+  {
+    "questionNum": 96767,
+    "questionText": " ഇന്ത്യയുടെ പ്രവർത്തന സജ്ജമായ ആദ്യത്തെ വാർത്താവിനിമയ ഉപഗ്രഹം?  ",
+    "answerText": " ഇൻസാറ്റ് 1A "
+  },
+  {
+    "questionNum": 96768,
+    "questionText": " ജ്യോതിർ ഭൗതിക പരീക്ഷണങ്ങൾ നടത്തുകയും അന്തരീക്ഷത്തിന്റെ ഉയർന്ന പാളികളെകുറിച്ച് പഠിക്കുകയും ചെയ്യുന്ന SROSS -C വിക്ഷേപിച്ചത് ഏത് റോക്കറ്റ് ഉപയോഗിച്ചാണ്?  ",
+    "answerText": " ASLV"
+  },
+  {
+    "questionNum": 96769,
+    "questionText": " സമുദ്രപഠനത്തിനായുള്ള വിദൂര സംവേദന ഉപഗ്രഹമായ ഓഷ്യൻ സാറ്റ് വിക്ഷേപിച്ചതെന്ന്?  ",
+    "answerText": " 1999 മേയ് 26 "
+  },
+  {
+    "questionNum": 96770,
+    "questionText": " ഇന്ത്യയുടെ പ്രഥമ സമ്പൂർണ വിദ്യാഭ്യാസ ഉപഗ്രഹം?  ",
+    "answerText": " എഡ്യൂസാറ്റ് "
+  },
+  {
+    "questionNum": 96771,
+    "questionText": " ഇന്ത്യ തദ്ദേശീയമായി നിർമ്മിച്ചതും ഏതു കാലാവസ്ഥയിലും ഉപയോഗിക്കാൻ കഴിയുന്നതുമായ റഡാർ ഇമേജിംഗ് ഉപഗ്രഹം?  ",
+    "answerText": " റിസാറ്റ് - 1 "
+  },
+  {
+    "questionNum": 96772,
+    "questionText": " ഇന്ത്യയുടെ ഗതിനിർണയ ഉപഗ്രഹ സംവിധാനം?  ",
+    "answerText": " IRNSS"
+  },
+  {
+    "questionNum": 96773,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യ കൃത്രിമോപഗ്രഹം?  ",
+    "answerText": " ആര്യഭട്ട "
+  },
+  {
+    "questionNum": 96774,
+    "questionText": " ലോകത്തിലെ ആദ്യ വിദ്യാഭ്യാസ ഉപഗ്രഹം?  ",
+    "answerText": " എഡ്യുസാറ്റ് "
+  },
+  {
+    "questionNum": 96775,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ശൂന്യാകാശ സഞ്ചാരി?  ",
+    "answerText": " രാകേഷ് ശർമ്മ "
+  },
+  {
+    "questionNum": 96776,
+    "questionText": " ബഹിരാകാശ യാത്ര നടത്തിയ ആദ്യ ഇന്ത്യൻ വംശജ?  ",
+    "answerText": " കല്പന ചൗള "
+  },
+  {
+    "questionNum": 96777,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ ഭൂതല മിസൈലിനു നൽകിയ പേര്?  ",
+    "answerText": " പൃഥ്വി "
+  },
+  {
+    "questionNum": 96778,
+    "questionText": " ഇന്ത്യൻ സൈന്യത്തിൽ അഗ്നി എന്നറിയപ്പെടുന്നതെന്തിനെയാണ്?  ",
+    "answerText": " മിസൈൽ "
+  },
+  {
+    "questionNum": 96779,
+    "questionText": " ഇന്ത്യയുടെ ആദ്യത്തെ ഉപഗ്രഹമായ ആര്യഭട്ട വിക്ഷേപിച്ചതെന്ന്?  ",
+    "answerText": " 1975 ഏപ്രിൽ 19 "
+  },
+  {
+    "questionNum": 96780,
+    "questionText": " ടോളമിയുടെ പ്രധാന കൃതി ഏത്?  ",
+    "answerText": " അൽ മജസ്റ്റ് "
+  },
+  {
+    "questionNum": 96781,
+    "questionText": " സൗര കേന്ദ്ര സിദ്ധാന്തത്തിന്റെ ഉപജ്ഞാതാവാര്?  ",
+    "answerText": " കോപ്പർ നിക്കസ് "
+  },
+  {
+    "questionNum": 96782,
+    "questionText": " ശനിയുടെ ഉപഗ്രഹമായ ടൈറ്റൻ കണ്ടെത്തിയതാരാണ്?  ",
+    "answerText": " ക്രിസ്റ്റ്യൻ ഹൈജൻസ് "
+  },
+  {
+    "questionNum": 96783,
+    "questionText": " യുറാനസ് എന്ന ഗ്രഹം കണ്ടുപിടിച്ചത് ആരാണ്?  ",
+    "answerText": " വില്യം ഹെർഷൽ "
+  },
+  {
+    "questionNum": 96784,
+    "questionText": " യൂറിഗഗാറിൻ ബഹിരാകാശത്ത് പോയ വാഹനമേത്?  ",
+    "answerText": " വോട്സ്റ്റോക് -1 "
+  },
+  {
+    "questionNum": 96785,
+    "questionText": " രാകേഷ് ശർമ്മയുടെ ബഹിരാകാശ യാത്ര എന്നായിരുന്നു?  ",
+    "answerText": 1984
+  },
+  {
+    "questionNum": 96786,
+    "questionText": " പ്രപഞ്ച രൂപവത്ക്കരണത്തെക്കുറിച്ച് പഠിക്കാൻ നിർമ്മിച്ച ലാർഡ് ഹാഡ്രൺ കൊളൈഡർ എന്ന ഉപകരണം സ്ഥാപിച്ചിരിക്കുന്നതെവിടെ?  ",
+    "answerText": " ജനീവ "
+  },
+  {
+    "questionNum": 96787,
+    "questionText": " ഭൂമിക്കേറ്റവും അടുത്തുള്ള നക്ഷത്രമേത്?  ",
+    "answerText": " സൂര്യൻ "
+  },
+  {
+    "questionNum": 96788,
+    "questionText": " അന്തരീക്ഷത്തിൽ ഏറ്റവും കൂടുതലുള്ള മൂലകമേത്?  ",
+    "answerText": " നൈട്രജൻ "
+  },
+  {
+    "questionNum": 96789,
+    "questionText": " ഭൂവൽക്കത്തിൽ ഏറ്റവും കൂടുതൽ കാണുന്ന മൂലകമേത്?  ",
+    "answerText": " ഓക്സിജൻ "
+  },
+  {
+    "questionNum": 96790,
+    "questionText": " പ്ലൂട്ടോയെ ഗ്രഹപദവിയിൽ നിന്ന് ഒഴിവാക്കിയ വർഷമേത്?  ",
+    "answerText": 2006
+  },
+  {
+    "questionNum": 96791,
+    "questionText": " സൂര്യനിൽ നടക്കുന്ന ഊർജ്ജപ്രവർത്തനമേത്?  ",
+    "answerText": " ന്യൂക്ലിയർ ഫ്യൂഷൻ "
+  },
+  {
+    "questionNum": 96792,
+    "questionText": " സൂര്യനും ഭൂമിയും തമ്മിൽ അകലം ഏറ്റവും കുറഞ്ഞ ദിവസം?  ",
+    "answerText": " ജനുവരി 3 "
+  },
+  {
+    "questionNum": 96793,
+    "questionText": " സൂര്യനോട് ഏറ്റവും അടുത്തുള്ള ഗ്രഹമേത്?  ",
+    "answerText": " ബുധൻ "
+  },
+  {
+    "questionNum": 96794,
+    "questionText": " പ്രഭാത നക്ഷത്രം, സായാഹ്ന നക്ഷത്രം എന്നിങ്ങനെ അറിയപ്പെടുന്ന ഗ്രഹമേത്?  ",
+    "answerText": " ശുക്രൻ "
+  },
+  {
+    "questionNum": 96795,
+    "questionText": " സാന്ദ്രത ഏറ്റവും കൂടിയ ഗ്രഹമേത്?  ",
+    "answerText": " ഭൂമി "
+  },
+  {
+    "questionNum": 96796,
+    "questionText": " ചന്ദ്രന്റെ പലായന പ്രവേഗം എത്രയാണ്?  ",
+    "answerText": " 2.4 കി.മീ/ സെക്കൻഡ് "
+  },
+  {
+    "questionNum": 96797,
+    "questionText": " കറുത്ത ചന്ദ്രൻ എന്നറിയപ്പെടുന്ന ചൊവ്വയുടെഉപഗ്രഹമേത്?  ",
+    "answerText": " ഫോബോസ് "
+  },
+  {
+    "questionNum": 96798,
+    "questionText": " ഇന്ത്യയുടെ ചൊവ്വാ ദൗത്യത്തിന് ഐ.എസ്.ആർ.ഒ നൽകിയ പേരെന്ത്?  ",
+    "answerText": " മാർസ് ഓർബിറ്റർ മിഷൻ "
+  },
+  {
+    "questionNum": 96799,
+    "questionText": " മംഗൾയാനെയും റോക്കറ്റിനെയും നിയന്ത്രിക്കാൻ ഐ.എസ്. ആർ.ഒ ദക്ഷിണ ശാന്തസമുദ്രത്തിലേക്കയച്ച നിരീക്ഷണ കപ്പലുകൾ ഏതെല്ലാമാണ്?  ",
+    "answerText": " യമുന, നളന്ദ "
+  },
+  {
+    "questionNum": 96800,
+    "questionText": " ഭാരതീയ സങ്കല്പങ്ങളിൽ ബ്രഹസ്പതി എന്നറിയപ്പെടുന്ന ഗ്രഹമേത്?  ",
+    "answerText": " വ്യാഴം "
+  },
+  {
+    "questionNum": 96801,
+    "questionText": " വലിയ ചുവന്നപൊട്ട് കാണപ്പെടുന്ന ഗ്രഹമേത്?  ",
+    "answerText": " വ്യാഴം "
+  },
+  {
+    "questionNum": 96802,
+    "questionText": " ഭൂമിക്ക് പുറമേ വ്യക്തമായ അന്തരീക്ഷമുള്ള സൗരയൂഥത്തിലെ ഏക ഗോളമേത്?  ",
+    "answerText": " ടൈറ്റൻ "
+  },
+  {
+    "questionNum": 96803,
+    "questionText": " വലിയ കറുത്തപൊട്ട് കാണപ്പെടുന്ന ഗ്രഹമേത്?  ",
+    "answerText": " നെപ്റ്റ്യൂൺ "
+  },
+  {
+    "questionNum": 96804,
+    "questionText": " ആദ്യത്തെ ബഹിരാകാശ വിനോദ സഞ്ചാരി?  ",
+    "answerText": " ടെന്നീസ് ടീറ്റോ "
+  },
+  {
+    "questionNum": 96805,
+    "questionText": " ബഹിരാകാശത്ത് ഏറ്റവും അധികം തവണ നടന്ന വനിത?  ",
+    "answerText": " സുനിത വില്യംസ് "
+  },
+  {
+    "questionNum": 96806,
+    "questionText": " ഷെൻസൂ ബഹിരാകാശ ദൗത്യങ്ങൾ ഏത് രാജ്യത്തിന്റേതാണ്?  ",
+    "answerText": " ചൈന "
+  },
+  {
+    "questionNum": 96807,
+    "questionText": " കേപ്പ് കെന്നടി ഉപഗ്രഹ വിക്ഷേപണകേന്ദ്രം അമേരിക്കയിലെഏത് സംസ്ഥാനത്തിലാണ്?  ",
+    "answerText": " ഫ്ലോറിഡ "
+  },
+  {
+    "questionNum": 96808,
+    "questionText": " ഇന്ത്യയുടെ ദേശീയ വിനോദം?  ",
+    "answerText": " ഹോക്കി "
+  },
+  {
+    "questionNum": 96809,
+    "questionText": " ഏറ്റവും വലിയ കോർപേറഷൻ ഏതാണ്?  ",
+    "answerText": " തിരുവനന്തപുരം "
+  },
+  {
+    "questionNum": 96810,
+    "questionText": " ത്രിതല പഞ്ചായത്തുകളിൽ ആദ്യ തിരഞ്ഞെടുപ്പ് എന്നായിരുന്നു??  ",
+    "answerText": 1995
+  },
+  {
+    "questionNum": 96811,
+    "questionText": " ഹോക്കി കളിക്കാനുപയോഗിക്കുന്ന പന്തിന്റെ ഭാരം?  ",
+    "answerText": " 155 ഗ്രാം "
+  },
+  {
+    "questionNum": 96812,
+    "questionText": " ഇപ്പോൾ നിലവിലുള്ളത് എങ്ങനെയുള്ള പഞ്ചായത്ത് സംവിധാനമാണ്?  ",
+    "answerText": " ത്രിതല സംവിധാനം "
+  },
+  {
+    "questionNum": 96813,
+    "questionText": " പഞ്ചായത്ത് രാജ് സ്ഥാനങ്ങളിലേക്കുള്ള തിരഞ്ഞെടുപ്പിന്റെ പൂർണ ചുമതല ആരിൽ നിക്ഷിപ്തമായിരിക്കും?  ",
+    "answerText": " സംസ്ഥാന തിരഞ്ഞെടുപ്പ് ഓഫീസർ "
+  },
+  {
+    "questionNum": 96814,
+    "questionText": " പഞ്ചായത്ത് സെക്രട്ടറിയുടെ മുൻ ഔദ്യോഗിക നാമം എന്തായിരുന്നു?  ",
+    "answerText": " പഞ്ചായത്ത് എക്സിക്യുട്ടീവ് ഓഫീസർ "
+  },
+  {
+    "questionNum": 96815,
+    "questionText": " ഒളിമ്പിക്സിൽ ഹോക്കി മത്സരഇനമായ വർഷം?  ",
+    "answerText": 1998
+  },
+  {
+    "questionNum": 96816,
+    "questionText": " എത്രാമത്തെ പഞ്ചവത്സര പദ്ധതിയിലൂടെയാണ് ജനകീയ പദ്ധതി അഥവാ അധികാരം ജനങ്ങൾക്ക് എന്ന ആശയം ആവിഷ്കരിച്ചത്?  ",
+    "answerText": " 9-ാം പദ്ധതി "
+  },
+  {
+    "questionNum": 96817,
+    "questionText": " മേയർ സ്ഥാനം സ്ത്രീകൾക്കായി സംവരണം ചെയ്തിരിക്കുന്ന കോർപറേഷനുകൾ ഏവ?  ",
+    "answerText": " തിരുവനന്തപുരം, കോഴിക്കോട്, കൊല്ലം "
+  },
+  {
+    "questionNum": 96818,
+    "questionText": " ജനന - മരണ രജിസ്ട്രേഷന്റെ സംസ്ഥാന ചീഫ് രജിസ്ട്രാർ?  ",
+    "answerText": " പഞ്ചായത്ത് ഡയറക്ടർ "
+  },
+  {
+    "questionNum": 96819,
+    "questionText": " ഇന്ത്യ ദേശീയ കായിക ദിനമായി ആചരിക്കുന്ന ദിവസം?  ",
+    "answerText": " ആഗസ്റ്റ് 29 "
+  },
+  {
+    "questionNum": 96820,
+    "questionText": " മനുഷ്യ ദഹനേന്ദ്രിയ വ്യൂഹത്തിന് ദഹിപ്പിക്കാൻ കഴിയാത്ത ഒരു കാർബോഹൈഡ്രേറ്റ്?  ",
+    "answerText": " സെല്ലുലോസ് "
+  },
+  {
+    "questionNum": 96821,
+    "questionText": " ഇന്ത്യൻ കാൻസർ റിസർച്ച് സെന്റർ സ്ഥിതിചെയ്യുന്നത്?  ",
+    "answerText": " മുംബയ് "
+  },
+  {
+    "questionNum": 96822,
+    "questionText": " പഞ്ചായത്തുകളുടെ അധികാരങ്ങളെയും അവകാശങ്ങളെയും കുറിച്ച് വിവരിക്കുന്നത് ഭരണഘടനയുടെ എത്രാമത് ഷെഡ്യൂളിലാണ്?  ",
+    "answerText": 11
+  },
+  {
+    "questionNum": 96823,
+    "questionText": " ഭൂമിയിൽ ഏറ്റവും കൂടുതലായി കാണപ്പെടുന്ന ജീവി?  ",
+    "answerText": " ഉരഗങ്ങൾ "
+  },
+  {
+    "questionNum": 96824,
+    "questionText": " ഉറുമ്പുകളെ കുറിച്ച് പഠിക്കുന്ന പഠനശാഖ?  ",
+    "answerText": " മിർമെക്കോളജി "
+  },
+  {
+    "questionNum": 96825,
+    "questionText": " തമിഴ‌്‌നാടും കർണാടകയുമായി അതിർത്തി പങ്കിടുന്ന കേരളത്തിലെ താലൂക്ക്?  ",
+    "answerText": " സുൽത്താൻ ബത്തേരി "
+  },
+  {
+    "questionNum": 96826,
+    "questionText": " തദ്ദേശസ്വയംഭരണ സ്ഥാപനങ്ങളുടെ ഓംബുഡ്സ്മാൻ ആര്?  ",
+    "answerText": " ജസ്റ്റിസ് ഹരിഹരൻനായർ "
+  },
+  {
+    "questionNum": 96827,
+    "questionText": " ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള താലൂക്ക്?  ",
+    "answerText": " കോഴിക്കോട് "
+  },
+  {
+    "questionNum": 96828,
+    "questionText": " വയനാട് ജില്ലയുടെ ഏക മുനിസിപ്പാലിറ്റി?  ",
+    "answerText": " കൽപ്പറ്റ "
+  },
+  {
+    "questionNum": 96829,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും വിസ്തീർണം കുറഞ്ഞ താലൂക്ക്?  ",
+    "answerText": " കുന്നത്തൂർ (കൊല്ലം) "
+  },
+  {
+    "questionNum": 96830,
+    "questionText": " കേരള പഞ്ചായത്ത്‌രാജ് സംവിധാനം 1960-ൽ എറണാകുളത്ത് ഉദ്ഘാടനം ചെയ്തത്?  ",
+    "answerText": " ജവഹർലാൽ നെഹ്റു "
+  },
+  {
+    "questionNum": 96831,
+    "questionText": " പ്രകൃതിദത്ത കാന്തങ്ങൾ അറിയപ്പെടുന്നത്?  ",
+    "answerText": " ലോഡ്സ്റ്റോണുകൾ "
+  },
+  {
+    "questionNum": 96832,
+    "questionText": " കോളിഫ്ളവർ ആകൃതിയിൽ കാണപ്പെടുന്ന മേഘപടലങ്ങളാണ്?  ",
+    "answerText": " ക്യുമുലിസ് മേഘങ്ങൾ "
+  },
+  {
+    "questionNum": 96833,
+    "questionText": " വയനാട് ജില്ലയിലെ ഏക നഗരസഭ?  ",
+    "answerText": " കൽപ്പറ്റ "
+  },
+  {
+    "questionNum": 96834,
+    "questionText": " ഇടുക്കി ജില്ലയിലെ ഒരേയൊരു മുനിസിപ്പാലിറ്റി?  ",
+    "answerText": " തൊടുപുഴ "
+  },
+  {
+    "questionNum": 96835,
+    "questionText": " ക്യൂബയെയും അമേരിക്കയെയും തമ്മിൽ വേർതിരിക്കുന്ന കടലിടുക്ക്?  ",
+    "answerText": " ഫ്ളോറിഡ കടലിടുക്ക് "
+  },
+  {
+    "questionNum": 96836,
+    "questionText": " കേരളത്തിലെ ആദ്യത്തെ ഇ - ലേണിംഗ് നിയോജക മണ്ഡലം?  ",
+    "answerText": " വടക്കേക്കര "
+  },
+  {
+    "questionNum": 96837,
+    "questionText": " ഏറ്റവും കൂടുതൽ മുനസിപ്പാലിറ്റികളുള്ള ജില്ല ഏത്?  ",
+    "answerText": " എറണാകുളം "
+  },
+  {
+    "questionNum": 96838,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും കൂടുതൽ ജനസംഖ്യയുള്ള മുനിസിപ്പാലിറ്റി?  ",
+    "answerText": " ആലപ്പുഴ "
+  },
+  {
+    "questionNum": 96839,
+    "questionText": " സംസ്ഥാനത്തെ ആദ്യത്തെ സമ്പൂർണ ശുചിത്വ പഞ്ചായത്ത്?  ",
+    "answerText": " പോത്തുകൽ (മലപ്പുറം) "
+  },
+  {
+    "questionNum": 96840,
+    "questionText": " കരകൗശല വ്യവസായത്തെ പ്രോത്സാഹിപ്പിക്കാനായി കേരള സർക്കാർ രൂപം കൊടുത്ത ഏജൻസിയുടെ പേരെന്ത്?  ",
+    "answerText": " സുരഭി "
+  },
+  {
+    "questionNum": 96841,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും പുരാതനമായ എണ്ണക്കിണർ ഏതാണ്?  ",
+    "answerText": " ദിഗ്ബോയ് "
+  },
+  {
+    "questionNum": 96842,
+    "questionText": " ‘The Corpuscular theory' related to light was proposed by?",
+    "answerText": " Isaac Newton in 1675"
+  },
+  {
+    "questionNum": 96843,
+    "questionText": " കേരളത്തിലെ അറിയപ്പെടുന്ന തടി വ്യവസായ കേന്ദ്രമേതാണ്?  ",
+    "answerText": " കല്ലായി (കോഴിക്കോട്) "
+  },
+  {
+    "questionNum": 96844,
+    "questionText": " The shadow obtained from a point source is a region of darkness which is called?",
+    "answerText": " Umbra"
+  },
+  {
+    "questionNum": 96845,
+    "questionText": " The band of seven colours obtained due to the dispersion of white light is called?",
+    "answerText": " Visible Spectrum"
+  },
+  {
+    "questionNum": 96846,
+    "questionText": " കൈത്തറി മേഖലയിലെ ഏറ്റവും വലിയ വിപണന സംഘടനയായ ഹാൻവീവ് പ്രവർത്തനമാരംഭിച്ച വർഷം?  ",
+    "answerText": 1968
+  },
+  {
+    "questionNum": 96847,
+    "questionText": " കണ്ണൂർ ആസ്ഥാനമായി പ്രവർത്തിക്കുന്ന കേരള ദിനേശ്‌ബീഡി ഏത് മേഖലയിൽപ്പെടുന്നു?  ",
+    "answerText": " സഹകരണ മേഖല "
+  },
+  {
+    "questionNum": 96848,
+    "questionText": " When frequency increases wave length?",
+    "answerText": " Decreases"
+  },
+  {
+    "questionNum": 96849,
+    "questionText": " കേരള ഗവർണർ സ്ഥാനം വഹിച്ചശേഷം ഇന്ത്യൻ രാഷ്ട്രപതിയായ വ്യക്തി?  ",
+    "answerText": " വി.വി. ഗിരി "
+  },
+  {
+    "questionNum": 96850,
+    "questionText": " ഗവർണറെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന ആർട്ടിക്കിൾ?  ",
+    "answerText": 153
+  },
+  {
+    "questionNum": 96851,
+    "questionText": " ഗവർണറുടെ ഔദ്യോഗിക കാലാവധി?  ",
+    "answerText": " 5 വർഷം "
+  },
+  {
+    "questionNum": 96852,
+    "questionText": " ഗവർണർക്ക് ഓർഡിനൻസ് പുറപ്പെടുവിക്കാനുള്ള അധികാരം നൽകുന്ന വകുപ്പ്?  ",
+    "answerText": " ആർട്ടിക്കിൾ 213 "
+  },
+  {
+    "questionNum": 96853,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ വനിതാ ഗവർണർ?  ",
+    "answerText": " സരോജിനി നായിഡു "
+  },
+  {
+    "questionNum": 96854,
+    "questionText": " ഓണത്തെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന സംഘകാലകൃതി?  ",
+    "answerText": " മധുരൈകാഞ്ചി "
+  },
+  {
+    "questionNum": 96855,
+    "questionText": " തിരുവോണത്തോടനുബന്ധിച്ച് പുലി കളി അരങ്ങേറുന്ന കേരളത്തിലെ ജില്ല?  ",
+    "answerText": " തൃശൂർ "
+  },
+  {
+    "questionNum": 96856,
+    "questionText": " സംഘകാലകൃതികളിൽ 'ഇന്ദ്രവിഴാ' എന്ന് വിശേഷിപ്പിക്കപ്പെടുന്ന ഉത്സവം?  ",
+    "answerText": " ഓണം "
+  },
+  {
+    "questionNum": 96857,
+    "questionText": " കേരളത്തിൽ എവിടെയാണ് ഓണാഘോഷത്തിന്റെ ഭാഗമായി അത്തച്ചമയം നടക്കുന്നത്?  ",
+    "answerText": " തൃപ്പൂണിത്തറ "
+  },
+  {
+    "questionNum": 96858,
+    "questionText": " ഓണത്തോടനുബന്ധിച്ച് ചിങ്ങമാസത്തിലെ ഉതൃട്ടാതി നാളിൽ നടക്കുന്ന വള്ളംകളി?  ",
+    "answerText": " ആറന്മുള - ഉതൃട്ടാതി വള്ളംകളി "
+  },
+  {
+    "questionNum": 96859,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും പ്രധാന കാർഷികോത്സവം?  ",
+    "answerText": " വിഷു "
+  },
+  {
+    "questionNum": 96860,
+    "questionText": " വിന്ധ്യ സത്‌പുര പർവതങ്ങൾക്കിടയിലൂടെ ഒഴുകുന്ന നദി?  ",
+    "answerText": " നർമദ "
+  },
+  {
+    "questionNum": 96861,
+    "questionText": " നർമ്മദ പതിക്കുന്നത്?  ",
+    "answerText": " ഗുജറാത്തിലെ ബറൂച്ചിനു സമീപം അറബിക്കടലിൽ "
+  },
+  {
+    "questionNum": 96862,
+    "questionText": " Colour with maximum frequency is?",
+    "answerText": " Violet"
+  },
+  {
+    "questionNum": 96863,
+    "questionText": " Colour with minimum frequency is?",
+    "answerText": " Red"
+  },
+  {
+    "questionNum": 96864,
+    "questionText": " നർമ്മദ തീരത്ത് ചരിത്രാതീത കാലത്ത് ജീവിച്ചിരുന്ന മാംസഭോജികളായ ദീനോസറുകളാണ്?  ",
+    "answerText": " രാജാസോറസ് നർമ്മദൈസിസ് "
+  },
+  {
+    "questionNum": 96865,
+    "questionText": " മരുഭൂമിയിലൂടെ ഒഴുകുന്ന നദി?  ",
+    "answerText": " ലൂണി "
+  },
+  {
+    "questionNum": 96866,
+    "questionText": " റഷ്യയുടെ സഹായത്തോടെ 1959ൽ ഛത്തീസ്‌ഗഡിൽ സ്ഥാപിച്ച ഇരുമ്പുരുക്കുശാല?  ",
+    "answerText": " ഭിലായ് "
+  },
+  {
+    "questionNum": 96867,
+    "questionText": " 1959 ൽ ബ്രിട്ടന്റെ സഹായത്തോടെ പശ്ചിമബംഗാളിൽ തുടങ്ങിയ ഇരുമ്പുരുക്കുശാല?  ",
+    "answerText": " ദുർഗാപൂർ "
+  },
+  {
+    "questionNum": 96868,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യത്തെ ചെറുകിട ഇരുമ്പുരുക്കുശാല തുടങ്ങിയത്?  ",
+    "answerText": " പോർട്ട്നോവ "
+  },
+  {
+    "questionNum": 96869,
+    "questionText": " രണ്ടാം പഞ്ചവത്സര പദ്ധതിക്കാലത്ത് നിലവിൽ വന്ന ഇരുമ്പുരുക്കുശാലകൾ?  ",
+    "answerText": " ഭിലായ്, ദുർഗാപൂർ, റൂർക്കേല "
+  },
+  {
+    "questionNum": 96870,
+    "questionText": " Colour with maximum wavelength is?",
+    "answerText": " Red"
+  },
+  {
+    "questionNum": 96871,
+    "questionText": " ഇന്ത്യയിൽ ദേശീയ പാതകളുടെ നിർമ്മാണവും സംരക്ഷണവും നിർവഹിക്കുന്ന സ്ഥാപനം?  ",
+    "answerText": " നാഷണൽ ഹൈവേ അതോറിട്ടി ഒഫ് ഇന്ത്യ "
+  },
+  {
+    "questionNum": 96872,
+    "questionText": " ദേശീയ പാത ദൈർഘ്യം ഏറ്റവും കൂടുതലുള്ള സംസ്ഥാനം?  ",
+    "answerText": " യു.പി "
+  },
+  {
+    "questionNum": 96873,
+    "questionText": " കേരളത്തിലൂടെ കടന്നുപോകുന്ന ഏറ്റവും നീളം കൂടിയ ദേശീയ പാത?  ",
+    "answerText": " എൻ.എച്ച് 17 "
+  },
+  {
+    "questionNum": 96874,
+    "questionText": " കേരളത്തിലെ ഏറ്റവും നീളം കുറഞ്ഞ ദേശീയ പാത?  ",
+    "answerText": " 47A"
+  },
+  {
+    "questionNum": 96875,
+    "questionText": " ബ്രഹ്മപുത്ര അരുണാചൽപ്രദേശിൽ അറിയപ്പെടുന്നത്?  ",
+    "answerText": " ഡിഹാങ് "
+  },
+  {
+    "questionNum": 96876,
+    "questionText": " സീറോ എയർപോർട്ട്?  ",
+    "answerText": " അരുണാചൽപ്രദേശിൽ "
+  },
+  {
+    "questionNum": 96877,
+    "questionText": " ലാസ കഴിഞ്ഞാൽ ഏറ്റവും കൂടുതൽ ബുദ്ധവിഹാരമുള്ള സ്ഥലം?  ",
+    "answerText": " അരുണാചൽപ്രദേശ് "
+  },
+  {
+    "questionNum": 96878,
+    "questionText": " ബംഗാൾ ഉൾക്കടലിൽ സ്ഥിതിചെയ്യുന്ന ദ്വീപുകൾ?  ",
+    "answerText": " ആന്റമാൻ നിക്കോബാർ ദ്വീപുകൾ "
+  },
+  {
+    "questionNum": 96879,
+    "questionText": " Colour with minimum wavelength is?",
+    "answerText": " Violet"
+  },
+  {
+    "questionNum": 96880,
+    "questionText": " ആന്റമാനിനെയും നിക്കോബാറിനെയും തമ്മിൽ വേർതിരിക്കുന്നത്?  ",
+    "answerText": " 10 ഡിഗ്രി ചാനൽ "
+  },
+  {
+    "questionNum": 96881,
+    "questionText": " ആന്റമാനിലെ ഏറ്റവും വലിയ ദ്വീപ്?  ",
+    "answerText": " മിഡിൽ ആന്റമാൻ "
+  },
+  {
+    "questionNum": 96882,
+    "questionText": " കാർനിക്കോബാർ, ലിറ്റിൽ നിക്കോബാർ, ഗ്രേറ്റ് നിക്കോബാർ എന്നിവ ചേർന്നതാണ്?  ",
+    "answerText": " നിക്കോബാർദ്വീപ് "
+  },
+  {
+    "questionNum": 96883,
+    "questionText": " ഇന്ത്യയുടെ തെക്കേ അറ്റമായ ഇന്ദിരാപോയിന്റ്?  ",
+    "answerText": " ഗ്രേറ്റ് നിക്കോബാറിൽ "
+  },
+  {
+    "questionNum": 96884,
+    "questionText": " നിക്കോബാറിനെയും ഇന്തോനേഷ്യയെയും വേർതിരിക്കുന്ന ചാനൽ?  ",
+    "answerText": " ഗ്രേറ്റ് ചാനൽ "
+  },
+  {
+    "questionNum": 96885,
+    "questionText": " മലബാറിൽ ബ്രിട്ടീഷുകാർക്കെതിരെ ആദ്യമായി കലാപം സംഘടിപ്പിച്ചത്?  ",
+    "answerText": " പഴശിരാജ "
+  },
+  {
+    "questionNum": 96886,
+    "questionText": " രണ്ടാം പഴശ്ശി കലാപത്തിൽ പഴശ്ശിരാജയെ നേരിട്ട ബ്രിട്ടീഷ് ഗവർണർ ജനറൽ?  ",
+    "answerText": " ആർതർ വെല്ലസ്ളി "
+  },
+  {
+    "questionNum": 96887,
+    "questionText": " മമ്മൂട്ടിയെ കഥാപാത്രമാക്കി ഹരിഹരൻ സംവിധാനം ചെയ്ത ചിത്രമാണ്?  ",
+    "answerText": " കേരളവർമ്മ പഴശിരാജ "
+  },
+  {
+    "questionNum": 96888,
+    "questionText": " 2003 ഫെബ്രുവരി 19ന് നടന്ന മുത്തങ്ങ കലാപത്തിന് നേതൃത്വം നൽകിയത്?  ",
+    "answerText": " സി.കെ. ജാനു "
+  },
+  {
+    "questionNum": 96889,
+    "questionText": " The colour that deviates maximum through glass prism is?",
+    "answerText": " red"
+  },
+  {
+    "questionNum": 96890,
+    "questionText": " The colour that deviates minimum through glass prism is?",
+    "answerText": " Violet"
+  },
+  {
+    "questionNum": 96891,
+    "questionText": " Colour used in laboratory for indicating danger?",
+    "answerText": " Yellow"
+  },
+  {
+    "questionNum": 96892,
+    "questionText": " ഏറ്റവും പ്രാചീന മണിപ്രവാളഗ്രന്ഥം ഏത് ?  ",
+    "answerText": " വൈശികതന്ത്രം "
+  },
+  {
+    "questionNum": 96893,
+    "questionText": " Colour sensitive to human eye?",
+    "answerText": " Yellow"
+  },
+  {
+    "questionNum": 96894,
+    "questionText": " Colour used as danger signal?",
+    "answerText": " Red"
+  },
+  {
+    "questionNum": 96895,
+    "questionText": " Corpuscular theory was propounded by?",
+    "answerText": " Isaac Newton"
+  },
+  {
+    "questionNum": 96896,
+    "questionText": " ആക്ഷേപഹാസ്യം കലർന്ന ഒ.വി. വിജയന്റെ നോവൽ ഏത്?  ",
+    "answerText": " ധർമ്മപുരാണം "
+  },
+  {
+    "questionNum": 96897,
+    "questionText": " Wave theory was propounded by?",
+    "answerText": " Christiaan Huygens"
+  },
+  {
+    "questionNum": 96898,
+    "questionText": " Quantum Theory was propounded by?",
+    "answerText": " Max Planck"
+  },
+  {
+    "questionNum": 96899,
+    "questionText": " Electromagnetic theory was propounded by?",
+    "answerText": " James Clark Maxwell"
+  },
+  {
+    "questionNum": 96900,
+    "questionText": " Photo electric effect was propounded by?",
+    "answerText": " Heinrich Hertz"
+  },
+  {
+    "questionNum": 96901,
+    "questionText": " Which surface reflects all form's of light and heat?",
+    "answerText": " white surface"
+  },
+  {
+    "questionNum": 96902,
+    "questionText": " Which surface absorbs all forms of light and heat?",
+    "answerText": " black surface"
+  },
+  {
+    "questionNum": 96903,
+    "questionText": " Red light passing through a green object, appears?",
+    "answerText": " Black?"
+  },
+  {
+    "questionNum": 96904,
+    "questionText": " Why the Sky appears blue?",
+    "answerText": " Due to the shorter wavelength of blue colour; it is scattered more than the red colour of longer wavelength"
+  },
+  {
+    "questionNum": 96905,
+    "questionText": " Primary colours are?",
+    "answerText": " Red; Green; Blue"
+  },
+  {
+    "questionNum": 96906,
+    "questionText": " Primary colours used in colour television are?",
+    "answerText": " Red; Green; Blue"
+  },
+  {
+    "questionNum": 96907,
+    "questionText": " Colour television uses?",
+    "answerText": " Additive colour mixing"
+  },
+  {
+    "questionNum": 96908,
+    "questionText": " 'വീണപൂവ്' ഏത് മാസികയിലാണ് ആദ്യം പ്രസിദ്ധീകരിച്ചത്?  ",
+    "answerText": " മിതവാദി "
+  },
+  {
+    "questionNum": 96909,
+    "questionText": " By mixing suitable mixture of primary colours gives?",
+    "answerText": " Secondary colours"
+  },
+  {
+    "questionNum": 96910,
+    "questionText": " The branch of physics which deals with the measurement of light. emitted by objects is called?",
+    "answerText": " Photometry"
+  },
+  {
+    "questionNum": 96911,
+    "questionText": " Tertiary colours are obtained by?",
+    "answerText": " Mixing up of two secondary colours"
+  },
+  {
+    "questionNum": 96912,
+    "questionText": " The substances used in colour paints, filters, plastics and other materials?",
+    "answerText": " Pigments"
+  },
+  {
+    "questionNum": 96913,
+    "questionText": " Subtractive colour mixing is used in?",
+    "answerText": " Pigments"
+  },
+  {
+    "questionNum": 96914,
+    "questionText": " സ്വന്തം കുടുംബജീവിതകഥ പറയുന്ന ബഷീറിന്റെ നോവൽ ഏത്?  ",
+    "answerText": " പാത്തുമ്മയുടെ ആട് "
+  },
+  {
+    "questionNum": 96915,
+    "questionText": " 'അഖിലാണ്ഡമണ്ഡലം അണിയിച്ചൊരുക്കി' എന്ന പ്രാർത്ഥനാഗാനത്തിന്റെ രചയിതാവ് ആര്?  ",
+    "answerText": " പന്തളം കെ.പി. "
+  },
+  {
+    "questionNum": 96916,
+    "questionText": " ചെറുകാടിനെ ശ്രദ്ധേയനാക്കിയ നോവൽ ഏത്?  ",
+    "answerText": " മണ്ണിന്റെ മാറിൽ "
+  },
+  {
+    "questionNum": 96917,
+    "questionText": " അനരനാഴികനേരത്തിൽ പാറപ്പുറം സമ്പന്നമാക്കുന്ന കേന്ദ്രകഥാപാത്രം ഏത്?  ",
+    "answerText": " കുഞ്ഞേനാച്ചൻ "
+  },
+  {
+    "questionNum": 96918,
+    "questionText": " ആധുനിക മലയാള കവിതകളിലെ 'അയ്യപ്പനാശാൻ' എന്ന് ചുള്ളിക്കാട് വിശേഷിപ്പിച്ച കവി ആര്?  ",
+    "answerText": " എ.അയ്യപ്പൻ "
+  },
+  {
+    "questionNum": 96919,
+    "questionText": " For printing, colour pigments used are?",
+    "answerText": " Yellow; Magenta; Cyan"
+  },
+  {
+    "questionNum": 96920,
+    "questionText": " The light rays consist of small energy packets called?",
+    "answerText": " Quantum"
+  },
+  {
+    "questionNum": 96921,
+    "questionText": " Quantum of light is known as?",
+    "answerText": " Photon"
+  },
+  {
+    "questionNum": 96922,
+    "questionText": " ശ്രീനാരായണഗുരുവിന്റെ ജീവിതത്തെ ആസ്പദമാക്കി പെരുമ്പടവം എഴുതിയ നോവൽ ഏത്?  ",
+    "answerText": " നാരായണം "
+  },
+  {
+    "questionNum": 96923,
+    "questionText": " ആത്മകഥാപരമായ 'അനുഭവങ്ങൾ' എന്ന നോവലിന്റെ രചയിതാവ് ആര്?  ",
+    "answerText": " നന്തനാർ "
+  },
+  {
+    "questionNum": 96924,
+    "questionText": " Quantum Theory was put forward by?",
+    "answerText": " Max Planck"
+  },
+  {
+    "questionNum": 96925,
+    "questionText": " സെക്രട്ടേറിയറ്റിന്റെ പശ്ചാത്തലത്തിൽ തകഴി എഴുതിയ നോവൽ ഏത്?  ",
+    "answerText": " ഏണിപ്പടികൾ "
+  },
+  {
+    "questionNum": 96926,
+    "questionText": " Absorption of light of one wave length by a substance and the re-emission of light of greater wavelength is called?",
+    "answerText": " Fluorescence"
+  },
+  {
+    "questionNum": 96927,
+    "questionText": " Emission of light in the visible region after absorbing certain electromagnetic radiations is called?",
+    "answerText": " Photoluminescence"
+  },
+  {
+    "questionNum": 96928,
+    "questionText": " എൻ.പി. മുഹമ്മദിന്റെ ആക്ഷേപഹാസ്യ നോവൽ ഏത്?  ",
+    "answerText": " ഹിരണ്യകശു "
+  },
+  {
+    "questionNum": 96929,
+    "questionText": " ബ്രിട്ടീഷുകാർക്കെതിരെ നടന്ന ആദ്യ സംഘടിത കലാപം?  ",
+    "answerText": " ആറ്റിങ്ങൽ കലാപം "
+  },
+  {
+    "questionNum": 96930,
+    "questionText": " കോഴിക്കോട് ഫാക്ടറി തുടങ്ങാൻ ഇംഗ്ളീഷുകാർക്ക് അനുമതി നൽകിയ രാജാവ്?  ",
+    "answerText": " സാമൂതിരി "
+  },
+  {
+    "questionNum": 96931,
+    "questionText": " 'മാർഗദർശിയായ ഇംഗ്ളീഷുകാരൻ' ആര്?  ",
+    "answerText": " റാൽഫ്ഫിച്ച് "
+  },
+  {
+    "questionNum": 96932,
+    "questionText": " കേരളത്തിലെ ഏക മുസ്ളിം രാജകുടുംബം?  ",
+    "answerText": " അറയ്ക്കൽ കുടുംബം "
+  },
+  {
+    "questionNum": 96933,
+    "questionText": " മലബാർ ജില്ലയെ ഇംഗ്ളീഷ് ഈസ്റ്റിന്ത്യാകമ്പനിയുടെ നേരിട്ടുള്ള ഭരണത്തിൻ കീഴിലാക്കിയ ഉടമ്പടി?  ",
+    "answerText": " ശ്രീരംഗം ഉടമ്പടി "
+  },
+  {
+    "questionNum": 96934,
+    "questionText": " ബ്രിട്ടീഷുകാർക്കെതിരെ പ്രക്ഷോഭങ്ങൾ സംഘടിപ്പിച്ച കോട്ടയം രാജാവ് ആര്?  ",
+    "answerText": " കേരളവർമ്മ പഴശിരാജ "
+  },
+  {
+    "questionNum": 96935,
+    "questionText": " പഴശിരാജ ബ്രിട്ടീഷുകാരുമായി യുദ്ധത്തിൽ മരണം വരിച്ചത് ഏത് വർഷം?  ",
+    "answerText": " 1805ൽ "
+  },
+  {
+    "questionNum": 96936,
+    "questionText": " ബ്രിട്ടീഷുകാർക്കെതിരെ കലാപത്തിൽ പഴശിയെ സഹായിച്ച ആദിവാസി സമൂഹം?  ",
+    "answerText": " കുറിച്യർ "
+  },
+  {
+    "questionNum": 96937,
+    "questionText": " വേലുത്തമ്പിദളവ കുണ്ടറ വിളംബരം പുറപ്പെടുവിച്ചത്?  ",
+    "answerText": " 1809 ജനുവരി 11ന് "
+  },
+  {
+    "questionNum": 96938,
+    "questionText": " ഉദയവർമ്മൻ കോലത്തിരിയുടെ കൊട്ടാരം കവി ആരായിരുന്നു?  ",
+    "answerText": " ചെറുശേരി "
+  },
+  {
+    "questionNum": 96939,
+    "questionText": " ഹിന്ദുക്കളായ ചാന്നാർ സ്ത്രീകർക്ക് മാറുമറയ്ക്കാനുള്ള അവകാശം നൽകിയ രാജാവ്?  ",
+    "answerText": " ഉത്രം തിരുനാൾ "
+  },
+  {
+    "questionNum": 96940,
+    "questionText": " 'സാമൂതിരിയുടെ കണ്ഠത്തിലേക്ക് നീട്ടിയ പീരങ്കി' എന്നറിയപ്പെടുന്ന കോട്ട?  ",
+    "answerText": " ചാലിയം കോട്ട "
+  },
+  {
+    "questionNum": 96941,
+    "questionText": " Photoelectric Effect was proposed by?",
+    "answerText": " Heinrich Hertz"
+  },
+  {
+    "questionNum": 96942,
+    "questionText": " ടിപ്പുവുമായി ചേർന്ന് ബ്രിട്ടീഷുകാരെ നേരിട്ട മലബാറിലെ മുസ്ളിം രാജാവ് ആര്?  ",
+    "answerText": " ഉണ്ണിമൂസ "
+  },
+  {
+    "questionNum": 96943,
+    "questionText": " കേരള ചരിത്രത്തിൽ പടിഞ്ഞാറ്റേടത്ത് സ്വരൂപം എന്നറിയപ്പെട്ടിരുന്ന രാജവംശം ഏതാണ്?  ",
+    "answerText": " കൊടുങ്ങല്ലൂർ രാജവംശം "
+  },
+  {
+    "questionNum": 96944,
+    "questionText": " ജനമദ്ധ്യേ നീതിന്യായങ്ങൾ നടപ്പിലാക്കാൻ സഞ്ചരിക്കുന്ന കോടതി ആരംഭിച്ചത് ആര്?  ",
+    "answerText": " വേലുത്തമ്പിദളവ "
+  },
+  {
+    "questionNum": 96945,
+    "questionText": " തിരുവിതാംകൂറിൽ മുൻസിഫ് കോടതികൾ സ്ഥാപിച്ചത്?  ",
+    "answerText": " സ്വാതി തിരുനാൾ "
+  },
+  {
+    "questionNum": 96946,
+    "questionText": " മാർത്താണ്ഡവർമ്മ അധികാരമേറ്റ വർഷം?  ",
+    "answerText": 1729
+  },
+  {
+    "questionNum": 96947,
+    "questionText": " മാർത്താണ്ഡവർമ്മയുടെ സദസിലെ പ്രധാന കവികൾ?  ",
+    "answerText": " കുഞ്ചൻ നമ്പ്യാർ, രാമപുരത്തുവാര്യർ "
+  },
+  {
+    "questionNum": 96948,
+    "questionText": " ആധുനിക തിരുവിതാംകൂറിന്റെ സ്രഷ്ടാവ്?  ",
+    "answerText": " അനിഴം തിരുനാൾ മാർത്താണ്ഡവർമ്മ "
+  },
+  {
+    "questionNum": 96949,
+    "questionText": " 1808-ൽ ബാലരാമപുരം കൊട്ടാരം പണിതത്?  ",
+    "answerText": " ഉമ്മിണിതമ്പി "
+  },
+  {
+    "questionNum": 96950,
+    "questionText": " Photoelectric Effect was explained by?",
+    "answerText": " Albert Einstein"
+  },
+  {
+    "questionNum": 96951,
+    "questionText": " 'ധർമ്മരാജ' എന്ന അപരനാമത്തിൽ അറിയപ്പെട്ടിരുന്ന തിരുവിതാംകൂർ രാജാവ്?  ",
+    "answerText": " കാർത്തിക തിരുനാൾ രാമവർമ്മ "
+  },
+  {
+    "questionNum": 96952,
+    "questionText": " തിരുവിതാംകൂറിന്റെ തലസ്ഥാനം പത്മനാഭപുരത്തുനിന്നും തിരുവനന്തപുരത്തേക്ക് മാറ്റിയ രാജാവ്?  ",
+    "answerText": " ധർമ്മരാജ "
+  },
+  {
+    "questionNum": 96953,
+    "questionText": " For his explanation of Photoelectric Effect, he got Nobel prize for Physics in?",
+    "answerText": 1921
+  },
+  {
+    "questionNum": 96954,
+    "questionText": " ജന്മിമാർക്ക് പട്ടയം നൽകുന്ന രീതി ആരംഭിച്ചത്?  ",
+    "answerText": " ഗൗരിലക്ഷ്മിബായി "
+  },
+  {
+    "questionNum": 96955,
+    "questionText": " തിരുവിതാംകൂറിൽ ധർമ്മാശുപത്രികൾ സ്ഥാപിച്ചത്?  ",
+    "answerText": " സ്വാതിതിരുനാൾ "
+  },
+  {
+    "questionNum": 96956,
+    "questionText": " തിരുവിതാംകൂറിൽ വാനനിരീക്ഷണകേന്ദ്രം സ്ഥാപിച്ചതാര്?  ",
+    "answerText": " സ്വാതി തിരുനാൾ "
+  },
+  {
+    "questionNum": 96957,
+    "questionText": " തിരുവിതാംകൂറിൽ ബ്രിട്ടീഷ് - ഇന്ത്യൻ മാതൃകയിലുള്ള ഭരണ സംവിധാനം ആരംഭിച്ചത്?  ",
+    "answerText": " ഗൗരിലക്ഷ്മിബായി "
+  },
+  {
+    "questionNum": 96958,
+    "questionText": " പെൺകുട്ടികൾക്ക് മാത്രമായി ആദ്യമായി സ്കൂൾ ആരംഭിച്ച ഭരണാധികാരി?  ",
+    "answerText": " 1854ൽ, ഉത്രം തിരുനാൾ മാർത്താണ്ഡവർമ്മ "
+  },
+  {
+    "questionNum": 96959,
+    "questionText": " ഏതു ഭരണാധികാരിയുടെ കാലത്താണ് തിരുവിതാംകൂറിൽ ഹൈക്കോടതി സ്ഥാപിതമായത്?  ",
+    "answerText": " വിശാഖം തിരുനാൾ "
+  },
+  {
+    "questionNum": 96960,
+    "questionText": " തിരുവനന്തപുരത്ത് സമ്പൂർണ ഭൂ സർവേ നടത്തിയ ഭരണാധികാരി?  ",
+    "answerText": " വിശാഖം തിരുനാൾ "
+  },
+  {
+    "questionNum": 96961,
+    "questionText": " The Law of Photoelectric Effect was formulated by?",
+    "answerText": " Albert Einstein"
+  },
+  {
+    "questionNum": 96962,
+    "questionText": " The working principle of solar cells?",
+    "answerText": " Photoelectric Effect"
+  },
+  {
+    "questionNum": 96963,
+    "questionText": " തിരുവിതാംകൂറിൽ ആദ്യമായി ഇംഗ്ളീഷ് സ്കൂൾ സ്ഥാപിച്ചത്?  ",
+    "answerText": " 1834ൽ സ്വാതി തിരുനാൾ "
+  },
+  {
+    "questionNum": 96964,
+    "questionText": " 'ദക്ഷിണഭോജൻ' എന്നറിയപ്പെട്ടത്?  ",
+    "answerText": " സ്വാതി തിരുനാൾ "
+  },
+  {
+    "questionNum": 96965,
+    "questionText": " When a ray of light falls on a smooth surface and returns to the same medium, it is called?",
+    "answerText": " Reflection of light"
+  },
+  {
+    "questionNum": 96966,
+    "questionText": " An object which reflects all colours appears as?",
+    "answerText": " White"
+  },
+  {
+    "questionNum": 96967,
+    "questionText": " വിശാഖം തിരുനാളിന്റെ കാലത്ത് തിരുവിതാംകൂറിൽ ആരംഭിച്ച കൃഷി?  ",
+    "answerText": " മരച്ചീനികൃഷി "
+  },
+  {
+    "questionNum": 96968,
+    "questionText": " 1860 ൽ തിരുവിതാംകൂറിൽ പൊതുമാരമത്ത് വകുപ്പ് ആരംഭിച്ചത്?  ",
+    "answerText": " ആയില്യം തിരുനാൾ "
+  },
+  {
+    "questionNum": 96969,
+    "questionText": " ഏറ്റവും കൂടുതൽ സംസ്ഥാനങ്ങളുമായി അതിർത്തി പങ്കിടുന്ന സംസ്ഥാനം?  ",
+    "answerText": " ഉത്തർപ്രദേശ് "
+  },
+  {
+    "questionNum": 96970,
+    "questionText": " കർണാടകം, തമിഴ്‌നാട് സംസ്ഥാനങ്ങളുമായി അതിർത്തിയുള്ള കേരളത്തിലെ ഏക ജില്ല?  ",
+    "answerText": " വയനാട് "
+  },
+  {
+    "questionNum": 96971,
+    "questionText": " കടൽത്തീരമില്ലാത്തതും മറ്റു സംസ്ഥാനങ്ങളുമായി അതിർത്തി ഇല്ലാത്തതുമായ കേരളത്തിലെ ഏക ജില്ല?  ",
+    "answerText": " കോട്ടയം "
+  },
+  {
+    "questionNum": 96972,
+    "questionText": " രണ്ടു രാജ്യങ്ങൾക്കിടയിലെ ഏറ്റവും ദൈർഘ്യമേറിയ അതിർത്തി രേഖ?  ",
+    "answerText": " 49-ാം സമാന്തര രേഖ "
+  },
+  {
+    "questionNum": 96973,
+    "questionText": " ദക്ഷിണ കൊറിയ, ഉത്തര കൊറിയ എന്നിവയെ വേർതിരിക്കുന്നത്?  ",
+    "answerText": " 38-ാം സമാന്തര രേഖ "
+  },
+  {
+    "questionNum": 96974,
+    "questionText": " ലോകത്ത് ഏറ്റവും കൂടുതൽ രാജ്യങ്ങളുമായി അതിർത്തി പങ്കിടുന്ന രാജ്യങ്ങൾ?  ",
+    "answerText": " റഷ്യ, ചൈന "
+  },
+  {
+    "questionNum": 96975,
+    "questionText": " ഫസൽ അലി കമ്മിഷനിൽ അംഗമായ മലയാളി?  ",
+    "answerText": " സർദാർ കെ.എം. പണിക്കർ "
+  },
+  {
+    "questionNum": 96976,
+    "questionText": " 1948ൽ നിയമിച്ച ഭാഷാ പ്രവിശ്യാ കമ്മിഷന് നേതൃത്വം നൽകിയത്?  ",
+    "answerText": " ജസ്റ്റിസ്, ധർ "
+  },
+  {
+    "questionNum": 96977,
+    "questionText": " ആന്ധ്രാ ഭോജൻ എന്നറിയപ്പെടുന്നത്?  ",
+    "answerText": " കൃഷ്ണദേവരായർ "
+  },
+  {
+    "questionNum": 96978,
+    "questionText": " ഹൈടെക് സിറ്റി?  ",
+    "answerText": " ഹൈദരാബാദ് "
+  },
+  {
+    "questionNum": 96979,
+    "questionText": " പഞ്ചവത്സര പദ്ധതികൾക്ക് അന്തിമ അനുമതി നൽകുന്നത്?  ",
+    "answerText": " ദേശീയ വികസന സമിതി "
+  },
+  {
+    "questionNum": 96980,
+    "questionText": " ദേശീയ വികസന പദ്ധതികൾ ആരംഭിച്ചത്?  ",
+    "answerText": " ഒന്നാം പഞ്ചവത്സര പദ്ധതി കാലത്ത് "
+  },
+  {
+    "questionNum": 96981,
+    "questionText": " സാർവത്രിക മനുഷ്യാവകാശ പ്രഖ്യാപനം നടന്നത്?  ",
+    "answerText": " 1948 ഡിസംബർ 10 "
+  },
+  {
+    "questionNum": 96982,
+    "questionText": " മനുഷ്യാവകാശ പ്രഖ്യാപനം തയ്യാറാക്കാൻ നേതൃത്വം നൽകിയ കനേഡിയൻ നിയമ വിദഗ്ദ്ധൻ?  ",
+    "answerText": " ജോൺ പീറ്റേഴ്സ് ഹംഫ്രി "
+  },
+  {
+    "questionNum": 96983,
+    "questionText": " മനുഷ്യാവകാശ പ്രഖ്യാപനത്തിലെ ആർട്ടിക്കിളുകളുടെ എണ്ണം?  ",
+    "answerText": 30
+  },
+  {
+    "questionNum": 96984,
+    "questionText": " മനുഷ്യാവകാശങ്ങളെക്കുറിച്ച് പഠന ഗവേഷണം നടത്തുന്നത്?  ",
+    "answerText": " ഹ്യുമൺ റൈറ്റ്സ് വാച്ച് "
+  },
+  {
+    "questionNum": 96985,
+    "questionText": " UNO മനുഷ്യാവകാശ പുരസ്കാരം ഏർപ്പെടുത്തിയ വർഷം?  ",
+    "answerText": 1966
+  },
+  {
+    "questionNum": 96986,
+    "questionText": " ആസൂത്രണ കമ്മിഷൻ നിലവിൽ വന്ന വർഷം?  ",
+    "answerText": " 1950 മാർച്ച് 15 "
+  },
+  {
+    "questionNum": 96987,
+    "questionText": " An object which absorbs all colours appears as?",
+    "answerText": " Black"
+  },
+  {
+    "questionNum": 96988,
+    "questionText": " നിയമ നിർമ്മാണത്തിന്റെ പിൻബലമില്ലാതെ നിലവിൽ വന്ന സമിതിയുടെ അദ്ധ്യക്ഷൻ?  ",
+    "answerText": " പ്രധാനമന്ത്രി "
+  },
+  {
+    "questionNum": 96989,
+    "questionText": " ഇന്ത്യയിലെ ആസൂത്രണ സംവിധാനത്തിന്റെ ചുക്കാൻ പിടിക്കുന്ന സംഘടന?  ",
+    "answerText": " ആസൂത്രണ കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 96990,
+    "questionText": " ആസൂത്രണ കമ്മിഷൻ ഉപാദ്ധ്യക്ഷനെയും മറ്റ് അംഗങ്ങളെയും നിയമിക്കുന്നത്?  ",
+    "answerText": " കേന്ദ്ര കാബിനറ്റ് "
+  },
+  {
+    "questionNum": 96991,
+    "questionText": " The bending of light when a ray of light travels from one medium to another is called.?",
+    "answerText": " Refraction"
+  },
+  {
+    "questionNum": 96992,
+    "questionText": " ആസൂത്രണ കമ്മിഷന്റെ ആദ്യ ഉപാദ്ധ്യക്ഷൻ?  ",
+    "answerText": " ഗുൽസാരിലാൽ നന്ദ "
+  },
+  {
+    "questionNum": 96993,
+    "questionText": " ആസൂത്രണ കമ്മിഷനു പകരം 2015 ജനുവരി 1ന് നിലവിൽ വന്നത്?  ",
+    "answerText": " നീതി ആയോഗ് "
+  },
+  {
+    "questionNum": 96994,
+    "questionText": " ഇന്ത്യയിൽ ആദ്യമായി ബാങ്കുകളെ ദേശസാത്കരിച്ച പ്രധാനമന്ത്രി?  ",
+    "answerText": " ഇന്ദിരാഗാന്ധി "
+  },
+  {
+    "questionNum": 96995,
+    "questionText": " ഇന്ത്യയിലെ രണ്ടാം ഘട്ട ബാങ്ക് ദേശസാത്‌കരണം നടന്നത്?  ",
+    "answerText": " 1980 ഏപ്രിൽ 15 "
+  },
+  {
+    "questionNum": 96996,
+    "questionText": " 1993ൽ ന്യൂ ഇന്ത്യ ബാങ്ക്, പഞ്ചാബ് നാഷണൽ ബാങ്കിൽ ലയിച്ചു. അതിനാൽ നിലവിൽ വന്ന ദേശസാത്‌കൃത ബാങ്കുകളുടെ എണ്ണം?  ",
+    "answerText": 19
+  },
+  {
+    "questionNum": 96997,
+    "questionText": " നബാർഡ് രൂപീകരണത്തിന് ശുപാർശ ചെയ്ത കമ്മിറ്റി?  ",
+    "answerText": " ശിവരാമൻ കമ്മിറ്റി "
+  },
+  {
+    "questionNum": 96998,
+    "questionText": " ചെറുകിട വ്യവസായങ്ങളെ പ്രോത്സാഹിപ്പിക്കാൻ വായ്പ നൽകുന്ന ബാങ്ക്?  ",
+    "answerText": " സിഡ്ബി "
+  },
+  {
+    "questionNum": 96999,
+    "questionText": " അന്താരാഷ്ട്ര മാർക്കറ്റിലെ വ്യാപാരികൾക്ക് ധനസഹായം നൽകുന്ന എക്സിം ബാങ്ക് സ്ഥാപിതമായ വർഷം?  ",
+    "answerText": 1982
+  },
+  {
+    "questionNum": 97000,
+    "questionText": " ഗ്രാമങ്ങളുടെ സാമ്പത്തിക വികസനത്തിനായി ആരംഭിച്ച ബാങ്കുകൾ?  ",
+    "answerText": " ഗ്രാമീൺ ബാങ്കുകൾ "
+  }
+]

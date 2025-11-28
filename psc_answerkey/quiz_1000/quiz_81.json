@@ -1,0 +1,4928 @@
+[
+  {
+    "questionNum": 80001,
+    "questionText": " Chicken hearted",
+    "answerText": " Timid"
+  },
+  {
+    "questionNum": 80002,
+    "questionText": " Cold war",
+    "answerText": " A very unfriendly Relationship between two countries who are not actually fighting each other"
+  },
+  {
+    "questionNum": 80003,
+    "questionText": " Cold blooded",
+    "answerText": " Showing no feelings or pity for other people"
+  },
+  {
+    "questionNum": 80004,
+    "questionText": " Close shave",
+    "answerText": " A narrow escape"
+  },
+  {
+    "questionNum": 80005,
+    "questionText": " Cock and bull story",
+    "answerText": " A story that is unlikely to be true but is used as an explanation or excuse"
+  },
+  {
+    "questionNum": 80006,
+    "questionText": " Dead against",
+    "answerText": " Just opposite"
+  },
+  {
+    "questionNum": 80007,
+    "questionText": " Deadline",
+    "answerText": " A point in time by which something must be done"
+  },
+  {
+    "questionNum": 80008,
+    "questionText": " Day in; day out",
+    "answerText": " Every day for a long period of time"
+  },
+  {
+    "questionNum": 80009,
+    "questionText": " Die in harness",
+    "answerText": " To die at work-place"
+  },
+  {
+    "questionNum": 80010,
+    "questionText": " Dead letter",
+    "answerText": " A law or an agreement that still exists but that is ignored"
+  },
+  {
+    "questionNum": 80011,
+    "questionText": " Dark horse",
+    "answerText": " One who suddenly comes into light"
+  },
+  {
+    "questionNum": 80012,
+    "questionText": " Dry facts",
+    "answerText": " Truthfulness"
+  },
+  {
+    "questionNum": 80013,
+    "questionText": " Do away with",
+    "answerText": " To stop doing or having something; to make something end"
+  },
+  {
+    "questionNum": 80014
+  },
+  {
+    "questionNum": 80015,
+    "questionText": " Do-in-the manager policy",
+    "answerText": " The principle by which one does not gain oneself and the other person does not gain"
+  },
+  {
+    "questionNum": 80016,
+    "questionText": " Due to",
+    "answerText": " Owing to; because of"
+  },
+  {
+    "questionNum": 80017,
+    "questionText": " Double minded",
+    "answerText": " Confused; have different opinions"
+  },
+  {
+    "questionNum": 80018,
+    "questionText": " Dead loss",
+    "answerText": " A person or thing that is not helpful or useful"
+  },
+  {
+    "questionNum": 80019,
+    "questionText": " Dowell",
+    "answerText": " To progress; to get fame"
+  },
+  {
+    "questionNum": 80020,
+    "questionText": " Down and out",
+    "answerText": " Without money; a home or a job and living on the streets"
+  },
+  {
+    "questionNum": 80021,
+    "questionText": " Drop a subject",
+    "answerText": " To abandon or omit a matter"
+  },
+  {
+    "questionNum": 80022,
+    "questionText": " Drop in on",
+    "answerText": " To pay an informal visit to a person or a place"
+  },
+  {
+    "questionNum": 80023,
+    "questionText": " Drop out of",
+    "answerText": " To no longer take part in or be part of something"
+  },
+  {
+    "questionNum": 80024,
+    "questionText": " Draw a line",
+    "answerText": " To fix a limit"
+  },
+  {
+    "questionNum": 80025,
+    "questionText": " Ease someone out",
+    "answerText": " To force somebody to leave a job or position of authority"
+  },
+  {
+    "questionNum": 80026,
+    "questionText": " Every now and then",
+    "answerText": " Use to say how often something happens or is done"
+  },
+  {
+    "questionNum": 80027,
+    "questionText": " Escape one's lips",
+    "answerText": " To speak sliply"
+  },
+  {
+    "questionNum": 80028,
+    "questionText": " Escape notice",
+    "answerText": " Don't mind"
+  },
+  {
+    "questionNum": 80029,
+    "questionText": " Eat out",
+    "answerText": " To have a meal in a restaurant"
+  },
+  {
+    "questionNum": 80030,
+    "questionText": " Eat one's words",
+    "answerText": " To return one's word"
+  },
+  {
+    "questionNum": 80031,
+    "questionText": " Eat humble pie",
+    "answerText": " To say and show that you are sorry for a mistake that you made"
+  },
+  {
+    "questionNum": 80032,
+    "questionText": " Far and near",
+    "answerText": " Around the surroundings"
+  },
+  {
+    "questionNum": 80033,
+    "questionText": " For good",
+    "answerText": " For good and all; for ever"
+  },
+  {
+    "questionNum": 80034,
+    "questionText": " For fear of",
+    "answerText": " To avoid the danger of something happening"
+  },
+  {
+    "questionNum": 80035,
+    "questionText": " Fair and square",
+    "answerText": " Honestly and according to the rules"
+  },
+  {
+    "questionNum": 80036,
+    "questionText": " From head to foot",
+    "answerText": " Covering your whole body"
+  },
+  {
+    "questionNum": 80037,
+    "questionText": " For the time being",
+    "answerText": " In the present time"
+  },
+  {
+    "questionNum": 80038,
+    "questionText": " Fast living",
+    "answerText": " Luxurious life"
+  },
+  {
+    "questionNum": 80039,
+    "questionText": " Fish out of water",
+    "answerText": " To be like one out of one's element"
+  },
+  {
+    "questionNum": 80040,
+    "questionText": " Fool's paradise",
+    "answerText": " Foolish ideas"
+  },
+  {
+    "questionNum": 80041,
+    "questionText": " For nothing",
+    "answerText": " Without payment"
+  },
+  {
+    "questionNum": 80042,
+    "questionText": " Far and away",
+    "answerText": " By a very great amount"
+  },
+  {
+    "questionNum": 80043,
+    "questionText": " Few and far between",
+    "answerText": " Not frequently ; not happening often"
+  },
+  {
+    "questionNum": 80044,
+    "questionText": " From bad to worse",
+    "answerText": " To get even worse"
+  },
+  {
+    "questionNum": 80045,
+    "questionText": " From door to door",
+    "answerText": " From building to building"
+  },
+  {
+    "questionNum": 80046,
+    "questionText": " Fair hand",
+    "answerText": " Legible writing"
+  },
+  {
+    "questionNum": 80047,
+    "questionText": " Free lance",
+    "answerText": " To earn money by selling your work to several different organizations"
+  },
+  {
+    "questionNum": 80048,
+    "questionText": " Face to face",
+    "answerText": " In the presence"
+  },
+  {
+    "questionNum": 80049,
+    "questionText": " Fish in troubled waters",
+    "answerText": " To exploit the unfavourable conditions"
+  },
+  {
+    "questionNum": 80050,
+    "questionText": " From the bottom of one's heart",
+    "answerText": " Very Sincerely"
+  },
+  {
+    "questionNum": 80051,
+    "questionText": " Fair sex",
+    "answerText": " A lady"
+  },
+  {
+    "questionNum": 80052,
+    "questionText": " For good and all",
+    "answerText": " For ever; for good"
+  },
+  {
+    "questionNum": 80053,
+    "questionText": " For long",
+    "answerText": " For many days; longer time"
+  },
+  {
+    "questionNum": 80054,
+    "questionText": " Fall into a rage",
+    "answerText": " To become angry"
+  },
+  {
+    "questionNum": 80055,
+    "questionText": " Fall short of",
+    "answerText": " To be of inferior"
+  },
+  {
+    "questionNum": 80056,
+    "questionText": " Fall flat on",
+    "answerText": " To prove ineffective"
+  },
+  {
+    "questionNum": 80057,
+    "questionText": " For the purpose of",
+    "answerText": " Mat is needed in a particular situation"
+  },
+  {
+    "questionNum": 80058,
+    "questionText": " A feather of one's cap",
+    "answerText": " Something to be proud of"
+  },
+  {
+    "questionNum": 80059,
+    "questionText": " Feather one's nest",
+    "answerText": " To earn by unfair means"
+  },
+  {
+    "questionNum": 80060,
+    "questionText": " Fellow feeling",
+    "answerText": " A feeling of sympathy for somebody because you have shared similar experiences"
+  },
+  {
+    "questionNum": 80061,
+    "questionText": " Fight shy of",
+    "answerText": " To be hesitant"
+  },
+  {
+    "questionNum": 80062,
+    "questionText": " Force one's hand",
+    "answerText": " To force one to do unwillingly"
+  },
+  {
+    "questionNum": 80063,
+    "questionText": " Forty winks",
+    "answerText": " A siesta"
+  },
+  {
+    "questionNum": 80064,
+    "questionText": " Fringe benefits",
+    "answerText": " Extra things that an employer gives you as well as your wages"
+  },
+  {
+    "questionNum": 80065,
+    "questionText": " Fair weather friend",
+    "answerText": " Friends of good days only"
+  },
+  {
+    "questionNum": 80066,
+    "questionText": " Fall in with",
+    "answerText": " To agree to something"
+  },
+  {
+    "questionNum": 80067,
+    "questionText": " Fall out with",
+    "answerText": " To have an argument with somebody"
+  },
+  {
+    "questionNum": 80068,
+    "questionText": " Fall to one's lot",
+    "answerText": " To become ones task or responsibility"
+  },
+  {
+    "questionNum": 80069,
+    "questionText": " Fall behind in",
+    "answerText": " To fail to keep level"
+  },
+  {
+    "questionNum": 80070,
+    "questionText": " Fall a prey to",
+    "answerText": " To be harmed or affected by something bad"
+  },
+  {
+    "questionNum": 80071,
+    "questionText": " Gala day",
+    "answerText": " A special public celebration or entertainment"
+  },
+  {
+    "questionNum": 80072,
+    "questionText": " Good for nothing",
+    "answerText": " Of no use"
+  },
+  {
+    "questionNum": 80073,
+    "questionText": " Gift of the gab",
+    "answerText": " Ability or art of speaking fluently"
+  },
+  {
+    "questionNum": 80074,
+    "questionText": " Golden mean",
+    "answerText": " Neither to much nor to little"
+  },
+  {
+    "questionNum": 80075,
+    "questionText": " Good samaritan",
+    "answerText": " A person who gives help and sympathy to people who need it"
+  },
+  {
+    "questionNum": 80076,
+    "questionText": " Get the better of",
+    "answerText": " To overcome"
+  },
+  {
+    "questionNum": 80077,
+    "questionText": " Get by heart",
+    "answerText": " To learn orally or to remember orally"
+  },
+  {
+    "questionNum": 80078,
+    "questionText": " Go a long way",
+    "answerText": " To continue with an activity"
+  },
+  {
+    "questionNum": 80079,
+    "questionText": " Golden opportunity",
+    "answerText": " A very favourable chance"
+  },
+  {
+    "questionNum": 80080,
+    "questionText": " Get ahead of",
+    "answerText": " To make progress"
+  },
+  {
+    "questionNum": 80081,
+    "questionText": " Get along with",
+    "answerText": " To leave a place"
+  },
+  {
+    "questionNum": 80082,
+    "questionText": " Get away with",
+    "answerText": " To steal something and escape with it"
+  },
+  {
+    "questionNum": 80083,
+    "questionText": " Get down to",
+    "answerText": " To start to do"
+  },
+  {
+    "questionNum": 80084,
+    "questionText": " Get even with",
+    "answerText": " To revenge"
+  },
+  {
+    "questionNum": 80085,
+    "questionText": " Get hold of",
+    "answerText": " To find something that you want or need"
+  },
+  {
+    "questionNum": 80086,
+    "questionText": " Get into a soup",
+    "answerText": " To make things difficult"
+  },
+  {
+    "questionNum": 80087,
+    "questionText": " Get in to the swing of things",
+    "answerText": " To be familiar of"
+  },
+  {
+    "questionNum": 80088,
+    "questionText": " Get on one's nerves",
+    "answerText": " To have a friendly relationship with somebody"
+  },
+  {
+    "questionNum": 80089,
+    "questionText": " Get on with",
+    "answerText": " To be worrisome"
+  },
+  {
+    "questionNum": 80090,
+    "questionText": " Get out of",
+    "answerText": " To leave or go out of a place"
+  },
+  {
+    "questionNum": 80091,
+    "questionText": " Get out of line",
+    "answerText": " To avoid a responsibility or duty"
+  },
+  {
+    "questionNum": 80092,
+    "questionText": " Get the sack",
+    "answerText": " Dismiss from the services"
+  },
+  {
+    "questionNum": 80093,
+    "questionText": " Get the upper hand",
+    "answerText": " To get an advantage"
+  },
+  {
+    "questionNum": 80094,
+    "questionText": " Get through with",
+    "answerText": " To finish or complete a task"
+  },
+  {
+    "questionNum": 80095,
+    "questionText": " Get wind of",
+    "answerText": " To know the secret"
+  },
+  {
+    "questionNum": 80096,
+    "questionText": " Get word",
+    "answerText": " To be able to say anything"
+  },
+  {
+    "questionNum": 80097,
+    "questionText": " Give a break",
+    "answerText": " To give a chance"
+  },
+  {
+    "questionNum": 80098,
+    "questionText": " Give a piece of mind",
+    "answerText": " To scold"
+  },
+  {
+    "questionNum": 80099,
+    "questionText": " Give a ring",
+    "answerText": " To make a telephone call"
+  },
+  {
+    "questionNum": 80100,
+    "questionText": " Go through fire and water",
+    "answerText": " To take any risk"
+  },
+  {
+    "questionNum": 80101,
+    "questionText": " Go to rack and ruin",
+    "answerText": " To get into a bad condition"
+  },
+  {
+    "questionNum": 80102,
+    "questionText": " Greenroom",
+    "answerText": " A room in a theatre; television; studio"
+  },
+  {
+    "questionNum": 80103,
+    "questionText": " Get off scot free",
+    "answerText": " To go away without punishment"
+  },
+  {
+    "questionNum": 80104,
+    "questionText": " Goa long way",
+    "answerText": " To make progress"
+  },
+  {
+    "questionNum": 80105,
+    "questionText": " Hand in hand",
+    "answerText": " If two people are hand in hand they are holding each other's hand"
+  },
+  {
+    "questionNum": 80106,
+    "questionText": " Here and there",
+    "answerText": " In various place"
+  },
+  {
+    "questionNum": 80107,
+    "questionText": " Hard cash",
+    "answerText": " Money"
+  },
+  {
+    "questionNum": 80108,
+    "questionText": " How and why",
+    "answerText": " To express method and reason"
+  },
+  {
+    "questionNum": 80109,
+    "questionText": " Hard up",
+    "answerText": " Having very little money"
+  },
+  {
+    "questionNum": 80110,
+    "questionText": " High time",
+    "answerText": " To enjoy yourself very much"
+  },
+  {
+    "questionNum": 80111,
+    "questionText": " Hard nut to crack",
+    "answerText": " A difficult problem to solve"
+  },
+  {
+    "questionNum": 80112,
+    "questionText": " Hang by a thread",
+    "answerText": " A critical condition"
+  },
+  {
+    "questionNum": 80113,
+    "questionText": " Haul over the coals",
+    "answerText": " To scold; chide"
+  },
+  {
+    "questionNum": 80114,
+    "questionText": " Have a brush with",
+    "answerText": " To dispute very little; or to quarrel in a small quantity"
+  },
+  {
+    "questionNum": 80115,
+    "questionText": " Have a mind",
+    "answerText": " Make your own decisions"
+  },
+  {
+    "questionNum": 80116,
+    "questionText": " Have a thing at one's fingers tips",
+    "answerText": " To get knowledge completely"
+  },
+  {
+    "questionNum": 80117,
+    "questionText": " Have dean hands",
+    "answerText": " To get innocent"
+  },
+  {
+    "questionNum": 80118,
+    "questionText": " Have in hand",
+    "answerText": " A piece of work to be in hand"
+  },
+  {
+    "questionNum": 80119,
+    "questionText": " Have an eye on a thing",
+    "answerText": " To look at or watch something"
+  },
+  {
+    "questionNum": 80120,
+    "questionText": " Have one's hands full",
+    "answerText": " Too busy to do something else"
+  },
+  {
+    "questionNum": 80121,
+    "questionText": " 15. Have too many irons in",
+    "answerText": " To be engaged in too many the fire things"
+  },
+  {
+    "questionNum": 80122,
+    "questionText": " 16. Herculean task",
+    "answerText": " Work which requires extraordinary strength to accomplish at"
+  },
+  {
+    "questionNum": 80123,
+    "questionText": " High and low",
+    "answerText": " Everywhere"
+  },
+  {
+    "questionNum": 80124,
+    "questionText": " High living"
+  },
+  {
+    "questionNum": 80125,
+    "questionText": " 19. Hit the nail on the head",
+    "answerText": " Do exactly the right thing"
+  },
+  {
+    "questionNum": 80126,
+    "questionText": " Hold one's tongue",
+    "answerText": " Keep silence"
+  },
+  {
+    "questionNum": 80127,
+    "questionText": " Highhanded"
+  },
+  {
+    "questionNum": 80128,
+    "questionText": " 22. Hard times",
+    "answerText": " Unpleasant and difficult situation"
+  },
+  {
+    "questionNum": 80129,
+    "questionText": " 23. Have one's way",
+    "answerText": " To have what you want especially by opposing other people"
+  },
+  {
+    "questionNum": 80130,
+    "questionText": " 1. Iron hand",
+    "answerText": " With strictness"
+  },
+  {
+    "questionNum": 80131,
+    "questionText": " In favour of",
+    "answerText": " In the side of"
+  },
+  {
+    "questionNum": 80132,
+    "questionText": " In front of",
+    "answerText": " In face of"
+  },
+  {
+    "questionNum": 80133,
+    "questionText": " In order to",
+    "answerText": " 'To' or 'for'"
+  },
+  {
+    "questionNum": 80134,
+    "questionText": " In quest of",
+    "answerText": " In searchof"
+  },
+  {
+    "questionNum": 80135,
+    "questionText": " In the hope of",
+    "answerText": " Tobe in hope"
+  },
+  {
+    "questionNum": 80136,
+    "questionText": " In case",
+    "answerText": " If"
+  },
+  {
+    "questionNum": 80137,
+    "questionText": " In detail",
+    "answerText": " Explain something fully"
+  },
+  {
+    "questionNum": 80138,
+    "questionText": " In no time",
+    "answerText": " At once"
+  },
+  {
+    "questionNum": 80139,
+    "questionText": " In the teeth of",
+    "answerText": " To be against"
+  },
+  {
+    "questionNum": 80140,
+    "questionText": " In time",
+    "answerText": " Not late; with enough time to be able to do something"
+  },
+  {
+    "questionNum": 80141,
+    "questionText": " In connection with",
+    "answerText": " For reasons connected with somebody I something"
+  },
+  {
+    "questionNum": 80142,
+    "questionText": " 13. In defence of",
+    "answerText": " The act of protecting somebody / something from attack"
+  },
+  {
+    "questionNum": 80143,
+    "questionText": " In view of",
+    "answerText": " Having regard to"
+  },
+  {
+    "questionNum": 80144,
+    "questionText": " In proportion to",
+    "answerText": " In the ratio of"
+  },
+  {
+    "questionNum": 80145,
+    "questionText": " In respect of"
+  },
+  {
+    "questionNum": 80146,
+    "questionText": " In the face of",
+    "answerText": " In despite of"
+  },
+  {
+    "questionNum": 80147,
+    "questionText": " In point of",
+    "answerText": " From the point of view"
+  },
+  {
+    "questionNum": 80148,
+    "questionText": " In a fix",
+    "answerText": " In puzzling state"
+  },
+  {
+    "questionNum": 80149,
+    "questionText": " In a nutshell",
+    "answerText": " In a few words"
+  },
+  {
+    "questionNum": 80150,
+    "questionText": " In full swing"
+  },
+  {
+    "questionNum": 80151,
+    "questionText": " In regard to",
+    "answerText": " In comparison with"
+  },
+  {
+    "questionNum": 80152,
+    "questionText": " In the dark",
+    "answerText": " Keep ignorant about"
+  },
+  {
+    "questionNum": 80153,
+    "questionText": " Instead of",
+    "answerText": " In the place of somebody I something"
+  },
+  {
+    "questionNum": 80154,
+    "questionText": " III at ease"
+  },
+  {
+    "questionNum": 80155,
+    "questionText": " In vogue"
+  },
+  {
+    "questionNum": 80156,
+    "questionText": " Irony of fate",
+    "answerText": " The amusing or strange aspect of a situation that is very different from what you expect"
+  },
+  {
+    "questionNum": 80157,
+    "questionText": " In all respect",
+    "answerText": " With all kinds / concernings"
+  },
+  {
+    "questionNum": 80158,
+    "questionText": " 29. In full",
+    "answerText": " Including the whole of something"
+  },
+  {
+    "questionNum": 80159,
+    "questionText": " 30. In fact",
+    "answerText": " Indeed"
+  },
+  {
+    "questionNum": 80160,
+    "questionText": " 31. In the meantime"
+  },
+  {
+    "questionNum": 80161,
+    "questionText": " 32. In any case",
+    "answerText": " Whatever happens or may have happened"
+  },
+  {
+    "questionNum": 80162,
+    "questionText": " 33. In force",
+    "answerText": " To be in operation; going to"
+  },
+  {
+    "questionNum": 80163,
+    "questionText": " 34. In good faith",
+    "answerText": " Without offence"
+  },
+  {
+    "questionNum": 80164,
+    "questionText": " 35. In hot haste",
+    "answerText": " In a hurry"
+  },
+  {
+    "questionNum": 80165,
+    "questionText": " 36. In an instant",
+    "answerText": " Within a wink"
+  },
+  {
+    "questionNum": 80166,
+    "questionText": " 37. In name only",
+    "answerText": " Officially recognize but not existing in reality"
+  },
+  {
+    "questionNum": 80167,
+    "questionText": " In office",
+    "answerText": " In power"
+  },
+  {
+    "questionNum": 80168,
+    "questionText": " In season and out of season",
+    "answerText": " Every time-in good time or bad time"
+  },
+  {
+    "questionNum": 80169,
+    "questionText": " 40. In case of",
+    "answerText": " If something happens"
+  },
+  {
+    "questionNum": 80170,
+    "questionText": " 41. In defiance of",
+    "answerText": " Open refusal to obey"
+  },
+  {
+    "questionNum": 80171,
+    "questionText": " 42. In honour of",
+    "answerText": " In order to show respect and admiration for somebody /something"
+  },
+  {
+    "questionNum": 80172,
+    "questionText": " 43. In keeping with"
+  },
+  {
+    "questionNum": 80173,
+    "questionText": " 44. In the eye of",
+    "answerText": " According to the way that somebody see the situation"
+  },
+  {
+    "questionNum": 80174,
+    "questionText": " 45. In place of",
+    "answerText": " Instead of"
+  },
+  {
+    "questionNum": 80175,
+    "questionText": " 46. In the interests of",
+    "answerText": " In order to help or achieve"
+  },
+  {
+    "questionNum": 80176,
+    "questionText": " 47. In the name of",
+    "answerText": " For somebody; showing that something officially belongs to somebody"
+  },
+  {
+    "questionNum": 80177,
+    "questionText": " In order that",
+    "answerText": " So that something can happen"
+  },
+  {
+    "questionNum": 80178,
+    "questionText": " In the end",
+    "answerText": " After a long period of time"
+  },
+  {
+    "questionNum": 80179,
+    "questionText": " In one's mind's eye",
+    "answerText": " In the inner eye"
+  },
+  {
+    "questionNum": 80180,
+    "questionText": " In fault",
+    "answerText": " An accused person"
+  },
+  {
+    "questionNum": 80181,
+    "questionText": " In due course",
+    "answerText": " In chronicle"
+  },
+  {
+    "questionNum": 80182,
+    "questionText": " In a temper",
+    "answerText": " To be angry"
+  },
+  {
+    "questionNum": 80183,
+    "questionText": " In course of time",
+    "answerText": " When enough time has passed"
+  },
+  {
+    "questionNum": 80184,
+    "questionText": " Jack of all trades",
+    "answerText": " One who can turn his hand to anything"
+  },
+  {
+    "questionNum": 80185,
+    "questionText": " 2. Jaundiced eye",
+    "answerText": " To have prejudice or jealousy"
+  },
+  {
+    "questionNum": 80186,
+    "questionText": " Jail bird",
+    "answerText": " A hardened criminal"
+  },
+  {
+    "questionNum": 80187,
+    "questionText": " Join in with",
+    "answerText": " To take part in an activity with other people"
+  },
+  {
+    "questionNum": 80188,
+    "questionText": " Jump to a conclusion"
+  },
+  {
+    "questionNum": 80189,
+    "questionText": " Keep an eye on",
+    "answerText": " To be watching carefully"
+  },
+  {
+    "questionNum": 80190,
+    "questionText": " Keep abreast of",
+    "answerText": " To make sure that you know all the most recent facts about a subject"
+  },
+  {
+    "questionNum": 80191,
+    "questionText": " 3. Keep in view",
+    "answerText": " To mind or to care something: to keep in eyes"
+  },
+  {
+    "questionNum": 80192,
+    "questionText": " Keep company",
+    "answerText": " The people that somebody spends time with"
+  },
+  {
+    "questionNum": 80193,
+    "questionText": " Keep body and soul together",
+    "answerText": " For survival"
+  },
+  {
+    "questionNum": 80194,
+    "questionText": " Keep good time",
+    "answerText": " Used to say appropriate time"
+  },
+  {
+    "questionNum": 80195,
+    "questionText": " Keep in mind",
+    "answerText": " To remember"
+  },
+  {
+    "questionNum": 80196,
+    "questionText": " Keep in-touch with",
+    "answerText": " To remain in contact"
+  },
+  {
+    "questionNum": 80197,
+    "questionText": " Keep late hours",
+    "answerText": " To be awoke late night"
+  },
+  {
+    "questionNum": 80198,
+    "questionText": " Keep the wolf from the door",
+    "answerText": " To avoid starvation"
+  },
+  {
+    "questionNum": 80199,
+    "questionText": " Kick a habit",
+    "answerText": " To stop doing something that you have done for a longtime"
+  },
+  {
+    "questionNum": 80200,
+    "questionText": " Kill two birds with one stone",
+    "answerText": " To serve two purposes at one time"
+  },
+  {
+    "questionNum": 80201,
+    "questionText": " Know by sight",
+    "answerText": " To recognize somebody without knowing them well"
+  },
+  {
+    "questionNum": 80202,
+    "questionText": " Keep one's word",
+    "answerText": " To complete waiting"
+  },
+  {
+    "questionNum": 80203,
+    "questionText": " Lose Sight of",
+    "answerText": " To become no longer able to see"
+  },
+  {
+    "questionNum": 80204,
+    "questionText": " Look blank",
+    "answerText": " To be amazed"
+  },
+  {
+    "questionNum": 80205,
+    "questionText": " Lie in wait",
+    "answerText": " To keep waiting for the victim"
+  },
+  {
+    "questionNum": 80206,
+    "questionText": " Life and soul",
+    "answerText": " Life"
+  },
+  {
+    "questionNum": 80207,
+    "questionText": " Long and short",
+    "answerText": " Summary; brief"
+  },
+  {
+    "questionNum": 80208,
+    "questionText": " Learn by rote",
+    "answerText": " To remember something without understanding An unhappy or disappointed expression"
+  },
+  {
+    "questionNum": 80209,
+    "questionText": " 7 Long face",
+    "answerText": " An unhappy or disappointed expression"
+  },
+  {
+    "questionNum": 80210,
+    "questionText": " Left handed compliment",
+    "answerText": " To complain as admiration"
+  },
+  {
+    "questionNum": 80211,
+    "questionText": " Loose tongue",
+    "answerText": " Unsettled matter"
+  },
+  {
+    "questionNum": 80212,
+    "questionText": " Lump sum",
+    "answerText": " An amount of money that is paid at one time and not on separate occasions"
+  },
+  {
+    "questionNum": 80213,
+    "questionText": " Lose heart",
+    "answerText": " To stop hoping for something or trying to do something because you no longer feel confident"
+  },
+  {
+    "questionNum": 80214,
+    "questionText": " 12. Laugh in one's sleeves",
+    "answerText": " To be secretly amused about something"
+  },
+  {
+    "questionNum": 80215,
+    "questionText": " 13. Lend one's ear",
+    "answerText": " To listen"
+  },
+  {
+    "questionNum": 80216,
+    "questionText": " 14. Little by little"
+  },
+  {
+    "questionNum": 80217,
+    "questionText": " 15. Lose one's cool",
+    "answerText": " To lose control"
+  },
+  {
+    "questionNum": 80218,
+    "questionText": " 16. Lose one's head",
+    "answerText": " To become unable to act in a calm or sensible way"
+  },
+  {
+    "questionNum": 80219,
+    "questionText": " 17. Lose one's way",
+    "answerText": " To forget way"
+  },
+  {
+    "questionNum": 80220,
+    "questionText": " Make a name",
+    "answerText": " To be famous; to earn name and fame"
+  },
+  {
+    "questionNum": 80221,
+    "questionText": " 2. Make good",
+    "answerText": " To compensate"
+  },
+  {
+    "questionNum": 80222,
+    "questionText": " 3. Make up one's mind",
+    "answerText": " To determine"
+  },
+  {
+    "questionNum": 80223,
+    "questionText": " 4. Miss the bus",
+    "answerText": " To be unable to take advantage of something because you are too late"
+  },
+  {
+    "questionNum": 80224,
+    "questionText": " 5. Man of parts",
+    "answerText": " A man of talent"
+  },
+  {
+    "questionNum": 80225,
+    "questionText": " 6. Man in the street",
+    "answerText": " Simple man"
+  },
+  {
+    "questionNum": 80226,
+    "questionText": " 7. Man of action",
+    "answerText": " A dutiful person"
+  },
+  {
+    "questionNum": 80227,
+    "questionText": " 8. Make an ass of oneself",
+    "answerText": " To be foolish"
+  },
+  {
+    "questionNum": 80228,
+    "questionText": " Make the best of both the worlds",
+    "answerText": " Benefit in both hands"
+  },
+  {
+    "questionNum": 80229,
+    "questionText": " Make a fortune",
+    "answerText": " To become rich"
+  },
+  {
+    "questionNum": 80230,
+    "questionText": " Make friends",
+    "answerText": " To become a friend of somebody"
+  },
+  {
+    "questionNum": 80231,
+    "questionText": " Make or mar",
+    "answerText": " To make or spoil"
+  },
+  {
+    "questionNum": 80232,
+    "questionText": " Mend or end",
+    "answerText": " To improve or ruin"
+  },
+  {
+    "questionNum": 80233,
+    "questionText": " Man of the world",
+    "answerText": " An experienced man"
+  },
+  {
+    "questionNum": 80234,
+    "questionText": " Mind one's own business",
+    "answerText": " To leave other people alone"
+  },
+  {
+    "questionNum": 80235,
+    "questionText": " More or less",
+    "answerText": " Little or much around"
+  },
+  {
+    "questionNum": 80236,
+    "questionText": " Move heaven and earth",
+    "answerText": " To work hard to get something"
+  },
+  {
+    "questionNum": 80237,
+    "questionText": " Make a fool of oneself",
+    "answerText": " To be stupid"
+  },
+  {
+    "questionNum": 80238,
+    "questionText": " Make a mess of",
+    "answerText": " To bungle"
+  },
+  {
+    "questionNum": 80239,
+    "questionText": " 20. Maiden name",
+    "answerText": " The name of a married woman before marriage"
+  },
+  {
+    "questionNum": 80240,
+    "questionText": " 21. Make a hash of something",
+    "answerText": " To do something badly"
+  },
+  {
+    "questionNum": 80241,
+    "questionText": " Miss the boat",
+    "answerText": " Tomiss a chance"
+  },
+  {
+    "questionNum": 80242,
+    "questionText": " Null and void"
+  },
+  {
+    "questionNum": 80243,
+    "questionText": " Now and again",
+    "answerText": " Occasionally"
+  },
+  {
+    "questionNum": 80244,
+    "questionText": " Nip in the bud",
+    "answerText": " To destroy a thing at the very beginning"
+  },
+  {
+    "questionNum": 80245,
+    "questionText": " A narrow escape",
+    "answerText": " To be saved with a great difficulty"
+  },
+  {
+    "questionNum": 80246,
+    "questionText": " Neck and neck",
+    "answerText": " Side by side"
+  },
+  {
+    "questionNum": 80247,
+    "questionText": " Night and day",
+    "answerText": " To be continued (day or night)"
+  },
+  {
+    "questionNum": 80248,
+    "questionText": " Nine day's wonder"
+  },
+  {
+    "questionNum": 80249,
+    "questionText": " Now and then",
+    "answerText": " Sometimes"
+  },
+  {
+    "questionNum": 80250,
+    "questionText": " Now or never",
+    "answerText": " At present time or not in present past or future"
+  },
+  {
+    "questionNum": 80251,
+    "questionText": " Never mind",
+    "answerText": " No matter"
+  },
+  {
+    "questionNum": 80252,
+    "questionText": " Off and on",
+    "answerText": " Occesionelly:irregularly"
+  },
+  {
+    "questionNum": 80253,
+    "questionText": " Of no avail"
+  },
+  {
+    "questionNum": 80254,
+    "questionText": " On account of",
+    "answerText": " Becauseof"
+  },
+  {
+    "questionNum": 80255,
+    "questionText": " On no account",
+    "answerText": " Not at all"
+  },
+  {
+    "questionNum": 80256,
+    "questionText": " Owing to",
+    "answerText": " Due to"
+  },
+  {
+    "questionNum": 80257,
+    "questionText": " On the contrary",
+    "answerText": " The opposite of the last one"
+  },
+  {
+    "questionNum": 80258,
+    "questionText": " To the contrary",
+    "answerText": " Showing or proving the opposite"
+  },
+  {
+    "questionNum": 80259,
+    "questionText": " Of late",
+    "answerText": " Recently"
+  },
+  {
+    "questionNum": 80260,
+    "questionText": " Out of question",
+    "answerText": " Not possible. impossible"
+  },
+  {
+    "questionNum": 80261,
+    "questionText": " Out and out",
+    "answerText": " Completely"
+  },
+  {
+    "questionNum": 80262,
+    "questionText": " Over head and ears",
+    "answerText": " More than enough"
+  },
+  {
+    "questionNum": 80263,
+    "questionText": " On the alert"
+  },
+  {
+    "questionNum": 80264,
+    "questionText": " On the brink of",
+    "answerText": " Tobe near to"
+  },
+  {
+    "questionNum": 80265,
+    "questionText": " Open and above board"
+  },
+  {
+    "questionNum": 80266,
+    "questionText": " Once again"
+  },
+  {
+    "questionNum": 80267,
+    "questionText": " On the eve of"
+  },
+  {
+    "questionNum": 80268,
+    "questionText": " Once and for all"
+  },
+  {
+    "questionNum": 80269,
+    "questionText": " Once for all",
+    "answerText": " Forever"
+  },
+  {
+    "questionNum": 80270,
+    "questionText": " Of course"
+  },
+  {
+    "questionNum": 80271,
+    "questionText": " Out of pocket",
+    "answerText": " Without money"
+  },
+  {
+    "questionNum": 80272,
+    "questionText": " Over and above"
+  },
+  {
+    "questionNum": 80273,
+    "questionText": " Of the opinion",
+    "answerText": " Of the concept"
+  },
+  {
+    "questionNum": 80274,
+    "questionText": " On the credit",
+    "answerText": " On delayed payment"
+  },
+  {
+    "questionNum": 80275,
+    "questionText": " 24. On an average",
+    "answerText": " Dividing the total by the number of amounts"
+  },
+  {
+    "questionNum": 80276,
+    "questionText": " 25. On good terms"
+  },
+  {
+    "questionNum": 80277,
+    "questionText": " 26. On time"
+  },
+  {
+    "questionNum": 80278,
+    "questionText": " 27. On and on"
+  },
+  {
+    "questionNum": 80279,
+    "questionText": " 28. Once upon a time",
+    "answerText": " Onetime"
+  },
+  {
+    "questionNum": 80280,
+    "questionText": " 29. On the verge of",
+    "answerText": " On the point of"
+  },
+  {
+    "questionNum": 80281,
+    "questionText": " 30. On the whole"
+  },
+  {
+    "questionNum": 80282,
+    "questionText": " 31. On an account",
+    "answerText": " Not in any circumstences or situations"
+  },
+  {
+    "questionNum": 80283,
+    "questionText": " 32. Out of form",
+    "answerText": " Not to be in good form"
+  },
+  {
+    "questionNum": 80284,
+    "questionText": " 33. Open secret"
+  },
+  {
+    "questionNum": 80285,
+    "questionText": " Over and over again"
+  },
+  {
+    "questionNum": 80286,
+    "questionText": " Out of the way",
+    "answerText": " To be not in proper order"
+  },
+  {
+    "questionNum": 80287,
+    "questionText": " Off one's head",
+    "answerText": " To be corrupt one's wit"
+  },
+  {
+    "questionNum": 80288,
+    "questionText": " Oily tongue",
+    "answerText": " The language of flattering or a flattering tongue"
+  },
+  {
+    "questionNum": 80289,
+    "questionText": " On one's guard",
+    "answerText": " To be aware; to be careful"
+  },
+  {
+    "questionNum": 80290,
+    "questionText": " On one's last legs",
+    "answerText": " About to fall"
+  },
+  {
+    "questionNum": 80291,
+    "questionText": " On the spot"
+  },
+  {
+    "questionNum": 80292,
+    "questionText": " Once in a while"
+  },
+  {
+    "questionNum": 80293,
+    "questionText": " One and all",
+    "answerText": " All"
+  },
+  {
+    "questionNum": 80294,
+    "questionText": " 43. Open fire",
+    "answerText": " To begin firing"
+  },
+  {
+    "questionNum": 80295,
+    "questionText": " Open handed man",
+    "answerText": " One who spends money with enthusiasm"
+  },
+  {
+    "questionNum": 80296,
+    "questionText": " 45. Open hearted man",
+    "answerText": " A man who has an open heart"
+  },
+  {
+    "questionNum": 80297,
+    "questionText": " 46. Open one's mind",
+    "answerText": " To give one's secret opinion"
+  },
+  {
+    "questionNum": 80298,
+    "questionText": " 47. Out at elbows",
+    "answerText": " Poor"
+  },
+  {
+    "questionNum": 80299,
+    "questionText": " 48. Out of date"
+  },
+  {
+    "questionNum": 80300,
+    "questionText": " 19. Out of doors",
+    "answerText": " Out side of the house"
+  },
+  {
+    "questionNum": 80301,
+    "questionText": " 50. Out of one's mind",
+    "answerText": " To be mad or crazy"
+  },
+  {
+    "questionNum": 80302,
+    "questionText": " 51. Out of temper",
+    "answerText": " To be in a rage; to be iI1 an anger"
+  },
+  {
+    "questionNum": 80303,
+    "questionText": " 52. Over night",
+    "answerText": " At night"
+  },
+  {
+    "questionNum": 80304,
+    "questionText": " 53. Over one's head",
+    "answerText": " Not to understand; to be confused"
+  },
+  {
+    "questionNum": 80305,
+    "questionText": " 54. Other than"
+  },
+  {
+    "questionNum": 80306,
+    "questionText": " 55. On the spur of the moment"
+  },
+  {
+    "questionNum": 80307,
+    "questionText": " 56. On a large scale",
+    "answerText": " A lot of things or persons"
+  },
+  {
+    "questionNum": 80308,
+    "questionText": " 57. On one's account",
+    "answerText": " Cause of somebody"
+  },
+  {
+    "questionNum": 80309,
+    "questionText": " 58. On the strength of",
+    "answerText": " On the force of"
+  },
+  {
+    "questionNum": 80310,
+    "questionText": " 59. On all hands",
+    "answerText": " By all"
+  },
+  {
+    "questionNum": 80311,
+    "questionText": " 61. Out of favour",
+    "answerText": " To be angry; against"
+  },
+  {
+    "questionNum": 80312,
+    "questionText": " Part and parcel",
+    "answerText": " An essential part"
+  },
+  {
+    "questionNum": 80313,
+    "questionText": " Pros and cons",
+    "answerText": " Arguments for and against"
+  },
+  {
+    "questionNum": 80314,
+    "questionText": " 3. Put on end to",
+    "answerText": " To be finished; to end"
+  },
+  {
+    "questionNum": 80315,
+    "questionText": " 4. Pandora's box",
+    "answerText": " A source of evil powers"
+  },
+  {
+    "questionNum": 80316,
+    "questionText": " 5. Put on flesh",
+    "answerText": " To be fat"
+  },
+  {
+    "questionNum": 80317,
+    "questionText": " 6. Play the fool",
+    "answerText": " To act foolishly"
+  },
+  {
+    "questionNum": 80318,
+    "questionText": " 7. Put someone to death",
+    "answerText": " To kill"
+  },
+  {
+    "questionNum": 80319,
+    "questionText": " 8. Playa double game",
+    "answerText": " To act dubiously"
+  },
+  {
+    "questionNum": 80320,
+    "questionText": " 9. Play hide and seek"
+  },
+  {
+    "questionNum": 80321,
+    "questionText": " 10. Pick and choose",
+    "answerText": " To choose one rejecting others."
+  },
+  {
+    "questionNum": 80322,
+    "questionText": " 11. Poison someone's ears",
+    "answerText": " To prejudice"
+  },
+  {
+    "questionNum": 80323,
+    "questionText": " 12. Play false"
+  },
+  {
+    "questionNum": 80324,
+    "questionText": " 13. Put into action",
+    "answerText": " To work"
+  },
+  {
+    "questionNum": 80325,
+    "questionText": " 14. Pick a quarrel with",
+    "answerText": " Intentionally begin a quarrel"
+  },
+  {
+    "questionNum": 80326,
+    "questionText": " Pickup the late",
+    "answerText": " To pay the bill of others"
+  },
+  {
+    "questionNum": 80327,
+    "questionText": " Pink of condition",
+    "answerText": " To be healthy"
+  },
+  {
+    "questionNum": 80328,
+    "questionText": " Playa trick on",
+    "answerText": " To muse with somebody"
+  },
+  {
+    "questionNum": 80329,
+    "questionText": " Play second fiddle",
+    "answerText": " To be in a subordinate position"
+  },
+  {
+    "questionNum": 80330,
+    "questionText": " Play truant"
+  },
+  {
+    "questionNum": 80331,
+    "questionText": " Plum oneself on",
+    "answerText": " To be proud of"
+  },
+  {
+    "questionNum": 80332,
+    "questionText": " Provide against a rainy",
+    "answerText": " To save for bad time (= or days) day"
+  },
+  {
+    "questionNum": 80333,
+    "questionText": " 22. Pull one's punches",
+    "answerText": " To criticize politely"
+  },
+  {
+    "questionNum": 80334,
+    "questionText": " 23. Pull one's weight",
+    "answerText": " To fulfill one's duty or responsibility"
+  },
+  {
+    "questionNum": 80335,
+    "questionText": " 24. Pull well with",
+    "answerText": " To work together"
+  },
+  {
+    "questionNum": 80336,
+    "questionText": " 25. Put a spoke in one's wheel",
+    "answerText": " To hinder one's progress"
+  },
+  {
+    "questionNum": 80337,
+    "questionText": " 26. Put down in black and white",
+    "answerText": " To put something in written form"
+  },
+  {
+    "questionNum": 80338,
+    "questionText": " 27. Put on trial",
+    "answerText": " To FIR against somebody"
+  },
+  {
+    "questionNum": 80339,
+    "questionText": " 28. Put one's foot down",
+    "answerText": " To refuse to yield"
+  },
+  {
+    "questionNum": 80340,
+    "questionText": " 29. Put one's shoulder to the wheel",
+    "answerText": " To do the work with one's own efforts"
+  },
+  {
+    "questionNum": 80341,
+    "questionText": " Put one's foot in",
+    "answerText": " TO do blunder"
+  },
+  {
+    "questionNum": 80342,
+    "questionText": " To put one's head together",
+    "answerText": " To consult with each other"
+  },
+  {
+    "questionNum": 80343,
+    "questionText": " Put to the sword"
+  },
+  {
+    "questionNum": 80344,
+    "questionText": " Put to shame",
+    "answerText": " To be ashamed"
+  },
+  {
+    "questionNum": 80345,
+    "questionText": " Put to bed",
+    "answerText": " To make one sleep"
+  },
+  {
+    "questionNum": 80346,
+    "questionText": " Put the cart before the horse",
+    "answerText": " To do things in a wrong manner; reverse order"
+  },
+  {
+    "questionNum": 80347,
+    "questionText": " 36. Put one out of countenance",
+    "answerText": " To be ashamed"
+  },
+  {
+    "questionNum": 80348,
+    "questionText": " A queer fish"
+  },
+  {
+    "questionNum": 80349,
+    "questionText": " Quite a few",
+    "answerText": " A lot of; many"
+  },
+  {
+    "questionNum": 80350,
+    "questionText": " Quick of understanding",
+    "answerText": " One who has intelligent wit"
+  },
+  {
+    "questionNum": 80351,
+    "questionText": " Quarrel with one's bread"
+  },
+  {
+    "questionNum": 80352,
+    "questionText": " A red letter day",
+    "answerText": " Auspicious day of rejoicing; lucky and important day"
+  },
+  {
+    "questionNum": 80353,
+    "questionText": " Rhyme or Reason",
+    "answerText": " Reason"
+  },
+  {
+    "questionNum": 80354,
+    "questionText": " A rainy day",
+    "answerText": " A time of difficulty or poverty"
+  },
+  {
+    "questionNum": 80355,
+    "questionText": " Run short",
+    "answerText": " To reduce; shortage of"
+  },
+  {
+    "questionNum": 80356,
+    "questionText": " Run a muck",
+    "answerText": " Rush to in a frenzy"
+  },
+  {
+    "questionNum": 80357,
+    "questionText": " Right hand man",
+    "answerText": " A very- useful person on whom one can depend"
+  },
+  {
+    "questionNum": 80358,
+    "questionText": " Run the risk of",
+    "answerText": " To take risk"
+  },
+  {
+    "questionNum": 80359,
+    "questionText": " Red handed",
+    "answerText": " To be caught by the police during doing the crime"
+  },
+  {
+    "questionNum": 80360,
+    "questionText": " Root and branch",
+    "answerText": " Totally"
+  },
+  {
+    "questionNum": 80361,
+    "questionText": " Read between the lines",
+    "answerText": " To read carefully; to understand the additional meaning"
+  },
+  {
+    "questionNum": 80362,
+    "questionText": " Ready money",
+    "answerText": " Cash rupees"
+  },
+  {
+    "questionNum": 80363,
+    "questionText": " Red tapism"
+  },
+  {
+    "questionNum": 80364,
+    "questionText": " Rest on one's laurels",
+    "answerText": " To rest satisfied with the honours already won; to retire from active life"
+  },
+  {
+    "questionNum": 80365,
+    "questionText": " Right here",
+    "answerText": " At this place"
+  },
+  {
+    "questionNum": 80366,
+    "questionText": " Right now"
+  },
+  {
+    "questionNum": 80367,
+    "questionText": " Red tape",
+    "answerText": " Excessive and unnecessary adherence to formalities"
+  },
+  {
+    "questionNum": 80368,
+    "questionText": " Rise like a phoenix from",
+    "answerText": " To live a destroyed thing again its ashes"
+  },
+  {
+    "questionNum": 80369,
+    "questionText": " 18. To rise to the occasion",
+    "answerText": " To be found equal to the task"
+  },
+  {
+    "questionNum": 80370,
+    "questionText": " 19. Rough guess",
+    "answerText": " To guess commonly"
+  },
+  {
+    "questionNum": 80371,
+    "questionText": " 20. Rule the roost",
+    "answerText": " To keep one's possession on others"
+  },
+  {
+    "questionNum": 80372,
+    "questionText": " Small fry",
+    "answerText": " Ordinary beings"
+  },
+  {
+    "questionNum": 80373,
+    "questionText": " Sine die",
+    "answerText": " For uncertain period of time"
+  },
+  {
+    "questionNum": 80374,
+    "questionText": " Sooner or later"
+  },
+  {
+    "questionNum": 80375,
+    "questionText": " Set free",
+    "answerText": " To release from something"
+  },
+  {
+    "questionNum": 80376,
+    "questionText": " Sleeping partner",
+    "answerText": " An inactive partner in business"
+  },
+  {
+    "questionNum": 80377,
+    "questionText": " Stuff and none sense"
+  },
+  {
+    "questionNum": 80378,
+    "questionText": " Sum and substance"
+  },
+  {
+    "questionNum": 80379,
+    "questionText": " Stand somebody in good"
+  },
+  {
+    "questionNum": 80380,
+    "questionText": " Snake in the grass"
+  },
+  {
+    "questionNum": 80381,
+    "questionText": " Safe and sound",
+    "answerText": " Safely"
+  },
+  {
+    "questionNum": 80382,
+    "questionText": " Slip of the tongue",
+    "answerText": " A mistake of speech"
+  },
+  {
+    "questionNum": 80383,
+    "questionText": " 12. Slip of the pen",
+    "answerText": " A small unintentional mistake in writing"
+  },
+  {
+    "questionNum": 80384,
+    "questionText": " U. So long as",
+    "answerText": " Until"
+  },
+  {
+    "questionNum": 80385,
+    "questionText": " 1-1. Shortcut"
+  },
+  {
+    "questionNum": 80386,
+    "questionText": " 15. See eye to eye"
+  },
+  {
+    "questionNum": 80387,
+    "questionText": " 16. Send word",
+    "answerText": " To send the message"
+  },
+  {
+    "questionNum": 80388,
+    "questionText": " 17. Show of hand",
+    "answerText": " Lifting the hand"
+  },
+  {
+    "questionNum": 80389,
+    "questionText": " Scot free",
+    "answerText": " To go without punishment"
+  },
+  {
+    "questionNum": 80390,
+    "questionText": " Seasoned food",
+    "answerText": " Spicy food"
+  },
+  {
+    "questionNum": 80391,
+    "questionText": " See the light",
+    "answerText": " To be born"
+  },
+  {
+    "questionNum": 80392,
+    "questionText": " Set one's scheme on foot",
+    "answerText": " To start a plan"
+  },
+  {
+    "questionNum": 80393,
+    "questionText": " Set at liberty",
+    "answerText": " To release"
+  },
+  {
+    "questionNum": 80394,
+    "questionText": " Set one's face against",
+    "answerText": " To Oppose sternly"
+  },
+  {
+    "questionNum": 80395,
+    "questionText": " Set one's heart on",
+    "answerText": " To like more and more"
+  },
+  {
+    "questionNum": 80396,
+    "questionText": " Set one's teeth on edge",
+    "answerText": " To bear contemptation or hatred"
+  },
+  {
+    "questionNum": 80397,
+    "questionText": " Shut one's mouth",
+    "answerText": " To keep silent"
+  },
+  {
+    "questionNum": 80398,
+    "questionText": " Slip through one's fingers",
+    "answerText": " To come out of the hand"
+  },
+  {
+    "questionNum": 80399,
+    "questionText": " Spare time"
+  },
+  {
+    "questionNum": 80400,
+    "questionText": " To stand on one's own ground",
+    "answerText": " To maintain one's own position"
+  },
+  {
+    "questionNum": 80401,
+    "questionText": " A stone's throw",
+    "answerText": " Very-near"
+  },
+  {
+    "questionNum": 80402,
+    "questionText": " Strike a bargain",
+    "answerText": " To deal in business"
+  },
+  {
+    "questionNum": 80403,
+    "questionText": " Sworn enemies",
+    "answerText": " A staunch enemy"
+  },
+  {
+    "questionNum": 80404,
+    "questionText": " Tooth and nail",
+    "answerText": " With all one's resources or energy; fiercely; violently"
+  },
+  {
+    "questionNum": 80405,
+    "questionText": " Talk big",
+    "answerText": " To admire oneself"
+  },
+  {
+    "questionNum": 80406,
+    "questionText": " Time and again"
+  },
+  {
+    "questionNum": 80407,
+    "questionText": " To and fro",
+    "answerText": " backwards and forwards"
+  },
+  {
+    "questionNum": 80408,
+    "questionText": " Take to one's heels",
+    "answerText": " Torun away"
+  },
+  {
+    "questionNum": 80409,
+    "questionText": " Tall talk",
+    "answerText": " To boast; boastful and exaggerated talk"
+  },
+  {
+    "questionNum": 80410,
+    "questionText": " To the letter",
+    "answerText": " As same as"
+  },
+  {
+    "questionNum": 80411,
+    "questionText": " Turn over a new leaf",
+    "answerText": " To start a new life"
+  },
+  {
+    "questionNum": 80412,
+    "questionText": " Through thick and thin",
+    "answerText": " In all circumstances"
+  },
+  {
+    "questionNum": 80413,
+    "questionText": " Throw cold water",
+    "answerText": " To discourage"
+  },
+  {
+    "questionNum": 80414,
+    "questionText": " Through and through",
+    "answerText": " Completely"
+  },
+  {
+    "questionNum": 80415,
+    "questionText": " To the last farthing",
+    "answerText": " One by one paisa"
+  },
+  {
+    "questionNum": 80416,
+    "questionText": " To his face"
+  },
+  {
+    "questionNum": 80417,
+    "questionText": " To the utmost"
+  },
+  {
+    "questionNum": 80418,
+    "questionText": " To the point"
+  },
+  {
+    "questionNum": 80419,
+    "questionText": " Take advantage of",
+    "answerText": " To get benefit"
+  },
+  {
+    "questionNum": 80420,
+    "questionText": " Take effect",
+    "answerText": " To be effected"
+  },
+  {
+    "questionNum": 80421,
+    "questionText": " Take into one's hand",
+    "answerText": " To think or to believe"
+  },
+  {
+    "questionNum": 80422,
+    "questionText": " Take something in one's hand",
+    "answerText": " To take responsibility in one's hand"
+  },
+  {
+    "questionNum": 80423,
+    "questionText": " Take heart",
+    "answerText": " To have courage"
+  },
+  {
+    "questionNum": 80424,
+    "questionText": " 21. Testing time",
+    "answerText": " A period of examination"
+  },
+  {
+    "questionNum": 80425,
+    "questionText": " 22. This and that",
+    "answerText": " To and fro"
+  },
+  {
+    "questionNum": 80426,
+    "questionText": " 23. Think twice",
+    "answerText": " To decide carefully"
+  },
+  {
+    "questionNum": 80427,
+    "questionText": " 24. Take stock of",
+    "answerText": " To survey"
+  },
+  {
+    "questionNum": 80428,
+    "questionText": " The Three R's"
+  },
+  {
+    "questionNum": 80429,
+    "questionText": " Take notice"
+  },
+  {
+    "questionNum": 80430,
+    "questionText": " Take the chair",
+    "answerText": " To be a chairman"
+  },
+  {
+    "questionNum": 80431,
+    "questionText": " Take care of",
+    "answerText": " To look after-to be alert"
+  },
+  {
+    "questionNum": 80432,
+    "questionText": " Take hold of",
+    "answerText": " To catch"
+  },
+  {
+    "questionNum": 80433,
+    "questionText": " Take someone in to confidence"
+  },
+  {
+    "questionNum": 80434,
+    "questionText": " Take place"
+  },
+  {
+    "questionNum": 80435,
+    "questionText": " 32. Take part in",
+    "answerText": " To participate"
+  },
+  {
+    "questionNum": 80436,
+    "questionText": " Throw dust in one's eyes"
+  },
+  {
+    "questionNum": 80437,
+    "questionText": " Take a fancy",
+    "answerText": " To like very much"
+  },
+  {
+    "questionNum": 80438,
+    "questionText": " Take a leap in the dark",
+    "answerText": " An action or a risk that you take without knowing anything about the activity or what the result will be"
+  },
+  {
+    "questionNum": 80439,
+    "questionText": " 36. Take by storm",
+    "answerText": " To conquer rapidly"
+  },
+  {
+    "questionNum": 80440,
+    "questionText": " 37. Take into account",
+    "answerText": " To take into consideration"
+  },
+  {
+    "questionNum": 80441,
+    "questionText": " Take one at his word",
+    "answerText": " To believe on saying anyone"
+  },
+  {
+    "questionNum": 80442,
+    "questionText": " Take one's time"
+  },
+  {
+    "questionNum": 80443,
+    "questionText": " Take oneself off",
+    "answerText": " To walk away"
+  },
+  {
+    "questionNum": 80444,
+    "questionText": " Take sides",
+    "answerText": " To support one in quarrelling of the two"
+  },
+  {
+    "questionNum": 80445,
+    "questionText": " Take the air",
+    "answerText": " To walk in the open air"
+  },
+  {
+    "questionNum": 80446,
+    "questionText": " Take the bull by the horns",
+    "answerText": " To face a difficulty boldly"
+  },
+  {
+    "questionNum": 80447,
+    "questionText": " Take the law into one's hands",
+    "answerText": " To punish somebody with his hands"
+  },
+  {
+    "questionNum": 80448,
+    "questionText": " Take time off",
+    "answerText": " To take leave"
+  },
+  {
+    "questionNum": 80449,
+    "questionText": " 46. Take to heart",
+    "answerText": " To feel with heart"
+  },
+  {
+    "questionNum": 80450,
+    "questionText": " 47. Take to task"
+  },
+  {
+    "questionNum": 80451,
+    "questionText": " 48. Throwaway money",
+    "answerText": " To spend carelessly"
+  },
+  {
+    "questionNum": 80452,
+    "questionText": " 49. Time after time",
+    "answerText": " Frequently-repeatedly"
+  },
+  {
+    "questionNum": 80453,
+    "questionText": " 50. Turn up one's nose at",
+    "answerText": " To regard with contempt"
+  },
+  {
+    "questionNum": 80454,
+    "questionText": " Up to the mark",
+    "answerText": " Up to a certain standard"
+  },
+  {
+    "questionNum": 80455,
+    "questionText": " Ups and downs",
+    "answerText": " Good and bad times"
+  },
+  {
+    "questionNum": 80456,
+    "questionText": " An uphill task",
+    "answerText": " A difficult work"
+  },
+  {
+    "questionNum": 80457,
+    "questionText": " Up and doing",
+    "answerText": " Active in work"
+  },
+  {
+    "questionNum": 80458,
+    "questionText": " Under consideration",
+    "answerText": " Being discussed"
+  },
+  {
+    "questionNum": 80459,
+    "questionText": " Under lock and key"
+  },
+  {
+    "questionNum": 80460,
+    "questionText": " Under the nose",
+    "answerText": " Inclose vicinity"
+  },
+  {
+    "questionNum": 80461,
+    "questionText": " Under the nose of",
+    "answerText": " Almost in the presence of"
+  },
+  {
+    "questionNum": 80462,
+    "questionText": " Up-to-date"
+  },
+  {
+    "questionNum": 80463,
+    "questionText": " Up in arms",
+    "answerText": " to be ready to fight with"
+  },
+  {
+    "questionNum": 80464,
+    "questionText": " Under a cloud",
+    "answerText": " In suspicion. in disfavour ordisgrace"
+  },
+  {
+    "questionNum": 80465,
+    "questionText": " Upon one's sweet will",
+    "answerText": " On one's desire or wish"
+  },
+  {
+    "questionNum": 80466,
+    "questionText": " 13. Under the rose",
+    "answerText": " Secretly"
+  },
+  {
+    "questionNum": 80467,
+    "questionText": " 14. Upper hand"
+  },
+  {
+    "questionNum": 80468,
+    "questionText": " 15. Up to time"
+  },
+  {
+    "questionNum": 80469,
+    "questionText": " 16. Under the sun",
+    "answerText": " Anywhere"
+  },
+  {
+    "questionNum": 80470,
+    "questionText": " Under the embargo",
+    "answerText": " Under impediment"
+  },
+  {
+    "questionNum": 80471,
+    "questionText": " Under the wing",
+    "answerText": " Under the protection"
+  },
+  {
+    "questionNum": 80472,
+    "questionText": " Uneasy about for",
+    "answerText": " To be anxious about"
+  },
+  {
+    "questionNum": 80473,
+    "questionText": " Utter failure",
+    "answerText": " Extreme failure"
+  },
+  {
+    "questionNum": 80474,
+    "questionText": " Vice versa",
+    "answerText": " The other way round"
+  },
+  {
+    "questionNum": 80475,
+    "questionText": " Vis-a-vis",
+    "answerText": " In relation to"
+  },
+  {
+    "questionNum": 80476,
+    "questionText": " View with",
+    "answerText": " To complete"
+  },
+  {
+    "questionNum": 80477,
+    "questionText": " A vexed question",
+    "answerText": " A complicated problem"
+  },
+  {
+    "questionNum": 80478,
+    "questionText": " Vet for",
+    "answerText": " To examine someone's record"
+  },
+  {
+    "questionNum": 80479,
+    "questionText": " Via tria, via tuta"
+  },
+  {
+    "questionNum": 80480,
+    "questionText": " With a view to",
+    "answerText": " For the purpose of"
+  },
+  {
+    "questionNum": 80481,
+    "questionText": " Without fail",
+    "answerText": " Undoubtly; definitely"
+  },
+  {
+    "questionNum": 80482,
+    "questionText": " In/with reference to",
+    "answerText": " Used to say what you are talking or writing about"
+  },
+  {
+    "questionNum": 80483,
+    "questionText": " With respect to something",
+    "answerText": " Concerning"
+  },
+  {
+    "questionNum": 80484,
+    "questionText": " Ways and means"
+  },
+  {
+    "questionNum": 80485,
+    "questionText": " Why and wherefore"
+  },
+  {
+    "questionNum": 80486,
+    "questionText": " Worship the rising sun",
+    "answerText": " To honour anew impressive or successful person; to respect the man who is rising in power"
+  },
+  {
+    "questionNum": 80487,
+    "questionText": " With might and main"
+  },
+  {
+    "questionNum": 80488,
+    "questionText": " With a vengeance",
+    "answerText": " Excessively"
+  },
+  {
+    "questionNum": 80489,
+    "questionText": " Wide of the mark",
+    "answerText": " Besides the purpose"
+  },
+  {
+    "questionNum": 80490,
+    "questionText": " A white elephant",
+    "answerText": " An expensive burdensome but useless thing; A very expensive thing"
+  },
+  {
+    "questionNum": 80491,
+    "questionText": " All well and good",
+    "answerText": " Quite good but not exactly what is wanted"
+  },
+  {
+    "questionNum": 80492,
+    "questionText": " 15. What's what",
+    "answerText": " The true position of affairs"
+  },
+  {
+    "questionNum": 80493,
+    "questionText": " Wheels within wheels",
+    "answerText": " Complication"
+  },
+  {
+    "questionNum": 80494,
+    "questionText": " 17. Within an ace of",
+    "answerText": " Almost to be nearly"
+  },
+  {
+    "questionNum": 80495,
+    "questionText": " 18. A wolf in sheep's clothing"
+  },
+  {
+    "questionNum": 80496,
+    "questionText": " 19. Worn out",
+    "answerText": " To discover by persistent questioning"
+  },
+  {
+    "questionNum": 80497,
+    "questionText": " Will and pleasure",
+    "answerText": " Desire or wish"
+  },
+  {
+    "questionNum": 80498,
+    "questionText": " 21. With one voice",
+    "answerText": " As a group; with everyone agreeing; unanimously"
+  },
+  {
+    "questionNum": 80499,
+    "questionText": " 22. A warm reception",
+    "answerText": " To receive cordially"
+  },
+  {
+    "questionNum": 80500,
+    "questionText": " 23. Without reserve",
+    "answerText": " Without hiding a matter"
+  },
+  {
+    "questionNum": 80501,
+    "questionText": " Well to do",
+    "answerText": " Rich"
+  },
+  {
+    "questionNum": 80502,
+    "questionText": " Well-off",
+    "answerText": " In good circumstances"
+  },
+  {
+    "questionNum": 80503,
+    "questionText": " Walls have ears",
+    "answerText": " To listen by someone in disguise"
+  },
+  {
+    "questionNum": 80504,
+    "questionText": " Walk the streets"
+  },
+  {
+    "questionNum": 80505,
+    "questionText": " 28. While away",
+    "answerText": " To waste time; to pass time in amusement"
+  },
+  {
+    "questionNum": 80506,
+    "questionText": " White lie",
+    "answerText": " A blunt lie"
+  },
+  {
+    "questionNum": 80507,
+    "questionText": " 30. Win laurels",
+    "answerText": " To distinguish oneself"
+  },
+  {
+    "questionNum": 80508,
+    "questionText": " 31. Wipe off",
+    "answerText": " To clean by rubbing with cloth"
+  },
+  {
+    "questionNum": 80509,
+    "questionText": " 32. With good grace",
+    "answerText": " Willingly"
+  },
+  {
+    "questionNum": 80510,
+    "questionText": " 33. With one accord",
+    "answerText": " Agreeing together"
+  },
+  {
+    "questionNum": 80511,
+    "questionText": " 34. Without an exception",
+    "answerText": " for every one"
+  },
+  {
+    "questionNum": 80512,
+    "questionText": " 35. A word in one's ears",
+    "answerText": " To say in private"
+  },
+  {
+    "questionNum": 80513,
+    "questionText": " 36. Weal and woe",
+    "answerText": " In prosperity and adversity"
+  },
+  {
+    "questionNum": 80514,
+    "questionText": " 37. Wear and tear",
+    "answerText": " Decrease in value due to constant use"
+  },
+  {
+    "questionNum": 80515,
+    "questionText": " Worth while",
+    "answerText": " Proper"
+  },
+  {
+    "questionNum": 80516,
+    "questionText": " A wind goose chase",
+    "answerText": " A foolish and useless search"
+  },
+  {
+    "questionNum": 80517,
+    "questionText": " 40. Towin the pal:m",
+    "answerText": " To win a prize"
+  },
+  {
+    "questionNum": 80518,
+    "questionText": " Year by year",
+    "answerText": " Yearly"
+  },
+  {
+    "questionNum": 80519,
+    "questionText": " 2. Yeoman service",
+    "answerText": " An excellent work"
+  },
+  {
+    "questionNum": 80520,
+    "questionText": " 3. Yet again",
+    "answerText": " Once more"
+  },
+  {
+    "questionNum": 80521,
+    "questionText": " 4. Yoke of opinion",
+    "answerText": " Force of public opinion"
+  },
+  {
+    "questionNum": 80522,
+    "questionText": " 5. Yellow boy",
+    "answerText": " A gold coin"
+  },
+  {
+    "questionNum": 80523,
+    "questionText": " 6. Yellow brick road"
+  },
+  {
+    "questionNum": 80524,
+    "questionText": " Zig-zag",
+    "answerText": " Not straight"
+  },
+  {
+    "questionNum": 80525,
+    "questionText": " At random",
+    "answerText": " Aimlessly"
+  },
+  {
+    "questionNum": 80526,
+    "questionText": " At first sight",
+    "answerText": " At the first meeting"
+  },
+  {
+    "questionNum": 80527,
+    "questionText": " Above all",
+    "answerText": " More than anything else"
+  },
+  {
+    "questionNum": 80528,
+    "questionText": " At a discount",
+    "answerText": " Declining"
+  },
+  {
+    "questionNum": 80529,
+    "questionText": " Above board",
+    "answerText": " Openly"
+  },
+  {
+    "questionNum": 80530,
+    "questionText": " Apple of one's eye",
+    "answerText": " An object of love"
+  },
+  {
+    "questionNum": 80531,
+    "questionText": " Apple of discord",
+    "answerText": " Cause of quarrel"
+  },
+  {
+    "questionNum": 80532,
+    "questionText": " Apple pie order",
+    "answerText": " In perfect order"
+  },
+  {
+    "questionNum": 80533,
+    "questionText": " An axe to grind",
+    "answerText": " Selfish motive"
+  },
+  {
+    "questionNum": 80534,
+    "questionText": " At one's wit's end",
+    "answerText": " To be in a confusion"
+  },
+  {
+    "questionNum": 80535,
+    "questionText": " At an arm's length",
+    "answerText": " To keep at a distance"
+  },
+  {
+    "questionNum": 80536,
+    "questionText": " To add fuel to the fire",
+    "answerText": " To increase anger"
+  },
+  {
+    "questionNum": 80537,
+    "questionText": " At a stone's throw",
+    "answerText": " Ve.zynear"
+  },
+  {
+    "questionNum": 80538,
+    "questionText": " At a loss",
+    "answerText": " To be puzzled"
+  },
+  {
+    "questionNum": 80539,
+    "questionText": " As a matter of fact",
+    "answerText": " Really"
+  },
+  {
+    "questionNum": 80540,
+    "questionText": " At all hazards",
+    "answerText": " In spite of risks"
+  },
+  {
+    "questionNum": 80541,
+    "questionText": " At hand",
+    "answerText": " Near"
+  },
+  {
+    "questionNum": 80542,
+    "questionText": " At all events",
+    "answerText": " Positively"
+  },
+  {
+    "questionNum": 80543,
+    "questionText": " At sea",
+    "answerText": " Weak"
+  },
+  {
+    "questionNum": 80544,
+    "questionText": " Afeather in the cup",
+    "answerText": " A very good achievement"
+  },
+  {
+    "questionNum": 80545,
+    "questionText": " As a rule",
+    "answerText": " Usually"
+  },
+  {
+    "questionNum": 80546,
+    "questionText": " All in all",
+    "answerText": " The most important and powerful person"
+  },
+  {
+    "questionNum": 80547,
+    "questionText": " At sixes and sevens",
+    "answerText": " In disorder"
+  },
+  {
+    "questionNum": 80548,
+    "questionText": " Man of Iron",
+    "answerText": " A man of strong will power"
+  },
+  {
+    "questionNum": 80549,
+    "questionText": " To show white feather",
+    "answerText": " To show fear"
+  },
+  {
+    "questionNum": 80550,
+    "questionText": " At the eleventh hour",
+    "answerText": " At the last moment"
+  },
+  {
+    "questionNum": 80551,
+    "questionText": " To rise like a phoenix",
+    "answerText": " To start a fresh from as low position"
+  },
+  {
+    "questionNum": 80552,
+    "questionText": " To meet one's waterloo",
+    "answerText": " To meet one's defeat"
+  },
+  {
+    "questionNum": 80553,
+    "questionText": " High and dry",
+    "answerText": " Isolated"
+  },
+  {
+    "questionNum": 80554,
+    "questionText": " To bury the hatchet",
+    "answerText": " To make peace"
+  },
+  {
+    "questionNum": 80555,
+    "questionText": " To set the Thames on fire",
+    "answerText": " Surprising things"
+  },
+  {
+    "questionNum": 80556,
+    "questionText": " To put the cat among pigeons",
+    "answerText": " To be placed in a wrong situation"
+  },
+  {
+    "questionNum": 80557,
+    "questionText": " To sound a red alert",
+    "answerText": " To make alert"
+  },
+  {
+    "questionNum": 80558,
+    "questionText": " To beat about the bush",
+    "answerText": " To talk about unimportant things"
+  },
+  {
+    "questionNum": 80559,
+    "questionText": " A boon in disguise",
+    "answerText": " A benefit in loss"
+  },
+  {
+    "questionNum": 80560,
+    "questionText": " A big shot",
+    "answerText": " Important person"
+  },
+  {
+    "questionNum": 80561,
+    "questionText": " To play ducks and drake",
+    "answerText": " To squander money"
+  },
+  {
+    "questionNum": 80562,
+    "questionText": " To break the duck",
+    "answerText": " To begin"
+  },
+  {
+    "questionNum": 80563,
+    "questionText": " To die a dog's death",
+    "answerText": " Unheroic death"
+  },
+  {
+    "questionNum": 80564,
+    "questionText": " Rise from ashes",
+    "answerText": " To rise from low"
+  },
+  {
+    "questionNum": 80565,
+    "questionText": " My hands are full",
+    "answerText": " I am busy"
+  },
+  {
+    "questionNum": 80566,
+    "questionText": " To give someone a piece of mind",
+    "answerText": " To scold"
+  },
+  {
+    "questionNum": 80567,
+    "questionText": " A bull in the china shop",
+    "answerText": " An awkward person"
+  },
+  {
+    "questionNum": 80568,
+    "questionText": " To get away with",
+    "answerText": " To escape"
+  },
+  {
+    "questionNum": 80569,
+    "questionText": " To kick one's heels",
+    "answerText": " To waste time"
+  },
+  {
+    "questionNum": 80570,
+    "questionText": " Make hay while the sun shines",
+    "answerText": " To make best use of favourable opportunities"
+  },
+  {
+    "questionNum": 80571,
+    "questionText": " To put a spoke in one's wheel",
+    "answerText": " To disturb"
+  },
+  {
+    "questionNum": 80572,
+    "questionText": " Fancy price",
+    "answerText": " High price"
+  },
+  {
+    "questionNum": 80573,
+    "questionText": " Fair-weather friends",
+    "answerText": " Friends only in good days"
+  },
+  {
+    "questionNum": 80574,
+    "questionText": " Far and wide",
+    "answerText": " All around"
+  },
+  {
+    "questionNum": 80575,
+    "questionText": " Hole and comer policy",
+    "answerText": " Improper policy"
+  },
+  {
+    "questionNum": 80576,
+    "questionText": " Cut no ice",
+    "answerText": " To make no effect"
+  },
+  {
+    "questionNum": 80577,
+    "questionText": " Hand in glove",
+    "answerText": " Close friendship"
+  },
+  {
+    "questionNum": 80578,
+    "questionText": " To work like a dog",
+    "answerText": " To work very hard"
+  },
+  {
+    "questionNum": 80579,
+    "questionText": " To keep one's fingers crossed",
+    "answerText": " Wishing good for somebody"
+  },
+  {
+    "questionNum": 80580,
+    "questionText": " To keep the wolf away from the door",
+    "answerText": " To keep off poverty from oneself"
+  },
+  {
+    "questionNum": 80581,
+    "questionText": " A red letter day.",
+    "answerText": " An important day"
+  },
+  {
+    "questionNum": 80582,
+    "questionText": " To have several irons in the fire",
+    "answerText": " To have many pieces of work"
+  },
+  {
+    "questionNum": 80583,
+    "questionText": " Pull the wool over somebody's eyes",
+    "answerText": " To deceive"
+  },
+  {
+    "questionNum": 80584,
+    "questionText": " A blue book",
+    "answerText": " A government report"
+  },
+  {
+    "questionNum": 80585,
+    "questionText": " To feather's one's nest",
+    "answerText": " To provide money even dishonestly"
+  },
+  {
+    "questionNum": 80586,
+    "questionText": " Odds and ends",
+    "answerText": " Various articles"
+  },
+  {
+    "questionNum": 80587,
+    "questionText": " A hot line",
+    "answerText": " Direct telephone line between Heads of states"
+  },
+  {
+    "questionNum": 80588,
+    "questionText": " To read between the lines",
+    "answerText": " To understand more than the actual"
+  },
+  {
+    "questionNum": 80589,
+    "questionText": " Feet of clay",
+    "answerText": " To be weak"
+  },
+  {
+    "questionNum": 80590,
+    "questionText": " A mare's nest",
+    "answerText": " A discovery which looks valuable"
+  },
+  {
+    "questionNum": 80591,
+    "questionText": " To stand one's guns",
+    "answerText": " To preserve when hardships press"
+  },
+  {
+    "questionNum": 80592,
+    "questionText": " To throw up one's nose at a thing",
+    "answerText": " Disgust"
+  },
+  {
+    "questionNum": 80593,
+    "questionText": " A lady's man",
+    "answerText": " A lover of woman's company"
+  },
+  {
+    "questionNum": 80594,
+    "questionText": " A baker's dozen",
+    "answerText": " Thirteen"
+  },
+  {
+    "questionNum": 80595,
+    "questionText": " To clinch the issue",
+    "answerText": " Decide"
+  },
+  {
+    "questionNum": 80596,
+    "questionText": " To turn the corner",
+    "answerText": " Pass the crisis"
+  },
+  {
+    "questionNum": 80597,
+    "questionText": " To rock the boat",
+    "answerText": " Upset the balance"
+  },
+  {
+    "questionNum": 80598,
+    "questionText": " To chew the cuds",
+    "answerText": " To muse on"
+  },
+  {
+    "questionNum": 80599,
+    "questionText": " A duck in a thunderstorm",
+    "answerText": " Distressed"
+  },
+  {
+    "questionNum": 80600,
+    "questionText": " A man of the world"
+  },
+  {
+    "questionNum": 80601,
+    "questionText": " Midas touch",
+    "answerText": " Ability to succeed in all projects"
+  },
+  {
+    "questionNum": 80602,
+    "questionText": " To come down in the world",
+    "answerText": " To lose one's social and financial position"
+  },
+  {
+    "questionNum": 80603,
+    "questionText": " To cut both ends",
+    "answerText": " To argue in support of both sides of the issue"
+  },
+  {
+    "questionNum": 80604,
+    "questionText": " A sleeping partner",
+    "answerText": " An inactive business partner"
+  },
+  {
+    "questionNum": 80605,
+    "questionText": " French leave",
+    "answerText": " Absence without permission"
+  },
+  {
+    "questionNum": 80606,
+    "questionText": " An arm chair job",
+    "answerText": " An easy and well paid regular job"
+  },
+  {
+    "questionNum": 80607,
+    "questionText": " Run of the mill",
+    "answerText": " Ordinary"
+  },
+  {
+    "questionNum": 80608,
+    "questionText": " Hole and corner",
+    "answerText": " Secret"
+  },
+  {
+    "questionNum": 80609,
+    "questionText": " Hammer and sickle",
+    "answerText": " Emblem of socialism"
+  },
+  {
+    "questionNum": 80610,
+    "questionText": " Meek and mild",
+    "answerText": " Gentle and mind"
+  },
+  {
+    "questionNum": 80611,
+    "questionText": " Back stairs gossip",
+    "answerText": " Gossip among servants"
+  },
+  {
+    "questionNum": 80612,
+    "questionText": " To bell the cat",
+    "answerText": " To take great personal risk"
+  },
+  {
+    "questionNum": 80613,
+    "questionText": " To bite the dust",
+    "answerText": " Tosuffer defeat"
+  },
+  {
+    "questionNum": 80614,
+    "questionText": " To be in the driving seat",
+    "answerText": " In control"
+  },
+  {
+    "questionNum": 80615,
+    "questionText": " To cross swords",
+    "answerText": " To enter into a dispute"
+  },
+  {
+    "questionNum": 80616,
+    "questionText": " To cut a sorry figure",
+    "answerText": " To create poor impression"
+  },
+  {
+    "questionNum": 80617,
+    "questionText": " To die in harness",
+    "answerText": " To die while actively engaged in one's regular work"
+  },
+  {
+    "questionNum": 80618,
+    "questionText": " To get into hot water",
+    "answerText": " To get into difficulties"
+  },
+  {
+    "questionNum": 80619,
+    "questionText": " To egg on",
+    "answerText": " To urge on"
+  },
+  {
+    "questionNum": 80620,
+    "questionText": " To drive at",
+    "answerText": " To employ"
+  },
+  {
+    "questionNum": 80621,
+    "questionText": " To go through fire and water",
+    "answerText": " To pass through difficulties"
+  },
+  {
+    "questionNum": 80622,
+    "questionText": " To go to dogs",
+    "answerText": " To be ruined"
+  },
+  {
+    "questionNum": 80623,
+    "questionText": " To hang fire",
+    "answerText": " To hesitate"
+  },
+  {
+    "questionNum": 80624,
+    "questionText": " To keep one's card close to one's chest",
+    "answerText": " Be secretive"
+  },
+  {
+    "questionNum": 80625,
+    "questionText": " To hit below the belt",
+    "answerText": " Give an unfair blow"
+  },
+  {
+    "questionNum": 80626,
+    "questionText": " To hit the jackpot",
+    "answerText": " To have a big success"
+  },
+  {
+    "questionNum": 80627,
+    "questionText": " To jump to a conclusion",
+    "answerText": " To arrive on a conclusion without justification"
+  },
+  {
+    "questionNum": 80628,
+    "questionText": " To keep the ball rolling",
+    "answerText": " To maintain progress"
+  },
+  {
+    "questionNum": 80629,
+    "questionText": " To let oneself go",
+    "answerText": " To allow emotionally"
+  },
+  {
+    "questionNum": 80630,
+    "questionText": " To lead a cat and dog's life",
+    "answerText": " To quarrel constantly"
+  },
+  {
+    "questionNum": 80631,
+    "questionText": " To knock the bottom out of",
+    "answerText": " To make a scheme"
+  },
+  {
+    "questionNum": 80632,
+    "questionText": " To make good",
+    "answerText": " To repair"
+  },
+  {
+    "questionNum": 80633,
+    "questionText": " To miss the bus/boat",
+    "answerText": " To lose an opportunity"
+  },
+  {
+    "questionNum": 80634,
+    "questionText": " To make one's blood cold",
+    "answerText": " To frighten"
+  },
+  {
+    "questionNum": 80635,
+    "questionText": " To make both ends meet",
+    "answerText": " To live within one's income"
+  },
+  {
+    "questionNum": 80636,
+    "questionText": " To make a mountain out of a mole hill",
+    "answerText": " To exaggerate a small matter"
+  },
+  {
+    "questionNum": 80637,
+    "questionText": " To look through coloured glasses",
+    "answerText": " To see things not as they are"
+  },
+  {
+    "questionNum": 80638,
+    "questionText": " To look off colours",
+    "answerText": " Seem unwell"
+  },
+  {
+    "questionNum": 80639,
+    "questionText": " To look black at somebody",
+    "answerText": " Look at him angrily"
+  },
+  {
+    "questionNum": 80640,
+    "questionText": " To kick up a row",
+    "answerText": " To create a disturbance"
+  },
+  {
+    "questionNum": 80641,
+    "questionText": " By far",
+    "answerText": " Beyond all comparison"
+  },
+  {
+    "questionNum": 80642,
+    "questionText": " To bear a grudge",
+    "answerText": " To have better feeling"
+  },
+  {
+    "questionNum": 80643,
+    "questionText": " By dint of",
+    "answerText": " By means of"
+  },
+  {
+    "questionNum": 80644,
+    "questionText": " By no means",
+    "answerText": " In no way"
+  },
+  {
+    "questionNum": 80645,
+    "questionText": " By virtue of",
+    "answerText": " On account of"
+  },
+  {
+    "questionNum": 80646,
+    "questionText": " By all means",
+    "answerText": " Certainly"
+  },
+  {
+    "questionNum": 80647,
+    "questionText": " Bag and baggage",
+    "answerText": " Completely"
+  },
+  {
+    "questionNum": 80648,
+    "questionText": " To blow one's own trumpet",
+    "answerText": " To speak proudly of oneself"
+  },
+  {
+    "questionNum": 80649,
+    "questionText": " Back out",
+    "answerText": " To break a promise"
+  },
+  {
+    "questionNum": 80650,
+    "questionText": " Bad blood",
+    "answerText": " Enmity"
+  },
+  {
+    "questionNum": 80651,
+    "questionText": " Blue blood",
+    "answerText": " Noble blood"
+  },
+  {
+    "questionNum": 80652,
+    "questionText": " To break the ice",
+    "answerText": " To break the silence"
+  },
+  {
+    "questionNum": 80653,
+    "questionText": " By leaps and bounds",
+    "answerText": " Rapidly"
+  },
+  {
+    "questionNum": 80654,
+    "questionText": " To bum the candle at both ends"
+  },
+  {
+    "questionNum": 80655,
+    "questionText": " By hook or by crook",
+    "answerText": " By all means"
+  },
+  {
+    "questionNum": 80656,
+    "questionText": " To burn the midnight oil",
+    "answerText": " To work very hard till1ateatnight"
+  },
+  {
+    "questionNum": 80657,
+    "questionText": " Below one's dignity",
+    "answerText": " Below one's position"
+  },
+  {
+    "questionNum": 80658,
+    "questionText": " Beside the mark",
+    "answerText": " Not to the point"
+  },
+  {
+    "questionNum": 80659,
+    "questionText": " A brown study",
+    "answerText": " Dreaming"
+  },
+  {
+    "questionNum": 80660,
+    "questionText": " A burning question",
+    "answerText": " An important question"
+  },
+  {
+    "questionNum": 80661,
+    "questionText": " A black sheep",
+    "answerText": " A disgraceful person"
+  },
+  {
+    "questionNum": 80662,
+    "questionText": " A broken reed",
+    "answerText": " An independent person/thing"
+  },
+  {
+    "questionNum": 80663,
+    "questionText": " A bird's eye view",
+    "answerText": " A general study/view"
+  },
+  {
+    "questionNum": 80664,
+    "questionText": " 153. To carry the day",
+    "answerText": " To succeed"
+  },
+  {
+    "questionNum": 80665,
+    "questionText": " 154. To beggar description",
+    "answerText": " Beyond description"
+  },
+  {
+    "questionNum": 80666,
+    "questionText": " 155. Birds of a feather",
+    "answerText": " Persons having the same professions"
+  },
+  {
+    "questionNum": 80667,
+    "questionText": " 156. To beat hollow",
+    "answerText": " To defeat completely"
+  },
+  {
+    "questionNum": 80668,
+    "questionText": " 157. To bear the brunt of",
+    "answerText": " To bear the consequences"
+  },
+  {
+    "questionNum": 80669,
+    "questionText": " 150. A bed of thorns",
+    "answerText": " Full of sufferings and sorrows"
+  },
+  {
+    "questionNum": 80670,
+    "questionText": " 159. A bed of roses",
+    "answerText": " Full of joy and pleasures"
+  },
+  {
+    "questionNum": 80671,
+    "questionText": " Between the devil and the deep sea",
+    "answerText": " Between two great difficulties"
+  },
+  {
+    "questionNum": 80672,
+    "questionText": " To the backbone",
+    "answerText": " Thoroughly"
+  },
+  {
+    "questionNum": 80673,
+    "questionText": " 162. A bird of passage",
+    "answerText": " A migratory person"
+  },
+  {
+    "questionNum": 80674,
+    "questionText": " 163. To build castles in the air",
+    "answerText": " To form imaginary schemes"
+  },
+  {
+    "questionNum": 80675,
+    "questionText": " 164. Bread and butter",
+    "answerText": " Livelihood"
+  },
+  {
+    "questionNum": 80676,
+    "questionText": " 165. To come to hand",
+    "answerText": " Receive"
+  },
+  {
+    "questionNum": 80677,
+    "questionText": " 166. A eat's paw",
+    "answerText": " To make somebody a fool"
+  },
+  {
+    "questionNum": 80678,
+    "questionText": " 167. A cock and bull story",
+    "answerText": " An imaginary story"
+  },
+  {
+    "questionNum": 80679,
+    "questionText": " 16R. To burn one's fingers",
+    "answerText": " To get into trouble"
+  },
+  {
+    "questionNum": 80680,
+    "questionText": " പ്ളവന തത്വം ആവിഷ്കരിച്ചത്? ",
+    "answerText": " ആർക്കമിഡീസ് "
+  },
+  {
+    "questionNum": 80681,
+    "questionText": " ധാരം എന്ന സ്ഥിര ബിന്ദുവിനെ ആധാരമാക്കി യഥേഷ്ടം തിരിയാൻ കഴിവുള്ള ഒരു ദൃഢദണ്ഡാണ്? ",
+    "answerText": " ഉത്തോലകം "
+  },
+  {
+    "questionNum": 80682,
+    "questionText": " രണ്ടാം വർഗ ഉത്തോലകത്തിന് ഉദാഹരണം? ",
+    "answerText": " വീൽചെയർ, പാക്കുവെട്ടി, നാരങ്ങാ ഞെക്കി "
+  },
+  {
+    "questionNum": 80683,
+    "questionText": " 169. To burn one's boats",
+    "answerText": " To decide"
+  },
+  {
+    "questionNum": 80684,
+    "questionText": " 170. A cool head",
+    "answerText": " A calm judgement"
+  },
+  {
+    "questionNum": 80685,
+    "questionText": " 171. To cry for the moon",
+    "answerText": " To wish for something impossible"
+  },
+  {
+    "questionNum": 80686,
+    "questionText": " കണികാസിദ്ധാന്തം ? ",
+    "answerText": " ഐസക് ന്യൂട്ടൺ "
+  },
+  {
+    "questionNum": 80687,
+    "questionText": " 172. To catch red-handed",
+    "answerText": " To catch in the act of doing"
+  },
+  {
+    "questionNum": 80688,
+    "questionText": " 173. To come to grief",
+    "answerText": " To be ruined/to fail"
+  },
+  {
+    "questionNum": 80689,
+    "questionText": " ആപേക്ഷിക സിദ്ധാന്തം? ",
+    "answerText": " ആൽബർട്ട് ഐൻസ്റ്റീൻ "
+  },
+  {
+    "questionNum": 80690,
+    "questionText": " സച്ചിൻ ടെൻഡുൽക്കറുടെ അവസാന ടെസ്റ്റിലെ എതിരാളി? ",
+    "answerText": " വെസ്റ്റ് ഇൻഡീസ് "
+  },
+  {
+    "questionNum": 80691,
+    "questionText": " ഏകദിന ക്രിക്കറ്റിലെ ഏറ്റവും ഉയർന്ന സ്കോറിനുടമ? ",
+    "answerText": " രോഹിത് ശർമ്മ "
+  },
+  {
+    "questionNum": 80692,
+    "questionText": " ഫീമറിന്റെ ശരാശരി നീളം? ",
+    "answerText": " 50 cm"
+  },
+  {
+    "questionNum": 80693,
+    "questionText": " കഴുത്തിലെ അസ്ഥി? ",
+    "answerText": " അറ്റ്‌ലസ് "
+  },
+  {
+    "questionNum": 80694,
+    "questionText": " കാലിലെ അസ്ഥികൾ? ",
+    "answerText": " ടിബിയ, ഫിബുല "
+  },
+  {
+    "questionNum": 80695,
+    "questionText": " തലയോട്ടിയിൽ മൊത്തം അസ്ഥികൾ? ",
+    "answerText": 22
+  },
+  {
+    "questionNum": 80696,
+    "questionText": " 174. To cut a sorry figure",
+    "answerText": " To produce a poor result"
+  },
+  {
+    "questionNum": 80697,
+    "questionText": " 17;. Crocodile tears",
+    "answerText": " False tears"
+  },
+  {
+    "questionNum": 80698,
+    "questionText": " 176. A child's play",
+    "answerText": " Something very easy"
+  },
+  {
+    "questionNum": 80699,
+    "questionText": " ഉപഗ്രഹങ്ങളില്ലാത്ത രണ്ട് ഗ്രഹങ്ങൾ? ",
+    "answerText": " ബുധൻ, ശുക്രൻ "
+  },
+  {
+    "questionNum": 80700,
+    "questionText": " 177. To come of age",
+    "answerText": " To be major"
+  },
+  {
+    "questionNum": 80701,
+    "questionText": " 178. To carry fire and sword",
+    "answerText": " To cause destruction"
+  },
+  {
+    "questionNum": 80702,
+    "questionText": " 179. To cry over spilt milk",
+    "answerText": " To reach a crisis"
+  },
+  {
+    "questionNum": 80703,
+    "questionText": " 180. To change hands",
+    "answerText": " To pass from one person to another"
+  },
+  {
+    "questionNum": 80704,
+    "questionText": " I8I. To come to a head",
+    "answerText": " To reach a crisis"
+  },
+  {
+    "questionNum": 80705,
+    "questionText": " 182. To cross swords",
+    "answerText": " To fight"
+  },
+  {
+    "questionNum": 80706,
+    "questionText": " I83. To clinch the issue",
+    "answerText": " To decide the matter"
+  },
+  {
+    "questionNum": 80707,
+    "questionText": " 184. To chew the cud",
+    "answerText": " To think deeply"
+  },
+  {
+    "questionNum": 80708,
+    "questionText": " സസ്യചലനങ്ങൾ രേഖപ്പെടുത്തുന്ന ഉപകരണമാണ്? ",
+    "answerText": " ക്രെസ്കോഗ്രാഫ് "
+  },
+  {
+    "questionNum": 80709,
+    "questionText": " A cry in the wilderness",
+    "answerText": " A useless cry"
+  },
+  {
+    "questionNum": 80710,
+    "questionText": " രാസവസ്തുക്കളുടെ സ്വാധീനത്താൽ വളരാനുള്ള ചെടികളുടെ പ്രവണത? ",
+    "answerText": " കീമോട്രോപ്പിസം "
+  },
+  {
+    "questionNum": 80711,
+    "questionText": " Cast down",
+    "answerText": " Depressed"
+  },
+  {
+    "questionNum": 80712,
+    "questionText": " To feather one's nest",
+    "answerText": " To care for one's selfish interest"
+  },
+  {
+    "questionNum": 80713,
+    "questionText": " ടെലസ്‌കോപ്പിന്റെ സഹായത്താൽ കണ്ടെത്തിയ ആദ്യ ഗ്രഹം? ",
+    "answerText": " യുറാനസ് "
+  },
+  {
+    "questionNum": 80714,
+    "questionText": " By fits and starts",
+    "answerText": " Irregularly"
+  },
+  {
+    "questionNum": 80715,
+    "questionText": " വലിയ കറുത്ത പൊട്ട് കാണപ്പെടുന്ന ഗ്രഹം? ",
+    "answerText": " നെപ്ട്യൂൺ "
+  },
+  {
+    "questionNum": 80716,
+    "questionText": " സ്വാതന്ത്ര്യം, സമത്വം, സാഹോദര്യം എന്നീ പേരുകളുള്ള വലയങ്ങളുള്ള ഗ്രഹം? ",
+    "answerText": " നെപ്ട്യൂൺ "
+  },
+  {
+    "questionNum": 80717,
+    "questionText": " A dead letter",
+    "answerText": " No longer in use"
+  },
+  {
+    "questionNum": 80718,
+    "questionText": " A dark horse",
+    "answerText": " A competition of unknown capabilities"
+  },
+  {
+    "questionNum": 80719,
+    "questionText": " റബർ ഖരീഭവിക്കാൻ ചേർക്കുന്ന ആസിഡ്? ",
+    "answerText": " ഫോർമിക് ആസിഡ് "
+  },
+  {
+    "questionNum": 80720,
+    "questionText": " മണ്ണെണ്ണയിൽ സൂക്ഷിക്കുന്ന മൂലകങ്ങൾ? ",
+    "answerText": " സോഡിയം, പൊട്ടാസ്യം "
+  },
+  {
+    "questionNum": 80721,
+    "questionText": " To dance to one's tune",
+    "answerText": " To carry out orders"
+  },
+  {
+    "questionNum": 80722,
+    "questionText": " സോഫ്ട് ഡ്രിങ്ക്‌സിൽ പതഞ്ഞുപൊങ്ങാനായി ചേർക്കുന്നത്? ",
+    "answerText": " ഫോസ്‌ഫോറിക് ആസിഡ് "
+  },
+  {
+    "questionNum": 80723,
+    "questionText": " കോപ്പറിന്റെ ശത്രു എന്നറിയപ്പെടുന്ന മൂലകം? ",
+    "answerText": " സൾഫർ "
+  },
+  {
+    "questionNum": 80724,
+    "questionText": " Sword of Damocles",
+    "answerText": " Imminent danger"
+  },
+  {
+    "questionNum": 80725,
+    "questionText": " A drug in the market",
+    "answerText": " An unsaleable thing due to lack of demand"
+  },
+  {
+    "questionNum": 80726,
+    "questionText": " Every inch",
+    "answerText": " Completely"
+  },
+  {
+    "questionNum": 80727,
+    "questionText": " ജലത്തിൽ ലയിക്കുന്ന വിറ്റാമിനുകൾ? ",
+    "answerText": " വൈറ്റമിൻ സി, ബി "
+  },
+  {
+    "questionNum": 80728,
+    "questionText": " കൃത്രിമമായി നിർമ്മിക്കപ്പെട്ട ആദ്യജീവകം? ",
+    "answerText": " വൈറ്റമിൻ സി "
+  },
+  {
+    "questionNum": 80729,
+    "questionText": " A fair weather friend",
+    "answerText": " A selfish friend"
+  },
+  {
+    "questionNum": 80730,
+    "questionText": " Eye for eye",
+    "answerText": " Tit for tat"
+  },
+  {
+    "questionNum": 80731,
+    "questionText": " ആഹാര പദാർത്ഥങ്ങൾ ചൂടാക്കുമ്പോൾ നഷ്ടപ്പെടുന്ന വൈറ്റമിൻ? ",
+    "answerText": " ജീവകം സി "
+  },
+  {
+    "questionNum": 80732,
+    "questionText": " A drawn game",
+    "answerText": " In which no team wins"
+  },
+  {
+    "questionNum": 80733,
+    "questionText": " Cat walk disease എന്നും അറിയപ്പെടുന്ന രോഗം? ",
+    "answerText": " മാർജാര നൃത്ത രോഗം "
+  },
+  {
+    "questionNum": 80734,
+    "questionText": " മെർക്കുറിയുടെ ലോഹസങ്കരങ്ങൾ അറിയപ്പെടുന്നത്? ",
+    "answerText": " അമാൽഗങ്ങൾ "
+  },
+  {
+    "questionNum": 80735,
+    "questionText": " കണ്ണാടിയിൽ പൂശുന്ന മെർക്കുറി സംയുക്തം? ",
+    "answerText": " ടിൻ അമാൽഗം "
+  },
+  {
+    "questionNum": 80736,
+    "questionText": " വിഡ്ഢികളുടെ സ്വർണം? ",
+    "answerText": " അയൺ പൈറൈറ്റീസ് "
+  },
+  {
+    "questionNum": 80737,
+    "questionText": " വെളുത്ത സ്വർണം ? ",
+    "answerText": " പ്ളാറ്റിനം "
+  },
+  {
+    "questionNum": 80738,
+    "questionText": " വിഷങ്ങളുടെ രാജാവ്? ",
+    "answerText": " ആർസെനിക് "
+  },
+  {
+    "questionNum": 80739,
+    "questionText": " തക്കാളി പഴുക്കുമ്പോൾ ചുവപ്പു നിറം നൽകുന്ന വർണ വസ്തു? ",
+    "answerText": " ലൈക്കോപ്പിൻ "
+  },
+  {
+    "questionNum": 80740,
+    "questionText": " From hand to mouth",
+    "answerText": " A miserable existence"
+  },
+  {
+    "questionNum": 80741,
+    "questionText": " Fed up",
+    "answerText": " To be tired of"
+  },
+  {
+    "questionNum": 80742,
+    "questionText": " A fish out of water",
+    "answerText": " To be in an uncomfortable position"
+  },
+  {
+    "questionNum": 80743,
+    "questionText": " A fool's paradise",
+    "answerText": " Joy based on false hopes"
+  },
+  {
+    "questionNum": 80744,
+    "questionText": " To face the music",
+    "answerText": " To face trouble"
+  },
+  {
+    "questionNum": 80745,
+    "questionText": " To fish in troubled waters",
+    "answerText": " To take advantage of the troubles of others"
+  },
+  {
+    "questionNum": 80746,
+    "questionText": " To give a slip",
+    "answerText": " To escape"
+  },
+  {
+    "questionNum": 80747,
+    "questionText": " First and foremost",
+    "answerText": " Important"
+  },
+  {
+    "questionNum": 80748,
+    "questionText": " A fly visit",
+    "answerText": " Hasty and brief visit"
+  },
+  {
+    "questionNum": 80749,
+    "questionText": " Foul play",
+    "answerText": " Bad intention"
+  },
+  {
+    "questionNum": 80750,
+    "questionText": " A fatal disease",
+    "answerText": " A disease that causes death"
+  },
+  {
+    "questionNum": 80751,
+    "questionText": " A gala day",
+    "answerText": " A day of rejoicings"
+  },
+  {
+    "questionNum": 80752,
+    "questionText": " To get the sack",
+    "answerText": " To be dismissed"
+  },
+  {
+    "questionNum": 80753,
+    "questionText": " Togo without saying",
+    "answerText": " To be clear"
+  },
+  {
+    "questionNum": 80754,
+    "questionText": " To go a long way",
+    "answerText": " A great help"
+  },
+  {
+    "questionNum": 80755,
+    "questionText": " Give and take",
+    "answerText": " Mutual co-operation"
+  },
+  {
+    "questionNum": 80756,
+    "questionText": " Togo through fire and water",
+    "answerText": " To make sacrifice"
+  },
+  {
+    "questionNum": 80757,
+    "questionText": " To grease the palm",
+    "answerText": " To bribe"
+  },
+  {
+    "questionNum": 80758,
+    "questionText": " To go hand to hand",
+    "answerText": " To go together"
+  },
+  {
+    "questionNum": 80759,
+    "questionText": " അടഒഅയുടെ പൂർണ രൂപം? ",
+    "answerText": " അക്രെഡിറ്റഡ് സോഷ്യൽ ഹെൽത്ത് ആക്ടിവിസ്റ്റ് "
+  },
+  {
+    "questionNum": 80760,
+    "questionText": " To gain ground",
+    "answerText": " To progress"
+  },
+  {
+    "questionNum": 80761,
+    "questionText": " To be a good hand at",
+    "answerText": " To be expert"
+  },
+  {
+    "questionNum": 80762,
+    "questionText": " Hand to hand",
+    "answerText": " A close fight"
+  },
+  {
+    "questionNum": 80763,
+    "questionText": " Hide and seek",
+    "answerText": " To deceive"
+  },
+  {
+    "questionNum": 80764,
+    "questionText": " Heart to heart",
+    "answerText": " Free and frank"
+  },
+  {
+    "questionNum": 80765,
+    "questionText": " High spirits",
+    "answerText": " To be very happy"
+  },
+  {
+    "questionNum": 80766,
+    "questionText": " Half hearted",
+    "answerText": " Lacking enthusiasm"
+  },
+  {
+    "questionNum": 80767,
+    "questionText": " ഇന്ത്യയിലെ ആദ്യ ഐ.ടി. തൊഴിൽ സംഘടന? ",
+    "answerText": " ഐ.ടി.എസ്.എ "
+  },
+  {
+    "questionNum": 80768,
+    "questionText": " The high and the low",
+    "answerText": " Of all ranks"
+  },
+  {
+    "questionNum": 80769,
+    "questionText": " Hammer and tongs",
+    "answerText": " With all one's might"
+  },
+  {
+    "questionNum": 80770,
+    "questionText": " Hale and hearty",
+    "answerText": " Very healthy end sound"
+  },
+  {
+    "questionNum": 80771,
+    "questionText": " Hue and cry",
+    "answerText": " To raise alarm"
+  },
+  {
+    "questionNum": 80772,
+    "questionText": " A hard nut to crack",
+    "answerText": " A problem difficult to solve"
+  },
+  {
+    "questionNum": 80773,
+    "questionText": " ഇൻഡോ തിബറ്റൻ ബോർഡർ പൊലീസ് സ്ഥാപിതമായത്? ",
+    "answerText": " 1962 ഒക്ടോബർ 24 "
+  },
+  {
+    "questionNum": 80774,
+    "questionText": " Heart and soul",
+    "answerText": " With full energy"
+  },
+  {
+    "questionNum": 80775,
+    "questionText": " To hammer out",
+    "answerText": " To plan"
+  },
+  {
+    "questionNum": 80776,
+    "questionText": " To have a hand in",
+    "answerText": " To take part"
+  },
+  {
+    "questionNum": 80777,
+    "questionText": " To have clean hands",
+    "answerText": " To be innocent"
+  },
+  {
+    "questionNum": 80778,
+    "questionText": " 236. To hit the nail on the head",
+    "answerText": " To do what is proper at a proper time"
+  },
+  {
+    "questionNum": 80779,
+    "questionText": " 237. Hen-pecked",
+    "answerText": " A husband under the control of his wife"
+  },
+  {
+    "questionNum": 80780,
+    "questionText": " ഖനി വ്യവസായങ്ങൾക്ക് പ്രാധാന്യം നൽകിയ പദ്ധതി? ",
+    "answerText": " രണ്ടാം പദ്ധതി "
+  },
+  {
+    "questionNum": 80781,
+    "questionText": " അക്ബർ ജനിച്ചത് ? ",
+    "answerText": " 1542ൽ അമർക്കോട്ടിൽ "
+  },
+  {
+    "questionNum": 80782,
+    "questionText": " 238. To have a windfall",
+    "answerText": " An unexpected good fortune"
+  },
+  {
+    "questionNum": 80783,
+    "questionText": " 239. Hush money",
+    "answerText": " A bribe"
+  },
+  {
+    "questionNum": 80784,
+    "questionText": " 240. Head and shoulders",
+    "answerText": " Very superior"
+  },
+  {
+    "questionNum": 80785,
+    "questionText": " ജസിയ എന്ന നികുതി പിൻവലിച്ചത്? ",
+    "answerText": " അക്‌ബർ "
+  },
+  {
+    "questionNum": 80786,
+    "questionText": " 241. To have finger in the pie",
+    "answerText": " To interfere"
+  },
+  {
+    "questionNum": 80787,
+    "questionText": " അക്‌ബറുടെ ശവകുടീരം? ",
+    "answerText": " സിക്കന്ദ്ര "
+  },
+  {
+    "questionNum": 80788,
+    "questionText": " 242. Head and ears",
+    "answerText": " Completely"
+  },
+  {
+    "questionNum": 80789,
+    "questionText": " അക്ബറുടെ സദസ്യരിൽ പ്രധാനികളായിരുന്ന സഹോദരന്മാർ? ",
+    "answerText": " അബുൾ ഫസലും അബുൾ ഫൈസിയും "
+  },
+  {
+    "questionNum": 80790,
+    "questionText": " 243. Hand and glove with",
+    "answerText": " Very friendly"
+  },
+  {
+    "questionNum": 80791,
+    "questionText": " സജീവ അഗ്നിപർവതങ്ങൾക്ക് ഉദാഹരണങ്ങളാണ്? ",
+    "answerText": " ക്വാട്ടോപാക്സി,ഫ്യൂജിയാമ "
+  },
+  {
+    "questionNum": 80792,
+    "questionText": " 244. Hard and fast",
+    "answerText": " Rigid"
+  },
+  {
+    "questionNum": 80793,
+    "questionText": " അഗ്നിപർവതങ്ങളുടെ നാട് എന്ന് അറിയപ്പെടുന്നത്? ",
+    "answerText": " ജപ്പാൻ "
+  },
+  {
+    "questionNum": 80794,
+    "questionText": " 245. To hold one's own",
+    "answerText": " To maintain one's position boldly"
+  },
+  {
+    "questionNum": 80795,
+    "questionText": " 246. To have one's way",
+    "answerText": " To do one's own will"
+  },
+  {
+    "questionNum": 80796,
+    "questionText": " 247. Hobson's choice",
+    "answerText": " No choice at all"
+  },
+  {
+    "questionNum": 80797,
+    "questionText": " ഇന്ത്യൻ രാഷ്ട്രീയത്തിലെ ചാണക്യൻ എന്നറിയപ്പെടുന്ന പ്രധാനമന്ത്രി? ",
+    "answerText": " പി.വി. നരസിംഹറാവു "
+  },
+  {
+    "questionNum": 80798,
+    "questionText": " ഭൂരിപക്ഷമില്ലാതിരുന്നിട്ടും കാലാവധി പൂർത്തിയാക്കിയ പ്രധാനമന്ത്രി? ",
+    "answerText": " പി.വി. നരസിംഹറാവു "
+  },
+  {
+    "questionNum": 80799,
+    "questionText": " പ്രധാനമന്ത്രി പദവിയിലെത്തിയ ആദ്യ ഇന്ത്യൻ വനിത? ",
+    "answerText": " ഇന്ദിരാഗാന്ധി "
+  },
+  {
+    "questionNum": 80800,
+    "questionText": " ഗരീബി ഹഠാവോ എന്ന മുദ്രാവാക്യം ആരുടേതാണ്? ",
+    "answerText": " ഇന്ദിരാഗാന്ധി "
+  },
+  {
+    "questionNum": 80801,
+    "questionText": " 248. To hold one's tongue",
+    "answerText": " To keep silence"
+  },
+  {
+    "questionNum": 80802,
+    "questionText": " പ്രധാനമന്ത്രിയായ ശേഷം പ്രതിപക്ഷ നേതാവായ വ്യക്തി? ",
+    "answerText": " രാജീവ്‌ഗാന്ധി "
+  },
+  {
+    "questionNum": 80803,
+    "questionText": " 249. In the long run",
+    "answerText": " In the end"
+  },
+  {
+    "questionNum": 80804,
+    "questionText": " 250. In a nutshell",
+    "answerText": " Briefly"
+  },
+  {
+    "questionNum": 80805,
+    "questionText": " 251. An iron hand",
+    "answerText": " Severe hand"
+  },
+  {
+    "questionNum": 80806,
+    "questionText": " ഒന്നാം സ്വാതന്ത്ര്യ സമരത്തിലെ ആദ്യ രക്തസാക്ഷി? ",
+    "answerText": " മംഗൾ പാണ്ഡെ "
+  },
+  {
+    "questionNum": 80807,
+    "questionText": " 1857ലെ വിപ്ളവത്തിന് ഡൽഹിയിൽ നേതൃത്വം നൽകിയത്? ",
+    "answerText": " ഭക്ത്‌ഖാൻ "
+  },
+  {
+    "questionNum": 80808,
+    "questionText": " ലക്‌നൗവിൽ നേതൃത്വം നൽകിയത്? ",
+    "answerText": " ബീഗം ഹസറത്ത് മഹൽ "
+  },
+  {
+    "questionNum": 80809,
+    "questionText": " വിപ്ളവകാരികളുടെ സമുന്നത ധീര നേതാവ് എന്ന് സർ ഹ്യൂഗ്‌റോസ് വിശേഷിപ്പിച്ചതാരെ? ",
+    "answerText": " റാണിലക്ഷ്മി ഭായ് "
+  },
+  {
+    "questionNum": 80810,
+    "questionText": " 1857ലെ വിപ്ളവത്തെ ശിപായി ലഹള എന്നു വിശേഷിപ്പിച്ചത്? ",
+    "answerText": " ജോൺ ലോറൻസ്, സിലി "
+  },
+  {
+    "questionNum": 80811,
+    "questionText": " 252. In the nick of time",
+    "answerText": " Justin time"
+  },
+  {
+    "questionNum": 80812,
+    "questionText": " 1954ലെ ഇന്ത്യയും ചൈനയും തമ്മിലുള്ള ധാരണയാണ്? ",
+    "answerText": " പഞ്ചശീലതത്വങ്ങൾ "
+  },
+  {
+    "questionNum": 80813,
+    "questionText": " നാട്ടുരാജ്യങ്ങളുടെ സംയോജനത്തിന് നേതൃത്വം നൽകിയത്? ",
+    "answerText": " സർദാർ വല്ലഭായി പട്ടേൽ "
+  },
+  {
+    "questionNum": 80814,
+    "questionText": " ഇന്ത്യയ്ക്കു സ്വാതന്ത്ര്യം ലഭക്കുമ്പോൾ ഇന്ത്യൻ യൂണിയനിൽ ലയിക്കാൻ വിസമ്മതിച്ച നാട്ടുരാജ്യങ്ങൾ? ",
+    "answerText": " ഹൈദരാബാദ്, ജുനഗഡ്,കാശ്മീർ "
+  },
+  {
+    "questionNum": 80815,
+    "questionText": " 1947 ഒക്ടോബർ 26ന് കാശ്മീരിനെ ഇന്ത്യൻ യൂണിയനിൽ ലയിപ്പിക്കാൻ തീരുമാനിച്ച ജമ്മുവിലെ ഭരണാധികാരി? ",
+    "answerText": " മഹാരാജാ ഹരിസങ് "
+  },
+  {
+    "questionNum": 80816,
+    "questionText": " 253. To be in vogue",
+    "answerText": " To be in fashion"
+  },
+  {
+    "questionNum": 80817,
+    "questionText": " ഗോവയുടെ വിമോചകൻ എന്നറിയപ്പെടുന്ന മലയളി? ",
+    "answerText": " കെ. പി. കണ്ടത്ത് "
+  },
+  {
+    "questionNum": 80818,
+    "questionText": " 254. In the air",
+    "answerText": " Widespread"
+  },
+  {
+    "questionNum": 80819,
+    "questionText": " സ്വതന്ത്ര ഭാരതത്തിൽ ആദ്യമായി നിയമിച്ച ഉന്നത വിദ്യാഭ്യാസ കമ്മിഷന്റെ ചെയർമാൻ? ",
+    "answerText": " ഡോ. എസ്. രാധാകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 80820,
+    "questionText": " യു.ജി.സിയുടെ ആദ്യ ചെയർമാൻ? ",
+    "answerText": " ശാന്തിസ്വരൂപ് ഭട്‌നഗർ "
+  },
+  {
+    "questionNum": 80821,
+    "questionText": " 10 + 2 + 3 എന്ന വിദ്യാഭ്യാസ നയത്തെക്കുറിച്ച് പഠിക്കാൻ നിയമിച്ച കമ്മിഷൻ? ",
+    "answerText": " കോത്താരി കമ്മിഷൻ "
+  },
+  {
+    "questionNum": 80822,
+    "questionText": " പൂച്ചയുടെ ശാസ്ത്രീയ നാമമാണ്? ",
+    "answerText": " ഫെലിസ് ഡൊമസ്റ്റിക്ക "
+  },
+  {
+    "questionNum": 80823,
+    "questionText": " പൂച്ചകളെ ആരാധിച്ചിരുന്ന വിഭാഗം? ",
+    "answerText": " ഈജിപ്തുകാർ "
+  },
+  {
+    "questionNum": 80824,
+    "questionText": " സിംഹത്തിന്റെ ശാസ്ത്രീയ നാമം? ",
+    "answerText": " പാൻതെറ ലിയോ "
+  },
+  {
+    "questionNum": 80825,
+    "questionText": " 255. In black and white",
+    "answerText": " In writing"
+  },
+  {
+    "questionNum": 80826,
+    "questionText": " വെളുത്ത സിംഹങ്ങളെ കാണുന്നത് എവിടെയാണ്? ",
+    "answerText": " ആഫ്രിക്കയിലെ കുർഗർ നാഷണൽ പാർക്ക് "
+  },
+  {
+    "questionNum": 80827,
+    "questionText": " പ്രൊജക്ട് ടൈഗർ ആരംഭിച്ചത് ? ",
+    "answerText": 1973
+  },
+  {
+    "questionNum": 80828,
+    "questionText": " ആൺസിംഹത്തിന് പെൺകടുവയിലുണ്ടാകുന്ന കുട്ടിയാണ്? ",
+    "answerText": " ലൈഗർ "
+  },
+  {
+    "questionNum": 80829,
+    "questionText": " മികച്ച സംവിധായകനുള്ള ദേശീയ അവാർഡ് ഏറ്റവും അധികം തവണ നേടിയ മലയാളി? ",
+    "answerText": " അടൂർ ഗോപാലകൃഷ്ണൻ "
+  },
+  {
+    "questionNum": 80830,
+    "questionText": " അടൂരിന് ഫാൽക്കേ അവാർഡ് ലഭിച്ചത്? ",
+    "answerText": 2004
+  },
+  {
+    "questionNum": 80831,
+    "questionText": " അടൂരിന്റെ പ്രധാന ചിത്രങ്ങളാണ്? ",
+    "answerText": " എലിപ്പത്തായം, കൊടിയേറ്റം, മതിലുകൾ, വിധേയൻ, അനന്തരം, കഥാപുരുഷൻ, മുഖാമുഖം "
+  },
+  {
+    "questionNum": 80832,
+    "questionText": " 256. In cold blood",
+    "answerText": " Cruelty"
+  },
+  {
+    "questionNum": 80833,
+    "questionText": " മികച്ച സംവിധായകനുള്ള ദേശീയ അവാർഡ് നേടിയ മലയാളി? ",
+    "answerText": " ജി. അരവിന്ദൻ "
+  },
+  {
+    "questionNum": 80834,
+    "questionText": " 257. Ins and outs",
+    "answerText": " Full details"
+  },
+  {
+    "questionNum": 80835,
+    "questionText": " 258. In the course of",
+    "answerText": " During"
+  },
+  {
+    "questionNum": 80836,
+    "questionText": " ബാങ്കേഴ്സ് ബാങ്ക് എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " ആർ.ബി.ഐ "
+  },
+  {
+    "questionNum": 80837,
+    "questionText": " അന്താരാഷ്ട്ര നാണയനിധിയിൽ ഇന്ത്യയെ പ്രതിനിധാനം ചെയ്യുന്നത്? ",
+    "answerText": " റിസർവ് ബാങ്ക് "
+  },
+  {
+    "questionNum": 80838,
+    "questionText": " ഇന്ത്യക്കാരനായ ആദ്യ ഗവർണർ? ",
+    "answerText": " സർ സി.ഡി. ദേശ്‌മുഖ് "
+  },
+  {
+    "questionNum": 80839,
+    "questionText": " 259. In hot water",
+    "answerText": " In difficulty"
+  },
+  {
+    "questionNum": 80840,
+    "questionText": " ഇന്ത്യയിലെ ഏറ്റവും വലിയ രണ്ടാമത്തെ വാണിജ്യ ബാങ്ക്? ",
+    "answerText": " ഐ.സി.ഐ.സി.ഐ ബാങ്ക് "
+  },
+  {
+    "questionNum": 80841,
+    "questionText": " നൊബേൽ സമ്മാനം നൽകിത്തുടങ്ങിയത്? ",
+    "answerText": 1901
+  },
+  {
+    "questionNum": 80842,
+    "questionText": " 26,1 Jack of all trades",
+    "answerText": " A person supposed to know everything but master of none"
+  },
+  {
+    "questionNum": 80843,
+    "questionText": " 261. A jail bird",
+    "answerText": " A person who has been to jail many times"
+  },
+  {
+    "questionNum": 80844,
+    "questionText": " 262. Kith and kin",
+    "answerText": " Relatives"
+  },
+  {
+    "questionNum": 80845,
+    "questionText": " To keep body and soul together",
+    "answerText": " To remain alive"
+  },
+  {
+    "questionNum": 80846,
+    "questionText": " ആദ്യ സാഹിത്യ നോബൽ ജേതാവ്? ",
+    "answerText": " സള്ളി പ്രൂഥോം "
+  },
+  {
+    "questionNum": 80847,
+    "questionText": " ഒരേ വിഷയത്തിൽ രണ്ട് തവണ നൊബേൽ നേടിയത്? ",
+    "answerText": " ജോൺ ബർഡീൻ, ഫ്രെഡറിക് സാംഗർ "
+  },
+  {
+    "questionNum": 80848,
+    "questionText": " നോബൽ സമ്മാനം നേടിയ പ്രായം കുറഞ്ഞ വ്യക്തി? ",
+    "answerText": " മലാല യൂസഫ് സായി "
+  },
+  {
+    "questionNum": 80849,
+    "questionText": " ഹൈഡ്രോഫോബിയ എന്നറിയപ്പെടുന്ന രോഗം? ",
+    "answerText": " പേപ്പട്ടി വിഷബാധ "
+  },
+  {
+    "questionNum": 80850,
+    "questionText": " To keep the wolf from",
+    "answerText": " To keep away hunger and the door starvation"
+  },
+  {
+    "questionNum": 80851,
+    "questionText": " മനുഷ്യൻ ആദ്യമായി ബഹിരാകാശത്ത് എത്തിയത്? ",
+    "answerText": " 1961 ഏപ്രിൽ 12 "
+  },
+  {
+    "questionNum": 80852,
+    "questionText": " ആധുനിക ബഹിരാകാശ ശാസ്ത്രത്തിന്റെ പിതാവ്? ",
+    "answerText": " ഗലീലിയോ ഗലീലി "
+  },
+  {
+    "questionNum": 80853,
+    "questionText": " 265. Knit one's brow",
+    "answerText": " To get angry"
+  },
+  {
+    "questionNum": 80854,
+    "questionText": " രാകേഷ് ശർമ്മ ബഹിരാകാശത്തേക്ക് പോയ വാഹനം? ",
+    "answerText": " സോയൂസ് ടി 11 "
+  },
+  {
+    "questionNum": 80855,
+    "questionText": " ചന്ദ്രനിൽ കാലുകുത്തിയ രണ്ടാമത്തെ വ്യക്തി? ",
+    "answerText": " എഡ്വിൻ ആൽഡ്രിൻ "
+  },
+  {
+    "questionNum": 80856,
+    "questionText": " കേരളത്തിന്റെ ഏറ്റവും തെക്കേയറ്റത്തെ വന്യജീവി സങ്കേതം? ",
+    "answerText": " നെയ്യാർ "
+  },
+  {
+    "questionNum": 80857,
+    "questionText": " 266. To keep one's head above water",
+    "answerText": " To escape debt"
+  },
+  {
+    "questionNum": 80858,
+    "questionText": " To knock down",
+    "answerText": " Bad defeat"
+  },
+  {
+    "questionNum": 80859,
+    "questionText": " ഒരു പ്രത്യേക സസ്യത്തിന് വേണ്ടി മാത്രം നിലവിൽ വരുന്ന രാജ്യത്തെ ആദ്യ ഉദ്യാനം? ",
+    "answerText": " കുറിഞ്ഞിമല "
+  },
+  {
+    "questionNum": 80860,
+    "questionText": " രണ്ടാമത്തെ വലിയ വന്യജീവി സങ്കേതം? ",
+    "answerText": " വയനാട്ടിലെ മുത്തങ്ങ വന്യജീവി സങ്കേതം "
+  },
+  {
+    "questionNum": 80861,
+    "questionText": " ആദ്യ ഏഷ്യൻ ഗെയിംസ് നടന്നത്? ",
+    "answerText": " 1951ൽ "
+  },
+  {
+    "questionNum": 80862,
+    "questionText": " ഏഷ്യൻ ഗെയിംസിന്റെ മുദ്രാവാക്യവും ചിഹ്നവും രൂപകല്പന ചെയ്തത്? ",
+    "answerText": " ജെ.ഡി. സോദി "
+  },
+  {
+    "questionNum": 80863,
+    "questionText": " Lion's share",
+    "answerText": " A major share"
+  },
+  {
+    "questionNum": 80864,
+    "questionText": " 269. Letdown",
+    "answerText": " To fail to keep promise"
+  },
+  {
+    "questionNum": 80865,
+    "questionText": " ലോക്‌സഭയുടെ അദ്ധ്യക്ഷൻ? ",
+    "answerText": " സ്പീക്കർ "
+  },
+  {
+    "questionNum": 80866,
+    "questionText": " ലോക്‌സഭ പിരിച്ചുവിടാനുള്ള അധികാരം? ",
+    "answerText": " രാഷ്ട്രപതിക്ക് "
+  },
+  {
+    "questionNum": 80867,
+    "questionText": " 270. To laugh in one's sleeves"
+  },
+  {
+    "questionNum": 80868,
+    "questionText": " 271. Loaves and fishes",
+    "answerText": " Material comforts"
+  },
+  {
+    "questionNum": 80869,
+    "questionText": " 272. Let off",
+    "answerText": " Released"
+  },
+  {
+    "questionNum": 80870,
+    "questionText": " 273. The long and short",
+    "answerText": " In brief"
+  },
+  {
+    "questionNum": 80871,
+    "questionText": " 274. To have no stone unturned",
+    "answerText": " To make all possible efforts"
+  },
+  {
+    "questionNum": 80872,
+    "questionText": " 275. To look blue",
+    "answerText": " Depressed"
+  },
+  {
+    "questionNum": 80873,
+    "questionText": " 276. To lead astray",
+    "answerText": " To misguide"
+  },
+  {
+    "questionNum": 80874,
+    "questionText": " 277. To leap in the dark",
+    "answerText": " A careless action"
+  },
+  {
+    "questionNum": 80875,
+    "questionText": " A left-handed compliment",
+    "answerText": " A false praise"
+  },
+  {
+    "questionNum": 80876,
+    "questionText": " To lend a hand",
+    "answerText": " To help"
+  },
+  {
+    "questionNum": 80877,
+    "questionText": " A man in the street",
+    "answerText": " An ordinary person"
+  },
+  {
+    "questionNum": 80878,
+    "questionText": " To mind one's own business",
+    "answerText": " To leave other people alone"
+  },
+  {
+    "questionNum": 80879,
+    "questionText": " To make neither head nor tail of",
+    "answerText": " Not to understand"
+  },
+  {
+    "questionNum": 80880,
+    "questionText": " മനുഷ്യാവകാശ ദിനം ആചരി ച്ചു തുടങ്ങിയത്? ",
+    "answerText": " 1950 ഡിസംബർ 10 മുതൽ "
+  },
+  {
+    "questionNum": 80881,
+    "questionText": " മനുഷ്യാവകാശ നിയമങ്ങളുടെ മുൻഗാമി? ",
+    "answerText": " മാഗ്നാകാർട്ട "
+  },
+  {
+    "questionNum": 80882,
+    "questionText": " Maiden speech",
+    "answerText": " A speech delivered the first time"
+  },
+  {
+    "questionNum": 80883,
+    "questionText": " To make up one's mind",
+    "answerText": " To resolve"
+  },
+  {
+    "questionNum": 80884,
+    "questionText": " മനുഷ്യാവകാശ പുരസ്കാരം ആദ്യമായി ലഭിച്ച ഇന്ത്യക്കാരൻ? ",
+    "answerText": " ബാബാ ആംതെ "
+  },
+  {
+    "questionNum": 80885,
+    "questionText": " A man of means",
+    "answerText": " A rich man"
+  },
+  {
+    "questionNum": 80886,
+    "questionText": " ആങ് സാങ് സൂ ചിയുടെ പാർട്ടി? ",
+    "answerText": " നാഷണൽ ലീഗ് ഫോർ ഡെമോക്രസി "
+  },
+  {
+    "questionNum": 80887,
+    "questionText": " ബർമ്മയെ ഇന്ത്യയിൽ നിന്ന് വേർപെടുത്തിയത്? ",
+    "answerText": 1937
+  },
+  {
+    "questionNum": 80888,
+    "questionText": " To mince matters",
+    "answerText": " Not to talk plainly"
+  },
+  {
+    "questionNum": 80889,
+    "questionText": " സുവർണ പഗോഡകളുടെ നാട്? ",
+    "answerText": " മ്യാൻമർ "
+  },
+  {
+    "questionNum": 80890,
+    "questionText": " ഇന്ത്യയിലെ അവസാന മുഗൾ രാജാവ് ബഹദൂർഷാ രണ്ടാമന്റെ ശവകുടീരം സ്ഥിതിചെയ്യുന്നത്? ",
+    "answerText": " റംഗൂൺ "
+  },
+  {
+    "questionNum": 80891,
+    "questionText": " ബാലഗംഗാധര തിലകനെ ബ്രിട്ടീഷുകാർ തടവിൽ പാർപ്പിച്ചത്? ",
+    "answerText": " മാണ്ടേല ജയിൽ "
+  },
+  {
+    "questionNum": 80892,
+    "questionText": " To make a clean sweep of",
+    "answerText": " To remove"
+  },
+  {
+    "questionNum": 80893,
+    "questionText": " കേരള നിയമസഭയിൽ അംഗമായ ഏറ്റവും പ്രായം കൂടിയ വ്യക്തി? ",
+    "answerText": " വി.എസ്. അച്യുതാനന്ദൻ "
+  },
+  {
+    "questionNum": 80894,
+    "questionText": " A man of moment",
+    "answerText": " An important person"
+  },
+  {
+    "questionNum": 80895,
+    "questionText": " A man of word",
+    "answerText": " A reliable person"
+  },
+  {
+    "questionNum": 80896,
+    "questionText": " To make headway",
+    "answerText": " To progress slowly and steadily"
+  },
+  {
+    "questionNum": 80897,
+    "questionText": " മേധാപട്‌കർ സാമൂഹ്യപ്രവർത്തനത്തിന് തുടക്കം കുറിച്ച ഗ്രാമം? ",
+    "answerText": " മണിബേൽ "
+  },
+  {
+    "questionNum": 80898,
+    "questionText": " A nine day's wonder",
+    "answerText": " Pleasure for a short period"
+  },
+  {
+    "questionNum": 80899,
+    "questionText": " 293. A necessary evil",
+    "answerText": " An unavoidable evil"
+  },
+  {
+    "questionNum": 80900,
+    "questionText": " Out of gear",
+    "answerText": " Out of order"
+  },
+  {
+    "questionNum": 80901,
+    "questionText": " 298. Or no avail",
+    "answerText": " Of no use"
+  },
+  {
+    "questionNum": 80902,
+    "questionText": " Out of place",
+    "answerText": " Not proper to the occasion"
+  },
+  {
+    "questionNum": 80903,
+    "questionText": " Out of date",
+    "answerText": " Out of fashion"
+  },
+  {
+    "questionNum": 80904,
+    "questionText": " ആംനസ്റ്റി ഇന്റർനാഷണലിന് സമാധാന നോബൽ ലഭിച്ച വർഷം ? ",
+    "answerText": 1977
+  },
+  {
+    "questionNum": 80905,
+    "questionText": " 304. On the eve of",
+    "answerText": " Just before"
+  },
+  {
+    "questionNum": 80906,
+    "questionText": " Offhand",
+    "answerText": " Without previous preparation"
+  },
+  {
+    "questionNum": 80907,
+    "questionText": " Nook and comer",
+    "answerText": " Everywhere"
+  },
+  {
+    "questionNum": 80908,
+    "questionText": " To nurse a grudge",
+    "answerText": " To revenge"
+  },
+  {
+    "questionNum": 80909,
+    "questionText": " 1948 ഡിസംബർ 10ന് യു.എൻ. മനുഷ്യാവകാശ പ്രഖ്യാപനം നടത്തിയത് ? ",
+    "answerText": " പാരീസിൽ "
+  },
+  {
+    "questionNum": 80910,
+    "questionText": " Neck to neck",
+    "answerText": " Side by side"
+  },
+  {
+    "questionNum": 80911,
+    "questionText": " ആവർത്തനപ്പട്ടികയുടെ പിതാവാണ്? ",
+    "answerText": " മെന്റെലിയേവ്  "
+  },
+  {
+    "questionNum": 80912,
+    "questionText": " പി.എച്ച്.മൂല്യം കണ്ടുപിടിച്ചത്? ",
+    "answerText": " സോറൻസൺ  "
+  },
+  {
+    "questionNum": 80913,
+    "questionText": " പിച്ച്‌‌ബ്ളെന്റ് ഏതു മൂലകത്തിന്റെ അയിരാണ്? ",
+    "answerText": " യുറേനിയം  "
+  },
+  {
+    "questionNum": 80914,
+    "questionText": " ശരീരത്തിൽ ഏറ്റവും കൂടുതലടങ്ങിയ ലോഹമാണ്? ",
+    "answerText": " കാൽസ്യം  "
+  },
+  {
+    "questionNum": 80915,
+    "questionText": " ക്വിക്ക് സിൽവർ എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " മെർക്കുറി  "
+  },
+  {
+    "questionNum": 80916,
+    "questionText": " ട്രാൻസിസ്റ്റർ നിർമ്മാണത്തിനുപയോഗിക്കുന്ന ഉപലോഹമാണ്? ",
+    "answerText": " ജർമാനിയം  "
+  },
+  {
+    "questionNum": 80917,
+    "questionText": " രക്തബാങ്കുകളിൽ രക്തം കേടുകൂടാതെ സൂക്ഷിക്കാൻ സഹായിക്കുന്ന രാസവസ്തുവാണ്? ",
+    "answerText": " സോഡിയം സിട്രേറ്റ്  "
+  },
+  {
+    "questionNum": 80918,
+    "questionText": " കൃത്രിമ മഴ പെയ്യിക്കാൻ സഹായിക്കുന്ന രാസവസ്തുവാണ്? ",
+    "answerText": " സിൽവർ അയെഡൈഡ്  "
+  },
+  {
+    "questionNum": 80919,
+    "questionText": " Neck or Nothing",
+    "answerText": " With the use of everything"
+  },
+  {
+    "questionNum": 80920,
+    "questionText": " The printer's devils",
+    "answerText": " Misprints"
+  },
+  {
+    "questionNum": 80921,
+    "questionText": " ബയോഗ്യാസിന്റെ പ്രധാന ഘടകം? ",
+    "answerText": " മീഥെയ്ൻ  "
+  },
+  {
+    "questionNum": 80922,
+    "questionText": " To play the games",
+    "answerText": " To observe the rules"
+  },
+  {
+    "questionNum": 80923,
+    "questionText": " പെൻസിൽ നിർമ്മാണത്തിനുപയോഗിക്കുന്ന രാസവസ്തു? ",
+    "answerText": " ഗ്രാഫൈറ്റ്  "
+  },
+  {
+    "questionNum": 80924,
+    "questionText": " എക്സ്‌റേ കടന്നുപോകാത്ത രാസവസ്തു? ",
+    "answerText": " ലെഡ്  "
+  },
+  {
+    "questionNum": 80925,
+    "questionText": " രാവസ്തുക്കളുടെ രാജാവ്? ",
+    "answerText": " സൾഫ്യൂറിക് ആസിഡ്  "
+  },
+  {
+    "questionNum": 80926,
+    "questionText": " W എന്ന പ്രതീകം ഏതു മൂലകത്തിന്റേതാണ്? ",
+    "answerText": " ടങ്‌സ്റ്റൺ  "
+  },
+  {
+    "questionNum": 80927,
+    "questionText": " To pick a quarrel",
+    "answerText": " Intentionally begin a quarrel"
+  },
+  {
+    "questionNum": 80928,
+    "questionText": " പ്രകാശത്തിന്റെ കണികാസിദ്ധാന്തം ആവിഷ്കരിച്ചത്? ",
+    "answerText": " സർ ഐസക് ന്യൂട്ടൻ  "
+  },
+  {
+    "questionNum": 80929,
+    "questionText": " തരംഗദൈർഘ്യം കൂടിയ നിറമേത്? ",
+    "answerText": " ചുവപ്പ്  "
+  },
+  {
+    "questionNum": 80930,
+    "questionText": " ശബ്ദത്തിന്റെ ആവൃത്തി അളക്കുന്ന യൂണിറ്റ്? ",
+    "answerText": " ഹെർട്സ്  "
+  },
+  {
+    "questionNum": 80931,
+    "questionText": " ഒരു ക്വയർ പേപ്പർ എന്നാൽ? ",
+    "answerText": " 24 ഷീറ്റ്  "
+  },
+  {
+    "questionNum": 80932,
+    "questionText": " Palmy days",
+    "answerText": " Prosperous and peaceful days"
+  },
+  {
+    "questionNum": 80933,
+    "questionText": " ചന്ദ്രനിൽ നിന്നുള്ള പലായനപ്രവേഗം? ",
+    "answerText": " 2.37 കി.മീ / സെക്കൻഡ്  "
+  },
+  {
+    "questionNum": 80934,
+    "questionText": " സാധാരണ ബൾബുകളിൽ നിറയ്ക്കുന്ന വാതകമാണ്? ",
+    "answerText": " ആർഗൺ  "
+  },
+  {
+    "questionNum": 80935,
+    "questionText": " മഴത്തുള്ളികൾ ഗോളാകൃതിയിൽ കാണുന്നത്? ",
+    "answerText": " പ്രതലബലം മൂലം  "
+  },
+  {
+    "questionNum": 80936,
+    "questionText": " വൈദ്യുതോർജ്ജത്തെ യാന്ത്രികോർജ്ജമാക്കി മാറ്റുന്ന ഉപകരമാണ്? ",
+    "answerText": " ഇലക്ട്രിക് മോട്ടോർ  "
+  },
+  {
+    "questionNum": 80937,
+    "questionText": " To put one's shoulders to the wheel",
+    "answerText": " To help oneself"
+  },
+  {
+    "questionNum": 80938,
+    "questionText": " ഏറ്റവും വേഗത്തിൽ തുളച്ചുകയറാൻ ശേഷിയുള്ള രശ്മികളാണ്? ",
+    "answerText": " ഗാമ  "
+  },
+  {
+    "questionNum": 80939,
+    "questionText": " സൗരയൂഥം ഏത് നക്ഷത്രസമൂഹത്തിന്റെ ഭാഗമാണ്? ",
+    "answerText": " ക്ഷീരപഥം  "
+  },
+  {
+    "questionNum": 80940,
+    "questionText": " To put the cart before the horse",
+    "answerText": " Reverse order"
+  },
+  {
+    "questionNum": 80941,
+    "questionText": " To pull one's legs",
+    "answerText": " To make a fool of"
+  },
+  {
+    "questionNum": 80942,
+    "questionText": " A past master",
+    "answerText": " Thorough master"
+  },
+  {
+    "questionNum": 80943,
+    "questionText": " To poke one's nose",
+    "answerText": " To interfere with"
+  },
+  {
+    "questionNum": 80944,
+    "questionText": " റിസർവ് ബാങ്കിന്റെ ഇന്ത്യക്കാരനായ ആദ്യ ഗവർണർ? ",
+    "answerText": " സി.ഡി. ദേശ്‌മുഖ്  "
+  },
+  {
+    "questionNum": 80945,
+    "questionText": " To play with fire",
+    "answerText": " To do something dangerous"
+  },
+  {
+    "questionNum": 80946,
+    "questionText": " Pass through",
+    "answerText": " Undergo"
+  },
+  {
+    "questionNum": 80947,
+    "questionText": " ദ്രാവിഡ ഭാഷകളിൽ ഏറ്റവും പഴയത് ? ",
+    "answerText": " തമിഴ്  "
+  },
+  {
+    "questionNum": 80948,
+    "questionText": " ജമ്മുകാശ്മീരിന്റെ ഔദ്യോഗിക ഭാഷയാണ്? ",
+    "answerText": " ഉറുദു  "
+  },
+  {
+    "questionNum": 80949,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും കൂടുതൽ ആളുകൾ സംസാരിക്കുന്ന ഭാഷയാണ്? ",
+    "answerText": " ഹിന്ദി  "
+  },
+  {
+    "questionNum": 80950,
+    "questionText": " ഇന്ത്യയിൽ നിന്നും ആദ്യമായി ഓസ്കാർ അവാർഡ് നേടിയ വ്യക്തി? ",
+    "answerText": " ഭാനു അത്തയ്യ  "
+  },
+  {
+    "questionNum": 80951,
+    "questionText": " ഇന്ത്യയിൽ ഏറ്റവും നീളം കൂടിയ ഹൈവേയാണ്? ",
+    "answerText": " എൻ.എച്ച് - 7  "
+  },
+  {
+    "questionNum": 80952,
+    "questionText": " ലോകജനസംഖ്യാദിനമായി ആചരിക്കുന്നത്? ",
+    "answerText": " ജൂലായ് 11  "
+  },
+  {
+    "questionNum": 80953,
+    "questionText": " പഞ്ചായത്തുകളുടെ രൂപീകരണത്തെപ്പറ്റി പ്രതിപാദിക്കുന്ന ആർട്ടിക്കിൾ? ",
+    "answerText": " ആർട്ടിക്കിൾ 40  "
+  },
+  {
+    "questionNum": 80954,
+    "questionText": " ഇന്ത്യൻ ഭരണഘടനയിൽ എത്ര ഷെഡ്യൂളുകൾ ഉൾപ്പെടുന്നു? ",
+    "answerText": 12
+  },
+  {
+    "questionNum": 80955,
+    "questionText": " To pay the piper",
+    "answerText": " To bear the cost"
+  },
+  {
+    "questionNum": 80956,
+    "questionText": " ഇന്ത്യയുടെ സാമ്പത്തിക വർഷം ആരംഭിക്കുന്നത്? ",
+    "answerText": " ഏപ്രിൽ 1  "
+  },
+  {
+    "questionNum": 80957,
+    "questionText": " തീരപ്രദേശമില്ലാത്ത ലോകത്തിലെ ഏക കടൽ? ",
+    "answerText": " സർഗാസോ  "
+  },
+  {
+    "questionNum": 80958,
+    "questionText": " ഏറ്റവും കൂടുതൽ കടൽത്തീരമുള്ള ഇന്ത്യൻ സംസ്ഥാനം? ",
+    "answerText": " ഗുജറാത്ത്  "
+  },
+  {
+    "questionNum": 80959,
+    "questionText": " 'ചെകുത്താന്റെ ത്രികോണം' എന്നറിയപ്പെടുന്ന പ്രദേശം ഏതു സമുദ്രത്തിലാണ്? ",
+    "answerText": " അറ്റ്‌ലാന്റിക്  "
+  },
+  {
+    "questionNum": 80960,
+    "questionText": " മെഡിറ്ററേനിയൻ കടലിനെയും അറ്റ‌്ലാന്റിക് സമുദ്രത്തെയും ബന്ധിപ്പിക്കുന്ന കടലിടുക്ക്? ",
+    "answerText": " ജിബ്രാൾട്ടർ "
+  },
+  {
+    "questionNum": 80961,
+    "questionText": " മനസിന്റെ വാതായനം എന്നറിയപ്പെടുന്നത്? ",
+    "answerText": " കണ്ണ് "
+  },
+  {
+    "questionNum": 80962,
+    "questionText": " 325. To put in cold storage",
+    "answerText": " To neglect"
+  },
+  {
+    "questionNum": 80963,
+    "questionText": " 126. A queer fish",
+    "answerText": " A strange person"
+  },
+  {
+    "questionNum": 80964,
+    "questionText": " 327. To pour oil on troubled waters",
+    "answerText": " To pacify matters"
+  },
+  {
+    "questionNum": 80965,
+    "questionText": " 328. A rainy day",
+    "answerText": " A time of difficulty"
+  },
+  {
+    "questionNum": 80966,
+    "questionText": " 329. A red letter day",
+    "answerText": " Lucky and important day"
+  },
+  {
+    "questionNum": 80967,
+    "questionText": " 330. Root and branch",
+    "answerText": " Entirely"
+  },
+  {
+    "questionNum": 80968,
+    "questionText": " ദേശീയ അന്ധദിനം? ",
+    "answerText": " ഒക്ടോബർ 15 "
+  },
+  {
+    "questionNum": 80969,
+    "questionText": " ദേശീയ വിനോദസഞ്ചാരദിനം? ",
+    "answerText": " ജനുവരി 25 "
+  },
+  {
+    "questionNum": 80970,
+    "questionText": " ക്രോമസോമിന്റെ അടിസ്ഥാന ഘടകം? ",
+    "answerText": " ഡി.എൻ.എ "
+  },
+  {
+    "questionNum": 80971,
+    "questionText": " ഡി.എൻ.എയുടെ ആകൃതി? ",
+    "answerText": " ചുറ്റുഗോവണിയുടെ ആകൃതി "
+  },
+  {
+    "questionNum": 80972,
+    "questionText": " ന്യൂക്ളിയോടൈഡിലുള്ള രാസപദാർത്ഥങ്ങൾ? ",
+    "answerText": " ഡീ ഓക്സീ റൈബോസ്, പഞ്ചസാര, ഫോസ്‌ഫേറ്റ് തന്മാത്രകൾ, നൈട്രജൻ ബേസുകൾ "
+  },
+  {
+    "questionNum": 80973,
+    "questionText": " 331. Torun down",
+    "answerText": " Weak in health"
+  },
+  {
+    "questionNum": 80974,
+    "questionText": " ഡി.എൻ.എയുടെ പ്രവർത്തന ഘടകമാണ്? ",
+    "answerText": " ജീനുകൾ "
+  },
+  {
+    "questionNum": 80975,
+    "questionText": " വ്യക്തികളെ തിരിച്ചറിയാനുള്ള സാങ്കേതിക വിദ്യയാണ്? ",
+    "answerText": " ഡി.എൻ.എ ഫിംഗർ പ്രിന്റിംഗ് "
+  },
+  {
+    "questionNum": 80976,
+    "questionText": " 332. A red rag to a bull",
+    "answerText": " A cause for anger"
+  },
+  {
+    "questionNum": 80977,
+    "questionText": " ഡി.എൻ.എ ഫിംഗർപ്രിന്റിന്റെ ഉപജ്ഞാതാവ്? ",
+    "answerText": " അലക് ജഫ്രി "
+  },
+  {
+    "questionNum": 80978,
+    "questionText": " 333. Rough and ready",
+    "answerText": " Unpolished manners"
+  },
+  {
+    "questionNum": 80979,
+    "questionText": " 334. Red tapism",
+    "answerText": " Official formality"
+  },
+  {
+    "questionNum": 80980,
+    "questionText": " ജീനുകളിൽ അധിഷ്ഠിതമായ ചികിത്സയാണ്? ",
+    "answerText": " ജീൻ തെറാപ്പി "
+  },
+  {
+    "questionNum": 80981,
+    "questionText": " ചൊവ്വയുടെ ഉപഗ്രഹങ്ങൾ? ",
+    "answerText": " ഫോബോസ്, ദെയ്‌മോസ് "
+  },
+  {
+    "questionNum": 80982,
+    "questionText": " 335. Round the comer",
+    "answerText": " Near"
+  },
+  {
+    "questionNum": 80983,
+    "questionText": " 336. Run through",
+    "answerText": " Waste"
+  },
+  {
+    "questionNum": 80984,
+    "questionText": " ഇന്ത്യയുടെ പ്രഥമ ചൊവ്വാ പര്യവേക്ഷണ ദൗത്യം? ",
+    "answerText": " മംഗൾയാൻ -1 "
+  },
+  {
+    "questionNum": 80985,
+    "questionText": " മംഗൾയാന്റെ ഔദ്യോഗിക നാമം? ",
+    "answerText": " മാർസ് ഓർബിറ്റൽ മിഷൻ "
+  },
+  {
+    "questionNum": 80986,
+    "questionText": " ഇന്ത്യയുടെ പരമോന്നത നീതിപീഠം? ",
+    "answerText": " സുപ്രീംകോടതി "
+  },
+  {
+    "questionNum": 80987,
+    "questionText": " സുപ്രീംകോടതിയുടെ ആസ്ഥാനം? ",
+    "answerText": " ന്യൂഡൽഹി "
+  },
+  {
+    "questionNum": 80988,
+    "questionText": " സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസിനെ നിയമിക്കുന്നത്? ",
+    "answerText": " രാഷ്ട്രപതി "
+  },
+  {
+    "questionNum": 80989,
+    "questionText": " സുപ്രീംകോടതിയിലെ ആദ്യത്തെ ചീഫ് ജസ്റ്റിസ്? ",
+    "answerText": " ജസ്റ്റിസ് എച്ച്.ജെ. കെനിയ "
+  },
+  {
+    "questionNum": 80990,
+    "questionText": " സുപ്രീംകോടതിയിലെ ആദ്യ വനിതാ ജഡ്ജി? ",
+    "answerText": " എം.എസ്. ഫാത്തിമാബീവി "
+  },
+  {
+    "questionNum": 80991,
+    "questionText": " സുപ്രീംകോടതി ജഡ്ജിമാരും ചീഫ് ജസ്റ്റിസുമാരും രാജി സമർപ്പിക്കുന്നത്? ",
+    "answerText": " രാഷ്ട്രപതിക്ക് "
+  },
+  {
+    "questionNum": 80992,
+    "questionText": " ലോക്‌സഭയിലെ ഇംപീച്ച്‌മെന്റിന് വിധേയനായ ആദ്യ സുപ്രീംകോടതി ജഡ്ജി? ",
+    "answerText": " ജസ്റ്റിസ് വി. രാമസ്വാമി "
+  },
+  {
+    "questionNum": 80993,
+    "questionText": " ഏറ്റവും കൂടുതൽ കാലം സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസ് ആയിരുന്നത്? ",
+    "answerText": " വൈ.വി. ചന്ദ്രചൂഡ് "
+  },
+  {
+    "questionNum": 80994,
+    "questionText": " തമിഴ്‌നാട്ടിൽ നിന്നുള്ള ആദ്യ സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസ്? ",
+    "answerText": " ജസ്റ്റിസ് പി. സദാശിവം "
+  },
+  {
+    "questionNum": 80995,
+    "questionText": " വനിതകൾ ആദ്യമായി പങ്കെടുത്ത ഒളിമ്പിക്സ്? ",
+    "answerText": " 1900ലെ പാരീസ് ഒളിമ്പിക്സ് "
+  },
+  {
+    "questionNum": 80996,
+    "questionText": " നാല് ഗ്രാൻഡ്സ്ളാമും ഒളിമ്പിക്സ് സ്വർണവും ഒരേ വർഷം നേടി ഗോൾഡൻ സ്ളാം നേടിയ ഏക ടെന്നിസ് താരം? ",
+    "answerText": " സ്റ്റെഫിഗ്രാഫ് "
+  },
+  {
+    "questionNum": 80997,
+    "questionText": " 337. A rolling stone",
+    "answerText": " One who is never constant to one's work"
+  },
+  {
+    "questionNum": 80998,
+    "questionText": " ഒളിമ്പിക്സ് അത്‌ലറ്റിക്സിൽ ആദ്യമായി സെമിഫൈനലിലെത്തിയ ഇന്ത്യൻ വനിത? ",
+    "answerText": " ഷൈനി വിൽസൺ "
+  },
+  {
+    "questionNum": 80999,
+    "questionText": " സുപ്രീംകോടതി നിഷേധവോട്ടിനുള്ള ഉത്തരവ് പുറപ്പെടുവിച്ചത്? ",
+    "answerText": " 2013 സെപ്തംബർ 27 "
+  },
+  {
+    "questionNum": 81000,
+    "questionText": " 338. A royal road",
+    "answerText": " An easy way to achieve an end"
+  }
+]

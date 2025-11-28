@@ -1,0 +1,5001 @@
+[
+  {
+    "questionNum": 79001,
+    "questionText": " Future generation.",
+    "answerText": " Posterity"
+  },
+  {
+    "questionNum": 79002,
+    "questionText": " Free from punishment.",
+    "answerText": " Impunity"
+  },
+  {
+    "questionNum": 79003,
+    "questionText": " Form opinion in advance.",
+    "answerText": " Preconceive"
+  },
+  {
+    "questionNum": 79004,
+    "questionText": " Fear of home surroundings.",
+    "answerText": " Ecophobia"
+  },
+  {
+    "questionNum": 79005,
+    "questionText": " Fear of dead body.",
+    "answerText": " Necrophobia"
+  },
+  {
+    "questionNum": 79006,
+    "questionText": " Fear of animals.",
+    "answerText": " Zoophobia"
+  },
+  {
+    "questionNum": 79007,
+    "questionText": " Fear of height.",
+    "answerText": " Aerophobia"
+  },
+  {
+    "questionNum": 79008,
+    "questionText": " Faithful supporter.",
+    "answerText": " Henchman"
+  },
+  {
+    "questionNum": 79009,
+    "questionText": " Fail to pay a debt in time.",
+    "answerText": " Default"
+  },
+  {
+    "questionNum": 79010,
+    "questionText": " Expert in horse riding.",
+    "answerText": " Cavalier"
+  },
+  {
+    "questionNum": 79011,
+    "questionText": " Existing since old times.",
+    "answerText": " Antique"
+  },
+  {
+    "questionNum": 79012,
+    "questionText": " Existing forever.",
+    "answerText": " Eternal"
+  },
+  {
+    "questionNum": 79013,
+    "questionText": " Amount of money paid to free a prisoner.",
+    "answerText": " Ransom"
+  },
+  {
+    "questionNum": 79014,
+    "questionText": " Bring back to life.",
+    "answerText": " Revive"
+  },
+  {
+    "questionNum": 79015,
+    "questionText": " Bring under control by force.",
+    "answerText": " Capture"
+  },
+  {
+    "questionNum": 79016,
+    "questionText": " Bring under control in war.",
+    "answerText": " Subjugate"
+  },
+  {
+    "questionNum": 79017,
+    "questionText": " A building for the display of works of art.",
+    "answerText": " Gallery"
+  },
+  {
+    "questionNum": 79018,
+    "questionText": " That can be expressed in words.",
+    "answerText": " Expressible"
+  },
+  {
+    "questionNum": 79019,
+    "questionText": " Call back to the mind.",
+    "answerText": " Recall"
+  },
+  {
+    "questionNum": 79020,
+    "questionText": " Capable of being reached.",
+    "answerText": " Accessible"
+  },
+  {
+    "questionNum": 79021,
+    "questionText": " Centre of attraction.",
+    "answerText": " Cynosure"
+  },
+  {
+    "questionNum": 79022,
+    "questionText": " A building equipped with astronomical observations.",
+    "answerText": " Observatory"
+  },
+  {
+    "questionNum": 79023,
+    "questionText": " Any kind of grain used for food.",
+    "answerText": " Cereal"
+  },
+  {
+    "questionNum": 79024,
+    "questionText": " Angry at injustice.",
+    "answerText": " Indignant"
+  },
+  {
+    "questionNum": 79025,
+    "questionText": " Anxious to help somebody.",
+    "answerText": " Solicitous"
+  },
+  {
+    "questionNum": 79026,
+    "questionText": " That can be perceived by the senses.",
+    "answerText": " Perceptible"
+  },
+  {
+    "questionNum": 79027,
+    "questionText": " Ceremony of crowning a king.",
+    "answerText": " Coronation"
+  },
+  {
+    "questionNum": 79028,
+    "questionText": " A chain of flowers, leaves, ribbons etc.",
+    "answerText": " Festoon"
+  },
+  {
+    "questionNum": 79029,
+    "questionText": " Change in direction.",
+    "answerText": " Diversion"
+  },
+  {
+    "questionNum": 79030,
+    "questionText": " To mediate; to pander over a question.",
+    "answerText": " Ruminate"
+  },
+  {
+    "questionNum": 79031,
+    "questionText": " A state in which supremacy of people",
+    "answerText": " or its elected"
+  },
+  {
+    "questionNum": 79032,
+    "questionText": " representatives is acknowledged.",
+    "answerText": " Republic"
+  },
+  {
+    "questionNum": 79033,
+    "questionText": " To give up entirely.",
+    "answerText": " Renounce"
+  },
+  {
+    "questionNum": 79034,
+    "questionText": " Care taken in advance to avoid a risk.",
+    "answerText": " Precaution"
+  },
+  {
+    "questionNum": 79035,
+    "questionText": " A chief character in a story or drama.",
+    "answerText": " Protagonist"
+  },
+  {
+    "questionNum": 79036,
+    "questionText": " A collection of poems or prose.",
+    "answerText": " Anthology"
+  },
+  {
+    "questionNum": 79037,
+    "questionText": " In sufficient feeding or nourishing.",
+    "answerText": " Malnutrition"
+  },
+  {
+    "questionNum": 79038,
+    "questionText": " Favourable to health",
+    "answerText": " Wholesome"
+  },
+  {
+    "questionNum": 79039,
+    "questionText": " A conference for discussion on a subject.",
+    "answerText": " Symposium"
+  },
+  {
+    "questionNum": 79040,
+    "questionText": " A list of household goods, furniture etc.",
+    "answerText": " Inventory"
+  },
+  {
+    "questionNum": 79041,
+    "questionText": " Scarcity of food.",
+    "answerText": " Famine"
+  },
+  {
+    "questionNum": 79042,
+    "questionText": " Fear of being in open space.",
+    "answerText": " Agoraphobia"
+  },
+  {
+    "questionNum": 79043,
+    "questionText": " Fear of books.",
+    "answerText": " Bibliophobia"
+  },
+  {
+    "questionNum": 79044,
+    "questionText": " Fear of snakes.",
+    "answerText": " Ophiophobia"
+  },
+  {
+    "questionNum": 79045,
+    "questionText": " Fear of water.",
+    "answerText": " Hydrophobia"
+  },
+  {
+    "questionNum": 79046,
+    "questionText": " Fear of a dead body.",
+    "answerText": " Nacrophobia"
+  },
+  {
+    "questionNum": 79047,
+    "questionText": " Fear of oneself.",
+    "answerText": " Autophoby"
+  },
+  {
+    "questionNum": 79048,
+    "questionText": " To free a prisoner on payment.",
+    "answerText": " Ransom"
+  },
+  {
+    "questionNum": 79049,
+    "questionText": " A funeral rite.",
+    "answerText": " Funeral/obsequies"
+  },
+  {
+    "questionNum": 79050,
+    "questionText": " A girl/woman who flirts.",
+    "answerText": " Coquette"
+  },
+  {
+    "questionNum": 79051,
+    "questionText": " To support a statement or theory.",
+    "answerText": " Corroborate"
+  },
+  {
+    "questionNum": 79052,
+    "questionText": " A group of talkative girls or women.",
+    "answerText": " Gaggle"
+  },
+  {
+    "questionNum": 79053,
+    "questionText": " A hater of new things.",
+    "answerText": " Misoneist"
+  },
+  {
+    "questionNum": 79054,
+    "questionText": " A hater of smoking.",
+    "answerText": " Misocapnic"
+  },
+  {
+    "questionNum": 79055,
+    "questionText": " A bad smell or taste.",
+    "answerText": " Foul"
+  },
+  {
+    "questionNum": 79056,
+    "questionText": " The murder of one's mother",
+    "answerText": " Matricide"
+  },
+  {
+    "questionNum": 79057,
+    "questionText": " A Post without remuneration.",
+    "answerText": " Honorary"
+  },
+  {
+    "questionNum": 79058,
+    "questionText": " A woman whose husband is dead.",
+    "answerText": " Widow"
+  },
+  {
+    "questionNum": 79059,
+    "questionText": " A man whose wife is dead.",
+    "answerText": " Widower"
+  },
+  {
+    "questionNum": 79060,
+    "questionText": " A magnificent tomb.",
+    "answerText": " Mausoleum"
+  },
+  {
+    "questionNum": 79061,
+    "questionText": " A medical student.",
+    "answerText": " Medico"
+  },
+  {
+    "questionNum": 79062,
+    "questionText": " Something that serves as a reminder.",
+    "answerText": " Momento"
+  },
+  {
+    "questionNum": 79063,
+    "questionText": " A person who lives in a metropolis.",
+    "answerText": " Metropolitan"
+  },
+  {
+    "questionNum": 79064,
+    "questionText": " A period of one thousand years.",
+    "answerText": " Millennium"
+  },
+  {
+    "questionNum": 79065,
+    "questionText": " One thousand millions.",
+    "answerText": " Milliard"
+  },
+  {
+    "questionNum": 79066,
+    "questionText": " A thousand times one thousand.",
+    "answerText": " Million"
+  },
+  {
+    "questionNum": 79067,
+    "questionText": " A man of millions.",
+    "answerText": " Millionaire"
+  },
+  {
+    "questionNum": 79068,
+    "questionText": " A person who works in a mine.",
+    "answerText": " Miner"
+  },
+  {
+    "questionNum": 79069,
+    "questionText": " One who lives near another.",
+    "answerText": " Neighbour"
+  },
+  {
+    "questionNum": 79070,
+    "questionText": " A person recently married.",
+    "answerText": " Neogamist"
+  },
+  {
+    "questionNum": 79071,
+    "questionText": " A member of a wandering tribe.",
+    "answerText": " Nomad"
+  },
+  {
+    "questionNum": 79072,
+    "questionText": " A central part of an atom.",
+    "answerText": " Nucleus"
+  },
+  {
+    "questionNum": 79073,
+    "questionText": " A plane figure of eight sides.",
+    "answerText": " Octagon"
+  },
+  {
+    "questionNum": 79074,
+    "questionText": " A young of animals.",
+    "answerText": " Offspring"
+  },
+  {
+    "questionNum": 79075,
+    "questionText": " One who looks on.",
+    "answerText": " Onlooker"
+  },
+  {
+    "questionNum": 79076,
+    "questionText": " A person who is 15 years old.",
+    "answerText": " Adolescent"
+  },
+  {
+    "questionNum": 79077,
+    "questionText": " A person who is 60 years old.",
+    "answerText": " Sexagenarian"
+  },
+  {
+    "questionNum": 79078,
+    "questionText": " A person who is 70 years old.",
+    "answerText": " Septuagenarian"
+  },
+  {
+    "questionNum": 79079,
+    "questionText": " A person who is 80 years old.",
+    "answerText": " Octogenarian"
+  },
+  {
+    "questionNum": 79080,
+    "questionText": " A person who is 90 years old.",
+    "answerText": " Nonagenarian"
+  },
+  {
+    "questionNum": 79081,
+    "questionText": " A person who is 100 years old.",
+    "answerText": " Centenarian"
+  },
+  {
+    "questionNum": 79082,
+    "questionText": " A place of perfect peace and happiness.",
+    "answerText": " Paradise"
+  },
+  {
+    "questionNum": 79083,
+    "questionText": " Supreme law making assembly.",
+    "answerText": " Parliament"
+  },
+  {
+    "questionNum": 79084,
+    "questionText": " Words alike in sound but different in meaning and spelling.",
+    "answerText": " Paronym"
+  },
+  {
+    "questionNum": 79085,
+    "questionText": " Animals which live in water.",
+    "answerText": " Aquatic"
+  },
+  {
+    "questionNum": 79086,
+    "questionText": " Words opposite in meaning.",
+    "answerText": " Antonym"
+  },
+  {
+    "questionNum": 79087,
+    "questionText": " Word similar in meaning.",
+    "answerText": " Synonym"
+  },
+  {
+    "questionNum": 79088,
+    "questionText": " Assembly of listeners.",
+    "answerText": " Audience"
+  },
+  {
+    "questionNum": 79089,
+    "questionText": " A building in which soldiers live.",
+    "answerText": " Barrack"
+  },
+  {
+    "questionNum": 79090,
+    "questionText": " That which can be heard.",
+    "answerText": " Audible"
+  },
+  {
+    "questionNum": 79091,
+    "questionText": " That which can be seen.",
+    "answerText": " Visible"
+  },
+  {
+    "questionNum": 79092,
+    "questionText": " A judgement of a court.",
+    "answerText": " Decree"
+  },
+  {
+    "questionNum": 79093,
+    "questionText": " A killer of a king.",
+    "answerText": " Regicide"
+  },
+  {
+    "questionNum": 79094,
+    "questionText": " A killer of an infant.",
+    "answerText": " Infanticide"
+  },
+  {
+    "questionNum": 79095,
+    "questionText": " A legal advisor.",
+    "answerText": " Solicitor"
+  },
+  {
+    "questionNum": 79096,
+    "questionText": " A notice which is sent by a court.",
+    "answerText": " Summons"
+  },
+  {
+    "questionNum": 79097,
+    "questionText": " One who abstains from alcoholic drinks.",
+    "answerText": " Teetotaler"
+  },
+  {
+    "questionNum": 79098,
+    "questionText": " The state of living unmarried.",
+    "answerText": " Celibacy"
+  },
+  {
+    "questionNum": 79099,
+    "questionText": " An imaginary line round the earth.",
+    "answerText": " Equator"
+  },
+  {
+    "questionNum": 79100,
+    "questionText": " A place where orphans are housed.",
+    "answerText": " Orphanage"
+  },
+  {
+    "questionNum": 79101,
+    "questionText": " Absent ?",
+    "answerText": " Present"
+  },
+  {
+    "questionNum": 79102,
+    "questionText": " Abundant ?",
+    "answerText": " Scarce"
+  },
+  {
+    "questionNum": 79103,
+    "questionText": " Accept ?",
+    "answerText": " Decline; Refuse"
+  },
+  {
+    "questionNum": 79104,
+    "questionText": " Accurate ?",
+    "answerText": " Inaccurate"
+  },
+  {
+    "questionNum": 79105,
+    "questionText": " Admit ?",
+    "answerText": " Deny"
+  },
+  {
+    "questionNum": 79106,
+    "questionText": " Advantage ?",
+    "answerText": " Disadvantage"
+  },
+  {
+    "questionNum": 79107,
+    "questionText": " Against ?",
+    "answerText": " For"
+  },
+  {
+    "questionNum": 79108,
+    "questionText": " Agree ?",
+    "answerText": " Disagree"
+  },
+  {
+    "questionNum": 79109,
+    "questionText": " Alive ?",
+    "answerText": " Dead"
+  },
+  {
+    "questionNum": 79110,
+    "questionText": " All ?",
+    "answerText": " None; Nothing"
+  },
+  {
+    "questionNum": 79111,
+    "questionText": " Ally ?",
+    "answerText": " Enemy"
+  },
+  {
+    "questionNum": 79112,
+    "questionText": " Always ?",
+    "answerText": " Never"
+  },
+  {
+    "questionNum": 79113,
+    "questionText": " Ancient ?",
+    "answerText": " Modern"
+  },
+  {
+    "questionNum": 79114,
+    "questionText": " Answer ?",
+    "answerText": " Question"
+  },
+  {
+    "questionNum": 79115,
+    "questionText": " Antonym ?",
+    "answerText": " Synonym"
+  },
+  {
+    "questionNum": 79116,
+    "questionText": " Apart ?",
+    "answerText": " Together"
+  },
+  {
+    "questionNum": 79117,
+    "questionText": " Appear ?",
+    "answerText": " Disappear; Vanish"
+  },
+  {
+    "questionNum": 79118,
+    "questionText": " Approve ?",
+    "answerText": " Disapprove"
+  },
+  {
+    "questionNum": 79119,
+    "questionText": " Arrive ?",
+    "answerText": " Depart"
+  },
+  {
+    "questionNum": 79120,
+    "questionText": " Artificial ?",
+    "answerText": " Natural"
+  },
+  {
+    "questionNum": 79121,
+    "questionText": " Ascend ?",
+    "answerText": " Descend"
+  },
+  {
+    "questionNum": 79122,
+    "questionText": " Attic ?",
+    "answerText": " Cellar"
+  },
+  {
+    "questionNum": 79123,
+    "questionText": " Attractive ?",
+    "answerText": " Repulsive"
+  },
+  {
+    "questionNum": 79124,
+    "questionText": " Awake ?",
+    "answerText": " Asleep"
+  },
+  {
+    "questionNum": 79125,
+    "questionText": " Backward ?",
+    "answerText": " Forward"
+  },
+  {
+    "questionNum": 79126,
+    "questionText": " Bad ?",
+    "answerText": " Good"
+  },
+  {
+    "questionNum": 79127,
+    "questionText": " Beautiful ?",
+    "answerText": " Ugly"
+  },
+  {
+    "questionNum": 79128,
+    "questionText": " Before ?",
+    "answerText": " After"
+  },
+  {
+    "questionNum": 79129,
+    "questionText": " Begin ?",
+    "answerText": " End"
+  },
+  {
+    "questionNum": 79130,
+    "questionText": " Below ?",
+    "answerText": " Above"
+  },
+  {
+    "questionNum": 79131,
+    "questionText": " Bent ?",
+    "answerText": " Straight"
+  },
+  {
+    "questionNum": 79132,
+    "questionText": " Best ?",
+    "answerText": " Worst"
+  },
+  {
+    "questionNum": 79133,
+    "questionText": " Better ?",
+    "answerText": " Worse; Worst"
+  },
+  {
+    "questionNum": 79134,
+    "questionText": " Big ?",
+    "answerText": " Little; Small"
+  },
+  {
+    "questionNum": 79135,
+    "questionText": " Black ?",
+    "answerText": " White"
+  },
+  {
+    "questionNum": 79136,
+    "questionText": " Blame ?",
+    "answerText": " Praise"
+  },
+  {
+    "questionNum": 79137,
+    "questionText": " Bless ?",
+    "answerText": " Curse"
+  },
+  {
+    "questionNum": 79138,
+    "questionText": " Bitter ?",
+    "answerText": " Sweet"
+  },
+  {
+    "questionNum": 79139,
+    "questionText": " Borrow ?",
+    "answerText": " Lend"
+  },
+  {
+    "questionNum": 79140,
+    "questionText": " Bottom ?",
+    "answerText": " Top"
+  },
+  {
+    "questionNum": 79141,
+    "questionText": " Boy ?",
+    "answerText": " Girl"
+  },
+  {
+    "questionNum": 79142,
+    "questionText": " Brave ?",
+    "answerText": " Cowardly"
+  },
+  {
+    "questionNum": 79143,
+    "questionText": " Build ?",
+    "answerText": " Destroy"
+  },
+  {
+    "questionNum": 79144,
+    "questionText": " Bold ?",
+    "answerText": " Meek; Timid"
+  },
+  {
+    "questionNum": 79145,
+    "questionText": " Bound ?",
+    "answerText": " Unbound; Free"
+  },
+  {
+    "questionNum": 79146,
+    "questionText": " Boundless ?",
+    "answerText": " Limited"
+  },
+  {
+    "questionNum": 79147,
+    "questionText": " Bright ?",
+    "answerText": " Dim; Dull"
+  },
+  {
+    "questionNum": 79148,
+    "questionText": " Brighten ?",
+    "answerText": " Fade"
+  },
+  {
+    "questionNum": 79149,
+    "questionText": " Broad ?",
+    "answerText": " Narrow"
+  },
+  {
+    "questionNum": 79150,
+    "questionText": " Calm ?",
+    "answerText": " Windy; Troubled"
+  },
+  {
+    "questionNum": 79151,
+    "questionText": " Can ?",
+    "answerText": " Cannot; Can't"
+  },
+  {
+    "questionNum": 79152,
+    "questionText": " Capable ?",
+    "answerText": " Incapable"
+  },
+  {
+    "questionNum": 79153,
+    "questionText": " Captive ?",
+    "answerText": " Free"
+  },
+  {
+    "questionNum": 79154,
+    "questionText": " Careful ?",
+    "answerText": " Careless"
+  },
+  {
+    "questionNum": 79155,
+    "questionText": " Cheap ?",
+    "answerText": " Epensive"
+  },
+  {
+    "questionNum": 79156,
+    "questionText": " Cheerful ?",
+    "answerText": " Sad; Discouraged; Dreary"
+  },
+  {
+    "questionNum": 79157,
+    "questionText": " Clear ?",
+    "answerText": " Cloudy; Opaque"
+  },
+  {
+    "questionNum": 79158,
+    "questionText": " Clever ?",
+    "answerText": " Stupid"
+  },
+  {
+    "questionNum": 79159,
+    "questionText": " Clockwise ?",
+    "answerText": " Counterclockwise"
+  },
+  {
+    "questionNum": 79160,
+    "questionText": " Close ?",
+    "answerText": " Far; Distant"
+  },
+  {
+    "questionNum": 79161,
+    "questionText": " Closed ?",
+    "answerText": " Ajar; Open"
+  },
+  {
+    "questionNum": 79162,
+    "questionText": " Clumsy ?",
+    "answerText": " Graceful"
+  },
+  {
+    "questionNum": 79163,
+    "questionText": " Cold ?",
+    "answerText": " Hot"
+  },
+  {
+    "questionNum": 79164,
+    "questionText": " Combine ?",
+    "answerText": " Separate"
+  },
+  {
+    "questionNum": 79165,
+    "questionText": " Come ?",
+    "answerText": " Go"
+  },
+  {
+    "questionNum": 79166,
+    "questionText": " Comfort ?",
+    "answerText": " Discomfort"
+  },
+  {
+    "questionNum": 79167,
+    "questionText": " Common ?",
+    "answerText": " Rare"
+  },
+  {
+    "questionNum": 79168,
+    "questionText": " Conceal ?",
+    "answerText": " Reveal"
+  },
+  {
+    "questionNum": 79169,
+    "questionText": " Contract ?",
+    "answerText": " Epand"
+  },
+  {
+    "questionNum": 79170,
+    "questionText": " Cool ?",
+    "answerText": " Warm"
+  },
+  {
+    "questionNum": 79171,
+    "questionText": " Correct ?",
+    "answerText": " Incorrect; Wrong"
+  },
+  {
+    "questionNum": 79172,
+    "questionText": " Courage ?",
+    "answerText": " Cowardice"
+  },
+  {
+    "questionNum": 79173,
+    "questionText": " Create ?",
+    "answerText": " Destroy"
+  },
+  {
+    "questionNum": 79174,
+    "questionText": " Crooked ?",
+    "answerText": " Straight"
+  },
+  {
+    "questionNum": 79175,
+    "questionText": " Cruel ?",
+    "answerText": " Kind"
+  },
+  {
+    "questionNum": 79176,
+    "questionText": " Compulsory ?",
+    "answerText": " Voluntary"
+  },
+  {
+    "questionNum": 79177,
+    "questionText": " Courteous ?",
+    "answerText": " Discourteous; Rude"
+  },
+  {
+    "questionNum": 79178,
+    "questionText": " Dangerous ?",
+    "answerText": " Safe"
+  },
+  {
+    "questionNum": 79179,
+    "questionText": " Dark ?",
+    "answerText": " Light"
+  },
+  {
+    "questionNum": 79180,
+    "questionText": " Day ?",
+    "answerText": " Night"
+  },
+  {
+    "questionNum": 79181,
+    "questionText": " Daytime ?",
+    "answerText": " Nighttime"
+  },
+  {
+    "questionNum": 79182,
+    "questionText": " Dead ?",
+    "answerText": " Alive"
+  },
+  {
+    "questionNum": 79183,
+    "questionText": " Decline ?",
+    "answerText": " Accept; Increase"
+  },
+  {
+    "questionNum": 79184,
+    "questionText": " Decrease ?",
+    "answerText": " Increase"
+  },
+  {
+    "questionNum": 79185,
+    "questionText": " Deep ?",
+    "answerText": " Shallow"
+  },
+  {
+    "questionNum": 79186,
+    "questionText": " Definite ?",
+    "answerText": " Indefinite"
+  },
+  {
+    "questionNum": 79187,
+    "questionText": " Demand ?",
+    "answerText": " Supply"
+  },
+  {
+    "questionNum": 79188,
+    "questionText": " Despair ?",
+    "answerText": " Hope"
+  },
+  {
+    "questionNum": 79189,
+    "questionText": " Dim ?",
+    "answerText": " Bright"
+  },
+  {
+    "questionNum": 79190,
+    "questionText": " Disappear ?",
+    "answerText": " Appear"
+  },
+  {
+    "questionNum": 79191,
+    "questionText": " Discourage ?",
+    "answerText": " Encourage"
+  },
+  {
+    "questionNum": 79192,
+    "questionText": " Diseased ?",
+    "answerText": " Healthy"
+  },
+  {
+    "questionNum": 79193,
+    "questionText": " Down ?",
+    "answerText": " Up"
+  },
+  {
+    "questionNum": 79194,
+    "questionText": " Downwards ?",
+    "answerText": " Upwards"
+  },
+  {
+    "questionNum": 79195,
+    "questionText": " Dreary ?",
+    "answerText": " Cheerful"
+  },
+  {
+    "questionNum": 79196,
+    "questionText": " Dry ?",
+    "answerText": " Moist; Wet"
+  },
+  {
+    "questionNum": 79197,
+    "questionText": " Dull ?",
+    "answerText": " Bright; Shiny"
+  },
+  {
+    "questionNum": 79198,
+    "questionText": " Dusk ?",
+    "answerText": " Dawn"
+  },
+  {
+    "questionNum": 79199,
+    "questionText": " Early ?",
+    "answerText": " Late"
+  },
+  {
+    "questionNum": 79200,
+    "questionText": " East ?",
+    "answerText": " West"
+  },
+  {
+    "questionNum": 79201,
+    "questionText": " Easy ?",
+    "answerText": " Hard; Difficult"
+  },
+  {
+    "questionNum": 79202,
+    "questionText": " Empty ?",
+    "answerText": " Full"
+  },
+  {
+    "questionNum": 79203,
+    "questionText": " Encourage ?",
+    "answerText": " Discourage"
+  },
+  {
+    "questionNum": 79204,
+    "questionText": " End ?",
+    "answerText": " Begin; Start"
+  },
+  {
+    "questionNum": 79205,
+    "questionText": " Enter ?",
+    "answerText": " Eit"
+  },
+  {
+    "questionNum": 79206,
+    "questionText": " Even ?",
+    "answerText": " Odd"
+  },
+  {
+    "questionNum": 79207,
+    "questionText": " Epand ?",
+    "answerText": " Contract"
+  },
+  {
+    "questionNum": 79208,
+    "questionText": " Eport ?",
+    "answerText": " Import"
+  },
+  {
+    "questionNum": 79209,
+    "questionText": " Eterior ?",
+    "answerText": " Interior"
+  },
+  {
+    "questionNum": 79210,
+    "questionText": " Eternal ?",
+    "answerText": " Internal"
+  },
+  {
+    "questionNum": 79211,
+    "questionText": " Fade ?",
+    "answerText": " Brighten"
+  },
+  {
+    "questionNum": 79212,
+    "questionText": " Fail ?",
+    "answerText": " Succeed"
+  },
+  {
+    "questionNum": 79213,
+    "questionText": " False ?",
+    "answerText": 1
+  },
+  {
+    "questionNum": 79214,
+    "questionText": " Famous ?",
+    "answerText": " Unknown"
+  },
+  {
+    "questionNum": 79215,
+    "questionText": " Far ?",
+    "answerText": " Near"
+  },
+  {
+    "questionNum": 79216,
+    "questionText": " Fast ?",
+    "answerText": " Slow"
+  },
+  {
+    "questionNum": 79217,
+    "questionText": " Fat ?",
+    "answerText": " Thin"
+  },
+  {
+    "questionNum": 79218,
+    "questionText": " Feeble ?",
+    "answerText": " Strong; Powerful"
+  },
+  {
+    "questionNum": 79219,
+    "questionText": " Few ?",
+    "answerText": " Many"
+  },
+  {
+    "questionNum": 79220,
+    "questionText": " Find ?",
+    "answerText": " Lose"
+  },
+  {
+    "questionNum": 79221,
+    "questionText": " First ?",
+    "answerText": " Last"
+  },
+  {
+    "questionNum": 79222,
+    "questionText": " Float ?",
+    "answerText": " Sink"
+  },
+  {
+    "questionNum": 79223,
+    "questionText": " Foolish ?",
+    "answerText": " Wise"
+  },
+  {
+    "questionNum": 79224,
+    "questionText": " Fore ?",
+    "answerText": " Aft"
+  },
+  {
+    "questionNum": 79225,
+    "questionText": " Free ?",
+    "answerText": " Bound; Captive"
+  },
+  {
+    "questionNum": 79226,
+    "questionText": " Fold ?",
+    "answerText": " Unfold"
+  },
+  {
+    "questionNum": 79227,
+    "questionText": " Forget ?",
+    "answerText": " Remember"
+  },
+  {
+    "questionNum": 79228,
+    "questionText": " Found ?",
+    "answerText": " Lost"
+  },
+  {
+    "questionNum": 79229,
+    "questionText": " Fresh ?",
+    "answerText": " Stale"
+  },
+  {
+    "questionNum": 79230,
+    "questionText": " Frequent ?",
+    "answerText": " Seldom"
+  },
+  {
+    "questionNum": 79231,
+    "questionText": " Friend ?",
+    "answerText": " Enemy"
+  },
+  {
+    "questionNum": 79232,
+    "questionText": " For ?",
+    "answerText": " Against"
+  },
+  {
+    "questionNum": 79233,
+    "questionText": " Fortunate ?",
+    "answerText": " Unfortunate"
+  },
+  {
+    "questionNum": 79234,
+    "questionText": " Full ?",
+    "answerText": " Empty"
+  },
+  {
+    "questionNum": 79235,
+    "questionText": " Generous ?",
+    "answerText": " Stingy"
+  },
+  {
+    "questionNum": 79236,
+    "questionText": " Gentle ?",
+    "answerText": " Rough"
+  },
+  {
+    "questionNum": 79237,
+    "questionText": " Get ?",
+    "answerText": " Give"
+  },
+  {
+    "questionNum": 79238,
+    "questionText": " Giant ?",
+    "answerText": " Tiny; Small; Dwarf"
+  },
+  {
+    "questionNum": 79239,
+    "questionText": " Girl ?",
+    "answerText": " Boy"
+  },
+  {
+    "questionNum": 79240,
+    "questionText": " Give ?",
+    "answerText": " Receive; Take"
+  },
+  {
+    "questionNum": 79241,
+    "questionText": " Glad ?",
+    "answerText": " Sad; Sorry"
+  },
+  {
+    "questionNum": 79242,
+    "questionText": " Gloomy ?",
+    "answerText": " Cheerful"
+  },
+  {
+    "questionNum": 79243,
+    "questionText": " Go ?",
+    "answerText": " Stop"
+  },
+  {
+    "questionNum": 79244,
+    "questionText": " Good ?",
+    "answerText": " Bad; Evil"
+  },
+  {
+    "questionNum": 79245,
+    "questionText": " Grant ?",
+    "answerText": " Refuse"
+  },
+  {
+    "questionNum": 79246,
+    "questionText": " Great ?",
+    "answerText": " Tiny; Small; Unimportant"
+  },
+  {
+    "questionNum": 79247,
+    "questionText": " Grow ?",
+    "answerText": " Shrink"
+  },
+  {
+    "questionNum": 79248,
+    "questionText": " Guest ?",
+    "answerText": " Host"
+  },
+  {
+    "questionNum": 79249,
+    "questionText": " Guilty ?",
+    "answerText": " Innocent"
+  },
+  {
+    "questionNum": 79250,
+    "questionText": " Happy ?",
+    "answerText": " Sad"
+  },
+  {
+    "questionNum": 79251,
+    "questionText": " Hard ?",
+    "answerText": " Easy"
+  },
+  {
+    "questionNum": 79252,
+    "questionText": " Harmful ?",
+    "answerText": " Harmless"
+  },
+  {
+    "questionNum": 79253,
+    "questionText": " Harsh ?",
+    "answerText": " Mild"
+  },
+  {
+    "questionNum": 79254,
+    "questionText": " Hate ?",
+    "answerText": " Love"
+  },
+  {
+    "questionNum": 79255,
+    "questionText": " Haves ?",
+    "answerText": " Have-Nots"
+  },
+  {
+    "questionNum": 79256,
+    "questionText": " Healthy ?",
+    "answerText": " Diseased; Ill; Sick"
+  },
+  {
+    "questionNum": 79257,
+    "questionText": " Heaven ?",
+    "answerText": " Hell"
+  },
+  {
+    "questionNum": 79258,
+    "questionText": " Heavy ?",
+    "answerText": " Light"
+  },
+  {
+    "questionNum": 79259,
+    "questionText": " Help ?",
+    "answerText": " Hinder"
+  },
+  {
+    "questionNum": 79260,
+    "questionText": " Here ?",
+    "answerText": " There"
+  },
+  {
+    "questionNum": 79261,
+    "questionText": " Hero ?",
+    "answerText": " Coward"
+  },
+  {
+    "questionNum": 79262,
+    "questionText": " High ?",
+    "answerText": " Low"
+  },
+  {
+    "questionNum": 79263,
+    "questionText": " Hill ?",
+    "answerText": " Valley"
+  },
+  {
+    "questionNum": 79264,
+    "questionText": " Hinder ?",
+    "answerText": " Help"
+  },
+  {
+    "questionNum": 79265,
+    "questionText": " Honest ?",
+    "answerText": " Dishonest"
+  },
+  {
+    "questionNum": 79266,
+    "questionText": " Horizontal ?",
+    "answerText": " Vertical"
+  },
+  {
+    "questionNum": 79267,
+    "questionText": " Hot ?",
+    "answerText": " Cold"
+  },
+  {
+    "questionNum": 79268,
+    "questionText": " Humble ?",
+    "answerText": " Proud"
+  },
+  {
+    "questionNum": 79269,
+    "questionText": " Ill ?",
+    "answerText": " Healthy; Well"
+  },
+  {
+    "questionNum": 79270,
+    "questionText": " Immense ?",
+    "answerText": " Tiny; Small"
+  },
+  {
+    "questionNum": 79271,
+    "questionText": " Important ?",
+    "answerText": " Trivial"
+  },
+  {
+    "questionNum": 79272,
+    "questionText": " In ?",
+    "answerText": " Out"
+  },
+  {
+    "questionNum": 79273,
+    "questionText": " Include ?",
+    "answerText": " Eclude"
+  },
+  {
+    "questionNum": 79274,
+    "questionText": " Increase ?",
+    "answerText": " Decrease"
+  },
+  {
+    "questionNum": 79275,
+    "questionText": " Inferior ?",
+    "answerText": " Superior"
+  },
+  {
+    "questionNum": 79276,
+    "questionText": " Inhale ?",
+    "answerText": " Ehale"
+  },
+  {
+    "questionNum": 79277,
+    "questionText": " Inner ?",
+    "answerText": " Outer"
+  },
+  {
+    "questionNum": 79278,
+    "questionText": " Inside ?",
+    "answerText": " Outside"
+  },
+  {
+    "questionNum": 79279,
+    "questionText": " Intelligent ?",
+    "answerText": " Stupid; Unintelligent"
+  },
+  {
+    "questionNum": 79280,
+    "questionText": " Interesting ?",
+    "answerText": " Boring"
+  },
+  {
+    "questionNum": 79281,
+    "questionText": " Interior ?",
+    "answerText": " Eterior"
+  },
+  {
+    "questionNum": 79282,
+    "questionText": " Internal ?",
+    "answerText": " Eternal"
+  },
+  {
+    "questionNum": 79283,
+    "questionText": " Intentional ?",
+    "answerText": " Accidental"
+  },
+  {
+    "questionNum": 79284,
+    "questionText": " Join ?",
+    "answerText": " Separate"
+  },
+  {
+    "questionNum": 79285,
+    "questionText": " Junior ?",
+    "answerText": " Senior"
+  },
+  {
+    "questionNum": 79286,
+    "questionText": " Just ?",
+    "answerText": " Unjust"
+  },
+  {
+    "questionNum": 79287,
+    "questionText": " Justice ?",
+    "answerText": " Injustice"
+  },
+  {
+    "questionNum": 79288,
+    "questionText": " Knowledge ?",
+    "answerText": " Ignorance"
+  },
+  {
+    "questionNum": 79289,
+    "questionText": " Known ?",
+    "answerText": " Unknown"
+  },
+  {
+    "questionNum": 79290,
+    "questionText": " Landlord ?",
+    "answerText": " Tenant"
+  },
+  {
+    "questionNum": 79291,
+    "questionText": " Large ?",
+    "answerText": " Small"
+  },
+  {
+    "questionNum": 79292,
+    "questionText": " Last ?",
+    "answerText": " First"
+  },
+  {
+    "questionNum": 79293,
+    "questionText": " Laugh ?",
+    "answerText": " Cry"
+  },
+  {
+    "questionNum": 79294,
+    "questionText": " Lawful ?",
+    "answerText": " Unlawful; Illegal"
+  },
+  {
+    "questionNum": 79295,
+    "questionText": " Lazy ?",
+    "answerText": " Industrious"
+  },
+  {
+    "questionNum": 79296,
+    "questionText": " Leader ?",
+    "answerText": " Follower"
+  },
+  {
+    "questionNum": 79297,
+    "questionText": " Left ?",
+    "answerText": " Right"
+  },
+  {
+    "questionNum": 79298,
+    "questionText": " Lend ?",
+    "answerText": " Borrow"
+  },
+  {
+    "questionNum": 79299,
+    "questionText": " Lengthen ?",
+    "answerText": " Shorten"
+  },
+  {
+    "questionNum": 79300,
+    "questionText": " Lenient ?",
+    "answerText": " Strict"
+  },
+  {
+    "questionNum": 79301,
+    "questionText": " Less ?",
+    "answerText": " More"
+  },
+  {
+    "questionNum": 79302,
+    "questionText": " Light ?",
+    "answerText": " Dark; Heavy"
+  },
+  {
+    "questionNum": 79303,
+    "questionText": " Like ?",
+    "answerText": " Dislike; Hate"
+  },
+  {
+    "questionNum": 79304,
+    "questionText": " Likely ?",
+    "answerText": " Unlikely"
+  },
+  {
+    "questionNum": 79305,
+    "questionText": " Limited ?",
+    "answerText": " Boundless"
+  },
+  {
+    "questionNum": 79306,
+    "questionText": " Little ?",
+    "answerText": " Big"
+  },
+  {
+    "questionNum": 79307,
+    "questionText": " Long ?",
+    "answerText": " Short"
+  },
+  {
+    "questionNum": 79308,
+    "questionText": " Loose ?",
+    "answerText": " Tight"
+  },
+  {
+    "questionNum": 79309,
+    "questionText": " Lose ?",
+    "answerText": " Find"
+  },
+  {
+    "questionNum": 79310,
+    "questionText": " Loss ?",
+    "answerText": " Win"
+  },
+  {
+    "questionNum": 79311,
+    "questionText": " Loud ?",
+    "answerText": " Quiet"
+  },
+  {
+    "questionNum": 79312,
+    "questionText": " Love ?",
+    "answerText": " Hate"
+  },
+  {
+    "questionNum": 79313,
+    "questionText": " Low ?",
+    "answerText": " High"
+  },
+  {
+    "questionNum": 79314,
+    "questionText": " Loyal ?",
+    "answerText": " Disloyal"
+  },
+  {
+    "questionNum": 79315,
+    "questionText": " Mad ?",
+    "answerText": " Happy; Sane"
+  },
+  {
+    "questionNum": 79316,
+    "questionText": " Major ?",
+    "answerText": " Minor"
+  },
+  {
+    "questionNum": 79317,
+    "questionText": " Many ?",
+    "answerText": " Few"
+  },
+  {
+    "questionNum": 79318,
+    "questionText": " Mature ?",
+    "answerText": " Immature"
+  },
+  {
+    "questionNum": 79319,
+    "questionText": " Maimum ?",
+    "answerText": " Minimum"
+  },
+  {
+    "questionNum": 79320,
+    "questionText": " Melt ?",
+    "answerText": " Freeze"
+  },
+  {
+    "questionNum": 79321,
+    "questionText": " Merry ?",
+    "answerText": " Sad"
+  },
+  {
+    "questionNum": 79322,
+    "questionText": " Messy ?",
+    "answerText": " Neat"
+  },
+  {
+    "questionNum": 79323,
+    "questionText": " Minor ?",
+    "answerText": " Major"
+  },
+  {
+    "questionNum": 79324,
+    "questionText": " Minority ?",
+    "answerText": " Majority"
+  },
+  {
+    "questionNum": 79325,
+    "questionText": " Miser ?",
+    "answerText": " Spendthrift"
+  },
+  {
+    "questionNum": 79326,
+    "questionText": " Misunderstand ?",
+    "answerText": " Understand"
+  },
+  {
+    "questionNum": 79327,
+    "questionText": " More ?",
+    "answerText": " Less"
+  },
+  {
+    "questionNum": 79328,
+    "questionText": " Nadir ?",
+    "answerText": " Zenith"
+  },
+  {
+    "questionNum": 79329,
+    "questionText": " Narrow ?",
+    "answerText": " Wide"
+  },
+  {
+    "questionNum": 79330,
+    "questionText": " Near ?",
+    "answerText": " Far; Distant"
+  },
+  {
+    "questionNum": 79331,
+    "questionText": " Neat ?",
+    "answerText": " Messy; Untidy"
+  },
+  {
+    "questionNum": 79332,
+    "questionText": " Never ?",
+    "answerText": " Always"
+  },
+  {
+    "questionNum": 79333,
+    "questionText": " New ?",
+    "answerText": " Old"
+  },
+  {
+    "questionNum": 79334,
+    "questionText": " Night ?",
+    "answerText": " Day"
+  },
+  {
+    "questionNum": 79335,
+    "questionText": " Nighttime ?",
+    "answerText": " Daytime"
+  },
+  {
+    "questionNum": 79336,
+    "questionText": " No ?",
+    "answerText": " Yes"
+  },
+  {
+    "questionNum": 79337,
+    "questionText": " Noisy ?",
+    "answerText": " Quiet"
+  },
+  {
+    "questionNum": 79338,
+    "questionText": " None ?",
+    "answerText": " Some"
+  },
+  {
+    "questionNum": 79339,
+    "questionText": " North ?",
+    "answerText": " South"
+  },
+  {
+    "questionNum": 79340,
+    "questionText": " Obedient ?",
+    "answerText": " Disobedient"
+  },
+  {
+    "questionNum": 79341,
+    "questionText": " Odd ?",
+    "answerText": " Even"
+  },
+  {
+    "questionNum": 79342,
+    "questionText": " Offer ?",
+    "answerText": " Refuse"
+  },
+  {
+    "questionNum": 79343,
+    "questionText": " Old ?",
+    "answerText": " Young"
+  },
+  {
+    "questionNum": 79344,
+    "questionText": " On ?",
+    "answerText": " Off"
+  },
+  {
+    "questionNum": 79345,
+    "questionText": " Open ?",
+    "answerText": " Closed; Shut"
+  },
+  {
+    "questionNum": 79346,
+    "questionText": " Opposite ?",
+    "answerText": " Same; Similar"
+  },
+  {
+    "questionNum": 79347,
+    "questionText": " Optimist ?",
+    "answerText": " Pessimist"
+  },
+  {
+    "questionNum": 79348,
+    "questionText": " Out ?",
+    "answerText": " In"
+  },
+  {
+    "questionNum": 79349,
+    "questionText": " Outer ?",
+    "answerText": " Inner"
+  },
+  {
+    "questionNum": 79350,
+    "questionText": " Over ?",
+    "answerText": " Under"
+  },
+  {
+    "questionNum": 79351,
+    "questionText": " Past ?",
+    "answerText": " Present"
+  },
+  {
+    "questionNum": 79352,
+    "questionText": " Patient ?",
+    "answerText": " Impatient"
+  },
+  {
+    "questionNum": 79353,
+    "questionText": " Peace ?",
+    "answerText": " War"
+  },
+  {
+    "questionNum": 79354,
+    "questionText": " Permanent ?",
+    "answerText": " Temporary"
+  },
+  {
+    "questionNum": 79355,
+    "questionText": " Plentiful ?",
+    "answerText": " Scarce"
+  },
+  {
+    "questionNum": 79356,
+    "questionText": " Plural ?",
+    "answerText": " Singular"
+  },
+  {
+    "questionNum": 79357,
+    "questionText": " Poetry ?",
+    "answerText": " Prose"
+  },
+  {
+    "questionNum": 79358,
+    "questionText": " Polite ?",
+    "answerText": " Rude; Impolite"
+  },
+  {
+    "questionNum": 79359,
+    "questionText": " Possible ?",
+    "answerText": " Impossible"
+  },
+  {
+    "questionNum": 79360,
+    "questionText": " Poverty ?",
+    "answerText": " Wealth; Riches"
+  },
+  {
+    "questionNum": 79361,
+    "questionText": " Powerful ?",
+    "answerText": " Weak"
+  },
+  {
+    "questionNum": 79362,
+    "questionText": " Pretty ?",
+    "answerText": " Ugly"
+  },
+  {
+    "questionNum": 79363,
+    "questionText": " Private ?",
+    "answerText": " Public"
+  },
+  {
+    "questionNum": 79364,
+    "questionText": " Prudent ?",
+    "answerText": " Imprudent"
+  },
+  {
+    "questionNum": 79365,
+    "questionText": " Pure ?",
+    "answerText": " Impure; Contaminated"
+  },
+  {
+    "questionNum": 79366,
+    "questionText": " Push ?",
+    "answerText": " Pull"
+  },
+  {
+    "questionNum": 79367,
+    "questionText": " Qualified ?",
+    "answerText": " Unqualified"
+  },
+  {
+    "questionNum": 79368,
+    "questionText": " Question ?",
+    "answerText": " Answer"
+  },
+  {
+    "questionNum": 79369,
+    "questionText": " Quiet ?",
+    "answerText": " Loud; Noisy"
+  },
+  {
+    "questionNum": 79370,
+    "questionText": " Raise ?",
+    "answerText": " Lower"
+  },
+  {
+    "questionNum": 79371,
+    "questionText": " Rapid ?",
+    "answerText": " Slow"
+  },
+  {
+    "questionNum": 79372,
+    "questionText": " Rare ?",
+    "answerText": " Common"
+  },
+  {
+    "questionNum": 79373,
+    "questionText": " Regular ?",
+    "answerText": " Irregular"
+  },
+  {
+    "questionNum": 79374,
+    "questionText": " Real ?",
+    "answerText": " Fake"
+  },
+  {
+    "questionNum": 79375,
+    "questionText": " Rich ?",
+    "answerText": " Poor"
+  },
+  {
+    "questionNum": 79376,
+    "questionText": " Right ?",
+    "answerText": " Left; Wrong"
+  },
+  {
+    "questionNum": 79377,
+    "questionText": " Right Side-Up ?",
+    "answerText": " Upside-Down"
+  },
+  {
+    "questionNum": 79378,
+    "questionText": " Rough ?",
+    "answerText": " Smooth"
+  },
+  {
+    "questionNum": 79379,
+    "questionText": " Rude ?",
+    "answerText": " Courteous"
+  },
+  {
+    "questionNum": 79380,
+    "questionText": " Safe ?",
+    "answerText": " Unsafe"
+  },
+  {
+    "questionNum": 79381,
+    "questionText": " Same ?",
+    "answerText": " Opposite"
+  },
+  {
+    "questionNum": 79382,
+    "questionText": " Satisfactory ?",
+    "answerText": " Unsatisfactory"
+  },
+  {
+    "questionNum": 79383,
+    "questionText": " Secure ?",
+    "answerText": " Insecure"
+  },
+  {
+    "questionNum": 79384,
+    "questionText": " Scatter ?",
+    "answerText": " Collect"
+  },
+  {
+    "questionNum": 79385,
+    "questionText": " Separate ?",
+    "answerText": " Join; Together"
+  },
+  {
+    "questionNum": 79386,
+    "questionText": " Serious ?",
+    "answerText": " Trivial"
+  },
+  {
+    "questionNum": 79387,
+    "questionText": " Second-Hand ?",
+    "answerText": " New"
+  },
+  {
+    "questionNum": 79388,
+    "questionText": " Shallow ?",
+    "answerText": " Deep"
+  },
+  {
+    "questionNum": 79389,
+    "questionText": " Shrink ?",
+    "answerText": " Grow"
+  },
+  {
+    "questionNum": 79390,
+    "questionText": " Sick ?",
+    "answerText": " Healthy"
+  },
+  {
+    "questionNum": 79391,
+    "questionText": " Simple ?",
+    "answerText": " Comple; Hard"
+  },
+  {
+    "questionNum": 79392,
+    "questionText": " Singular ?",
+    "answerText": " Plural"
+  },
+  {
+    "questionNum": 79393,
+    "questionText": " Sink ?",
+    "answerText": " Float"
+  },
+  {
+    "questionNum": 79394,
+    "questionText": " Slim ?",
+    "answerText": " Fat; Thick"
+  },
+  {
+    "questionNum": 79395,
+    "questionText": " Slow ?",
+    "answerText": " Fast"
+  },
+  {
+    "questionNum": 79396,
+    "questionText": " Sober ?",
+    "answerText": " Drunk"
+  },
+  {
+    "questionNum": 79397,
+    "questionText": " Soft ?",
+    "answerText": " Hard"
+  },
+  {
+    "questionNum": 79398,
+    "questionText": " Some ?",
+    "answerText": " None"
+  },
+  {
+    "questionNum": 79399,
+    "questionText": " Sorrow ?",
+    "answerText": " Joy"
+  },
+  {
+    "questionNum": 79400,
+    "questionText": " Sour ?",
+    "answerText": " Sweet"
+  },
+  {
+    "questionNum": 79401,
+    "questionText": " Sow ?",
+    "answerText": " Reap"
+  },
+  {
+    "questionNum": 79402,
+    "questionText": " Straight ?",
+    "answerText": " Crooked"
+  },
+  {
+    "questionNum": 79403,
+    "questionText": " Start ?",
+    "answerText": " Finish"
+  },
+  {
+    "questionNum": 79404,
+    "questionText": " Stop ?",
+    "answerText": " Go"
+  },
+  {
+    "questionNum": 79405,
+    "questionText": " Strict ?",
+    "answerText": " Lenient"
+  },
+  {
+    "questionNum": 79406,
+    "questionText": " Strong ?",
+    "answerText": " Weak"
+  },
+  {
+    "questionNum": 79407,
+    "questionText": " Success ?",
+    "answerText": " Failure"
+  },
+  {
+    "questionNum": 79408,
+    "questionText": " Sunny ?",
+    "answerText": " Cloudy"
+  },
+  {
+    "questionNum": 79409,
+    "questionText": " Synonym ?",
+    "answerText": " Antonym"
+  },
+  {
+    "questionNum": 79410,
+    "questionText": " Sweet ?",
+    "answerText": " Sour"
+  },
+  {
+    "questionNum": 79411,
+    "questionText": " Take ?",
+    "answerText": " Give"
+  },
+  {
+    "questionNum": 79412,
+    "questionText": " Tall ?",
+    "answerText": " Short"
+  },
+  {
+    "questionNum": 79413,
+    "questionText": " Tame ?",
+    "answerText": " Wild"
+  },
+  {
+    "questionNum": 79414,
+    "questionText": " Them ?",
+    "answerText": " Us"
+  },
+  {
+    "questionNum": 79415,
+    "questionText": " There ?",
+    "answerText": " Here"
+  },
+  {
+    "questionNum": 79416,
+    "questionText": " Thick ?",
+    "answerText": " Thin"
+  },
+  {
+    "questionNum": 79417,
+    "questionText": " Tight ?",
+    "answerText": " Loose; Slack"
+  },
+  {
+    "questionNum": 79418,
+    "questionText": " Tiny ?",
+    "answerText": " Big; Huge"
+  },
+  {
+    "questionNum": 79419,
+    "questionText": " Together ?",
+    "answerText": " Apart"
+  },
+  {
+    "questionNum": 79420,
+    "questionText": " Top ?",
+    "answerText": " Bottom"
+  },
+  {
+    "questionNum": 79421,
+    "questionText": " Tough ?",
+    "answerText": " Easy; Tender"
+  },
+  {
+    "questionNum": 79422,
+    "questionText": " Transparent ?",
+    "answerText": " Opaque"
+  },
+  {
+    "questionNum": 79423,
+    "questionText": " True ?"
+  },
+  {
+    "questionNum": 79424,
+    "questionText": " Truth ?",
+    "answerText": " Flasehood; Lie; Untruth"
+  },
+  {
+    "questionNum": 79425,
+    "questionText": " Under ?",
+    "answerText": " Over"
+  },
+  {
+    "questionNum": 79426,
+    "questionText": " Unfold ?",
+    "answerText": " Fold"
+  },
+  {
+    "questionNum": 79427,
+    "questionText": " Unknown ?",
+    "answerText": " Known"
+  },
+  {
+    "questionNum": 79428,
+    "questionText": " Unqualified ?",
+    "answerText": " Qualified"
+  },
+  {
+    "questionNum": 79429,
+    "questionText": " Unsafe ?",
+    "answerText": " Safe"
+  },
+  {
+    "questionNum": 79430,
+    "questionText": " Up ?",
+    "answerText": " Down"
+  },
+  {
+    "questionNum": 79431,
+    "questionText": " Upside -Down ?",
+    "answerText": " Right-Side-Up"
+  },
+  {
+    "questionNum": 79432,
+    "questionText": " Upstairs ?",
+    "answerText": " Downstairs"
+  },
+  {
+    "questionNum": 79433,
+    "questionText": " Us ?",
+    "answerText": " Them"
+  },
+  {
+    "questionNum": 79434,
+    "questionText": " Useful ?",
+    "answerText": " Useless"
+  },
+  {
+    "questionNum": 79435,
+    "questionText": " Vacant ?",
+    "answerText": " Occupied"
+  },
+  {
+    "questionNum": 79436,
+    "questionText": " Vanish ?",
+    "answerText": " Appear"
+  },
+  {
+    "questionNum": 79437,
+    "questionText": " Vast ?",
+    "answerText": " Tiny"
+  },
+  {
+    "questionNum": 79438,
+    "questionText": " Victory ?",
+    "answerText": " Defeat"
+  },
+  {
+    "questionNum": 79439,
+    "questionText": " Virtue ?",
+    "answerText": " Vice"
+  },
+  {
+    "questionNum": 79440,
+    "questionText": " Visible ?",
+    "answerText": " Invisible"
+  },
+  {
+    "questionNum": 79441,
+    "questionText": " Voluntary ?",
+    "answerText": " Compulsory"
+  },
+  {
+    "questionNum": 79442,
+    "questionText": " War ?",
+    "answerText": " Peace"
+  },
+  {
+    "questionNum": 79443,
+    "questionText": " Wa ?",
+    "answerText": " Wane"
+  },
+  {
+    "questionNum": 79444,
+    "questionText": " Weak ?",
+    "answerText": " Strong"
+  },
+  {
+    "questionNum": 79445,
+    "questionText": " Wet ?",
+    "answerText": " Dry"
+  },
+  {
+    "questionNum": 79446,
+    "questionText": " White ?",
+    "answerText": " Black"
+  },
+  {
+    "questionNum": 79447,
+    "questionText": " Wide ?",
+    "answerText": " Narrow"
+  },
+  {
+    "questionNum": 79448,
+    "questionText": " Win ?",
+    "answerText": " Lose"
+  },
+  {
+    "questionNum": 79449,
+    "questionText": " Wisdom ?",
+    "answerText": " Folly; Stupidity"
+  },
+  {
+    "questionNum": 79450,
+    "questionText": " Within ?",
+    "answerText": " Outside"
+  },
+  {
+    "questionNum": 79451,
+    "questionText": " Wrong ?",
+    "answerText": " Right"
+  },
+  {
+    "questionNum": 79452,
+    "questionText": " Yes ?",
+    "answerText": " No"
+  },
+  {
+    "questionNum": 79453,
+    "questionText": " Yin ?",
+    "answerText": " Yang"
+  },
+  {
+    "questionNum": 79454,
+    "questionText": " Young ?",
+    "answerText": " Old"
+  },
+  {
+    "questionNum": 79455,
+    "questionText": " Zip ?",
+    "answerText": " Unzip"
+  },
+  {
+    "questionNum": 79456,
+    "questionText": " Zenith ?",
+    "answerText": " Nadir"
+  },
+  {
+    "questionNum": 79457,
+    "questionText": " absence ?",
+    "answerText": " presence"
+  },
+  {
+    "questionNum": 79458,
+    "questionText": " approval ?",
+    "answerText": " disapproval"
+  },
+  {
+    "questionNum": 79459,
+    "questionText": " approached ?",
+    "answerText": " receded; departed"
+  },
+  {
+    "questionNum": 79460,
+    "questionText": " advance ?",
+    "answerText": " retreat; retire"
+  },
+  {
+    "questionNum": 79461,
+    "questionText": " arrival ?",
+    "answerText": " departure"
+  },
+  {
+    "questionNum": 79462,
+    "questionText": " attack ?",
+    "answerText": " defense"
+  },
+  {
+    "questionNum": 79463,
+    "questionText": " attention ?",
+    "answerText": " inattention"
+  },
+  {
+    "questionNum": 79464,
+    "questionText": " asleep ?",
+    "answerText": " awake"
+  },
+  {
+    "questionNum": 79465,
+    "questionText": " bend ?",
+    "answerText": " straighten"
+  },
+  {
+    "questionNum": 79466,
+    "questionText": " beginning ?",
+    "answerText": " ending"
+  },
+  {
+    "questionNum": 79467,
+    "questionText": " blunt ?",
+    "answerText": " sharp"
+  },
+  {
+    "questionNum": 79468,
+    "questionText": " bravery ?",
+    "answerText": " cowardice"
+  },
+  {
+    "questionNum": 79469,
+    "questionText": " captivity ?",
+    "answerText": " freedom; liberty"
+  },
+  {
+    "questionNum": 79470,
+    "questionText": " cellar ?",
+    "answerText": " attic"
+  },
+  {
+    "questionNum": 79471,
+    "questionText": " cunning ?",
+    "answerText": " simple"
+  },
+  {
+    "questionNum": 79472,
+    "questionText": " dainty ?",
+    "answerText": " clumsy"
+  },
+  {
+    "questionNum": 79473,
+    "questionText": " danger ?",
+    "answerText": " safety"
+  },
+  {
+    "questionNum": 79474,
+    "questionText": " disease ?",
+    "answerText": " health"
+  },
+  {
+    "questionNum": 79475,
+    "questionText": " dismal ?",
+    "answerText": " cheerful"
+  },
+  {
+    "questionNum": 79476,
+    "questionText": " doctor ?",
+    "answerText": " patient"
+  },
+  {
+    "questionNum": 79477,
+    "questionText": " ebb ?",
+    "answerText": " flow"
+  },
+  {
+    "questionNum": 79478,
+    "questionText": " economise ?",
+    "answerText": " waste"
+  },
+  {
+    "questionNum": 79479,
+    "questionText": " entrance ?",
+    "answerText": " eit"
+  },
+  {
+    "questionNum": 79480,
+    "questionText": " employer ?",
+    "answerText": " employee"
+  },
+  {
+    "questionNum": 79481,
+    "questionText": " ecited ?",
+    "answerText": " calm"
+  },
+  {
+    "questionNum": 79482,
+    "questionText": " epensive ?",
+    "answerText": " inepensive; cheap"
+  },
+  {
+    "questionNum": 79483,
+    "questionText": " forelegs ?",
+    "answerText": " hind legs"
+  },
+  {
+    "questionNum": 79484,
+    "questionText": " freedom ?",
+    "answerText": " captivity"
+  },
+  {
+    "questionNum": 79485,
+    "questionText": " frank ?",
+    "answerText": " secretive"
+  },
+  {
+    "questionNum": 79486,
+    "questionText": " gather ?",
+    "answerText": " distribute"
+  },
+  {
+    "questionNum": 79487,
+    "questionText": " granted ?",
+    "answerText": " refused"
+  },
+  {
+    "questionNum": 79488,
+    "questionText": " guardian ?",
+    "answerText": " ward"
+  },
+  {
+    "questionNum": 79489,
+    "questionText": " hasten ?",
+    "answerText": " dawdle"
+  },
+  {
+    "questionNum": 79490,
+    "questionText": " height ?",
+    "answerText": " depth"
+  },
+  {
+    "questionNum": 79491,
+    "questionText": " hunger ?",
+    "answerText": " thirst"
+  },
+  {
+    "questionNum": 79492,
+    "questionText": " imitation ?",
+    "answerText": " genuine"
+  },
+  {
+    "questionNum": 79493,
+    "questionText": " imprison ?",
+    "answerText": " free"
+  },
+  {
+    "questionNum": 79494,
+    "questionText": " inhabited ?",
+    "answerText": " uninhabited"
+  },
+  {
+    "questionNum": 79495,
+    "questionText": " king ?",
+    "answerText": " subject"
+  },
+  {
+    "questionNum": 79496,
+    "questionText": " land ?",
+    "answerText": " sea"
+  },
+  {
+    "questionNum": 79497,
+    "questionText": " lawyer ?",
+    "answerText": " client"
+  },
+  {
+    "questionNum": 79498,
+    "questionText": " lecturer ?",
+    "answerText": " student"
+  },
+  {
+    "questionNum": 79499,
+    "questionText": " lender ?",
+    "answerText": " borrower"
+  },
+  {
+    "questionNum": 79500,
+    "questionText": " lofty ?",
+    "answerText": " lowly"
+  },
+  {
+    "questionNum": 79501,
+    "questionText": " magnetize ?",
+    "answerText": " demagnetize"
+  },
+  {
+    "questionNum": 79502,
+    "questionText": " master ?",
+    "answerText": " servant"
+  },
+  {
+    "questionNum": 79503,
+    "questionText": " me ?",
+    "answerText": " you"
+  },
+  {
+    "questionNum": 79504,
+    "questionText": " parent ?",
+    "answerText": " child"
+  },
+  {
+    "questionNum": 79505,
+    "questionText": " please ?",
+    "answerText": " displease"
+  },
+  {
+    "questionNum": 79506,
+    "questionText": " regularly ?",
+    "answerText": " irregularly"
+  },
+  {
+    "questionNum": 79507,
+    "questionText": " rigid ?",
+    "answerText": " pliable; soft"
+  },
+  {
+    "questionNum": 79508,
+    "questionText": " security ?",
+    "answerText": " insecurity"
+  },
+  {
+    "questionNum": 79509,
+    "questionText": " sense ?",
+    "answerText": " nonsense"
+  },
+  {
+    "questionNum": 79510,
+    "questionText": " shopkeeper ?",
+    "answerText": " customer"
+  },
+  {
+    "questionNum": 79511,
+    "questionText": " solid ?",
+    "answerText": " liquid"
+  },
+  {
+    "questionNum": 79512,
+    "questionText": " speaker ?",
+    "answerText": " listener"
+  },
+  {
+    "questionNum": 79513,
+    "questionText": " stand ?",
+    "answerText": " lie"
+  },
+  {
+    "questionNum": 79514,
+    "questionText": " teacher ?",
+    "answerText": " pupil"
+  },
+  {
+    "questionNum": 79515,
+    "questionText": " valuable ?",
+    "answerText": " valueless"
+  },
+  {
+    "questionNum": 79516,
+    "questionText": " vowel ?",
+    "answerText": " consonant"
+  },
+  {
+    "questionNum": 79517,
+    "questionText": " Abandon (v)",
+    "answerText": " give up; leave; forsake"
+  },
+  {
+    "questionNum": 79518,
+    "questionText": " Abbreviate (v)",
+    "answerText": " abridge; condense; shorten"
+  },
+  {
+    "questionNum": 79519,
+    "questionText": " Abdicate (v)",
+    "answerText": " quit; abandon; surrender"
+  },
+  {
+    "questionNum": 79520,
+    "questionText": " Ability (n)",
+    "answerText": " competence; capability; talent; proficiency"
+  },
+  {
+    "questionNum": 79521,
+    "questionText": " Abnormal (adj.)",
+    "answerText": " anomalous; peculiar; different"
+  },
+  {
+    "questionNum": 79522,
+    "questionText": " Absence(n)",
+    "answerText": " dearth; deficiency; scarcity"
+  },
+  {
+    "questionNum": 79523,
+    "questionText": " Absolute (adj.)",
+    "answerText": " complete; exact; genuine"
+  },
+  {
+    "questionNum": 79524,
+    "questionText": " Abstain (v)",
+    "answerText": " avoid; decline; refrain"
+  },
+  {
+    "questionNum": 79525,
+    "questionText": " Abundant (adj.)",
+    "answerText": " plentiful; full; bountiful"
+  },
+  {
+    "questionNum": 79526,
+    "questionText": " Accelerate(v)",
+    "answerText": " advance; expedite; hasten; hurry"
+  },
+  {
+    "questionNum": 79527,
+    "questionText": " Accent (n)",
+    "answerText": " emphasis; stress; pitch; tone"
+  },
+  {
+    "questionNum": 79528,
+    "questionText": " Accept (v)",
+    "answerText": " acquire; gain; obtain acknowledge; believe; recognize"
+  },
+  {
+    "questionNum": 79529,
+    "questionText": " Access(n)",
+    "answerText": " admission; admittance; approach; entrance"
+  },
+  {
+    "questionNum": 79530,
+    "questionText": " Accident (n)",
+    "answerText": " calamity; casualty; disaster; collision"
+  },
+  {
+    "questionNum": 79531,
+    "questionText": " Accord (v)",
+    "answerText": " agree; allow; confer; grant"
+  },
+  {
+    "questionNum": 79532,
+    "questionText": " Accuse(v)",
+    "answerText": " blame; charge; attribute; criminate"
+  },
+  {
+    "questionNum": 79533,
+    "questionText": " Acquaint (v)",
+    "answerText": " disclose; familiarise; inform; reveal"
+  },
+  {
+    "questionNum": 79534,
+    "questionText": " Acquaintance (n)",
+    "answerText": " colleague; companionship friend;"
+  },
+  {
+    "questionNum": 79535,
+    "questionText": " Advanced (adj.)",
+    "answerText": " extreme; foremost; forward; progressive"
+  },
+  {
+    "questionNum": 79536,
+    "questionText": " Advantageous (adj.)",
+    "answerText": " beneficial; profitable; gainful; convenient."
+  },
+  {
+    "questionNum": 79537,
+    "questionText": " Adventurous (adj.)",
+    "answerText": " bold; daring; reckless; risky"
+  },
+  {
+    "questionNum": 79538,
+    "questionText": " Affectionate (adj.)",
+    "answerText": " devoted; friendly; kind."
+  },
+  {
+    "questionNum": 79539,
+    "questionText": " Aggravate (v)",
+    "answerText": " exaggerate; irritate; annoy; intensify"
+  },
+  {
+    "questionNum": 79540,
+    "questionText": " Alliance (n)",
+    "answerText": " coalition; compact; treaty; agreement"
+  },
+  {
+    "questionNum": 79541,
+    "questionText": " Almighty (adj.)",
+    "answerText": " all powerful; omnipotent; invincible; great;"
+  },
+  {
+    "questionNum": 79542,
+    "questionText": " Although (conj)",
+    "answerText": " even if; even though; though; while"
+  },
+  {
+    "questionNum": 79543,
+    "questionText": " Altruistic (adj.)",
+    "answerText": " benevolent; humane; generous; charitable"
+  },
+  {
+    "questionNum": 79544,
+    "questionText": " Always (adv.)",
+    "answerText": " ever; evermore; forever; without exception"
+  },
+  {
+    "questionNum": 79545,
+    "questionText": " Ambiguous (adj.)",
+    "answerText": " confused; doubtful; obscure; vague"
+  },
+  {
+    "questionNum": 79546,
+    "questionText": " Among (prep)",
+    "answerText": " amidst; amongst; between; midst"
+  },
+  {
+    "questionNum": 79547,
+    "questionText": " Analysis (n)",
+    "answerText": " division; enquiry; review; scrutiny"
+  },
+  {
+    "questionNum": 79548,
+    "questionText": " Ancestor (n)",
+    "answerText": " forefather; predecessor; Antecedent; forerunner"
+  },
+  {
+    "questionNum": 79549,
+    "questionText": " Ancient (adj.)",
+    "answerText": " obsolete; aged; old-fashioned; out-of-date"
+  },
+  {
+    "questionNum": 79550,
+    "questionText": " Anonymous (adj.)",
+    "answerText": " nameless; unknown; faceless; impersonal"
+  },
+  {
+    "questionNum": 79551,
+    "questionText": " Antipathy (n)",
+    "answerText": " disgust; dislike; ill-will; enmity; hate"
+  },
+  {
+    "questionNum": 79552,
+    "questionText": " Anxiety (n)",
+    "answerText": " desire; distress; dread; tension; worry"
+  },
+  {
+    "questionNum": 79553,
+    "questionText": " Anxious (adj.)",
+    "answerText": " impatient; worried; tortured; afraid"
+  },
+  {
+    "questionNum": 79554,
+    "questionText": " Apathetic (adj.)",
+    "answerText": " emotionless; impassive; indifferent; passive"
+  },
+  {
+    "questionNum": 79555,
+    "questionText": " Apology (n)",
+    "answerText": " acknowledgement; excuse; justification; defence;"
+  },
+  {
+    "questionNum": 79556,
+    "questionText": " Apparent (adj.)",
+    "answerText": " clear; declared; obvious; visible"
+  },
+  {
+    "questionNum": 79557,
+    "questionText": " Applause (n)",
+    "answerText": " approval; commendation; congratulation; praise"
+  },
+  {
+    "questionNum": 79558,
+    "questionText": " Aristocrat (n)",
+    "answerText": " nobleman; noble; peeress; woman; peer"
+  },
+  {
+    "questionNum": 79559,
+    "questionText": " Arrival (n)",
+    "answerText": " appearance; approach; entrance; occurrence"
+  },
+  {
+    "questionNum": 79560,
+    "questionText": " Arrogant (adj.)",
+    "answerText": " conceited; haughty; proud; contemptuous"
+  },
+  {
+    "questionNum": 79561,
+    "questionText": " Artificial (adj.)",
+    "answerText": " man-made; bogus; thetic; unnatural"
+  },
+  {
+    "questionNum": 79562,
+    "questionText": " Ascend (v)",
+    "answerText": " mount; move up; climb; go up"
+  },
+  {
+    "questionNum": 79563,
+    "questionText": " Aspirant (n)",
+    "answerText": " applicant; suitor; candidate; competitor"
+  },
+  {
+    "questionNum": 79564,
+    "questionText": " Assassin(n)",
+    "answerText": " bravo; killer; murderer; slayer"
+  },
+  {
+    "questionNum": 79565,
+    "questionText": " Audible (adj.)",
+    "answerText": " appreciable; clear; detectable; distinct"
+  },
+  {
+    "questionNum": 79566,
+    "questionText": " Awkward (adj.)",
+    "answerText": " clumsy; difficult; inexpert"
+  },
+  {
+    "questionNum": 79567,
+    "questionText": " Bandit (n)",
+    "answerText": " desperado; highwayman; hijacker; robber; thief; gunman; gangster."
+  },
+  {
+    "questionNum": 79568,
+    "questionText": " Bankrupt (adj.)",
+    "answerText": " insolvent; ruined; spent; beggared; broke"
+  },
+  {
+    "questionNum": 79569,
+    "questionText": " Barbarian (n)",
+    "answerText": " boor; illiterate; philistine; savage"
+  },
+  {
+    "questionNum": 79570,
+    "questionText": " Barbarous(adj.)",
+    "answerText": " brutal; cruel; ferocious; vulgar; ignorant"
+  },
+  {
+    "questionNum": 79571,
+    "questionText": " Barren (adj.)",
+    "answerText": " desert; fruitless; infertile; dry"
+  },
+  {
+    "questionNum": 79572,
+    "questionText": " Basics(n)",
+    "answerText": " essentials; fundamentals; facts; necessaries"
+  },
+  {
+    "questionNum": 79573,
+    "questionText": " Battalion (n)",
+    "answerText": " army; brigade; company; regiment."
+  },
+  {
+    "questionNum": 79574,
+    "questionText": " Before (adv.)",
+    "answerText": " ahead; sooner; previously; earlier"
+  },
+  {
+    "questionNum": 79575,
+    "questionText": " Behaviour (n)",
+    "answerText": " conduct; dealing; habits; manner"
+  },
+  {
+    "questionNum": 79576,
+    "questionText": " Benevolence (n)",
+    "answerText": " compassion; goodness; sympathy; kindness"
+  },
+  {
+    "questionNum": 79577,
+    "questionText": " Betray (v)",
+    "answerText": " abandon; desert; forsake; disclose; expose"
+  },
+  {
+    "questionNum": 79578,
+    "questionText": " Bigot (n)",
+    "answerText": " dogmatist; racist; religionist; sexist"
+  },
+  {
+    "questionNum": 79579,
+    "questionText": " Biography (n)",
+    "answerText": " history; life history; curriculum; record"
+  },
+  {
+    "questionNum": 79580,
+    "questionText": " Bishop (n)",
+    "answerText": " archbishop; metropolitan"
+  },
+  {
+    "questionNum": 79581,
+    "questionText": " Blasphemous (adj.)",
+    "answerText": " irreligious; impious; profane; godless"
+  },
+  {
+    "questionNum": 79582,
+    "questionText": " Borrow (v)",
+    "answerText": " adopt; imitate; take; use"
+  },
+  {
+    "questionNum": 79583,
+    "questionText": " Boycott (v)",
+    "answerText": " exclude; ignore; prohibit; refuse; reject"
+  },
+  {
+    "questionNum": 79584,
+    "questionText": " Brave (adj.)",
+    "answerText": " bold; courageous; heroic; valiant"
+  },
+  {
+    "questionNum": 79585,
+    "questionText": " Brilliant(adj.)",
+    "answerText": " expert; famous; skilful; illustrious; intelligent."
+  },
+  {
+    "questionNum": 79586,
+    "questionText": " Buoyant (adj.)",
+    "answerText": " bright; cheerful; happy; joyful"
+  },
+  {
+    "questionNum": 79587,
+    "questionText": " Bureaucrat (n)",
+    "answerText": " administrator; officer; official"
+  },
+  {
+    "questionNum": 79588,
+    "questionText": " Business man (n)",
+    "answerText": " employer; executive; merchant; trader"
+  },
+  {
+    "questionNum": 79589,
+    "questionText": " Brittle (adj.)",
+    "answerText": " not tough; fragile"
+  },
+  {
+    "questionNum": 79590,
+    "questionText": " Cajole(v)",
+    "answerText": " coax; flatter; mislead; tempt"
+  },
+  {
+    "questionNum": 79591,
+    "questionText": " Calamity (n)",
+    "answerText": " adversity; tragedy; disaster; catastrophe; downfall;"
+  },
+  {
+    "questionNum": 79592,
+    "questionText": " Calm (adj.)",
+    "answerText": " quiet; relaxed; mild; peaceful; tranquil"
+  },
+  {
+    "questionNum": 79593,
+    "questionText": " Camouflage (n)",
+    "answerText": " deception; disguise; blind; cloak"
+  },
+  {
+    "questionNum": 79594,
+    "questionText": " Community (n)",
+    "answerText": " society; association; fellowship"
+  },
+  {
+    "questionNum": 79595,
+    "questionText": " Catalogue (n)",
+    "answerText": " list; record; register"
+  },
+  {
+    "questionNum": 79596,
+    "questionText": " Cautious (adj.)",
+    "answerText": " alert; careful; vigilant; watchful"
+  },
+  {
+    "questionNum": 79597,
+    "questionText": " Celebrate (v)",
+    "answerText": " commend; glorify; extol; honour"
+  },
+  {
+    "questionNum": 79598,
+    "questionText": " Cemetery (n)",
+    "answerText": " burial-ground; churchyard; graveyard"
+  },
+  {
+    "questionNum": 79599,
+    "questionText": " Colleague (n)",
+    "answerText": " ally; assistant; helper; partner"
+  },
+  {
+    "questionNum": 79600,
+    "questionText": " Comfortable (adj.)",
+    "answerText": " delightful; enjoyable; pleasant; restful"
+  },
+  {
+    "questionNum": 79601,
+    "questionText": " Command (v)",
+    "answerText": " charge; compel; dominate; govern"
+  },
+  {
+    "questionNum": 79602,
+    "questionText": " Compare (v)",
+    "answerText": " contrast; parallel; resemble; match"
+  },
+  {
+    "questionNum": 79603,
+    "questionText": " Compassionate (adj.)",
+    "answerText": " benevolent; humane; kind hearted; merciful"
+  },
+  {
+    "questionNum": 79604,
+    "questionText": " Compile (v)",
+    "answerText": " accumulate; arrange; gather; organise"
+  },
+  {
+    "questionNum": 79605,
+    "questionText": " Complicated (adj.)",
+    "answerText": " complex; difficult; elaborate; intricate"
+  },
+  {
+    "questionNum": 79606,
+    "questionText": " Conceal (v)",
+    "answerText": " bury; disguise; hide; obscure"
+  },
+  {
+    "questionNum": 79607,
+    "questionText": " Condemn (v)",
+    "answerText": " . blame; convict; reproach"
+  },
+  {
+    "questionNum": 79608,
+    "questionText": " Confident (adj.)",
+    "answerText": " convinced; satisfied; secure; sure"
+  },
+  {
+    "questionNum": 79609,
+    "questionText": " Congratulations (n)",
+    "answerText": " compliments; good wishes; greetings"
+  },
+  {
+    "questionNum": 79610,
+    "questionText": " Contemporary (adj.)",
+    "answerText": " current; latest; modem; recent"
+  },
+  {
+    "questionNum": 79611,
+    "questionText": " Controversy (n)",
+    "answerText": " argument; debate; dispute; quarrel"
+  },
+  {
+    "questionNum": 79612,
+    "questionText": " Convenience (n)",
+    "answerText": " advantage; comfort; service; appliance"
+  },
+  {
+    "questionNum": 79613,
+    "questionText": " Copy(n)",
+    "answerText": " duplicate; pattem; photostat; xerox"
+  },
+  {
+    "questionNum": 79614,
+    "questionText": " Courageous (adj.)",
+    "answerText": " brave; heroic; lion-hearted; high hearted"
+  },
+  {
+    "questionNum": 79615,
+    "questionText": " Courteous (adj.)",
+    "answerText": " attentive; polite; respectful; urbane"
+  },
+  {
+    "questionNum": 79616,
+    "questionText": " Cowardice (n)",
+    "answerText": " faint-hearted; fear"
+  },
+  {
+    "questionNum": 79617,
+    "questionText": " Credible (adj.)",
+    "answerText": " believable; reasonable; reliable; sincere"
+  },
+  {
+    "questionNum": 79618,
+    "questionText": " Credulous (adj.)",
+    "answerText": " trusting; uncritical; wide-eyed"
+  },
+  {
+    "questionNum": 79619,
+    "questionText": " Critical(adj.)",
+    "answerText": " crucial; urgent; vital"
+  },
+  {
+    "questionNum": 79620,
+    "questionText": " Cruel (adj.)",
+    "answerText": " brutal; fierce; ferocious; murderous"
+  },
+  {
+    "questionNum": 79621,
+    "questionText": " Customer (n)",
+    "answerText": " buyer; client; consumer; purchaser"
+  },
+  {
+    "questionNum": 79622,
+    "questionText": " Dangerous (adj.)",
+    "answerText": " hazardous; perilous; serious; threatening"
+  },
+  {
+    "questionNum": 79623,
+    "questionText": " Dearth (n)",
+    "answerText": " absence; shortage; poverty; scarcity"
+  },
+  {
+    "questionNum": 79624,
+    "questionText": " Dedication (n)",
+    "answerText": " devotion; loyalty; faithfulness"
+  },
+  {
+    "questionNum": 79625,
+    "questionText": " Delightful (adj.)",
+    "answerText": " enjoyable; fascinating; pleasant"
+  },
+  {
+    "questionNum": 79626,
+    "questionText": " Democracy (n)",
+    "answerText": " autonomy; republic; self govemment"
+  },
+  {
+    "questionNum": 79627,
+    "questionText": " Depreciate (v)",
+    "answerText": " decrease; reduce; minimise; devalue"
+  },
+  {
+    "questionNum": 79628,
+    "questionText": " Descend (v)",
+    "answerText": " dismount; deteriorate"
+  },
+  {
+    "questionNum": 79629,
+    "questionText": " Despair (v)",
+    "answerText": " . collapse; give up; surrender"
+  },
+  {
+    "questionNum": 79630,
+    "questionText": " Destroy (v)",
+    "answerText": " demolish; devastate; eliminate; extinguish"
+  },
+  {
+    "questionNum": 79631,
+    "questionText": " Device (n)",
+    "answerText": " apparatus; tool; Instrument; appliance"
+  },
+  {
+    "questionNum": 79632,
+    "questionText": " Devil (n)",
+    "answerText": " demon; fiend; imp"
+  },
+  {
+    "questionNum": 79633,
+    "questionText": " Diagnose (v)",
+    "answerText": " analysis; isolate; determine; distinguish"
+  },
+  {
+    "questionNum": 79634,
+    "questionText": " Difficult (adj.)",
+    "answerText": " complicate; hard; uphill; thorny"
+  },
+  {
+    "questionNum": 79635,
+    "questionText": " Diplomat (n)",
+    "answerText": " go-between; mediator; moderator; negotiator"
+  },
+  {
+    "questionNum": 79636,
+    "questionText": " Disgraceful (adj.)",
+    "answerText": " dishonourable; mean; dreadful; shameful;"
+  },
+  {
+    "questionNum": 79637,
+    "questionText": " Dismay (v)",
+    "answerText": " depress; disappoint; terrify; discourage; horrify"
+  },
+  {
+    "questionNum": 79638,
+    "questionText": " Diversity (n)",
+    "answerText": " difference; variety; range"
+  },
+  {
+    "questionNum": 79639,
+    "questionText": " Drainage (n)",
+    "answerText": " sewage; waste"
+  },
+  {
+    "questionNum": 79640,
+    "questionText": " Dramatist (n)",
+    "answerText": " comedian; playwright; playwriter; script-writer"
+  },
+  {
+    "questionNum": 79641,
+    "questionText": " Drunkard (n)",
+    "answerText": " drinker; drunk; lush; soak"
+  },
+  {
+    "questionNum": 79642,
+    "questionText": " Duration (n)",
+    "answerText": " period; extent; stretch; length"
+  },
+  {
+    "questionNum": 79643,
+    "questionText": " Dwarf(n)",
+    "answerText": " elf; gnome; Lilliputian; pigmy; tom thumb"
+  },
+  {
+    "questionNum": 79644,
+    "questionText": " Dynamic (adj.)",
+    "answerText": " active; energetic; forceful; powerful"
+  },
+  {
+    "questionNum": 79645,
+    "questionText": " Earthquake (n)",
+    "answerText": " quake; shake; earth-tremor"
+  },
+  {
+    "questionNum": 79646,
+    "questionText": " Economical (adj.)",
+    "answerText": " frugal; inexpensive; thrifty; reasonable"
+  },
+  {
+    "questionNum": 79647,
+    "questionText": " Efficient (adj.)",
+    "answerText": " capable; competent; powerful; proficient"
+  },
+  {
+    "questionNum": 79648,
+    "questionText": " Eligible (adj.)",
+    "answerText": " fit; proper; worthy; qualified; suitable"
+  },
+  {
+    "questionNum": 79649,
+    "questionText": " Emancipate (adj.)",
+    "answerText": " deliver; discharge; free; liberate"
+  },
+  {
+    "questionNum": 79650,
+    "questionText": " Embarrass (v)",
+    "answerText": " distress; fluster; shame; show up"
+  },
+  {
+    "questionNum": 79651,
+    "questionText": " Emigration (n)",
+    "answerText": " departure; removal; journey; migration;"
+  },
+  {
+    "questionNum": 79652,
+    "questionText": " Eminent (adj.)",
+    "answerText": " famous; renowned; prominent; illustrious; important"
+  },
+  {
+    "questionNum": 79653,
+    "questionText": " Enormous (adj.)",
+    "answerText": " gigantic; huge; immense; prodigious; vast"
+  },
+  {
+    "questionNum": 79654,
+    "questionText": " Enthusiast (n)",
+    "answerText": " devotee; follower; lover; supporter"
+  },
+  {
+    "questionNum": 79655,
+    "questionText": " Eruption (n)",
+    "answerText": " explosion; inflammation; outbreak; outburst"
+  },
+  {
+    "questionNum": 79656,
+    "questionText": " Exaggerate (v)",
+    "answerText": " amplify; magnify; enlarge"
+  },
+  {
+    "questionNum": 79657,
+    "questionText": " Excellence (n)",
+    "answerText": " goodness; greatness; purity; virtue"
+  },
+  {
+    "questionNum": 79658,
+    "questionText": " Excess (n)",
+    "answerText": " extravagance; leftover; surplus; remainder"
+  },
+  {
+    "questionNum": 79659,
+    "questionText": " Excuse (v)",
+    "answerText": " apologise; defend; forgive; condone."
+  },
+  {
+    "questionNum": 79660,
+    "questionText": " Exhale (v)",
+    "answerText": " emit; expel; expire; discharge"
+  },
+  {
+    "questionNum": 79661,
+    "questionText": " Experienced (adj.)",
+    "answerText": " competent; expert; skilful; veteran"
+  },
+  {
+    "questionNum": 79662,
+    "questionText": " Exterior (n)",
+    "answerText": " outside; covering surface; skin"
+  },
+  {
+    "questionNum": 79663,
+    "questionText": " Extraordinary (adj.)",
+    "answerText": " exceptional; marvelous; special; fantastic"
+  },
+  {
+    "questionNum": 79664,
+    "questionText": " Extravagance (n)",
+    "answerText": " excess; folly; profusion; waste"
+  },
+  {
+    "questionNum": 79665,
+    "questionText": " Extravagant (adj.)",
+    "answerText": " expensive; lavish; costly; excessive"
+  },
+  {
+    "questionNum": 79666,
+    "questionText": " Extremist (n)",
+    "answerText": " militant; terrorist; zealot; radical"
+  },
+  {
+    "questionNum": 79667,
+    "questionText": " Extrovert (adj.)",
+    "answerText": " amiable; hearty; social; outgoing"
+  },
+  {
+    "questionNum": 79668,
+    "questionText": " Fabulous (adj.)",
+    "answerText": " amazing; incredible; wonderful; immense"
+  },
+  {
+    "questionNum": 79669,
+    "questionText": " Failure (n)",
+    "answerText": " break down; downfall; ruin; failing"
+  },
+  {
+    "questionNum": 79670,
+    "questionText": " Familiar (adj.)",
+    "answerText": " acquainted; friendly; well-known; ordinary"
+  },
+  {
+    "questionNum": 79671,
+    "questionText": " Fascination (n)",
+    "answerText": " attraction; charm glamour; interest"
+  },
+  {
+    "questionNum": 79672,
+    "questionText": " Fathom (v)",
+    "answerText": " comprehend; penetrate; work out; interpret"
+  },
+  {
+    "questionNum": 79673,
+    "questionText": " Fertile (adj.)",
+    "answerText": " abundant; fruitful; plentiful; luxuriant"
+  },
+  {
+    "questionNum": 79674,
+    "questionText": " Festive (adj.)",
+    "answerText": " cordial; gala; gleeful; jovial"
+  },
+  {
+    "questionNum": 79675,
+    "questionText": " Flammable (adj.)",
+    "answerText": " combustible; inflammable"
+  },
+  {
+    "questionNum": 79676,
+    "questionText": " Flock (v)",
+    "answerText": " bunch; crowd; group; herd; swarm; troop"
+  },
+  {
+    "questionNum": 79677,
+    "questionText": " Flourish (v)",
+    "answerText": " bloom; develop; prosper; succeed"
+  },
+  {
+    "questionNum": 79678,
+    "questionText": " Follower (n)",
+    "answerText": " devotee; disciple; pupil; supporter"
+  },
+  {
+    "questionNum": 79679,
+    "questionText": " Fore father (n)",
+    "answerText": " ancestor; procreator"
+  },
+  {
+    "questionNum": 79680,
+    "questionText": " Foreigner (n)",
+    "answerText": " alien; new comer; stranger"
+  },
+  {
+    "questionNum": 79681,
+    "questionText": " Forever (adj.)",
+    "answerText": " always; evermore; for all time"
+  },
+  {
+    "questionNum": 79682,
+    "questionText": " Fragile (adj.)",
+    "answerText": " brittle; breakable; dainty"
+  },
+  {
+    "questionNum": 79683,
+    "questionText": " Fragment (n)",
+    "answerText": " piece; part; particle"
+  },
+  {
+    "questionNum": 79684,
+    "questionText": " Frightful (adj.)",
+    "answerText": " dreadful; fearful; horrible; terrible"
+  },
+  {
+    "questionNum": 79685,
+    "questionText": " Fulfill (adj.)",
+    "answerText": " accomplish; achieve; execute; obey"
+  },
+  {
+    "questionNum": 79686,
+    "questionText": " Funeral (n)",
+    "answerText": " burial; interment"
+  },
+  {
+    "questionNum": 79687,
+    "questionText": " Funny (adj.)",
+    "answerText": " amusing; humorous; comical; laughable"
+  },
+  {
+    "questionNum": 79688,
+    "questionText": " Furnish (v)",
+    "answerText": " afford; appoint; decorate; grant; offer"
+  },
+  {
+    "questionNum": 79689,
+    "questionText": " Gain (v)",
+    "answerText": " advance; increase; progress; obtain"
+  },
+  {
+    "questionNum": 79690,
+    "questionText": " Gather (v)",
+    "answerText": " accumulate; assemble; collect; heap"
+  },
+  {
+    "questionNum": 79691,
+    "questionText": " General (adj.)",
+    "answerText": " common; universal; normal; ordinary"
+  },
+  {
+    "questionNum": 79692,
+    "questionText": " Genial (adj.)",
+    "answerText": " friendly; glad; happy; joyous; kind"
+  },
+  {
+    "questionNum": 79693,
+    "questionText": " Genuine (adj.)",
+    "answerText": " actual; authentic; natural; bonafide; original"
+  },
+  {
+    "questionNum": 79694,
+    "questionText": " Glamorous (adj.)",
+    "answerText": " attractive; lovely; charming; fascinating;"
+  },
+  {
+    "questionNum": 79695,
+    "questionText": " Glorious (adj.)",
+    "answerText": " brilliant; delightful; excellent; majestic"
+  },
+  {
+    "questionNum": 79696,
+    "questionText": " Grateful (adj.)",
+    "answerText": " obliged; obligated; sensible; thankful"
+  },
+  {
+    "questionNum": 79697,
+    "questionText": " Grumble (v)",
+    "answerText": " growl; murmur; mutter; rumble"
+  },
+  {
+    "questionNum": 79698,
+    "questionText": " Gunman (n)",
+    "answerText": " bandit; terrorist; killer; bandit."
+  },
+  {
+    "questionNum": 79699,
+    "questionText": " Habitat (n)",
+    "answerText": " environment; territory; home; surroundings;"
+  },
+  {
+    "questionNum": 79700,
+    "questionText": " Handicap (n)",
+    "answerText": " barrier; block; obstacle; hindrance"
+  },
+  {
+    "questionNum": 79701,
+    "questionText": " Handicraft (n)",
+    "answerText": " craft; workmanship; skill; artisan"
+  },
+  {
+    "questionNum": 79702,
+    "questionText": " Handsome (adj.)",
+    "answerText": " attractive; graceful; majestic"
+  },
+  {
+    "questionNum": 79703,
+    "questionText": " Haughty (adj.)",
+    "answerText": " arrogant; lofty; proud; scornful"
+  },
+  {
+    "questionNum": 79704,
+    "questionText": " Hazardous (adj.)",
+    "answerText": " dangerous; risky; difficult; haphazard"
+  },
+  {
+    "questionNum": 79705,
+    "questionText": " Hereditary (adj.)",
+    "answerText": " ancestral; genetic; inborn; inherited"
+  },
+  {
+    "questionNum": 79706,
+    "questionText": " Hermit (n)",
+    "answerText": " ascetic; monk; solitariness"
+  },
+  {
+    "questionNum": 79707,
+    "questionText": " Heroic (adj)",
+    "answerText": " bold; brave; lion-hearted; courageous"
+  },
+  {
+    "questionNum": 79708,
+    "questionText": " Hijack (v)",
+    "answerText": " kidnap; seize; skyjack; steal; snatch"
+  },
+  {
+    "questionNum": 79709,
+    "questionText": " History (n)",
+    "answerText": " annals; antiquity; chronicle; chronology"
+  },
+  {
+    "questionNum": 79710,
+    "questionText": " Homage (n)",
+    "answerText": " worship; reverence; loyalty; tribute"
+  },
+  {
+    "questionNum": 79711,
+    "questionText": " Honorary (adj.)",
+    "answerText": " nominal; unpaid; unofficial"
+  },
+  {
+    "questionNum": 79712,
+    "questionText": " Humanity (n)",
+    "answerText": " humankind; people; mankind; mortality"
+  },
+  {
+    "questionNum": 79713,
+    "questionText": " Hungry (adj.)",
+    "answerText": " desirous; eager; greedy; starving"
+  },
+  {
+    "questionNum": 79714,
+    "questionText": " Husbandry (n)",
+    "answerText": " agriculture; cultivation; farming; thrift."
+  },
+  {
+    "questionNum": 79715,
+    "questionText": " Hysteria (n)",
+    "answerText": " madness; neurosis; panic"
+  },
+  {
+    "questionNum": 79716,
+    "questionText": " Ignorance (n)",
+    "answerText": " blindness; innocence; oblivion"
+  },
+  {
+    "questionNum": 79717,
+    "questionText": " Illegal (adj.)",
+    "answerText": " banned; illicit; prohibited; unlawful;"
+  },
+  {
+    "questionNum": 79718,
+    "questionText": " Illuminate (v)",
+    "answerText": " brighten; enlighten; light up"
+  },
+  {
+    "questionNum": 79719,
+    "questionText": " Immediate (adj.)",
+    "answerText": " instant; recent; urgent; prompt"
+  },
+  {
+    "questionNum": 79720,
+    "questionText": " Immense (adj.)",
+    "answerText": " enormous; gigantic; great; huge; large; vast"
+  },
+  {
+    "questionNum": 79721,
+    "questionText": " Impolite (adj.)",
+    "answerText": " coarse; rough; rude; insolent"
+  },
+  {
+    "questionNum": 79722,
+    "questionText": " Incident (n)",
+    "answerText": " event; instance; occurrence"
+  },
+  {
+    "questionNum": 79723,
+    "questionText": " Individual (n)",
+    "answerText": " body; fellow; party person; soul"
+  },
+  {
+    "questionNum": 79724,
+    "questionText": " Innocence (n)",
+    "answerText": " honesty; Ignorance; chastity; trustfulness"
+  },
+  {
+    "questionNum": 79725,
+    "questionText": " Internal (adj.)",
+    "answerText": " domestic; inner; inside; interior"
+  },
+  {
+    "questionNum": 79726,
+    "questionText": " Invasion (n)",
+    "answerText": " attack; raid; seizure"
+  },
+  {
+    "questionNum": 79727,
+    "questionText": " Isolated (adj.)",
+    "answerText": " deserted; lonely; remote; solitary"
+  },
+  {
+    "questionNum": 79728,
+    "questionText": " Jealous (adj.)",
+    "answerText": " desirous; envious; rival; suspicious"
+  },
+  {
+    "questionNum": 79729,
+    "questionText": " Journey (n)",
+    "answerText": " voyage; trip; tour; travel"
+  },
+  {
+    "questionNum": 79730,
+    "questionText": " Judicious (adj.)",
+    "answerText": " careful; prudent; reasonable"
+  },
+  {
+    "questionNum": 79731,
+    "questionText": " Junction (n)",
+    "answerText": " Joint; meeting point; linking"
+  },
+  {
+    "questionNum": 79732,
+    "questionText": " Justice (n)",
+    "answerText": " legitimacy; law; fairness"
+  },
+  {
+    "questionNum": 79733,
+    "questionText": " Justify (v)",
+    "answerText": " excuse; forgive; pardon; support"
+  },
+  {
+    "questionNum": 79734,
+    "questionText": " Juvenile (n)",
+    "answerText": " adolescent; minor; youth"
+  },
+  {
+    "questionNum": 79735,
+    "questionText": " Keep (v)",
+    "answerText": " possess; restrain; retain; support"
+  },
+  {
+    "questionNum": 79736,
+    "questionText": " Kill (v)",
+    "answerText": " assassinate; butcher; destroy; slay; murder"
+  },
+  {
+    "questionNum": 79737,
+    "questionText": " Kind (adj.)",
+    "answerText": " affectionate; benevolent; generous; merciful"
+  },
+  {
+    "questionNum": 79738,
+    "questionText": " Knock (v)",
+    "answerText": " blow; hit; strike"
+  },
+  {
+    "questionNum": 79739,
+    "questionText": " Knowledge (n)",
+    "answerText": " information; perception; wisdom; learning"
+  },
+  {
+    "questionNum": 79740,
+    "questionText": " Known (adj.)",
+    "answerText": " obvious; popular; famous; familiar"
+  },
+  {
+    "questionNum": 79741,
+    "questionText": " Laborious (adj.)",
+    "answerText": " industrious; uphill; tiresome"
+  },
+  {
+    "questionNum": 79742,
+    "questionText": " Landlord (n)",
+    "answerText": " owner; proprietor; host"
+  },
+  {
+    "questionNum": 79743,
+    "questionText": " Laughter (n)",
+    "answerText": " amusement; laughing; merriment; giggling"
+  },
+  {
+    "questionNum": 79744,
+    "questionText": " Leisure (n)",
+    "answerText": " holiday; spare time; vacation; relaxation"
+  },
+  {
+    "questionNum": 79745,
+    "questionText": " Lethal (adj.)",
+    "answerText": " fatal; noxious; poisonous; destructive"
+  },
+  {
+    "questionNum": 79746,
+    "questionText": " Literal (adj.)",
+    "answerText": " factual; exact; plain; simple; actual; strict"
+  },
+  {
+    "questionNum": 79747,
+    "questionText": " Loathsome (adj.)",
+    "answerText": " hateful; horrible; nasty; odious"
+  },
+  {
+    "questionNum": 79748,
+    "questionText": " Lover(n)",
+    "answerText": " boy friend; sweat heart; admirer laboured;"
+  },
+  {
+    "questionNum": 79749,
+    "questionText": " Lubricate (v)",
+    "answerText": " grease; oil; smear; wax."
+  },
+  {
+    "questionNum": 79750,
+    "questionText": " Luxurious (adj.)",
+    "answerText": " comfortable; lavish; deluxe; expensive"
+  },
+  {
+    "questionNum": 79751,
+    "questionText": " Luxury (n)",
+    "answerText": " bliss; comfort; pleasure; delight; enjoyment"
+  },
+  {
+    "questionNum": 79752,
+    "questionText": " Malevolent (adj.)",
+    "answerText": " hostile; vindictive; illnatured; vicious"
+  },
+  {
+    "questionNum": 79753,
+    "questionText": " Malnutrition (n)",
+    "answerText": " hunger; starvation"
+  },
+  {
+    "questionNum": 79754,
+    "questionText": " Marriage (n)",
+    "answerText": " matrimony; nuptials; wedding; coupling"
+  },
+  {
+    "questionNum": 79755,
+    "questionText": " Match (n)",
+    "answerText": " game; test; trial; venue"
+  },
+  {
+    "questionNum": 79756,
+    "questionText": " Maximum (adj.)",
+    "answerText": " supreme; utmost; most; largest"
+  },
+  {
+    "questionNum": 79757,
+    "questionText": " Meagre (adj.)",
+    "answerText": " inadequate; deficient; little; scanty"
+  },
+  {
+    "questionNum": 79758,
+    "questionText": " Melancholy (adj.)",
+    "answerText": " miserable; mournful; sorrowful; unhappy"
+  },
+  {
+    "questionNum": 79759,
+    "questionText": " Memorial (n)",
+    "answerText": " mausoleum; memento; monument"
+  },
+  {
+    "questionNum": 79760,
+    "questionText": " Merchant (n)",
+    "answerText": " broker ; vendor salesman; trader"
+  },
+  {
+    "questionNum": 79761,
+    "questionText": " Militant (adj.)",
+    "answerText": " aggressive; fighting; vigorous"
+  },
+  {
+    "questionNum": 79762,
+    "questionText": " Minimum (n)",
+    "answerText": " bottom; least; lowest; slightest"
+  },
+  {
+    "questionNum": 79763,
+    "questionText": " Modern (adj.)",
+    "answerText": " new; recent; up-to-date; current; fresh"
+  },
+  {
+    "questionNum": 79764,
+    "questionText": " Modest (adj.)",
+    "answerText": " bashful; humble; quiet; moderate"
+  },
+  {
+    "questionNum": 79765,
+    "questionText": " Momentary (adj.)",
+    "answerText": " temporary; transient; short lived"
+  },
+  {
+    "questionNum": 79766,
+    "questionText": " Momentum (n)",
+    "answerText": " power; strength; stimulus force; energy"
+  },
+  {
+    "questionNum": 79767,
+    "questionText": " Mountain (n)",
+    "answerText": " mount; peak; height"
+  },
+  {
+    "questionNum": 79768,
+    "questionText": " Musician (n)",
+    "answerText": " performer; player; singer; vocalist"
+  },
+  {
+    "questionNum": 79769,
+    "questionText": " Mournful (adj.)",
+    "answerText": " depressed; painful; tragic; woeful"
+  },
+  {
+    "questionNum": 79770,
+    "questionText": " Mysterious (adj.)",
+    "answerText": " curious; secret; hidden; mystical"
+  },
+  {
+    "questionNum": 79771,
+    "questionText": " Mythical (adj.)",
+    "answerText": " imaginary; legendary fabled; fairytale"
+  },
+  {
+    "questionNum": 79772,
+    "questionText": " Narrow (adj.)",
+    "answerText": " limited; restricted; marginal; cramped"
+  },
+  {
+    "questionNum": 79773,
+    "questionText": " Naughty (adj.)",
+    "answerText": " mischievous; roguish; playful; disobedient"
+  },
+  {
+    "questionNum": 79774,
+    "questionText": " Necessary (adj.)",
+    "answerText": " compulsory; essential; needful; obligatory"
+  },
+  {
+    "questionNum": 79775,
+    "questionText": " Nightmare (n)",
+    "answerText": " bad dream; horror; trial"
+  },
+  {
+    "questionNum": 79776,
+    "questionText": " Non-violent (adj.)",
+    "answerText": " pacifist; peaceful"
+  },
+  {
+    "questionNum": 79777,
+    "questionText": " Notorious (adj.)",
+    "answerText": " Infamous; flagrant; undisputed"
+  },
+  {
+    "questionNum": 79778,
+    "questionText": " Nourish (v)",
+    "answerText": " cherish; comfort; cultivate; encourage"
+  },
+  {
+    "questionNum": 79779,
+    "questionText": " Nuisance (n)",
+    "answerText": " irritation; offence; pain; trouble"
+  },
+  {
+    "questionNum": 79780,
+    "questionText": " Nutritious (adj.)",
+    "answerText": " healthful; nourishing; nutritive"
+  },
+  {
+    "questionNum": 79781,
+    "questionText": " Noxious (adj.)",
+    "answerText": " baneful; corrupting; destructive; harmful; injurious"
+  },
+  {
+    "questionNum": 79782,
+    "questionText": " Oblivious (adj.)",
+    "answerText": " careless; forgetful; ignorant; negligent"
+  },
+  {
+    "questionNum": 79783,
+    "questionText": " Obnoxious (adj.)",
+    "answerText": " abhorrent; abominable; odious; repulsive"
+  },
+  {
+    "questionNum": 79784,
+    "questionText": " Obvious (adj.)",
+    "answerText": " apparent; clear; transparent; distinct"
+  },
+  {
+    "questionNum": 79785,
+    "questionText": " On looker (n)",
+    "answerText": " observer; spectator; watcher; witness; viewer"
+  },
+  {
+    "questionNum": 79786,
+    "questionText": " Opaque (adj.)",
+    "answerText": " cloudy; obscure; unclear; dim"
+  },
+  {
+    "questionNum": 79787,
+    "questionText": " Opponent (n)",
+    "answerText": " challenger; foe; antagonist; enemy"
+  },
+  {
+    "questionNum": 79788,
+    "questionText": " Orator(n)",
+    "answerText": " lecturer; preacher; speaker"
+  },
+  {
+    "questionNum": 79789,
+    "questionText": " Optional (adj.)",
+    "answerText": " extra; voluntary; possible"
+  },
+  {
+    "questionNum": 79790,
+    "questionText": " Overcome(v)",
+    "answerText": " defeat; over throw; triumph"
+  },
+  {
+    "questionNum": 79791,
+    "questionText": " Owner(n)",
+    "answerText": " lord; master; proprietor"
+  },
+  {
+    "questionNum": 79792,
+    "questionText": " Paradox(n)",
+    "answerText": " ambiguity; puzzle; riddle"
+  },
+  {
+    "questionNum": 79793,
+    "questionText": " Particular(adj.)",
+    "answerText": " peculiar; special; specific; distinct"
+  },
+  {
+    "questionNum": 79794,
+    "questionText": " Passionate(adj.)",
+    "answerText": " aroused; emotional; sexy; eager"
+  },
+  {
+    "questionNum": 79795,
+    "questionText": " Peasant(n)",
+    "answerText": " boor; country man"
+  },
+  {
+    "questionNum": 79796,
+    "questionText": " Pedestrian(n)",
+    "answerText": " foot-traveller; walker"
+  },
+  {
+    "questionNum": 79797,
+    "questionText": " Pilgrimage(n)",
+    "answerText": " crusade; expedition; tour; trip; journey; mission"
+  },
+  {
+    "questionNum": 79798,
+    "questionText": " Precious(adj.)",
+    "answerText": " costly; fine; valuable; dearest"
+  },
+  {
+    "questionNum": 79799,
+    "questionText": " Prediction(n)",
+    "answerText": " forecast; prognosis; prophecy"
+  },
+  {
+    "questionNum": 79800,
+    "questionText": " Presence (n)",
+    "answerText": " attendance"
+  },
+  {
+    "questionNum": 79801,
+    "questionText": " Previous (adj.)",
+    "answerText": " earlier; former; prior"
+  },
+  {
+    "questionNum": 79802,
+    "questionText": " Programme(n)",
+    "answerText": " agenda; syllabus; curriculum"
+  },
+  {
+    "questionNum": 79803,
+    "questionText": " Prosperous(adj.)",
+    "answerText": " successful; rich; lucky; wealthy; fortunate"
+  },
+  {
+    "questionNum": 79804,
+    "questionText": " Punctual (adj.)",
+    "answerText": " early; exact; up-to-time; prompt"
+  },
+  {
+    "questionNum": 79805,
+    "questionText": " Puzzled (adj.)",
+    "answerText": " bewildered; doubtful; perplexed; mixed"
+  },
+  {
+    "questionNum": 79806,
+    "questionText": " Quaint (adj.)",
+    "answerText": " antiquated; odd; strange"
+  },
+  {
+    "questionNum": 79807,
+    "questionText": " Quarrelsome(adj.)",
+    "answerText": " ill-tempered; irritable"
+  },
+  {
+    "questionNum": 79808,
+    "questionText": " Questioner(n)",
+    "answerText": " enquirer; examiner; interviewer"
+  },
+  {
+    "questionNum": 79809,
+    "questionText": " Queer (adj.)",
+    "answerText": " curious; strange; puzzling; uncommon"
+  },
+  {
+    "questionNum": 79810,
+    "questionText": " Rainy (adj.)",
+    "answerText": " damp; wet; drizzly"
+  },
+  {
+    "questionNum": 79811,
+    "questionText": " Random (adj.)",
+    "answerText": " accidental; chance; incidental; unplanned"
+  },
+  {
+    "questionNum": 79812,
+    "questionText": " Ratify (v)",
+    "answerText": " affirm; approve; certify; authorise"
+  },
+  {
+    "questionNum": 79813,
+    "questionText": " Raucous (adj.)",
+    "answerText": " harsh; hoarse; loud; noisy"
+  },
+  {
+    "questionNum": 79814,
+    "questionText": " Ready {adj.)",
+    "answerText": " arranged; prepared; completed; fit"
+  },
+  {
+    "questionNum": 79815,
+    "questionText": " Rebellious (adj.)",
+    "answerText": " disloyal; untruly; disobedient; revolutionary"
+  },
+  {
+    "questionNum": 79816,
+    "questionText": " Rebuke (v)",
+    "answerText": " chide; blame; admonish; scold"
+  },
+  {
+    "questionNum": 79817,
+    "questionText": " Recess (n)",
+    "answerText": " break; interval; rest"
+  },
+  {
+    "questionNum": 79818,
+    "questionText": " Rectify (v)",
+    "answerText": " amend; correct; remedy; repair; reform"
+  },
+  {
+    "questionNum": 79819,
+    "questionText": " Referee (n)",
+    "answerText": " arbitrator; judge; umpire"
+  },
+  {
+    "questionNum": 79820,
+    "questionText": " Refrain (v)",
+    "answerText": " abstain; avoid; quit"
+  },
+  {
+    "questionNum": 79821,
+    "questionText": " Refugee (n)",
+    "answerText": " escapee; exile; deserter; absconder"
+  },
+  {
+    "questionNum": 79822,
+    "questionText": " Reliance(n)",
+    "answerText": " assurance; belief; confidence; faith; trust"
+  },
+  {
+    "questionNum": 79823,
+    "questionText": " Religious (adj.)",
+    "answerText": " devotional; divine; spiritual; sacred"
+  },
+  {
+    "questionNum": 79824,
+    "questionText": " Rescue tv)",
+    "answerText": " deliver; liberate; recover; release"
+  },
+  {
+    "questionNum": 79825,
+    "questionText": " Resemble (v)",
+    "answerText": " approach; favour; duplicate; take after"
+  },
+  {
+    "questionNum": 79826,
+    "questionText": " Residence (n)",
+    "answerText": " home; house; palace; quarters"
+  },
+  {
+    "questionNum": 79827,
+    "questionText": " Respectful (adj.)",
+    "answerText": " courteous; humble; obedient; polite"
+  },
+  {
+    "questionNum": 79828,
+    "questionText": " Restaurant (n)",
+    "answerText": " buffet; cafe; eating house"
+  },
+  {
+    "questionNum": 79829,
+    "questionText": " Revenue (n)",
+    "answerText": " income; returns; gain; profit"
+  },
+  {
+    "questionNum": 79830,
+    "questionText": " Rightful (adj.)",
+    "answerText": " lawful; legal; true"
+  },
+  {
+    "questionNum": 79831,
+    "questionText": " Rogue (n)",
+    "answerText": " cheat; deceiver; devil; villain; scoundrel"
+  },
+  {
+    "questionNum": 79832,
+    "questionText": " Roomy (adj.)",
+    "answerText": " wide; spacious; sizable; large"
+  },
+  {
+    "questionNum": 79833,
+    "questionText": " Rotation (n)",
+    "answerText": " revolution; orbit; cycle"
+  },
+  {
+    "questionNum": 79834,
+    "questionText": " Safety (n)",
+    "answerText": " assurance; security; protection; safeguard"
+  },
+  {
+    "questionNum": 79835,
+    "questionText": " Savings (n)",
+    "answerText": " capital; fund; resources"
+  },
+  {
+    "questionNum": 79836,
+    "questionText": " Scandal (n)",
+    "answerText": " disgrace; rumours; shame; uproar"
+  },
+  {
+    "questionNum": 79837,
+    "questionText": " Scholar (n)",
+    "answerText": " expert; intellectual; academic; pupil"
+  },
+  {
+    "questionNum": 79838,
+    "questionText": " Scornful (adj.)",
+    "answerText": " arrogant; defiant"
+  },
+  {
+    "questionNum": 79839,
+    "questionText": " Scribble (v)",
+    "answerText": " doodle; jot; scrawl; write"
+  },
+  {
+    "questionNum": 79840,
+    "questionText": " Seminary (n)",
+    "answerText": " academy; college; institute; school"
+  },
+  {
+    "questionNum": 79841,
+    "questionText": " Shriek (v)",
+    "answerText": " howl; scream; shout"
+  },
+  {
+    "questionNum": 79842,
+    "questionText": " Solemn (adj.)",
+    "answerText": " ceremonial; sober; momentous; ritual"
+  },
+  {
+    "questionNum": 79843,
+    "questionText": " Spendthrift (adj.)",
+    "answerText": " extravagant; improvident; prodigal; wasteful"
+  },
+  {
+    "questionNum": 79844,
+    "questionText": " Spontaneous (adj.)",
+    "answerText": " extempore; free; voluntary; willing"
+  },
+  {
+    "questionNum": 79845,
+    "questionText": " Stamina (n)",
+    "answerText": " power; strength; vigour"
+  },
+  {
+    "questionNum": 79846,
+    "questionText": " Stormy (adj.)",
+    "answerText": " dirty; foul; windy; turbulent"
+  },
+  {
+    "questionNum": 79847,
+    "questionText": " Stupid (adj.)",
+    "answerText": " foolish; dull; idiotic"
+  },
+  {
+    "questionNum": 79848,
+    "questionText": " Successful (adj.)",
+    "answerText": " satisfactory; lucky; victorious; wealthy"
+  },
+  {
+    "questionNum": 79849,
+    "questionText": " Survey (v)",
+    "answerText": " assess; consider; inspect; examine"
+  },
+  {
+    "questionNum": 79850,
+    "questionText": " Sympathy (n)",
+    "answerText": " pity; condolence; comfort; rapport"
+  },
+  {
+    "questionNum": 79851,
+    "questionText": " Synonymous (adj.)",
+    "answerText": " comparable; corresponding; identical"
+  },
+  {
+    "questionNum": 79852,
+    "questionText": " Talented (adj.)",
+    "answerText": " able; apt; adept; clever"
+  },
+  {
+    "questionNum": 79853,
+    "questionText": " Talkative (adj.)",
+    "answerText": " chatty; garrulous; gossipy; wordy"
+  },
+  {
+    "questionNum": 79854,
+    "questionText": " Tantamount (adj.)",
+    "answerText": " equal; equivalent"
+  },
+  {
+    "questionNum": 79855,
+    "questionText": " Target(n)",
+    "answerText": " aim; ambition; goal"
+  },
+  {
+    "questionNum": 79856,
+    "questionText": " Teetotaler (n)",
+    "answerText": " abstainer; non-drinker"
+  },
+  {
+    "questionNum": 79857,
+    "questionText": " Terror (n)",
+    "answerText": " Anxiety; dread; horror; fear; fright"
+  },
+  {
+    "questionNum": 79858,
+    "questionText": " Timid (adj.)",
+    "answerText": " afraid; cowardly; fearful; timorous"
+  },
+  {
+    "questionNum": 79859,
+    "questionText": " Tolerate (v)",
+    "answerText": " accept; allow; bear; abide"
+  },
+  {
+    "questionNum": 79860,
+    "questionText": " Tourist (n)",
+    "answerText": " traveller; tripper; voyager"
+  },
+  {
+    "questionNum": 79861,
+    "questionText": " Tragedy (n)",
+    "answerText": " adversity; disaster; catastrophe; calamity"
+  },
+  {
+    "questionNum": 79862,
+    "questionText": " Transparent (adj.)",
+    "answerText": " apparent; clear; obvious; translucent; visible"
+  },
+  {
+    "questionNum": 79863,
+    "questionText": " Tremendous (adj.)",
+    "answerText": " excellent; exceptional; fabulous; terrific"
+  },
+  {
+    "questionNum": 79864,
+    "questionText": " Trespasser (n)",
+    "answerText": " criminal; infringer; intruder; offender"
+  },
+  {
+    "questionNum": 79865,
+    "questionText": " Trophy (n)",
+    "answerText": " award; memento; memorial; cup"
+  },
+  {
+    "questionNum": 79866,
+    "questionText": " Turbulent (adj.)",
+    "answerText": " agitated; wild; violent; boisterous; choppy"
+  },
+  {
+    "questionNum": 79867,
+    "questionText": " Tutor (n)",
+    "answerText": " coach; educator; guide; teacher"
+  },
+  {
+    "questionNum": 79868,
+    "questionText": " Twilight (n)",
+    "answerText": " sundown; sunset; dusk; evening"
+  },
+  {
+    "questionNum": 79869,
+    "questionText": " Twinkle (v)",
+    "answerText": " glitter; shine; glimmer; sparkle"
+  },
+  {
+    "questionNum": 79870,
+    "questionText": " Tyrant (n)",
+    "answerText": " autocrat; dictator; monarch; slave-driver"
+  },
+  {
+    "questionNum": 79871,
+    "questionText": " Uphill (adj.)",
+    "answerText": " difficult; laborious; tough; wearisome"
+  },
+  {
+    "questionNum": 79872,
+    "questionText": " Urgent (adj.)",
+    "answerText": " compelling; critical; crucial; eager"
+  },
+  {
+    "questionNum": 79873,
+    "questionText": " Utmost (adj.)",
+    "answerText": " extreme; final; first; farthest"
+  },
+  {
+    "questionNum": 79874,
+    "questionText": " Utterance (n)",
+    "answerText": " announcement; statement; declaration; speech"
+  },
+  {
+    "questionNum": 79875,
+    "questionText": " Vacant (adj.)",
+    "answerText": " empty; free; unfilled"
+  },
+  {
+    "questionNum": 79876,
+    "questionText": " Vanish (v)",
+    "answerText": " depart; die out; disappear; disperse"
+  },
+  {
+    "questionNum": 79877,
+    "questionText": " Veteran (n)",
+    "answerText": " master; old hand; old timer"
+  },
+  {
+    "questionNum": 79878,
+    "questionText": " Victory (n)",
+    "answerText": " conquest; triumph; win"
+  },
+  {
+    "questionNum": 79879,
+    "questionText": " Vigilant (adj.)",
+    "answerText": " alert; attentive; watchful; cautious"
+  },
+  {
+    "questionNum": 79880,
+    "questionText": " Vigorous (adj; )",
+    "answerText": " active; dynamic; energetic; efficient"
+  },
+  {
+    "questionNum": 79881,
+    "questionText": " Voyage (n)",
+    "answerText": " journey; passage; travels; trip"
+  },
+  {
+    "questionNum": 79882,
+    "questionText": " Vulgar (adj.)",
+    "answerText": " common; boorish; native; unrefined"
+  },
+  {
+    "questionNum": 79883,
+    "questionText": " Watchman (n)",
+    "answerText": " caretaker; custodian; guard"
+  },
+  {
+    "questionNum": 79884,
+    "questionText": " Well-known (adj.)",
+    "answerText": " famous; renowned; popular"
+  },
+  {
+    "questionNum": 79885,
+    "questionText": " Wholesome (adj.)",
+    "answerText": " advantageous; beneficial; worthy"
+  },
+  {
+    "questionNum": 79886,
+    "questionText": " Worldwide (adj.)",
+    "answerText": " general; global; intemational; universal"
+  },
+  {
+    "questionNum": 79887,
+    "questionText": " Wrestle (F)",
+    "answerText": " battle; combat; contend; contest"
+  },
+  {
+    "questionNum": 79888,
+    "questionText": " Yearly (adj.)",
+    "answerText": " annual; per annum"
+  },
+  {
+    "questionNum": 79889,
+    "questionText": " Yield (v)",
+    "answerText": " abdicate; allow; comply; concede"
+  },
+  {
+    "questionNum": 79890,
+    "questionText": " Youthful (adj.)",
+    "answerText": " boyish; childish; young; immature"
+  },
+  {
+    "questionNum": 79891,
+    "questionText": " Zeal (n)",
+    "answerText": " devotion; spirit; zest"
+  },
+  {
+    "questionNum": 79892,
+    "questionText": " Zealous (adj.)",
+    "answerText": " devoted; eager; passionate; spirited"
+  },
+  {
+    "questionNum": 79893,
+    "questionText": " Zenith (n)",
+    "answerText": " apex; climax; top; vertex; optimum"
+  },
+  {
+    "questionNum": 79894,
+    "questionText": " Zest",
+    "answerText": " appetite; charm; enjoyment; flavour"
+  },
+  {
+    "questionNum": 79895,
+    "questionText": " ABC",
+    "answerText": " Basic knowledge of"
+  },
+  {
+    "questionNum": 79896,
+    "questionText": " After all",
+    "answerText": " Despite what has been said or expected"
+  },
+  {
+    "questionNum": 79897,
+    "questionText": " All the same",
+    "answerText": " Nevertheless"
+  },
+  {
+    "questionNum": 79898,
+    "questionText": " All along",
+    "answerText": " All the time; from the beginning"
+  },
+  {
+    "questionNum": 79899,
+    "questionText": " All over",
+    "answerText": " Everywhere"
+  },
+  {
+    "questionNum": 79900,
+    "questionText": " Along with",
+    "answerText": " In addition to somebody /something; in the same way"
+  },
+  {
+    "questionNum": 79901,
+    "questionText": " All day long",
+    "answerText": " For whole day"
+  },
+  {
+    "questionNum": 79902,
+    "questionText": " At once",
+    "answerText": " Immediately"
+  },
+  {
+    "questionNum": 79903,
+    "questionText": " At home in",
+    "answerText": " To be strong"
+  },
+  {
+    "questionNum": 79904,
+    "questionText": " Again and again",
+    "answerText": " Many times"
+  },
+  {
+    "questionNum": 79905,
+    "questionText": " As usual",
+    "answerText": " In the same way as what happens most of the time or in most cases"
+  },
+  {
+    "questionNum": 79906,
+    "questionText": " At the latest",
+    "answerText": " No later than the time"
+  },
+  {
+    "questionNum": 79907,
+    "questionText": " At heart",
+    "answerText": " Used to say what somebody is really like"
+  },
+  {
+    "questionNum": 79908,
+    "questionText": " At the top of",
+    "answerText": " In the highest position; As loudly as possible"
+  },
+  {
+    "questionNum": 79909,
+    "questionText": " At length",
+    "answerText": " In the end"
+  },
+  {
+    "questionNum": 79910,
+    "questionText": " At enmity with",
+    "answerText": " at hostility"
+  },
+  {
+    "questionNum": 79911,
+    "questionText": " At a stretch",
+    "answerText": " Constantly"
+  },
+  {
+    "questionNum": 79912,
+    "questionText": " At the point of",
+    "answerText": " Around; about"
+  },
+  {
+    "questionNum": 79913,
+    "questionText": " At all costs",
+    "answerText": " Whatever is needed to achieve something"
+  },
+  {
+    "questionNum": 79914,
+    "questionText": " At stake",
+    "answerText": " In danger"
+  },
+  {
+    "questionNum": 79915,
+    "questionText": " At variance with",
+    "answerText": " In opposite"
+  },
+  {
+    "questionNum": 79916,
+    "questionText": " At all",
+    "answerText": " In any way"
+  },
+  {
+    "questionNum": 79917,
+    "questionText": " Ata time",
+    "answerText": " Iii one time"
+  },
+  {
+    "questionNum": 79918,
+    "questionText": " At times",
+    "answerText": " Sometimes"
+  },
+  {
+    "questionNum": 79919,
+    "questionText": " At large",
+    "answerText": " As a whole; in general"
+  },
+  {
+    "questionNum": 79920,
+    "questionText": " At the same time",
+    "answerText": " At one time; together"
+  },
+  {
+    "questionNum": 79921,
+    "questionText": " As a result of",
+    "answerText": " Due to"
+  },
+  {
+    "questionNum": 79922,
+    "questionText": " At the instance of",
+    "answerText": " On the order of"
+  },
+  {
+    "questionNum": 79923,
+    "questionText": " At last",
+    "answerText": " After much delay: effort; etc; in the end"
+  },
+  {
+    "questionNum": 79924,
+    "questionText": " At any cost",
+    "answerText": " Under any circumstances"
+  },
+  {
+    "questionNum": 79925,
+    "questionText": " As a whole",
+    "answerText": " As one thing or piece and not as separate parts"
+  },
+  {
+    "questionNum": 79926,
+    "questionText": " At bottom",
+    "answerText": " Used to say what somebody or something is really like"
+  },
+  {
+    "questionNum": 79927,
+    "questionText": " At draggers drawn with",
+    "answerText": " To be enemies"
+  },
+  {
+    "questionNum": 79928,
+    "questionText": " As if",
+    "answerText": " Ina way that suggests something"
+  },
+  {
+    "questionNum": 79929,
+    "questionText": " As such",
+    "answerText": " Hence"
+  },
+  {
+    "questionNum": 79930,
+    "questionText": " A good for nothing fellow",
+    "answerText": " A useless man"
+  },
+  {
+    "questionNum": 79931,
+    "questionText": " All at once",
+    "answerText": " Suddenly"
+  },
+  {
+    "questionNum": 79932,
+    "questionText": " At no time",
+    "answerText": " Never"
+  },
+  {
+    "questionNum": 79933,
+    "questionText": " At least",
+    "answerText": " A t the lowest estimate"
+  },
+  {
+    "questionNum": 79934,
+    "questionText": " At fault",
+    "answerText": " In a mistake"
+  },
+  {
+    "questionNum": 79935,
+    "questionText": " After a fashion",
+    "answerText": " To some extend; but not very well."
+  },
+  {
+    "questionNum": 79936,
+    "questionText": " All told",
+    "answerText": " Including all"
+  },
+  {
+    "questionNum": 79937,
+    "questionText": " A lame excuse",
+    "answerText": " Weak and difficult to believe"
+  },
+  {
+    "questionNum": 79938,
+    "questionText": " A man of letters",
+    "answerText": " Scholar"
+  },
+  {
+    "questionNum": 79939,
+    "questionText": " A man of parts",
+    "answerText": " An experience person or A well read person"
+  },
+  {
+    "questionNum": 79940,
+    "questionText": " A man of spirit",
+    "answerText": " An enthusiastic man"
+  },
+  {
+    "questionNum": 79941,
+    "questionText": " A man of straw",
+    "answerText": " A man who has not any view"
+  },
+  {
+    "questionNum": 79942,
+    "questionText": " A slip of the pen",
+    "answerText": " Mistake in writing"
+  },
+  {
+    "questionNum": 79943,
+    "questionText": " A slip of the tongue",
+    "answerText": " Mistake in speaking"
+  },
+  {
+    "questionNum": 79944,
+    "questionText": " A snake in the grass",
+    "answerText": " A secret-in the grass"
+  },
+  {
+    "questionNum": 79945,
+    "questionText": " As yet",
+    "answerText": " Until now"
+  },
+  {
+    "questionNum": 79946,
+    "questionText": " At any rate",
+    "answerText": " Anyhow"
+  },
+  {
+    "questionNum": 79947,
+    "questionText": " At one's best",
+    "answerText": " In the best condition"
+  },
+  {
+    "questionNum": 79948,
+    "questionText": " An iron-will",
+    "answerText": " A firm opinion"
+  },
+  {
+    "questionNum": 79949,
+    "questionText": " A promising youth",
+    "answerText": " A hopeful or inevitable young man"
+  },
+  {
+    "questionNum": 79950,
+    "questionText": " A utopian scheme",
+    "answerText": " Ideal but not happening plan/ scheme"
+  },
+  {
+    "questionNum": 79951,
+    "questionText": " At one's finger's ends",
+    "answerText": " To be master of"
+  },
+  {
+    "questionNum": 79952,
+    "questionText": " At a blow",
+    "answerText": " In one stroke"
+  },
+  {
+    "questionNum": 79953,
+    "questionText": " At sight",
+    "answerText": " On seeing"
+  },
+  {
+    "questionNum": 79954,
+    "questionText": " At ease",
+    "answerText": " Easily"
+  },
+  {
+    "questionNum": 79955,
+    "questionText": " All the while",
+    "answerText": " During all the time"
+  },
+  {
+    "questionNum": 79956,
+    "questionText": " Add fuel to the fire",
+    "answerText": " To make the situation worst"
+  },
+  {
+    "questionNum": 79957,
+    "questionText": " Bed of roses",
+    "answerText": " An easy or a pleasant situation"
+  },
+  {
+    "questionNum": 79958,
+    "questionText": " Beck and call",
+    "answerText": " Always ready to obey somebody's order"
+  },
+  {
+    "questionNum": 79959,
+    "questionText": " By means of",
+    "answerText": " With the help of"
+  },
+  {
+    "questionNum": 79960,
+    "questionText": " Beat black and blue",
+    "answerText": " To beat severely"
+  },
+  {
+    "questionNum": 79961,
+    "questionText": " A Big gun",
+    "answerText": " An Important person"
+  },
+  {
+    "questionNum": 79962,
+    "questionText": " Bosom friend",
+    "answerText": " Fast or close friend"
+  },
+  {
+    "questionNum": 79963,
+    "questionText": " Burning question",
+    "answerText": " Current and hot question"
+  },
+  {
+    "questionNum": 79964,
+    "questionText": " By and by",
+    "answerText": " Before long; soon"
+  },
+  {
+    "questionNum": 79965,
+    "questionText": " Before long",
+    "answerText": " Recently"
+  },
+  {
+    "questionNum": 79966,
+    "questionText": " Body and soul",
+    "answerText": " With all your energy"
+  },
+  {
+    "questionNum": 79967,
+    "questionText": " By chance",
+    "answerText": " Without planning"
+  },
+  {
+    "questionNum": 79968,
+    "questionText": " By fait means or foul",
+    "answerText": " By any means"
+  },
+  {
+    "questionNum": 79969,
+    "questionText": " By return of post",
+    "answerText": " Immediately"
+  },
+  {
+    "questionNum": 79970,
+    "questionText": " By and large",
+    "answerText": " Used when you are saying something that is generally; but not completely true"
+  },
+  {
+    "questionNum": 79971,
+    "questionText": " Because of",
+    "answerText": " Caused by"
+  },
+  {
+    "questionNum": 79972,
+    "questionText": " Beside the point",
+    "answerText": " Not to the point"
+  },
+  {
+    "questionNum": 79973,
+    "questionText": " Bid fair",
+    "answerText": " To seem likely"
+  },
+  {
+    "questionNum": 79974,
+    "questionText": " Bird's eye view",
+    "answerText": " A view from a high position looking down"
+  },
+  {
+    "questionNum": 79975,
+    "questionText": " Bring to book",
+    "answerText": " To give punishment"
+  },
+  {
+    "questionNum": 79976,
+    "questionText": " Break the ice",
+    "answerText": " To break the silence"
+  },
+  {
+    "questionNum": 79977,
+    "questionText": " By the way",
+    "answerText": " Incidentally"
+  },
+  {
+    "questionNum": 79978,
+    "questionText": " By nature",
+    "answerText": " Naturally"
+  },
+  {
+    "questionNum": 79979,
+    "questionText": " By fair means",
+    "answerText": " By any means"
+  },
+  {
+    "questionNum": 79980,
+    "questionText": " Break the record",
+    "answerText": " To establish a new record"
+  },
+  {
+    "questionNum": 79981,
+    "questionText": " Black sheep",
+    "answerText": " Good for nothing fellow"
+  },
+  {
+    "questionNum": 79982,
+    "questionText": " Bone of contention",
+    "answerText": " The reason of quarrel"
+  },
+  {
+    "questionNum": 79983,
+    "questionText": " Beat about the bush",
+    "answerText": " To stray from the main point"
+  },
+  {
+    "questionNum": 79984,
+    "questionText": " 28 Better half",
+    "answerText": " Wife"
+  },
+  {
+    "questionNum": 79985,
+    "questionText": " Bolt from the blue",
+    "answerText": " A sudden calamity"
+  },
+  {
+    "questionNum": 79986,
+    "questionText": " By force of",
+    "answerText": " With the help of"
+  },
+  {
+    "questionNum": 79987,
+    "questionText": " Broad day light",
+    "answerText": " The clear light of day; when it is easy to see"
+  },
+  {
+    "questionNum": 79988,
+    "questionText": " Bid farewell to",
+    "answerText": " The act of saying good bye to somebody"
+  },
+  {
+    "questionNum": 79989,
+    "questionText": " Breathe one's last",
+    "answerText": " To die"
+  },
+  {
+    "questionNum": 79990,
+    "questionText": " Cat and dog's life",
+    "answerText": " A life full of quarrelling"
+  },
+  {
+    "questionNum": 79991,
+    "questionText": " Come to light",
+    "answerText": " To be revealed"
+  },
+  {
+    "questionNum": 79992,
+    "questionText": " Castles in the air",
+    "answerText": " Plans or dreams that are not likely to happen or come true"
+  },
+  {
+    "questionNum": 79993,
+    "questionText": " Cut a sorry figure",
+    "answerText": " Not to get on properly"
+  },
+  {
+    "questionNum": 79994,
+    "questionText": " Come true",
+    "answerText": " To prove the truth"
+  },
+  {
+    "questionNum": 79995,
+    "questionText": " Cry in the wilderness",
+    "answerText": " An ineffective demand"
+  },
+  {
+    "questionNum": 79996,
+    "questionText": " Cut and dried",
+    "answerText": " Decided in a. way that cannot be changed or argued about"
+  },
+  {
+    "questionNum": 79997,
+    "questionText": " Child's play",
+    "answerText": " A very easy task"
+  },
+  {
+    "questionNum": 79998,
+    "questionText": " Come to blow",
+    "answerText": " To fight"
+  },
+  {
+    "questionNum": 79999,
+    "questionText": " Come into force",
+    "answerText": " To start being used"
+  },
+  {
+    "questionNum": 80000,
+    "questionText": " Capital punishment",
+    "answerText": " Death penalty"
+  }
+]
