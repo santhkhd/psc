@@ -1,0 +1,82 @@
+[
+  {
+    "subject_id": "kerala_history",
+    "name_ml": "കേരള ചരിത്രം",
+    "name_en": "Kerala History",
+    "description_ml": "പ്രാചീന, മധ്യകാല, ആധുനിക കേരള ചരിത്രം, രാജവംശങ്ങൾ, വിദേശാധിപത്യം.",
+    "description_en": "Ancient, Medieval & Modern Kerala History, Royal dynasties, Colonial era.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 1,
+    "question_count": 10
+  },
+  {
+    "subject_id": "kerala_renaissance",
+    "name_ml": "കേരള നവോത്ഥാനം",
+    "name_en": "Kerala Renaissance & Reformers",
+    "description_ml": "ശ്രീനാരായണ ഗുരു, അയ്യങ്കാളി, ചട്ടമ്പി സ്വാമികൾ, വൈക്കം സത്യാഗ്രഹം, നവോത്ഥാന പ്രസ്ഥാനങ്ങൾ.",
+    "description_en": "Sree Narayana Guru, Ayyankali, Chattampi Swamikal, Vaikom Satyagraha, Social movements.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 2,
+    "question_count": 15
+  },
+  {
+    "subject_id": "indian_constitution",
+    "name_ml": "ഭരണഘടന & പൊളിറ്റി",
+    "name_en": "Indian Constitution & Polity",
+    "description_ml": "ആമുഖം, മൗലികാവകാശങ്ങൾ, നിർദ്ദേശക തത്ത്വങ്ങൾ, പാർലമെന്റ്, സുപ്രീം കോടതി, ഭേദഗതികൾ.",
+    "description_en": "Preamble, Fundamental Rights, Directive Principles, Judiciary, Constitutional Amendments.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 3,
+    "question_count": 12
+  },
+  {
+    "subject_id": "geography",
+    "name_ml": "ഭൂമിശാസ്ത്രം (കേരളം & ഇന്ത്യ)",
+    "name_en": "Geography: Kerala & India",
+    "description_ml": "നദികൾ, പശ്ചിമഘട്ടം, കാലാവസ്ഥ, ദേശീയോദ്യാനങ്ങൾ, വന്യജീവി സങ്കേതങ്ങൾ.",
+    "description_en": "Rivers, Western Ghats, Climate, National Parks, Sanctuaries, Soils & Agriculture.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 4,
+    "question_count": 10
+  },
+  {
+    "subject_id": "science",
+    "name_ml": "ജനറൽ സയൻസ് (ബയോളജി, ഫിസിക്സ്, കെമിസ്ട്രി)",
+    "name_en": "General Science",
+    "description_ml": "മനുഷ്യശരീരം, രോഗങ്ങൾ, ജീവകങ്ങൾ, ഭൗതികശാസ്ത്ര നിയമങ്ങൾ, രാസപദാർത്ഥങ്ങൾ.",
+    "description_en": "Human body, Diseases, Vitamins, Laws of Motion, Light, Electricity, Chemical compounds.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 5,
+    "question_count": 10
+  },
+  {
+    "subject_id": "mathematics",
+    "name_ml": "ലളിതഗണിതം & റീസണിംഗ്",
+    "name_en": "Arithmetic & Mental Ability",
+    "description_ml": "സംഖ്യാശ്രേണികൾ, ശതമാനം, സമയവും ജോലിയും, ദൂരം, കോഡിംഗ്-ഡീകോഡിംഗ്.",
+    "description_en": "Number systems, Percentage, Time & Work, Speed & Distance, Coding-Decoding, Series.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 6,
+    "question_count": 10
+  },
+  {
+    "subject_id": "malayalam",
+    "name_ml": "മലയാള ഭാഷ & സാഹിത്യം",
+    "name_en": "Malayalam Language & Literature",
+    "description_ml": "പദശുദ്ധി, വാക്യശുദ്ധി, ശൈലികൾ, പഴഞ്ചൊല്ലുകൾ, പ്രധാന കൃതികളും രചയിതാക്കളും.",
+    "description_en": "Grammar, Vocabulary, Idioms, Proverbs, Famous Authors & Literary Awards.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 7,
+    "question_count": 10
+  },
+  {
+    "subject_id": "english",
+    "name_ml": "ജനറൽ ഇംഗ്ലീഷ്",
+    "name_en": "General English & Grammar",
+    "description_ml": "Tenses, Prepositions, Voice, Synonyms, Antonyms, Idioms, One-word substitution.",
+    "description_en": "Grammar rules, Sentence correction, Tenses, Prepositions, Vocabulary, Common errors.",
+    "icon_name": "ic_nav_practice",
+    "display_order": 8,
+    "question_count": 10
+  }
+]

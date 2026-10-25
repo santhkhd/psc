@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CA_20261025_01",
+    "event_date": "2026-10-25",
+    "pub_date": "2026-10-25",
+    "headline_ml": "കേരള സംസ്ഥാന ഡിജിറ്റൽ സർവ്വകലാശാലയുടെ പുതിയ ഗവേഷണ കേന്ദ്രം ഉദ്ഘാടനം ചെയ്തു",
+    "headline_en": "Kerala Digital University Inaugurates New Advanced AI Research Hub",
+    "summary_ml": "തിരുവനന്തപുരത്തെ ടെക്നോസിറ്റിയിൽ നിർമ്മിത ബുദ്ധി, സൈബർ സുരക്ഷ എന്നിവയിൽ ഉന്നത ഗവേഷണം ലക്ഷ്യമിട്ട് പുതിയ എക്സലൻസ് സെന്റർ പ്രവർത്തനം ആരംഭിച്ചു.",
+    "summary_en": "A state-of-the-art center of excellence for artificial intelligence and cybersecurity commenced operations at Technocity, Thiruvananthapuram.",
+    "category": "kerala",
+    "source_name": "PRD Kerala Official",
+    "source_url": "https://prd.kerala.gov.in",
+    "is_verified": true,
+    "created_at": 1729814400000,
+    "updated_at": 1729814400000
+  },
+  {
+    "id": "CA_20261025_02",
+    "event_date": "2026-10-25",
+    "pub_date": "2026-10-25",
+    "headline_ml": "ഐ.എസ്.ആർ.ഒ അടുത്ത തലമുറ ഉപഗ്രഹ വിക്ഷേപണ ദൗത്യം വിജയകരമായി പൂർത്തിയാക്കി",
+    "headline_en": "ISRO Successfully Launches Next-Generation Earth Observation Satellite",
+    "summary_ml": "ശ്രീഹരിക്കോട്ടയിലെ സതീഷ് ധവാൻ ബഹിരാകാശ കേന്ദ്രത്തിൽ നിന്നാണ് പുതിയ കാലാവസ്ഥാ നിരീക്ഷണ ഉപഗ്രഹം ഭ്രമണപഥത്തിലെത്തിച്ചത്.",
+    "summary_en": "From Satish Dhawan Space Centre, Sriharikota, ISRO successfully injected an advanced earth observation satellite into sun-synchronous orbit.",
+    "category": "science",
+    "source_name": "ISRO Press Release",
+    "source_url": "https://isro.gov.in",
+    "is_verified": true,
+    "created_at": 1729814400000,
+    "updated_at": 1729814400000
+  }
+]

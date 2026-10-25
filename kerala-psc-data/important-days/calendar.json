@@ -1,0 +1,41 @@
+[
+  {
+    "id": "DAY_11_01",
+    "month": 11,
+    "day": 1,
+    "name_ml": "കേരളപ്പിറവി ദിനം",
+    "name_en": "Kerala Piravi Day (Kerala Formation Day)",
+    "description_ml": "1956 നവംബർ 1-ന് ഭാഷാടിസ്ഥാനത്തിൽ ഐക്യകേരളം രൂപീകൃതമായി.",
+    "description_en": "Commemorates the formation of the unified State of Kerala on November 1, 1956, under the States Reorganisation Act.",
+    "category": "kerala",
+    "is_fixed_date": true,
+    "official_source": "Government of Kerala",
+    "is_verified": true
+  },
+  {
+    "id": "DAY_10_24",
+    "month": 10,
+    "day": 24,
+    "name_ml": "ഐക്യരാഷ്ട്രസഭാ ദിനം",
+    "name_en": "United Nations Day & World Polio Day",
+    "description_ml": "1945-ൽ ഐക്യരാഷ്ട്രസഭ രൂപീകൃതമായതിന്റെ വാർഷിക ദിനം.",
+    "description_en": "Marks the anniversary of the UN Charter entering into force in 1945. Also observed as World Polio Day.",
+    "category": "international",
+    "is_fixed_date": true,
+    "official_source": "UN / WHO",
+    "is_verified": true
+  },
+  {
+    "id": "DAY_01_26",
+    "month": 1,
+    "day": 26,
+    "name_ml": "ഇന്ത്യൻ റിപ്പബ്ലിക് ദിനം",
+    "name_en": "Republic Day of India",
+    "description_ml": "1950 ജനുവരി 26-ന് ഇന്ത്യൻ ഭരണഘടന നിലവിൽ വന്നതിന്റെ ഓർമ്മയ്ക്കായി ആഘോഷിക്കുന്നു.",
+    "description_en": "Commemorates the date on which the Constitution of India came into effect on 26 January 1950.",
+    "category": "national",
+    "is_fixed_date": true,
+    "official_source": "Government of India",
+    "is_verified": true
+  }
+]

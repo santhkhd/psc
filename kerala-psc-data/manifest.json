@@ -1,0 +1,63 @@
+{
+  "dataset_version": "2026.10.25-1825",
+  "schema_version": "1.0",
+  "last_updated": "2026-10-25T18:25:34.794551+00:00",
+  "total_questions": 10006,
+  "total_files": 9,
+  "files": [
+    {
+      "path": "current-affairs/2026/10/2026-10-25.json",
+      "type": "current_affairs",
+      "sha256": "29d7421d674ec46f5f2a8e6420d0d0e87ff6b3decd494f4992a2acec6fe0642a",
+      "count": 2
+    },
+    {
+      "path": "current-affairs/index.json",
+      "type": "current_affairs",
+      "sha256": "ecfc7c7275081c281e682e7585be6c292f09f28e24e7ece72ca4806641751a8c",
+      "count": 1
+    },
+    {
+      "path": "exams/exams.json",
+      "type": "exams",
+      "sha256": "66b52519254c0fa7e9bd6b78e65ad8831d68d9e3c4e92e42815f6bec41ace997",
+      "count": 4
+    },
+    {
+      "path": "important-days/calendar.json",
+      "type": "important_days",
+      "sha256": "1cdfd6abd86938dca3dbaa6066a34c563cc221ddcb45933c45f61982eacec307",
+      "count": 3
+    },
+    {
+      "path": "questions/constitution/questions-0001.json",
+      "type": "questions",
+      "sha256": "b325ca954403e815e204d46f5125b361e99d5966856fa4635bf6a77751f0735a",
+      "count": 2
+    },
+    {
+      "path": "questions/kerala-history/questions-0001.json",
+      "type": "questions",
+      "sha256": "14d5c2f7d1a0420adfe289bd070546a664baa2606ce72c284c62d310266cb21c",
+      "count": 2
+    },
+    {
+      "path": "questions/packs/pack-0001.json",
+      "type": "questions",
+      "sha256": "d4676f8554e4b762633342ba3c994612f3bcd117584dac31d23f9695949f69f1",
+      "count": 10000
+    },
+    {
+      "path": "questions/renaissance/questions-0001.json",
+      "type": "questions",
+      "sha256": "bf50c4e1297bd0a4f5289d3ae530865fc8067543340f48669e0895aca763d9b7",
+      "count": 2
+    },
+    {
+      "path": "subjects/subjects.json",
+      "type": "subjects",
+      "sha256": "10aaad43f4a47eb6af04e64939d606fb1d7fb94b022a7975e9acd67fdab72be4",
+      "count": 8
+    }
+  ]
+}
