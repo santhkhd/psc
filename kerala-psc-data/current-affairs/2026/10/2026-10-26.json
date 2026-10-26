@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CA_20261026_01",
+    "event_date": "2026-10-26",
+    "pub_date": "2026-10-26",
+    "headline_ml": "കേരളത്തിലെ ആദ്യ സമ്പൂർണ്ണ കാർബൺ ന്യൂട്രൽ പഞ്ചായത്തായി മീനങ്ങാടി",
+    "headline_en": "Meenangadi Officially Declared Kerala's First Carbon-Neutral Panchayat",
+    "summary_ml": "വയനാട് ജില്ലയിലെ മീനങ്ങാടി ഗ്രാമപഞ്ചായത്ത് വനവൽക്കരണവും ഊർജ്ജ സംരക്ഷണവും വഴി സംസ്ഥാനത്തെ ആദ്യ കാർബൺ ന്യൂട്രൽ തദ്ദേശ സ്വയംഭരണ സ്ഥാപനമായി മാറി.",
+    "summary_en": "Meenangadi Grama Panchayat in Wayanad district achieved the historic milestone of becoming Kerala's first carbon-neutral local body through extensive afforestation and clean energy initiatives.",
+    "category": "kerala",
+    "source_name": "PRD Kerala Official",
+    "source_url": "https://prd.kerala.gov.in",
+    "is_verified": true,
+    "created_at": 1729900800000,
+    "updated_at": 1729900800000
+  },
+  {
+    "id": "CA_20261026_02",
+    "event_date": "2026-10-26",
+    "pub_date": "2026-10-26",
+    "headline_ml": "2026-ലെ വള്ളത്തോൾ സാഹിത്യ പുരസ്കാരം പ്രഖ്യാപിച്ചു",
+    "headline_en": "Prestigious Vallathol Literary Award 2026 Announced",
+    "summary_ml": "മലയാള സാഹിത്യത്തിന് നൽകിയ സമഗ്ര സംഭാവനകളെ മാനിച്ച് 2026-ലെ വള്ളത്തോൾ പുരസ്കാരം പ്രഖ്യാപിച്ചു. ഒരു ലക്ഷത്തി പതിനൊന്നായിരത്തി ഒരുന്നൂറ്റി പതിനൊന്ന് രൂപയും പ്രശസ്തിപത്രവുമാണ് പുരസ്കാരം.",
+    "summary_en": "The prestigious Vallathol Award for 2026 was announced recognizing lifetime contributions to Malayalam literature, carrying a cash prize of Rs. 1,11,111 and a citation.",
+    "category": "awards",
+    "source_name": "Vallathol Sahithya Samithi",
+    "source_url": "https://keralasahityaakademi.org",
+    "is_verified": true,
+    "created_at": 1729900800000,
+    "updated_at": 1729900800000
+  },
+  {
+    "id": "CA_20261026_03",
+    "event_date": "2026-10-26",
+    "pub_date": "2026-10-26",
+    "headline_ml": "ദേശീയ ജല പുരസ്കാരം 2026: കേരളത്തിന് മികച്ച നേട്ടം",
+    "headline_en": "National Water Awards 2026: Kerala Recognized for Excellence in Watershed Management",
+    "summary_ml": "കേന്ദ്ര ജൽശക്തി മന്ത്രാലയത്തിന്റെ ദേശീയ ജല പുരസ്കാരത്തിൽ നീർത്തട വികസനത്തിനും പുഴ പുനരുജ്ജീവനത്തിനും കേരളത്തിന് പ്രത്യേക പുരസ്കാരം ലഭിച്ചു.",
+    "summary_en": "Under the Ministry of Jal Shakti National Water Awards, Kerala bagged high honors for outstanding river rejuvenation and sustainable community watershed projects.",
+    "category": "national",
+    "source_name": "Ministry of Jal Shakti",
+    "source_url": "https://jalshakti.gov.in",
+    "is_verified": true,
+    "created_at": 1729900800000,
+    "updated_at": 1729900800000
+  }
+]

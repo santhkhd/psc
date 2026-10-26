@@ -1,9 +1,9 @@
 {
-  "dataset_version": "2026.10.26-0857",
+  "dataset_version": "2026.10.26-1807",
   "schema_version": "1.0",
-  "last_updated": "2026-10-26T08:57:26.333695+00:00",
+  "last_updated": "2026-10-26T18:07:29.641073+00:00",
   "total_questions": 500006,
-  "total_files": 58,
+  "total_files": 59,
   "files": [
     {
       "path": "current-affairs/2026/10/2026-10-25.json",
@@ -12,10 +12,16 @@
       "count": 2
     },
     {
+      "path": "current-affairs/2026/10/2026-10-26.json",
+      "type": "current_affairs",
+      "sha256": "51b2cf73876054fd17dd48dcd0bb2cf923cd3b553f2596d825f0072bf2511de8",
+      "count": 3
+    },
+    {
       "path": "current-affairs/index.json",
       "type": "current_affairs",
-      "sha256": "ecfc7c7275081c281e682e7585be6c292f09f28e24e7ece72ca4806641751a8c",
-      "count": 1
+      "sha256": "1cb073c088ab0dbf352a2a13ece180831ab1987af940537eb51d7f0f5af57f6c",
+      "count": 2
     },
     {
       "path": "exams/exams.json",
