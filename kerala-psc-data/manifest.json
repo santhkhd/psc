@@ -1,7 +1,7 @@
 {
-  "dataset_version": "2026.10.25-1838",
+  "dataset_version": "2026.10.26-0857",
   "schema_version": "1.0",
-  "last_updated": "2026-10-25T18:38:33.249891+00:00",
+  "last_updated": "2026-10-26T08:57:26.333695+00:00",
   "total_questions": 500006,
   "total_files": 58,
   "files": [
@@ -44,301 +44,301 @@
     {
       "path": "questions/packs/pack-0001.json",
       "type": "questions",
-      "sha256": "4cc0aff7a036229703fa2147562ce4d5009016b3ad53f309cc853637e932eaf0",
+      "sha256": "65369bcbc3f74fa64c7a6d7488119f5be57407d04448aa1038dc32a98b106a0f",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0002.json",
       "type": "questions",
-      "sha256": "906c31c48de1c521c4185784c6968a94086583bb01457f9956491bf79e005434",
+      "sha256": "3ca5d158bf0433cf5d4b0bcd80ebe632b0add215d310f29d75b4dc4463e9c1a9",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0003.json",
       "type": "questions",
-      "sha256": "38640cadd10bddf9ade8c0ba6b27c22b167f4f879ae05a400258c0a8b1218d5a",
+      "sha256": "07bd1cf5f888bc9513b81ba029974a5a75cea215dda3030a6e8b79ae75f9f6fa",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0004.json",
       "type": "questions",
-      "sha256": "31398ae1c2608cdefc0c4825cf1cccd86a7623943b7d22f9958cea087c48671e",
+      "sha256": "d53cd078c07cf6d1ba56293e24de367da6e5d5c7ea339403fd747535d8be5673",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0005.json",
       "type": "questions",
-      "sha256": "c4a607247f4e9561ae912e73a98d9c413eef5a94506429c4343c32fdda4b4304",
+      "sha256": "e1632b48ba2c6d5217087502fef3d6f02aa44ea59b5111828b35bbadb92f8997",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0006.json",
       "type": "questions",
-      "sha256": "629068b9f55962461968076cee365476bd4c03b7a609bf62a09a33170b7b1fde",
+      "sha256": "60faa7afade237428670ac2d88e99109e35209956bccf941e96b125ad8743012",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0007.json",
       "type": "questions",
-      "sha256": "e1ae3f1565bfa98a4f0ac9179f55f016a8da93e2cb1edd3dc170a4448671a89d",
+      "sha256": "726bf52d78bad6905a272d4e13ae238a71c80b0e44f90eebca8118ba4c2eba79",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0008.json",
       "type": "questions",
-      "sha256": "1a72f9ecb44f6904abc53d7507edaada2332f44853902e2b7bb1888442609242",
+      "sha256": "c889d085961fabe36c4299cd271ceaff4d44bd0f0ad100d875a269af3fc17b56",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0009.json",
       "type": "questions",
-      "sha256": "8ee20b5939833c25ae7837d3101c91ad650d0a459001ba81c2fc523cc399bb3c",
+      "sha256": "d045f796884325c06d3ee4d334b57d2e535cae6fddb5469a74a56649a022ff3c",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0010.json",
       "type": "questions",
-      "sha256": "a32476b15cb5a7800c491f07fe6d9dc434792dd07bd411d6e29a08654951040f",
+      "sha256": "df908c48812b8b09051c3c938f816a9f6674e0d99706f3e1b98033d4934083c2",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0011.json",
       "type": "questions",
-      "sha256": "5256594642018ccc4e89a8d7e883ecc64b3cb7889538e26374df7593393c9479",
+      "sha256": "ef22b7d5f50e95fb40e54e982832a5358cdfdaef9e97c882c3fc96021fbd919a",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0012.json",
       "type": "questions",
-      "sha256": "e85001e35401f19f47584aa2d370b29244c81ef1949ecf60c61f4e023643b034",
+      "sha256": "c5fab5c0e211d0f0b34e5d4281565e2146d5afe9a1a9c9f55cad7ccb6332b37d",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0013.json",
       "type": "questions",
-      "sha256": "31c60b3ddb27b90dcc4c59ad0047f767da1fd7ec2516ce8264fc0a472585f1a1",
+      "sha256": "a946428f2084e99d501d7ef1f780927b8cf8cd4726f7f3caf1b85f224776ec97",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0014.json",
       "type": "questions",
-      "sha256": "5ad7915190dbc44a870bc4a5dab48623a1d638df916d11e8105ad664ba5fd194",
+      "sha256": "099ebd650e99780c9e3dfd7d683add5a21cc27133dc3f8a920fe782c3413e142",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0015.json",
       "type": "questions",
-      "sha256": "72eea4cb7a7145021e01a66086f051200dff8b44dd18396fa5ed3bcecf11b246",
+      "sha256": "36598596bb380fbe1db4ed18cd63011efa051e6fbeef0fa527ea35f5bb8cee2b",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0016.json",
       "type": "questions",
-      "sha256": "966891c72079e79049aa4b93e283f6501e28b19175400bb6f5a3dbfd2e600fb1",
+      "sha256": "59e05fad21ffb29151abe97d19b2db3db8ea3f52409c15aac8fb481e08c694b3",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0017.json",
       "type": "questions",
-      "sha256": "7673030015d180823f1df3b39f9a9f2bc1d53bb2be9e7138b7f236510fde63c0",
+      "sha256": "76d2f8dae15cc13949b3b435cdcc79e8ff1ed08eb9b2acc494c027c5bb79da75",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0018.json",
       "type": "questions",
-      "sha256": "a4b5a770964156d65a3e7a8848288bf8e68300cf7c4a4496045fa5620135d1ed",
+      "sha256": "56e7fae56537e21efeac644871a99b079d52366dfd5265ac86bd88f523af99b6",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0019.json",
       "type": "questions",
-      "sha256": "77816dd78ff6e52f521d2b32d761ba3c7f3d0b951a0f0e77a1e647b8e323dab3",
+      "sha256": "a0d192a6426c0a2ac04a17e78dad16dec9eeee21bf88eecd8cbf77933ecd2bbb",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0020.json",
       "type": "questions",
-      "sha256": "31928c72cfa540d8b987fd33b41ab052978328d6f6211d1f9cc1a842ce92ecdd",
+      "sha256": "1edd175ccf6e6f36e4a5f40a4317967088c191db3ca04adab23c4738acd4438f",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0021.json",
       "type": "questions",
-      "sha256": "4214c0ea491187c98321fe633723f3a42d150b172e4f0e9439932747f20e154d",
+      "sha256": "6843a11c18d73e2baa93ec6d6c84dd786bc1304368864ee87e2d591d6f838dc2",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0022.json",
       "type": "questions",
-      "sha256": "c3b1d590b19407a3490dc2cff1a4fbb4c1e3c24c679d2b1ad798b742f9253cbc",
+      "sha256": "51bf1507768b6d8a2298f52b390929a534e0b2684de5e4b0c631fae277082f54",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0023.json",
       "type": "questions",
-      "sha256": "05f92df28abaf66bfd051bf9f7a0d8f6422b93689f91b2a74ebb913c33cb2e23",
+      "sha256": "802dd4902d490c4cfb998bc0e3e2477bf06ea8d7cd4ead55381f1d30dc8f6b57",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0024.json",
       "type": "questions",
-      "sha256": "ce47112827f85afe60faebacda43d84823c5e825dffce5564bce75e717695867",
+      "sha256": "44f4c1c42d3d74c8b19668828b311a002bdb8d723e8232bc016538c1ee72cd3a",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0025.json",
       "type": "questions",
-      "sha256": "fe3d37ee452cb68ceadf24965cee78026f793a5523201bd47005020eb0db14a0",
+      "sha256": "c9fddce47fa3085cbdd2500e342a86d0e753fce625ad4c0415b4148c4edb95e2",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0026.json",
       "type": "questions",
-      "sha256": "752b207e998e19ffda242fd451c00683b11ec586b4fbeddb7d9098443783c56a",
+      "sha256": "9180bd7ac6d9e0f305aa401755a7d55d7d21bcc963fdf3bccdd2b333e290063b",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0027.json",
       "type": "questions",
-      "sha256": "1fdb726d07d6d01f996cead705dbaa77578bdd9df1efffba851ba82b98e567fa",
+      "sha256": "89002fedcb0e94c2798a07eeffc3d297965693ca1af1e8cc5dff22bf0fabf4b6",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0028.json",
       "type": "questions",
-      "sha256": "be5d907b36bb4bb5960e83267af1583f2c9c7052203a634c5641af5d90679bfc",
+      "sha256": "3d5d20dd87b3f81651172dc787bf94799a5e37aef0c0ce9d95e1b850972c245e",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0029.json",
       "type": "questions",
-      "sha256": "b10fd79bc8e6531c6e44d3a887ef696bd9e234d5caa4228ca8660c8c625ee0bb",
+      "sha256": "9113113247c367a8669297d907b934dae26b5cc576717f902a8543cc8ff36738",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0030.json",
       "type": "questions",
-      "sha256": "c83fe297ef62dd8fb041f568bad0ced83eea4d7f8c54bace3883f2340c504ba8",
+      "sha256": "1ee006aefa38db9751471c228e66cbd612e3d7dcf5c9a0e8390d9e708aa4b7fa",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0031.json",
       "type": "questions",
-      "sha256": "08131fcd72af52e11389c85a847ea4aec21e657a877476047c9433e6b95ad5ca",
+      "sha256": "367631685e479a929889302f6d54bfa1cb5b95afd70f37cb46aea6b13cb93997",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0032.json",
       "type": "questions",
-      "sha256": "77fa1e85fb5e9be0ad21a246c149a3b8d29028a0eb5dcea0630ad80fca0ccd30",
+      "sha256": "88c0b4191c7c5399a6ed5de880d01305dd4450d1d625435040ade0d17e0181e1",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0033.json",
       "type": "questions",
-      "sha256": "10c46911fdabace9c08c7cbadc1d22bad01103e80e8d0bfe0ca044526315c93d",
+      "sha256": "ce1cc9ab33ce27e95d6fe3de4edadfda75441614198c11a225416fce664a5aae",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0034.json",
       "type": "questions",
-      "sha256": "23302c7ff49d17f236ba12afade9860ffbbb1f895d44a2d71d3d1135121c148c",
+      "sha256": "3801f0718472ba158a3d476870b77596267cdab58d6ba7fe2ee711c5e9beb0d5",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0035.json",
       "type": "questions",
-      "sha256": "ce2be1705360d00009ee6cae160f632ee96b1d76ea6942ed652afda5e903e10b",
+      "sha256": "f1d4561e1bacbbbe4a2fe00802adf15f78c20937fee16868d5eda2baee61b16e",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0036.json",
       "type": "questions",
-      "sha256": "a344d314c1ce45723067c053c06b667ff912914d69e9c847fe6046ca7816c730",
+      "sha256": "958fc8aee6a8f2bf84ac97b9d4c86b74f3b28dcca0545ce497a8ae54f16d9457",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0037.json",
       "type": "questions",
-      "sha256": "c995f2a8d8b2590af3672480e890c479ce75fa8a244902a5db54395559dc577d",
+      "sha256": "db4025c776e0c93a85cfe8faee292362d812bfe9c44670d7645f7896a533a333",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0038.json",
       "type": "questions",
-      "sha256": "a4f623ce8341ed9c9589efd11bae355c9bec9de6f66ebd67ea29e624d259ba97",
+      "sha256": "35ab659c04d92e154d4a61d87a4fd91e14202a94b8539ee6ac357565f5124ee5",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0039.json",
       "type": "questions",
-      "sha256": "36dc6ddd7f95379ddf373fe6e84dc639b391f0bf016caea76fa3b7674f9b6ed7",
+      "sha256": "456c7feef4c840e490d14398cc2936112cf5d764e6c1ad6b4cebac2d192ccf0a",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0040.json",
       "type": "questions",
-      "sha256": "20d3e113bd20d89ae2c93347411af7bd19405db8a9f71a194d8722a28ccd42f1",
+      "sha256": "82d4226030be43337d1360db98b5ef368576d66488aed1c6c61efd041de075be",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0041.json",
       "type": "questions",
-      "sha256": "b599b57ab80c253c6539319d01a9a07b49fd948d9c30e390635f383be01827aa",
+      "sha256": "c5639c61ebb509860988371057db0c368c9228753f3a03cd7e4ccb1ffcccc7cc",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0042.json",
       "type": "questions",
-      "sha256": "506f6c64a91379378b0b4ff7750f6293c37758b1e26a83b0f45889f2901ace57",
+      "sha256": "0f0ec3eec17d52989ca572e7630109b17ef281dea728cda0a35f263749f98ebc",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0043.json",
       "type": "questions",
-      "sha256": "c59c101673ba1cbd205d9a315add70e10a18ebefa0134a365a53f96e7501aede",
+      "sha256": "a4a074804ed5db7a53d25848696c14421f522001302fdd8d9b8f63277ea6a7a6",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0044.json",
       "type": "questions",
-      "sha256": "7130618b53e490a74530fab9e096f9661b5c522287056ae537826f687fd85d15",
+      "sha256": "def0cfaca5a6f89f635d6c582e59176738523ccbac62b2ebfe098f6a16a0bd6c",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0045.json",
       "type": "questions",
-      "sha256": "e061dc7d24b7299b38ff54c91fe6dc38f8c278f418ab9271d8e64e3383c7b7b5",
+      "sha256": "b35a78b1241003994c1a951f3c651ebba0133a244c687241d030a8160ab4bcbc",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0046.json",
       "type": "questions",
-      "sha256": "103ef2011317b9ed3d4b47d34bb4a9759d77b7236cdc2f89f595f8357d8eb520",
+      "sha256": "15de657ee0cfa4f4b4b91e6630468242356d10f434202e24e08a8cb624229f7f",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0047.json",
       "type": "questions",
-      "sha256": "c0776d7b90b15088be73b488992805e5500e72ae76c4740683823f1c88e4afa8",
+      "sha256": "d0ce1e0949413189701d1259ca72bbc5c0122de1c9d4c8890dad07c9177b75ea",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0048.json",
       "type": "questions",
-      "sha256": "f3f8eaa7f2178289f1cc81d4b2d485dbe17c9ed4641c4e7e6341273ec92f7a8e",
+      "sha256": "aed5b7868bf70054e6b44b5ab9df85a69c7dfa9daebf3a9d8d9067077f82b80e",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0049.json",
       "type": "questions",
-      "sha256": "6d8325864199e00f2ebe2b2ef7a6620abcc72cb622a41273ff267bfeacb825c4",
+      "sha256": "c44b41f6a208ef59d9dd7c28ed10305182178113c2f52abf383db24b9815101d",
       "count": 10000
     },
     {
       "path": "questions/packs/pack-0050.json",
       "type": "questions",
-      "sha256": "f14763ef6d3c5fbe4ff1814b107785740ab8db673a27d515b8f7869ed14d90a1",
+      "sha256": "7e79930ae949162328d8e645c197d2bf46c3295e08970f4b9ac4862f17b122e6",
       "count": 10000
     },
     {
